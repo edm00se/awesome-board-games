@@ -1,7 +1,7 @@
 By submitting this pull request, **I promise** I 
 
 - [ ] have read the [contribution guidelines][contrib-guidelines] twice
-- [ ] have searched the [readme][../readme.md] file
+- [ ] have searched the [readme][readme-file] file
 - [ ] have searched the [open pull requests][open-prs]
 - and ensured my submission includes:
   - [ ] title
@@ -18,3 +18,4 @@ By submitting this pull request, **I promise** I
 [open-prs]: https://github.com/edm00se/awesome-board-games/pulls
 [new-issue]: https://github.com/edm00se/awesome-board-games/issues/new
 [formatting-guide]: ../formatting.md
+[readme-file]: ../readme.md
