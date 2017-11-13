@@ -36,6 +36,14 @@
 | ------: | -------: | -----: |
 |   2 - 5 |       10 |    45m |
 
+### Elder Sign
+
+> Set in a world of Lovecraftian horror, cooperatively investigate a museum full of strange artefacts and stranger demons. Collect eldritch symbols, "elder signs", to close the portals and prevent the creatures from invading our world. Collect enough before the time is up or suffer the wrath of the Ancient Ones.
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 8 |       13 |    90m |
+
 
 ## Strategy
 
