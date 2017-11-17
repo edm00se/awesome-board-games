@@ -63,6 +63,14 @@
 | ------: | -------: | -----: |
 |   1 - 5 |       10 |    45m |
 
+### Mansions of Madness, 2nd ed.
+
+> A fully cooperative, app-driven board game of horror and mystery for one to five players that takes place in the same universe as Eldritch Horror and Elder Sign. Explore the veiled streets of Innsmouth and the haunted corridors of Arkham's cursed mansions as you search for answers as you investigate four scenarios of fear and mystery. Collect weapons, tools, and information, solving complex puzzles, and fighting monsters, insanity, and death.
+
+| Players | Min. Age | Time     |
+| ------: | -------: | -------: |
+|   1 - 5 |       14 | 120-180m |
+
 
 ## Party
 
