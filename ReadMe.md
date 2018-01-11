@@ -4,6 +4,10 @@
 
 ![Jon and the Board Game of Westeros](assets/images/Jon_Board.png)
 
+## Want to Add Your Favorites?
+
+Please do! This is meant to be a collaborative list, it is an [awesome list][main-awesome] after all. Please check out the [contributing guide][contrib-guide] to get started.
+
 ## Contents
 
 - [Family](#family)
@@ -124,3 +128,4 @@ related or neighboring rights to this work.
 
 [main-awesome]: https://awesome.re
 [awesome-badge]: https://awesome.re/badge.svg
+[contrib-guide]: https://github.com/edm00se/awesome-board-games/blob/master/contributing.md

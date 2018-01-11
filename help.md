@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [**How** to Add Something](#how-to-add-something)
-- [Updating your Pull Request](#updating-your-pull-request)
+- [Updating Your Pull Request](#updating-your-pull-request)
 
 ## **How** to Add Something
 
