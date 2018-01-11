@@ -8,7 +8,9 @@ Please note the following:
 
 ## Adding to This List
 
-Please ensure your pull request adheres to the following guidelines:
+Note: if this all seems complicated, it shouldn't. Go check out the [example source block for a game][example-game-block] in the [formatting guide][formatting-guide] and it should clear things up.
+
+For specifics, please ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make an individual pull request for each suggestion.
@@ -24,3 +26,4 @@ Thank you for your suggestions!
 [awesome-list-src]: https://github.com/sindresorhus/awesome
 [formatting-guide]: formatting.md
 [help-guide]: help.md
+[example-game-block]: https://github.com/edm00se/awesome-board-games/blob/master/formatting.md#example
