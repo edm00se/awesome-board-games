@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-- [**How** to Add Something](#how-to-add-something)
+- [How to Add Something](#how-to-add-something)
 - [Updating Your Pull Request](#updating-your-pull-request)
 
-## **How** to Add Something
+## How to Add Something
 
 If you have an awesome game to contribute to this list, this is how you do it.
 

@@ -1,8 +1,10 @@
-# Awesome Board Games [![Awesome][awesome-badge]][main-awesome]
-
-> A curated list of awesome board games!
-
-![Jon and the Board Game of Westeros](assets/images/Jon_Board.png)
+---
+home: true
+sidebar: auto
+---
+<div align="center">
+  <img src="./assets/images/Jon_Board.png" alt="Jon and the Board Game of Westeros" title="you know nothing, Jon Snow">
+</div>
 
 ## Want to Add Your Favorites?
 
@@ -128,4 +130,4 @@ related or neighboring rights to this work.
 
 [main-awesome]: https://awesome.re
 [awesome-badge]: https://awesome.re/badge.svg
-[contrib-guide]: https://github.com/edm00se/awesome-board-games/blob/master/contributing.md
+[contrib-guide]: contributing.md

@@ -1,6 +1,8 @@
-# Contribution Guidelines
+# Contribution
 
-Please note the following:
+Thank you for contributing to make this list of awesome board games even more awesome! You will need to [edit the readme file][readme-edit-link], following the guidelines below. Then you'll create a Pull Request and, once accepted, it will become a part of the list here for all to enjoy.
+
+Guidelines:
 
 - This project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
 - A pull request should have a useful title. Pull requests with `Update readme.md` as the title are **strongly frowned upon**. Please carefully read everything in this file and stick to the [formatting guide][formatting-guide].
@@ -27,3 +29,4 @@ Thank you for your suggestions!
 [formatting-guide]: formatting.md
 [help-guide]: help.md
 [example-game-block]: https://github.com/edm00se/awesome-board-games/blob/master/formatting.md#example
+[readme-edit-link]: https://github.com/edm00se/awesome-board-games/edit/master/ReadMe.md

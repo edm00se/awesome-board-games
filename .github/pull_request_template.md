@@ -1,23 +1,22 @@
-By submitting this pull request, **I promise** I 
+Submitting this PR means you have:
 
-- [ ] have read the necessary information
-  - the [contribution guidelines][contrib-guidelines]
-  - searched the [readme][readme-file] file
-  - searched the [open pull requests][open-prs]
-  
-- [ ] and ensured my submission includes:
-  - title
-  - description
-  - is in the/an appropriate category
-  - \# of players
-  - minimum age
-  - approximate play time
-  - a name of this which follows the naming convention of "adding"/"correcting" "&lt;game name&gt;"
-  - your changes is formatted as outlined in [the formatting guide][formatting-guide]
+- searched the [readme](../readme.md) file and searched the [open pull requests](https://github.com/edm00se/awesome-board-games/pulls) (no duplicates please)
+- and follow [the desired format](../formatting.md)
 
-[contrib-guidelines]: https://github.com/edm00se/awesome-board-games/blob/master/contributing.md
-[all-issues]: https://github.com/edm00se/awesome-board-games/issues?utf8=%E2%9C%93&q=is%3Aissue
-[open-prs]: https://github.com/edm00se/awesome-board-games/pulls
-[new-issue]: https://github.com/edm00se/awesome-board-games/issues/new
-[formatting-guide]: ../formatting.md
-[readme-file]: ../readme.md
+Do you have further questions? Check the [contribution guidelines](../contributing.md) or [open an issue](https://github.com/edm00se/awesome-board-games/issues/new).
+
+Replace the below listed block for Ticket to Ride with the game information you would like to add.
+
+<!--
+
+### [Ticket to Ride](https://wikipedia.org/wiki/Ticket_to_Ride_(board_game))
+
+> ...a cross-country train adventure where players collect cards of various types of train cars that enable them to claim railway routes connecting cities in various countries around the world.
+
+![Ticket to Ride game image](https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Ticket_to_Ride_Board_Game_Box_EN.jpg/220px-Ticket_to_Ride_Board_Game_Box_EN.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 5 |        8 | 30-60m |
+
+-->

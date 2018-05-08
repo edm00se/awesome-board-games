@@ -54,8 +54,8 @@ further defined and clarified by project maintainers.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at edm00se@gmail.com. All
+Instances of abusive, harassing, or otherwise unacceptable behavior [may be
+reported by contacting the project owner][contact]. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
@@ -72,3 +72,4 @@ available at [http://contributor-covenant.org/version/1/4][version]
 
 [homepage]: https://contributor-covenant.org
 [version]: https://contributor-covenant.org/version/1/4/
+[contact]: https://docs.google.com/forms/d/e/1FAIpQLSeTRgns9TVGd_OsZkTOTdy0i4gtIC_PlPfgSHIeorQSfl7zUw/viewform?usp=pp_url&entry.1951245561=Code+of+Conduct+reporting+for+Awesome+Board+Games:%0A%0A
