@@ -1,0 +1,28 @@
+{
+  "name": "awesome-board-games",
+  "version": "1.0.0",
+  "description": "> A curated list of awesome board games!",
+  "scripts": {
+    "ci": "npm run docs:build && npm run docs:deploy",
+    "docs:dev": "vuepress dev .",
+    "docs:build": "vuepress build . -d docs",
+    "docs:deploy": "cpy CNAME docs && gh-pages --repo https://$GH_TOKEN@github.com/edm00se/awesome-board-games.git -d docs -t",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edm00se/awesome-board-games.git"
+  },
+  "keywords": [],
+  "author": "Eric McCormick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edm00se/awesome-board-games/issues"
+  },
+  "homepage": "https://github.com/edm00se/awesome-board-games#readme",
+  "devDependencies": {
+    "cpy-cli": "^1.0.1",
+    "gh-pages": "^1.1.0",
+    "vuepress": "^0.8.4"
+  }
+}
