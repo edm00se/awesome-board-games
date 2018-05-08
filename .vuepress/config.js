@@ -27,8 +27,7 @@ const config = {
 };
 
 if('production' === env){
-    // TODO: Google Analytics ID
-    config.ga = undefined;
+    config.ga = 'UA-52886144-6';
 }
 
 module.exports = config;
