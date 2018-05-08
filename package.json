@@ -5,7 +5,7 @@
   "scripts": {
     "docs:dev": "vuepress dev .",
     "docs:build": "cross-env NODE_ENV=production vuepress build . -d docs",
-    "docs:deploy": "cpy CNAME docs && gh-pages --repo https://$GH_TOKEN@github.com/edm00se/awesome-board-games.git -d docs -t",
+    "docs:deploy": "cpy CNAME docs && cpy .nojekyll docs && gh-pages --repo https://$GH_TOKEN@github.com/edm00se/awesome-board-games.git -d docs -t",
     "docs:ci": "npm run docs:build && npm run docs:deploy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
