@@ -37,6 +37,6 @@ When in doubt, follow the information from the vendor, or a trusted source like 
 ![rendered output][output-example]
 
 [markdown-guide-src]: https://help.github.com/articles/about-writing-and-formatting-on-github/
-[output-example]: assets/images/rendered_md_example.png
+[output-example]: ./assets/images/rendered_md_example.png
 [wikipedia-org]: https://www.wikipedia.org/
 [bgg-com]: https://boardgamegeek.com
