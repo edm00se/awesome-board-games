@@ -3,7 +3,7 @@ home: true
 sidebar: auto
 ---
 <div align="center">
-  <img src="./assets/images/Jon_Board.png" alt="Jon and the Board Game of Westeros" title="you know nothing, Jon Snow">
+  <img src="./assets/images/Jon_Board.png" alt="Jon and the Board Game of Westeros" title="you know nothing, Jon Snow" style="max-width:100%;">
   <br />
   <a href="https://awesome.re" title="more awesome lists"><img src="https://awesome.re/badge.svg" alt="Awesome list badge"></a>&nbsp;&nbsp;<a href="https://travis-ci.org/edm00se/awesome-board-games" title="build status of this site"><img src="https://travis-ci.org/edm00se/awesome-board-games.svg?branch=master" alt="Travis CI build badge"></a>
 </div>
