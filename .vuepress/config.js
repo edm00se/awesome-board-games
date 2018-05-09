@@ -5,7 +5,7 @@ const config = {
     description: 'a curated list of awesome board games',
     base: '/',
     themeConfig: {
-        repo: 'https://github.com/edm00se/awesome-board-games/blob/master/contributing.md',
+        repo: 'https://github.com/edm00se/awesome-board-games/edit/master/contributing.md',
         repoLabel: 'Add your favorite game!',
         nav: [
             { text: 'Home', link: '/' },
