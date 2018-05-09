@@ -1,23 +1,8 @@
-By submitting this pull request, **I promise** I 
+Submitting this PR means you have:
 
-- [ ] have read the necessary information
-  - the [contribution guidelines][contrib-guidelines]
-  - searched the [readme][readme-file] file
-  - searched the [open pull requests][open-prs]
-  
-- [ ] and ensured my submission includes:
-  - title
-  - description
-  - is in the/an appropriate category
-  - \# of players
-  - minimum age
-  - approximate play time
-  - a name of this which follows the naming convention of "adding"/"correcting" "&lt;game name&gt;"
-  - your changes is formatted as outlined in [the formatting guide][formatting-guide]
+- [ ] searched the [readme](../readme.md) file and searched the [open pull requests](https://github.com/edm00se/awesome-board-games/pulls) (no duplicates please)
+- [ ] and will follow [the desired format](../formatting.md)
 
-[contrib-guidelines]: https://github.com/edm00se/awesome-board-games/blob/master/contributing.md
-[all-issues]: https://github.com/edm00se/awesome-board-games/issues?utf8=%E2%9C%93&q=is%3Aissue
-[open-prs]: https://github.com/edm00se/awesome-board-games/pulls
-[new-issue]: https://github.com/edm00se/awesome-board-games/issues/new
-[formatting-guide]: ../formatting.md
-[readme-file]: ../readme.md
+Do you have further questions? Check the [contribution guidelines](../contributing.md) or [open an issue](https://github.com/edm00se/awesome-board-games/issues/new).
+
+When you're ready, check off the above acknowledgements and continue with your Pull Request... and thanks!
