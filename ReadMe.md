@@ -120,7 +120,7 @@ Please do! This is meant to be a collaborative list, it is an [awesome list][mai
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions are welcome and encouraged! Read the [contribution guidelines](contributing.md) first.
 
 
 ## License
