@@ -8,4 +8,4 @@ branches:
   only:
     - master
 script:
-  - npm run docs:ci
+  - yarn ci
