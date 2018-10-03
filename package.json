@@ -7,7 +7,8 @@
     "build": "cross-env NODE_ENV=production vuepress build . -d docs",
     "deploy": "cpy CNAME docs && cpy .nojekyll docs && gh-pages --repo https://$GH_TOKEN@github.com/edm00se/awesome-board-games.git -d docs -t",
     "ci": "npm run build && npm run deploy",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "awesome-lint"
   },
   "repository": {
     "type": "git",
@@ -21,9 +22,10 @@
   },
   "homepage": "https://github.com/edm00se/awesome-board-games#readme",
   "devDependencies": {
+    "awesome-lint": "*",
     "cpy-cli": "2.0.0",
     "cross-env": "5.1.6",
     "gh-pages": "1.2.0",
-    "vuepress": "0.10.0"
+    "vuepress": "^0.14.4"
   }
 }
