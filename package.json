@@ -7,7 +7,8 @@
     "build": "cross-env NODE_ENV=production vuepress build . -d docs",
     "deploy": "cpy CNAME docs && cpy .nojekyll docs && gh-pages --repo https://$GH_TOKEN@github.com/edm00se/awesome-board-games.git -d docs -t",
     "ci": "npm run build && npm run deploy",
-    "test": "awesome-lint"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "awesome-lint"
   },
   "repository": {
     "type": "git",
