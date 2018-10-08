@@ -1,7 +1,3 @@
----
-home: true
-sidebar: auto
----
 <div align="center">
   <img src="./assets/images/Jon_Board.png" alt="Jon and the Board Game of Westeros" title="you know nothing, Jon Snow">
   <br />
