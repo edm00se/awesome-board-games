@@ -7,4 +7,7 @@ node_js:
 branches:
   only: master
 script:
-  - yarn ci
+  - mv readme.md alt.md
+  - echo "---\nhome: true\nsidebar: true\n---" | cat - alt.md > readme.md
+  - rm alt.md
+  - npm run ci
