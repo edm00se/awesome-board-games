@@ -4,6 +4,8 @@
   <a href="https://awesome.re" title="more awesome lists"><img src="https://awesome.re/badge.svg" alt="Awesome list badge"></a>
 </div>
 
+> Board games are played on a tabletop, often employ combinations of strategy, skill, and luck, and are a great way to pass the time with friends and loved ones.
+
 ## Contents
 
 - [Family](#family)
