@@ -130,6 +130,15 @@
 | ------: | -------: | ------: |
 |   3 - 6 |       10 | 60-120m |
 
+
+##[Monopoly] (https://en.m.wikipedia.org/wiki/File:Monopoly_pack_logo.png)
+
+Monopoly is a board game where players roll two six-sided dice to move around the game board, buying and trading properties, and developing them with houses and hotels. 
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 6 |   10.    |1 - 4h  |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
