@@ -120,6 +120,16 @@
 | ------: | -------: | -------: |
 |   3 - 6 |       12 | 180-360m |
 
+### [YINSH](https://en.wikipedia.org/wiki/YINSH)
+
+> Players start with five rings on the board. First player to remove 3 rings becomes the winner. Every time a ring is moved, it leaves a marker behind. Markers are white on one side and black on the other, and each time they are jumped they must be flipped. Once a player forms a row of 5 markers of their color, they can remove a ring. The challenge is each row you make brings you closer to victory-but also makes you weaker, because you have one fewer ring to play with.
+
+![YINSH game image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/YINSH_in_Play.jpg/250px-YINSH_in_Play.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|       2 |        9 | 30-60m |
+
 ## Party
 
 ### [Mysterium](https://wikipedia.org/wiki/Mysterium_(board_game))
