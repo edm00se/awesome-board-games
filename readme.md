@@ -54,6 +54,18 @@
 | ------: | -------: | -----: |
 |   1 - 8 |       13 |    90m |
 
+### [Betrayal at House on the Hill](https://wikipedia.org/wiki/Betrayal_at_House_on_the_Hill)
+
+> Players all begin as allies exploring a haunted house filled with dangers, traps, items, and omens.\
+> As players journey to new parts of the mansion, room tiles are chosen at random and placed on the game board.\
+> Eventually the "haunt" begins, one player usually "betrays" the others and takes the side of the ghosts, monsters, or other enemies, while the remaining players collaborate to defeat them.
+
+![Betrayal at House on the Hill game image](https://www.hauntedgamecafe.com/image/cache/data/product-images/Betrayal%20at%20House%20on%20the%20Hill%20Cover-200x200.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   3 - 6 |       13 |    60m |
+
 
 ## Strategy
 
