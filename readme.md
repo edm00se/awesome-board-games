@@ -54,6 +54,18 @@
 | ------: | -------: | -----: |
 |   1 - 8 |       13 |    90m |
 
+### [Betrayal at House on the Hill](https://wikipedia.org/wiki/Betrayal_at_House_on_the_Hill)
+
+> Players all begin as allies exploring a haunted house filled with dangers, traps, items, and omens.\
+> As players journey to new parts of the mansion, room tiles are chosen at random and placed on the game board.\
+> Eventually the "haunt" begins, one player usually "betrays" the others and takes the side of the ghosts, monsters, or other enemies, while the remaining players collaborate to defeat them.
+
+![Betrayal at House on the Hill game image](https://www.hauntedgamecafe.com/image/cache/data/product-images/Betrayal%20at%20House%20on%20the%20Hill%20Cover-200x200.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   3 - 6 |       13 |    60m |
+
 ### [Dixit](https://en.wikipedia.org/wiki/Dixit_(card_game))
 
 > Using a deck of cards illustrated with dreamlike images, players select cards that match a title suggested by the "storyteller", and attempt to guess which card the "storyteller" selected.
@@ -98,15 +110,15 @@
 | ------: | -------: | -------: |
 |   1 - 5 |       14 | 120-180m |
 
-### [Game of Thrones](https://en.wikipedia.org/wiki/A_Game_of_Thrones_(board_game)
+### [Game of Thrones](https://en.wikipedia.org/wiki/A_Game_of_Thrones_(board_game))
 
 > A Game of Thrones allows the players to take on the roles of several of the Great Houses vying for control of the Seven Kingdoms, including House Stark, House Lannister, House Baratheon, House Greyjoy, House Tyrell, and as of the expansion A Clash of Kings, House Martell. Players maneuver armies to secure support in the various regions that comprise the Seven Kingdoms, with the goal of capturing enough support to claim the Iron Throne. The basic gameplay mechanics are reminiscent of Diplomacy, especially in the order-giving process, though A Game of Thrones is significantly more complicated overall.
 
 ![Game of thrones boardgame image](https://awoiaf.westeros.org/thumb.php?f=Game-board-agot.png&width=250)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   3 - 6 |       12 |    180-360m |
+| Players | Min. Age | Time     |
+| ------: | -------: | -------: |
+|   3 - 6 |       12 | 180-360m |
 
 ## Party
 
@@ -139,6 +151,17 @@
 | Players | Min. Age | Time    |
 | ------: | -------: | ------: |
 |   3 - 6 |       10 | 60-120m |
+
+### [Ludo](https://en.wikipedia.org/wiki/Ludo_(board_game))
+
+> This board game can be played between minimum 2 to max 4 people of any age group. One of two dices can be used to move the tokens. The player whose all tokens reach home first is the winner. Player can kill other player's token by clashing his token to the same square. Other player's token goes back to house again. Some boards provides special squares where the token are safe and can’t be killed. Players can decide if they want a rule of getting additional turn to roll the dice upon getting 6. More exciting rules can be found on the Wikipedia link.
+
+![Ludo game image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ludo-3.jpg/300px-Ludo-3.jpg)
+
+| Players | Min. Age | Time    |
+| ------: | -------: | ------: |
+|  2 - 4  |    4     | 30-60m  |
+
 
 ## Contribute
 

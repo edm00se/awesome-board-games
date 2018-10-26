@@ -5,6 +5,7 @@ cache:
 node_js:
   - lts/*
 script:
+  - npx awesome-lint
   - mv readme.md alt.md
   - SPACE=' '
   - echo -e "---\nhome:${SPACE}true\nsidebar:${SPACE}true\n---" > readme.md
