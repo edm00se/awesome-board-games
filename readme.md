@@ -102,7 +102,7 @@
 
 > Players start with five rings on the board. First player to remove 3 rings becomes the winner. Every time a ring is moved, it leaves a marker behind. Markers are white on one side and black on the other, and each time they are jumped they must be flipped. Once a player forms a row of 5 markers of their color, they can remove a ring. The challenge is each row you make brings you closer to victory-but also makes you weaker, because you have one fewer ring to play with.
 
-![YINSH game image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/YINSH_in_Play.jpg/375px-YINSH_in_Play.jpg)
+![YINSH game image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/YINSH_in_Play.jpg/250px-YINSH_in_Play.jpg)
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
