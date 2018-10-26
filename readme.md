@@ -98,6 +98,16 @@
 | ------: | -------: | -----: |
 |   3 - 6 |       12 |    180-360m |
 
+### [Chess](https://en.wikipedia.org/wiki/Chess)
+
+> Chess is a board game played between two opponents on opposite sides of a board containing 64 squares of alternating colors (white and black). Each player has 16 pieces: 1 king, 1 queen, 2 rooks, 2 bishops, 2 knights, and 8 pawns. The goal of the game is to checkmate your opponent's king. The game is played by millions of people worldwide. 
+
+![Game of thrones boardgame image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/250px-ChessStartingPosition.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|    2    |     5    | 5-120m |
+
 ## Party
 
 ### [Mysterium](https://wikipedia.org/wiki/Mysterium_(board_game))
