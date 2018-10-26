@@ -88,7 +88,7 @@
 | ------: | -------: | -------: |
 |   1 - 5 |       14 | 120-180m |
 
-### [Game of Thrones](https://en.wikipedia.org/wiki/A_Game_of_Thrones_(board_game)
+### [Game of Thrones](https://en.wikipedia.org/wiki/A_Game_of_Thrones_(board_game))
 
 > A Game of Thrones allows the players to take on the roles of several of the Great Houses vying for control of the Seven Kingdoms, including House Stark, House Lannister, House Baratheon, House Greyjoy, House Tyrell, and as of the expansion A Clash of Kings, House Martell. Players maneuver armies to secure support in the various regions that comprise the Seven Kingdoms, with the goal of capturing enough support to claim the Iron Throne. The basic gameplay mechanics are reminiscent of Diplomacy, especially in the order-giving process, though A Game of Thrones is significantly more complicated overall.
 
