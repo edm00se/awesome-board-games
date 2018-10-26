@@ -94,9 +94,9 @@
 
 ![Game of thrones boardgame image](https://awoiaf.westeros.org/thumb.php?f=Game-board-agot.png&width=250)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   3 - 6 |       12 |    180-360m |
+| Players | Min. Age | Time     |
+| ------: | -------: | -------: |
+|   3 - 6 |       12 | 180-360m |
 
 ## Party
 
