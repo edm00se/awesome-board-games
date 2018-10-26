@@ -14,6 +14,7 @@ script:
   - npm run predeploy
 deploy:
   provider: pages
+  local-dir: docs
   skip-cleanup: true
   github-token: $GH_TOKEN  # Set in the settings page of your repository, as a secure variable
   keep-history: true
