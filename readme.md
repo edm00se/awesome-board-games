@@ -79,6 +79,16 @@
 
 ## Strategy
 
+### [Tak](https://en.wikipedia.org/wiki/Tak_(game))
+
+> The objective of Tak is to be the first to connect any two opposite edges of the board with their pieces, called "stones", creating a road. To this end, players will take turns attacking and capturing their opponent's pieces while supporting their own. 
+
+![Tak game image](https://d31wxntiwn0x96.cloudfront.net/wjzajk/productimages/2921_0.jpeg?etag=%22337530d698d616468ed5f3f095ab7288%22&width=200&height=200)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2     |       5  |    30m |
+
 ### [7 Wonders](https://wikipedia.org/wiki/7_Wonders_(board_game))
 
 > You are the leader of one of the 7 great cities of the Ancient World. Gather resources, develop commercial routes, and affirm your military supremacy. Build your city and erect an architectural wonder which will transcend future times.
