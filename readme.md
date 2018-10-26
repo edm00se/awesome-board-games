@@ -66,6 +66,16 @@
 | ------: | -------: | -----: |
 |   3 - 6 |       13 |    60m |
 
+### [Dixit](https://en.wikipedia.org/wiki/Dixit_(card_game))
+
+> Using a deck of cards illustrated with dreamlike images, players select cards that match a title suggested by the "storyteller", and attempt to guess which card the "storyteller" selected.
+
+![Dixit_game_image](https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Dixitgame.jpg/200px-Dixitgame.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   3 - 8 |        8 |    30m |
+
 
 ## Strategy
 
