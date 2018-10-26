@@ -121,6 +121,17 @@
 | ------: | -------: | ------: |
 |   3 - 6 |       10 | 60-120m |
 
+### [One Night Werewolf](https://beziergames.com/products/one-night-ultimate-werewolf)
+
+> One Night Ultimate Werewolf is a fast-paced game where everyone gets to be a different role. In the course of only one night and the following morning, the players will determine who among them is a werewolf...hopefully.
+
+![werewolf game image](https://cdn.shopify.com/s/files/1/0740/4855/products/ONUW_3D_Box_2048x.png?v=1461752063)
+
+| Players | Min. Age | Time    |
+| ------: | -------: | ------: |
+|   3 - 10|       8 | 10-15m |
+
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
