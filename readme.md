@@ -88,15 +88,15 @@
 | ------: | -------: | -------: |
 |   1 - 5 |       14 | 120-180m |
 
-### [Game of Thrones](https://en.wikipedia.org/wiki/A_Game_of_Thrones_(board_game)
+### [Game of Thrones](https://en.wikipedia.org/wiki/A_Game_of_Thrones_(board_game))
 
 > A Game of Thrones allows the players to take on the roles of several of the Great Houses vying for control of the Seven Kingdoms, including House Stark, House Lannister, House Baratheon, House Greyjoy, House Tyrell, and as of the expansion A Clash of Kings, House Martell. Players maneuver armies to secure support in the various regions that comprise the Seven Kingdoms, with the goal of capturing enough support to claim the Iron Throne. The basic gameplay mechanics are reminiscent of Diplomacy, especially in the order-giving process, though A Game of Thrones is significantly more complicated overall.
 
 ![Game of thrones boardgame image](https://awoiaf.westeros.org/thumb.php?f=Game-board-agot.png&width=250)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   3 - 6 |       12 |    180-360m |
+| Players | Min. Age | Time     |
+| ------: | -------: | -------: |
+|   3 - 6 |       12 | 180-360m |
 
 ## Party
 
@@ -129,6 +129,17 @@
 | Players | Min. Age | Time    |
 | ------: | -------: | ------: |
 |   3 - 6 |       10 | 60-120m |
+
+### [Ludo](https://en.wikipedia.org/wiki/Ludo_(board_game))
+
+> This board game can be played between minimum 2 to max 4 people of any age group. One of two dices can be used to move the tokens. The player whose all tokens reach home first is the winner. Player can kill other player's token by clashing his token to the same square. Other player's token goes back to house again. Some boards provides special squares where the token are safe and can’t be killed. Players can decide if they want a rule of getting additional turn to roll the dice upon getting 6. More exciting rules can be found on the Wikipedia link.
+
+![Ludo game image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ludo-3.jpg/300px-Ludo-3.jpg)
+
+| Players | Min. Age | Time    |
+| ------: | -------: | ------: |
+|  2 - 4  |    4     | 30-60m  |
+
 
 ### [That's A Question!](https://boardgamegeek.com/boardgame/226322/s-question)
 
