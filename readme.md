@@ -141,7 +141,7 @@
 |  2 - 4  |    4     | 30-60m  |
 
 
-### [That's A Question!](https://boardgamegeek.com/boardgame/226322/s-question)
+### [That's A Question﹗](https://boardgamegeek.com/boardgame/226322/s-question)
 
 > A great game to play with people you think you know. You take the role of squirrels asking each other questions as they climb up a mountain. Players assemble questions from tiles in their hands, asking each other things like "Would you rather live in a world without pizza or fruit?" or "Would you rather write the Great American Novel or never have to sleep again?" It's a good time for everyone, and the game has this nice, innocent charm to it. Even the manual is fun to read.
 
