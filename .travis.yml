@@ -4,12 +4,18 @@ cache:
     - "node_modules"
 node_js:
   - lts/*
-branches:
-  only: master
 script:
   - mv readme.md alt.md
   - SPACE=' '
   - echo -e "---\nhome:${SPACE}true\nsidebar:${SPACE}true\n---" > readme.md
   - cat alt.md >> readme.md
   - rm alt.md
-  - npm run ci
+  - npm run build
+  - npm run predeploy
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GH_TOKEN  # Set in the settings page of your repository, as a secure variable
+  keep-history: true
+  on:
+    branch: master
