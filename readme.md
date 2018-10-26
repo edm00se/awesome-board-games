@@ -130,6 +130,36 @@
 | ------: | -------: | -----: |
 |       2 |        9 | 30-60m |
 
+### [Cthulhu Wars](https://petersengames.com/cthulhu-wars/)
+
+> Cthulhu Wars is a fast-moving strategy game about the end of the world. You take the part of various monstrous aliens seeking to dominate the world. You can play as Great Cthulhu himself, or you can take charge of other factions, such as the slithering hordes of the Crawling Chaos, or the insane minions of the Yellow Sign.
+
+![Cthulhu Wars game image](https://cf.geekdo-images.com/itemrep/img/Q5jn_9sxJzHb9KTKKGq44t_k-3U=/fit-in/246x300/pic3527761.jpg)
+
+| Players | Min. Age | Time    |
+| ------: | -------: | ------: |
+|   2 - 8 |       12 | 90-120m |
+
+### [Anachrony](http://anachronyboardgame.com/)
+
+> Anachrony is a competitive Euro-style strategy game set in a post-apocalyptic world rebuilt along four different ideological Paths. The game is played through a series of turns called Eras, with past ones reachable through time travel later in the game. Players assume the roles of iconic leaders of the four Paths, striving not only for the supremacy and well-being of their people, but also their survival. After the fourth Era, an asteroid impact shakes Earth, threatening to destroy the World Capital, Earth’s last independent city. The Paths should prepare for the coming cataclysm, and when the time comes, take their part in evacuating the collapsing Capital. In the end, one of the Paths will be the new home to the reformed World Council, and lead humanity into a new future.
+
+![Anachrony game image](https://cf.geekdo-images.com/itemrep/img/SnpcIpaKXsWaMWsxf4-bZHDbSG0=/fit-in/246x300/pic3499707.jpg)
+
+| Players | Min. Age | Time    |
+| ------: | -------: | ------: |
+|   1 - 4 |       15 | 30-120m |
+
+### [Clockwork Wars](http://www.eggrules.com/games/games-00-c/clockwork-wars/)
+
+> In Clockwork Wars each player commands a unique race of creatures in a tense war game set in a fantasy-steampunk universe. Take control of the calculating Purebreeds, the industrious Troglodytes, the mighty Rhinochs, or the proud Mongrels. Your goal is to vanquish your foes and accumulate the most victory points through nine turns of play. You earn points by fighting for control of territories that contain valuable natural resources. To win these battles, you need manpower gained by seizing villages and developing them into cities. Invest in research and discover astonishing new technologies, position your troops, research powerful discoveries, employ espionage, and conquer your enemies to win the game!
+
+![Clockwork Wars game image](http://www.eggrules.com/s/cc_images/cache_7402149.jpg?t=1423338983)
+
+| Players | Min. Age | Time    |
+| ------: | -------: | ------: |
+|   2 - 4 |       13 | 90-120m |
+
 ## Party
 
 ### [Mysterium](https://wikipedia.org/wiki/Mysterium_(board_game))
