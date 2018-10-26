@@ -111,6 +111,16 @@
 | ------: | -------: | -----: |
 |   2 - 6 |       10 |    15m |
 
+### [Munchkin](http://www.worldofmunchkin.com/game/)
+
+> Munchkin is the mega-hit card game about dungeon adventure ... with none of that stupid roleplaying stuff. You and your friends compete to kill monsters and grab magic items. And what magic items! Don the Horny Helmet and the Boots of Butt-Kicking. Wield the Staff of Napalm ... or maybe the Chainsaw of Bloody Dismemberment. Start by slaughtering the Potted Plant and the Drooling Slime, and work your way up to the Plutonium Dragon ...
+
+![Munchkin game image](http://www.worldofmunchkin.com/game/img/cover_sm.png)
+
+| Players | Min. Age | Time    |
+| ------: | -------: | ------: |
+|   3 - 6 |       10 | 60-120m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
