@@ -154,7 +154,7 @@
 
 > In Clockwork Wars each player commands a unique race of creatures in a tense war game set in a fantasy-steampunk universe. Take control of the calculating Purebreeds, the industrious Troglodytes, the mighty Rhinochs, or the proud Mongrels. Your goal is to vanquish your foes and accumulate the most victory points through nine turns of play. You earn points by fighting for control of territories that contain valuable natural resources. To win these battles, you need manpower gained by seizing villages and developing them into cities. Invest in research and discover astonishing new technologies, position your troops, research powerful discoveries, employ espionage, and conquer your enemies to win the game!
 
-![Clockwork Wars game image](http://www.eggrules.com/s/cc_images/cache_7402149.jpg?t=1423338983)
+![Clockwork Wars game image](https://cf.geekdo-images.com/itemrep/img/7LucYPx8-t-0vMs6Rfhp_vzr2Y4=/fit-in/246x300/pic2355823.jpg)
 
 | Players | Min. Age | Time    |
 | ------: | -------: | ------: |
