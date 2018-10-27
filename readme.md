@@ -54,7 +54,7 @@
 | ------: | -------: | -----: |
 |   1 - 8 |       13 |    90m |
 
-### [Betrayal at House on the Hill](https://wikipedia.org/wiki/Betrayal_at_House_on_the_Hill)
+### [Betrayal at House on the Hill](https://i5.walmartimages.com/asr/56a53959-4592-464d-b8b3-3934f25f6d64_1.dc7b882bdf7b46eda41d992f402a7e2b.jpeg)
 
 > Players all begin as allies exploring a haunted house filled with dangers, traps, items, and omens.\
 > As players journey to new parts of the mansion, room tiles are chosen at random and placed on the game board.\
