@@ -60,7 +60,7 @@
 > As players journey to new parts of the mansion, room tiles are chosen at random and placed on the game board.\
 > Eventually the "haunt" begins, one player usually "betrays" the others and takes the side of the ghosts, monsters, or other enemies, while the remaining players collaborate to defeat them.
 
-![Betrayal at House on the Hill game image](https://i5.walmartimages.com/asr/56a53959-4592-464d-b8b3-3934f25f6d64_1.dc7b882bdf7b46eda41d992f402a7e2b.jpeg)
+![Betrayal at House on the Hill game image](https://cf.geekdo-images.com/itemrep/img/Les6nIiycIhjCX7kbUosXATygEc=/fit-in/246x300/pic828598.jpg)
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
