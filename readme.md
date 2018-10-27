@@ -76,6 +76,16 @@
 | ------: | -------: | -----: |
 |   3 - 8 |        8 |    30m |
 
+### [Contrast](https://boardgamegeek.com/boardgame/218465/contrast)
+
+> _Tall, Small, Big, Thin, Heavy, Light, Round, Square, Yellow, Red, Blue and Green._ Pick the symbol that matches the picture best! Dont worry, there is no wrong answer, but you only get a point if the majority of players has picked the same symbol as you!
+
+![Contrast_game_image](https://cf.geekdo-images.com/itemrep/img/_UZrwCiUkZHABXrGsjTQ2YoSjjs=/fit-in/246x300/pic3788079.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|  2 - 6  |        8 | 10-20m |
+
 
 ## Strategy
 
