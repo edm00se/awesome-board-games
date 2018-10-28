@@ -184,7 +184,7 @@
 
 > Tile-placement game in which the players draw and place a tile with a piece of southern French landscape on it. Build your castles, connect them with roads and grassland, assign meeples to roles and score points.
 
-![Carcassonne game image](https://upload.wikimedia.org/wikipedia/en/5/5e/Carcassonne-game.jpg)
+![Carcassonne game image](https://battlequarters.com/2277-home_default/carcassonne-board-game.jpg)
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
