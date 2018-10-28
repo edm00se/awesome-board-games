@@ -54,13 +54,13 @@
 | ------: | -------: | -----: |
 |   1 - 8 |       13 |    90m |
 
-### [Betrayal at House on the Hill](https://wikipedia.org/wiki/Betrayal_at_House_on_the_Hill)
+### [Betrayal at House on the Hill](https://en.wikipedia.org/wiki/Betrayal_at_House_on_the_Hill)
 
 > Players all begin as allies exploring a haunted house filled with dangers, traps, items, and omens.\
 > As players journey to new parts of the mansion, room tiles are chosen at random and placed on the game board.\
 > Eventually the "haunt" begins, one player usually "betrays" the others and takes the side of the ghosts, monsters, or other enemies, while the remaining players collaborate to defeat them.
 
-![Betrayal at House on the Hill game image](https://www.hauntedgamecafe.com/image/cache/data/product-images/Betrayal%20at%20House%20on%20the%20Hill%20Cover-200x200.jpg)
+![Betrayal at House on the Hill game image](https://cf.geekdo-images.com/itemrep/img/Les6nIiycIhjCX7kbUosXATygEc=/fit-in/246x300/pic828598.jpg)
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
@@ -75,6 +75,16 @@
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
 |   3 - 8 |        8 |    30m |
+
+### [Contrast](https://boardgamegeek.com/boardgame/218465/contrast)
+
+> _Tall, Small, Big, Thin, Heavy, Light, Round, Square, Yellow, Red, Blue and Green._ Pick the symbol that matches the picture best! Dont worry, there is no wrong answer, but you only get a point if the majority of players has picked the same symbol as you!
+
+![Contrast_game_image](https://cf.geekdo-images.com/itemrep/img/_UZrwCiUkZHABXrGsjTQ2YoSjjs=/fit-in/246x300/pic3788079.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|  2 - 6  |        8 | 10-20m |
 
 
 ## Strategy
@@ -222,6 +232,16 @@
 | Players | Min. Age | Time    |
 | ------: | -------: | ------: |
 |   3 - 6 |       15 |     30m |
+
+### [One Night Werewolf](https://beziergames.com/products/one-night-ultimate-werewolf)
+
+> One Night Ultimate Werewolf is a fast-paced game where everyone gets to be a different role. In the course of only one night and the following morning, the players will determine who among them is a werewolf...hopefully.
+
+![werewolf game image](https://cdn.shopify.com/s/files/1/0740/4855/products/ONUW_3D_Box_250x.png?v=1461752063)
+
+| Players | Min. Age | Time    |
+| ------: | -------: | ------: |
+|  3 - 10 |        8 |  10-15m |
 
 ### [Who Wants to Be a Millionare](http://www.boardgamecapital.com/who-wants-to-be-a-millionaire-rules.htm)
 
