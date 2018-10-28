@@ -257,7 +257,7 @@
 
 > Picture yourself in the era of discoveries: after a long voyage of great deprivation, your ships have finally reached the coast of an uncharted island. Its name shall be Catan! But you are not the only discoverer. Other fearless seafarers have also landed on the shores of Catan: the race to settle the island has begun!
 
-![catan game image](https://www.catan.com/files/styles/lightboxy/public/gallery/dye_catan_150407_0564.jpg?itok=JPrKM8jO)
+![catan game image](https://www.catan.com/sites/all/themes/catan/images/start-packshot_mayfair_neu.png)
 
 | Players | Min. Age | Time    |
 | ------: | -------: | ------: |
