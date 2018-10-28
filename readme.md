@@ -180,6 +180,16 @@
 | ------: | -------: | ------: |
 |   2 - 4 |       13 | 90-120m |
 
+### [Carcassonne](https://en.wikipedia.org/wiki/Carcassonne_(board_game))
+
+> Tile-placement game in which the players draw and place a tile with a piece of southern French landscape on it. Build your castles, connect them with roads and grassland, assign meeples to roles and score points.
+
+![Carcassonne game image](https://upload.wikimedia.org/wikipedia/en/5/5e/Carcassonne-game.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 5 |        8 | 30-90m |
+
 ## Party
 
 ### [Mysterium](https://wikipedia.org/wiki/Mysterium_(board_game))
