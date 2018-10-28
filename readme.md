@@ -253,6 +253,16 @@
 | ------: | -------: | ------: |
 |  2 - 5  |   12     | 45-60m  |
 
+### [Catan](https://www.catan.com/game/catan)
+
+> Picture yourself in the era of discoveries: after a long voyage of great deprivation, your ships have finally reached the coast of an uncharted island. Its name shall be Catan! But you are not the only discoverer. Other fearless seafarers have also landed on the shores of Catan: the race to settle the island has begun!
+
+![catan game image](https://www.catan.com/files/styles/lightboxy/public/gallery/dye_catan_150407_0564.jpg?itok=JPrKM8jO)
+
+| Players | Min. Age | Time    |
+| ------: | -------: | ------: |
+|  3 - 4  |       10 |  45-90m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
