@@ -5,18 +5,20 @@ cache:
 node_js:
   - lts/*
 script:
+  - npm run lint
   - mv readme.md alt.md
   - SPACE=' '
   - echo -e "---\nhome:${SPACE}true\nsidebar:${SPACE}true\n---" > readme.md
   - cat alt.md >> readme.md
   - rm alt.md
   - npm run build
-  - npm run predeploy
+  - touch docs/.nojekyll
 deploy:
   provider: pages
   local-dir: docs
   skip-cleanup: true
   github-token: $GH_TOKEN  # Set in the settings page of your repository, as a secure variable
   keep-history: true
+  fqdn: awesomeboard.games
   on:
     branch: master
