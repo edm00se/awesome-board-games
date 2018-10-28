@@ -125,7 +125,7 @@
 
 > One Night Ultimate Werewolf is a fast-paced game where everyone gets to be a different role. In the course of only one night and the following morning, the players will determine who among them is a werewolf...hopefully.
 
-![werewolf game image](https://cdn.shopify.com/s/files/1/0740/4855/products/ONUW_3D_Box_2048x.png?v=1461752063)
+![werewolf game image](https://cdn.shopify.com/s/files/1/0740/4855/products/ONUW_3D_Box_250x.png?v=1461752063)
 
 | Players | Min. Age | Time    |
 | ------: | -------: | ------: |
