@@ -180,6 +180,16 @@
 | ------: | -------: | ------: |
 |   2 - 4 |       13 | 90-120m |
 
+### [Complots](https://boardgamegeek.com/boardgame/188188/complots)
+
+> A corrupt city, subject to vice and avarice, is under the control of vile characters. The seat of power is vacant and waiting for you to take it — unless someone else takes it first. In Complots, as in the original game Coup, you control two characters and start with two coins, and through trickery, manipulation and bluffing, you want to eliminate all other players who stand in your way, possibly by having them eliminate one another along the way.
+
+![Complots game image](https://cf.geekdo-images.com/itemrep/img/Y9SNNhUIUkSTq-2UOvZxbx0oxg8=/fit-in/246x300/pic1896477.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 8 |        8 |    15m |
+
 ### [Carcassonne](https://en.wikipedia.org/wiki/Carcassonne_(board_game))
 
 > Tile-placement game in which the players draw and place a tile with a piece of southern French landscape on it. Build your castles, connect them with roads and grassland, assign meeples to roles and score points.
