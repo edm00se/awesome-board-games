@@ -277,7 +277,7 @@
 
 > In the super-fast sushi card game Sushi Go!, you are eating at a sushi restaurant and trying to grab the best combination of sushi dishes as they whiz by. Score points for collecting the most sushi rolls or making a full set of sashimi. Dip your favorite nigiri in wasabi to triple its value! And once you've eaten it all, finish your meal with all the pudding you've got! But be careful which sushi you allow your friends to take; it might be just what they need to beat you!
 
-![Sushi Go Image](https://media.xogrp.com/images/fetch/https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F51CIdEFrKKL._SCLZZZZZZZ__US380_.jpg/transform~rs_w.256?fallback=5fa481ef-43bb-43ae-aab3-665614c9d774)
+![Sushi Go Image](https://gamewright.com/images/two/GAMEWRIGHT-249.jpg)
 
 | Players | Min. Age | Time    |
 | ------: | -------: | ------: |
