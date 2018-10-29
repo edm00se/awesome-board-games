@@ -202,6 +202,16 @@
 | ------: | -------: | -----: |
 |   2 - 7 |       10 |    42m |
 
+### [Shabadabada](https://boardgamegeek.com/boardgameexpansion/119871/shabadabada-2)
+
+> This is a small and quite simple party game designed to make you sing beside the fireplace, or anywhere. Two teams compete using predetermined words. As soon as a player sings part of a song which contains the current word, the other team must find another song containing the word. As soon as a team fails, the other one wins the card.
+
+![Shabadabada game image](https://cf.geekdo-images.com/itemrep/img/YqqT45T_SyzsmTPiVOfgqqpGLec=/fit-in/246x300/pic1646452.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|  4 - 16 |        8 |    45m |
+
 ### [Coup](https://boardgamegeek.com/boardgame/131357/coup)
 
 > In the not too distant future, the government is run for profit by a new “royal class” of multi-national CEOs. ... To be successful, you must destroy the influence of your rivals and drive them into exile. In these turbulent times there is only room for one to survive.
