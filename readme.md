@@ -190,7 +190,7 @@
 | ------: | -------: | -----: |
 |   2 - 5 |        8 | 30-90m |
 
-### [Exploding kittens](https://explodingkittens.com/)
+### [Exploding Kittens](https://explodingkittens.com/)
 
 > Exploding Kittens is a highly-strategic, kitty-powered version of Russian roulette. It was the most-funded game in the history of Kickstarter and has paved the way for peace and tranquility in the modern world. It also features cards illustrated by The Oatmeal.
 
