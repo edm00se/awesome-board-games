@@ -86,6 +86,14 @@
 | ------: | -------: | -----: |
 |  2 - 6  |        8 | 10-20m |
 
+### [Unstable Unicorns](https://boardgamegeek.com/boardgame/234190/unstable-unicorns)
+> Build a Unicorn Army. Betray your friends. Unicorns are your friends now.
+
+![Unstable Unicorns](https://cf.geekdo-images.com/itemrep/img/35yKKOnpi5NTc4fCjrt9hqRA7qM=/fit-in/246x300/pic3912914.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 8 |       14 | 30-45m |
 
 ## Strategy
 
