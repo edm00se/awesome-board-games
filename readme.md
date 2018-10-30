@@ -117,6 +117,16 @@
 | ------: | -------: | -----: |
 |   3 - 7 |       10 |    45m |
 
+### [Antike Duellum](https://boardgamegeek.com/boardgame/104955/antike-duellum)
+
+> Antike Duellum – previewed at Spiel 2011 under the name Casus Belli – is a two-player strategy game based on modified rules from Mac Gerdts' Antike. The game includes two scenarios: Punic Wars (Rome vs. Carthago) on one side of the board, and Persian Wars (Greeks vs. Persians) on the other. The goal of the game is to be the first to gain nine ancient personages (Kings, Scholars, Generals, Citizens, Navigators).
+
+![Antike Duellum game image](https://cf.geekdo-images.com/itemrep/img/_wW6NgcIS12ZDpjZdXgzgMxqgQE=/fit-in/246x300/pic1282841.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|       2 |       13 |    75m |
+
 ### [Legendary: A Marvel Deck Building Game](https://boardgamegeek.com/boardgame/129437/legendary-marvel-deck-building-game)
 <!-- nothing on wikipedia currently -->
 
