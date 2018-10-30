@@ -286,7 +286,7 @@
 
 > This board game is played by two to four  players. The objective is to use a striker disk with a flick of a finger to hit black or white lighter disks called carrom men and put them in the pockets present at the corners. The aim of the game is to pot (pocket) one's nine carrom men and the queen before the other opponent does. The carrom queen is analogous to the 8 ball (black ball) in the game of eight-ball pool.
 
-![Carrom game image](https://upload.wikimedia.org/wikipedia/commons/0/03/Boys_playing_%E2%80%99Shove_H%E2%80%99Apenny%2C.jpg)
+![Carrom game image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Boys_playing_%E2%80%99Shove_H%E2%80%99Apenny%2C.jpg/256px-Boys_playing_%E2%80%99Shove_H%E2%80%99Apenny%2C.jpg)
 
 | Players | Min. Age | Time    |
 | ------: | -------: | ------: |
