@@ -95,6 +95,18 @@
 | ------: | -------: | -----: |
 |   2 - 8 |       14 | 30-45m |
 
+### [Dungeons & Dragons: Castle Ravenloft](https://boardgamegeek.com/boardgame/59946/dungeons-dragons-castle-ravenloft-board-game)
+
+>The master of Ravenloft is having guests for dinner – and you are invited!\
+Evil lurks in the towers and dungeons of Castle Ravenloft, and only heroes of exceptional bravery can survive the horrors within.\
+Designed for 1-5 players, this boardgame features multiple scenarios, challenging quests, and cooperative gameplay.
+
+![Dungeons & Dragons: Castle Ravenloft](https://cf.geekdo-images.com/itemrep/img/XTw-eglE4VMj6fgZytjEAIqa98g=/fit-in/246x300/pic660244.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 5 |       13 |    60m |
+
 ## Strategy
 
 ### [Tak](https://en.wikipedia.org/wiki/Tak_(game))
