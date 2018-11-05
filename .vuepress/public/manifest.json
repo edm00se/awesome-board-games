@@ -1,0 +1,20 @@
+{
+  "name": "Awesome Board Games",
+  "short_name": "💯 🎲",
+  "icons": [
+    {
+      "src": "icon/apple-touch-icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "icon/logo_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#3eaf7c"
+}
