@@ -6,11 +6,7 @@ node_js:
   - lts/*
 script:
   - npm run lint
-  - mv readme.md alt.md
-  - SPACE=' '
-  - echo -e "---\nhome:${SPACE}true\nsidebar:${SPACE}true\n---" > readme.md
-  - cat alt.md >> readme.md
-  - rm alt.md
+  - npm run pre-prod-build
   - npm run build
   - touch docs/.nojekyll
 deploy:

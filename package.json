@@ -5,8 +5,11 @@
   "scripts": {
     "dev": "vuepress dev .",
     "build": "cross-env NODE_ENV=production vuepress build . -d docs",
+    "build:now": "cross-env NODE_ENV=production vuepress build . -d dist",
     "test": "npm run lint",
-    "lint": "awesome-lint"
+    "lint": "awesome-lint",
+    "pre-prod-build": "mv readme.md alt.md && SPACE=' ' && echo \"---\\nhome:${SPACE}true\nsidebar:${SPACE}true\\n---\" > readme.md && cat alt.md >> readme.md && rm alt.md",
+    "now-build": "npm run pre-prod-build && npm run build:now"
   },
   "repository": {
     "type": "git",
