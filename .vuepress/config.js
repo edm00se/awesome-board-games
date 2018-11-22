@@ -4,6 +4,7 @@ const config = {
     title: 'Awesome Board Games',
     description: 'a curated list of awesome board games',
     base: '/',
+    ga: 'UA-129685278-1',
     serviceWorker: true,
     themeConfig: {
         nav: [
