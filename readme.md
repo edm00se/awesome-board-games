@@ -129,6 +129,16 @@
 | ------: | -------: | -----: |
 |   3 - 7 |       10 |    45m |
 
+### [7 Wonders Duel](https://boardgamegeek.com/boardgame/173346/7-wonders-duel)
+
+> The great 7 Wonders concepts adapted especially for two players. The feel is very '7 Wonders' with a few refinements which many will with made it to the main game such as the reworked military and science victories as well as new commerce dynamics. Playing a game always leaves me wanting to play again.
+
+![7_Wonders_Duel_game_image](https://cf.geekdo-images.com/small/img/1fkPb9DgZ8n_F99jAhJpKgShYPY=/fit-in/200x150/pic2576399.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|       2 |       10 |    30m |
+
 ### [Antike Duellum](https://boardgamegeek.com/boardgame/104955/antike-duellum)
 
 > Antike Duellum – previewed at Spiel 2011 under the name Casus Belli – is a two-player strategy game based on modified rules from Mac Gerdts' Antike. The game includes two scenarios: Punic Wars (Rome vs. Carthago) on one side of the board, and Persian Wars (Greeks vs. Persians) on the other. The goal of the game is to be the first to gain nine ancient personages (Kings, Scholars, Generals, Citizens, Navigators).
