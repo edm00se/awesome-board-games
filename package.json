@@ -25,6 +25,6 @@
   "devDependencies": {
     "awesome-lint": "*",
     "cross-env": "5.2.0",
-    "vuepress": "^0.14.4"
+    "vuepress": "^0.14.9"
   }
 }
