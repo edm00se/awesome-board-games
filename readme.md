@@ -260,6 +260,16 @@
 | ------: | -------: | -----: |
 |    2    |     5    | 5-120m |
 
+### [Scythe](https://en.wikipedia.org/wiki/Scythe_(board_game))
+
+> ...players control factions which produce resources, build economic infrastructure, and use giant dieselpunk war machines called mechs to fight and control territory.
+
+![Scythe](https://en.wikipedia.org/wiki/Scythe_(board_game)#/media/File:Scythe_board_game_box.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 5 |       15 | 90-115m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
