@@ -383,6 +383,17 @@
 | ------: | -------: | ------: |
 |  2 - 5  |        8 |     15m |
 
+### [Spirit Island](https://boardgamegeek.com/boardgame/162886/spirit-island)
+
+> In the most distant reaches of the world, magic still exists, embodied by spirits of the land, of the sky, and of every natural thing. As the great powers of Europe stretch their colonial empires further and further, they will inevitably lay claim to a place where spirits still hold power - and when they do, the land itself will fight back alongside the islanders who live there.
+
+![Spirit Island Image](https://cf.geekdo-images.com/itemrep/img/0f6KLNq-ynIWcx3VuZ1QsGAfSRo=/fit-in/246x300/pic3615739.png)
+
+| Players | Min. Age | Time    |
+| ------: | -------: | ------: |
+|  1 - 4  |       13 | 90-120m |
+
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
