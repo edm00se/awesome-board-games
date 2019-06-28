@@ -4,7 +4,6 @@ const config = {
     title: 'Awesome Board Games',
     description: 'a curated list of awesome board games',
     base: '/',
-    serviceWorker: true,
     themeConfig: {
         nav: [
             { text: 'Home', link: '/' },
@@ -51,7 +50,17 @@ const config = {
 };
 
 if('production' === env){
-    config.ga = 'UA-52886144-6';
+    // config.ga = 'UA-52886144-6';
+    // serviceWorker: true
+    config.plugins = {
+        '@vuepress/google-analytics': {
+            ga: 'UA-52886144-6'
+        },
+        '@vuepress/pwa': {
+            serviceWorker: true,
+            updatePopup: true
+        }
+    };
 }
 
 module.exports = config;
