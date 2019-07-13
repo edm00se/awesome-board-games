@@ -260,6 +260,16 @@
 | ------: | -------: | -----: |
 |    2    |     5    | 5-120m |
 
+### [Commonspoly](https://commonspoly.cc/)
+
+> Commonspoly is a fun strategy and turn based RPG game where players of the game work together to defend their world from being taken over by speculators. The game is like the direct opposite of what one does in the game of Monopoly. For in Commonspoly owning private goods is frowned upon and converting the privately owned goods to either public or community owned ones will be the task of the players. The game is really fun as its a pit against good and evil, where evil is/are depicted by the speculator characters in the game. Speculators go around the game and try to undo the efforts of the defendors. Also the game is released under Peer Production License and can be downloaded for free and printed at home to play.
+
+![Commonspoly game image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Commonspoly.JPG/320px-Commonspoly.JPG)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   4 - 8 |        7 | 30-90m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
