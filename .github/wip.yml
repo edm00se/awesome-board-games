@@ -1,0 +1,12 @@
+locations:
+  - title
+  - label_name
+  - commit_subject
+- terms: ⛔
+  locations:
+    - title
+    - label_name
+- terms:
+    - fixup!
+    - squash!
+  locations: commit_subject
