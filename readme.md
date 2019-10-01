@@ -403,6 +403,16 @@
 | ------: | -------: | ------: |
 |  1 - 4  |       13 | 90-120m |
 
+### [Bears vs. Babies](https://boardgamegeek.com/boardgame/211534/bears-vs-babies)
+
+> Bears vs Babies is a card game in which you build handsome, incredible monsters who go to war with horrible, awful babies. The shared deck of cards consists of bear parts (and other monster parts) and baby cards. When you draw a part, you use it to build a monster for yourself; when you draw a baby, it goes in the center of the table. When babies are provoked, they attack, and anyone who has fewer monster parts than the number of attacking babies loses their monster; everyone with more parts than babies defeats this infantile army and scores.
+
+![Bears vs. Babies Image](https://explodingkittens.com/img/store/games/bvb_core_thumb_x1.png)
+
+| Players | Min. Age | Time    |
+| ------: | -------: | ------: |
+|  2 - 5  |        7 |  15-20m |
+
 ### [Twilight Imperium 4th Edition](https://boardgamegeek.com/boardgame/233078/twilight-imperium-fourth-edition)
 
 > Twilight Imperium (Fourth Edition) is a game of galactic conquest in which three to six players take on the role of one of seventeen factions vying for galactic domination through military might, political maneuvering, and economic bargaining. Every faction offers a completely different play experience, from the wormhole-hopping Ghosts of Creuss to the Emirates of Hacan, masters of trade and economics. These seventeen races are offered many paths to victory, but only one may sit upon the throne of Mecatol Rex as the new masters of the galaxy.
