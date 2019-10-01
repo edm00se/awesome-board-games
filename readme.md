@@ -481,9 +481,9 @@
 
 ![Terror Below Image](https://cf.geekdo-images.com/itemrep/img/-3Jw5XTh_9nBjVPO6PutnWCTVSQ=/fit-in/246x300/pic4560900.jpg)
 
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   1 - 5 |       10 |  45-60m |
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   1 - 5 |       10 | 45-60m |
 
 ## Contribute
 
