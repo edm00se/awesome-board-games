@@ -134,7 +134,7 @@
 
 > The great 7 Wonders concepts adapted especially for two players. The feel is very '7 Wonders' with a few refinements which many will with made it to the main game such as the reworked military and science victories as well as new commerce dynamics. Playing a game always leaves me wanting to play again.
 
-![7_Wonders_Duel_game_image](https://cf.geekdo-images.com/small/img/1fkPb9DgZ8n_F99jAhJpKgShYPY=/fit-in/200x150/pic2576399.jpg)
+![7_Wonders_Duel_game_image](https://cf.geekdo-images.com/small/img/1fkPb9DgZ8n_F99jAhJpKgShYPY=/fit/200x150/pic2576399.jpg)
 
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
@@ -271,6 +271,16 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   4 - 8 |        7 | 30-90m |
+
+### [Cluedo](https://en.wikipedia.org/wiki/Cluedo)
+
+> Cluedo is a murder mystery game for three to six players. Each player is a suspect in the murder and needs to prove his innocence by deducing who the actual murderer is, where the crime took place and which weapon was used. The players do this by strategically moving around the different rooms in the mansion and collecting various clues from the other players.
+
+![Clue game image](https://upload.wikimedia.org/wikipedia/en/6/61/Cluedo_1956_Small_Red_Box_Edition.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   3 - 6 |        8 | 10-60m |
 
 ## Party
 
