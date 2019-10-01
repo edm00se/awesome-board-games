@@ -296,7 +296,7 @@
 
 > In Sheriff of Nottingham, each player assumes the role of a merchant who is looking to make a tidy profit during the Prince's visit to Nottingham. While it is possible to make a decent profit off of legal goods, illicit goods will leave you swimming in riches. But be careful, lest the Sheriff of Nottingham catches you!
 
-![Sheriff of Nottingham game image](https://cf.geekdo-images.com/imagepage/img/m9_QpuWDR7W-YDURCHeIoAtYuRY=/fit-in/900x600/filters:no_upscale()/pic2075830.jpg)
+![Sheriff of Nottingham game image](https://cf.geekdo-images.com/itemrep/img/ue8OIdjUCpDrnM9Y0ZXKuDdk8Y8=/fit-in/246x300/pic2075830.jpg)
 
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
