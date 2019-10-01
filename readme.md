@@ -446,14 +446,24 @@
 
 ### [Joking Hazard](https://boardgamegeek.com/boardgame/193621/joking-hazard)
 
-> From the creators of Cyanide & Happiness comes a card game where players compete to finish an awful comic strip. 
->  The creators said: "Someone on the Internet once told us that making stick figure comics is easy as hell, and that we were ugly and stupid.They were right on all counts. So, after crying for a few hours, we created the Random Comic Generator which since its inception in 2014 has entertained millions with its computer-generated comedy. After a few weeks of playing with the Random Comic Generator, we started to wonder if its hundreds of random panels might   lend themselves to a card game, where you compete against your friends to finish a comic with a funny punchline. So we printed  out all of the RCG panels and started playing with them." Draw 7 cards. The deck plays the first card, select a Judge to play the second, then everyone selects a third card to create  a three panel comic strip. The Judge picks a winner. The game includes a deck of 250 unique panel cards - that’s 15.4 million combinations of comics!
+> From the creators of Cyanide & Happiness comes a card game where players compete to finish an awful comic strip.
+> The creators said: "Someone on the Internet once told us that making stick figure comics is easy as hell, and that we were ugly and stupid.They were right on all counts. So, after crying for a few hours, we created the Random Comic Generator which since its inception in 2014 has entertained millions with its computer-generated comedy. After a few weeks of playing with the Random Comic Generator, we started to wonder if its hundreds of random panels might lend themselves to a card game, where you compete against your friends to finish a comic with a funny punchline. So we printed out all of the RCG panels and started playing with them." Draw 7 cards. The deck plays the first card, select a Judge to play the second, then everyone selects a third card to create a three panel comic strip. The Judge picks a winner. The game includes a deck of 250 unique panel cards - that’s 15.4 million combinations of comics!
 
 <img alt="Joking Hazard box" src="https://www.jokinghazardgame.com/img/products/base-deck.jpg" width="260">
 
-| Players | Min. Age | Time    |
-| ------: | -------: | ------: |
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
 |  3 - 10 |       18 | 30-90m |
+
+### [Monopoly](https://boardgamegeek.com/boardgame/41186/monopoly-city)
+
+> At first you think you are playing good old Monopoly where they just add some extra buildings to give a little twist. But the longer you play, the more you realise they actually made a whole new game. You start with more money than usual, which gives you the idea you will last longer (with a bit of luck maybe). The fact that now you can build right away when you bought a property, gives so much dynamic to the game. No more waiting until you have the whole set, or not having the set because one player refuses to trade. Even with a couple of single properties you can win the game.
+
+<img alt="Monopoly" src="https://cf.geekdo-images.com/itemrep/img/CEVG3XKEt3JT0Zw4TeuNL36i4gM=/fit-in/246x300/pic486673.jpg">
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 6 |        8 | 40-75m |
 
 ## Contribute
 
