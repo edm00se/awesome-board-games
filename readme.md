@@ -482,9 +482,9 @@
 
 <img alt="Lottery" src="https://www.sipuebla.com/spanishreader/assets/img/loteria-mexicana.jpg" width="260">
 
-| Players | Min. Age | Time    |
-| ------: | -------: | ------: |
-|  3 - 6  | 5        | 10m     |
+| Players | Min. Age | Time |
+| ------: | -------: | ----:|
+|  3 - 6  | 5        | 10m  |
 
 ### [Monopoly](https://boardgamegeek.com/boardgame/41186/monopoly-city)
 
