@@ -446,6 +446,7 @@
 | ------: | -------: | ------: |
 |  3 - 6 |       5 | 10m |
 
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
