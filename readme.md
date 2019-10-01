@@ -111,7 +111,7 @@
 
 ### [Tak](https://en.wikipedia.org/wiki/Tak_(game))
 
-> The objective of Tak is to be the first to connect any two opposite edges of the board with their pieces, called "stones", creating a road. To this end, players will take turns attacking and capturing their opponent's pieces while supporting their own. 
+> The objective of Tak is to be the first to connect any two opposite edges of the board with their pieces, called "stones", creating a road. To this end, players will take turns attacking and capturing their opponent's pieces while supporting their own.
 
 ![Tak game image](https://d31wxntiwn0x96.cloudfront.net/wjzajk/productimages/2921_0.jpeg?etag=%22337530d698d616468ed5f3f095ab7288%22&width=200&height=200)
 
@@ -252,7 +252,7 @@
 
 ### [Chess](https://en.wikipedia.org/wiki/Chess)
 
-> Chess is a board game played between two opponents on opposite sides of a board containing 64 squares of alternating colors (white and black). Each player has 16 pieces: 1 king, 1 queen, 2 rooks, 2 bishops, 2 knights, and 8 pawns. The goal of the game is to checkmate your opponent's king. The game is played by millions of people worldwide. 
+> Chess is a board game played between two opponents on opposite sides of a board containing 64 squares of alternating colors (white and black). Each player has 16 pieces: 1 king, 1 queen, 2 rooks, 2 bishops, 2 knights, and 8 pawns. The goal of the game is to checkmate your opponent's king. The game is played by millions of people worldwide.
 
 ![Chess game image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/250px-ChessStartingPosition.jpg)
 
@@ -403,6 +403,15 @@
 | ------: | -------: | ------: |
 |  1 - 4  |       13 | 90-120m |
 
+### [Bears vs. Babies](https://boardgamegeek.com/boardgame/211534/bears-vs-babies)
+
+> Bears vs Babies is a card game in which you build handsome, incredible monsters who go to war with horrible, awful babies. The shared deck of cards consists of bear parts (and other monster parts) and baby cards. When you draw a part, you use it to build a monster for yourself; when you draw a baby, it goes in the center of the table. When babies are provoked, they attack, and anyone who has fewer monster parts than the number of attacking babies loses their monster; everyone with more parts than babies defeats this infantile army and scores.
+
+![Bears vs. Babies Image](https://cf.geekdo-images.com/imagepage/img/mCG6F7WCV0iC0bnXa_onRxeYx2w=/fit-in/900x600/filters:no_upscale()/pic3231155.png)
+
+| Players | Min. Age | Time    |
+| ------: | -------: | ------: |
+|  2 - 5  |        7 |     15 - 20m |
 
 ## Contribute
 
