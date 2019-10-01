@@ -5,8 +5,6 @@ cache:
 node_js:	
   - lts/*	
 script:	
-  - npm run format
-  - npm run lint	
   - npm run pre-prod-build	
   - npm run build	
   - touch docs/.nojekyll	
