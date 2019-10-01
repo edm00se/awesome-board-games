@@ -485,6 +485,16 @@
 | ------: | -------: | -----: |
 |   1 - 5 |       10 | 45-60m |
 
+### [Terraforming Mars](https://en.wikipedia.org/wiki/Terraforming_Mars_(board_game))
+
+> Terraforming Mars is a game where players take the role of corporations to terraform the planet by raising the temperature and creating oxygen, water, plant and animal life. Players compete to earn the most points, which are measured by their contribution to terraforming, as well as building human infrastructure.
+
+![Terraforming Mars](https://cf.geekdo-images.com/itemrep/img/bhemoxL7PG1a_79L0D9syPTADSY=/fit-in/246x300/pic3536616.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   1 - 5 |       12 |   120m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
