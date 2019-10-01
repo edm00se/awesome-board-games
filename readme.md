@@ -108,6 +108,16 @@
 | ------: | -------: | ---: |
 |   1 - 5 |       13 |  60m |
 
+### [Sheriff of Nottingham](https://boardgamegeek.com/boardgame/157969/sheriff-nottingham)
+
+> In Sheriff of Nottingham, each player assumes the role of a merchant who is looking to make a tidy profit during the Prince's visit to Nottingham. While it is possible to make a decent profit off of legal goods, illicit goods will leave you swimming in riches. But be careful, lest the Sheriff of Nottingham catches you!
+
+![Sheriff of Nottingham game image](https://cf.geekdo-images.com/imagepage/img/m9_QpuWDR7W-YDURCHeIoAtYuRY=/fit-in/900x600/filters:no_upscale()/pic2075830.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   3 - 5 |       14 |  60m |
+
 ## Strategy
 
 ### [Tak](<https://en.wikipedia.org/wiki/Tak_(game)>)
