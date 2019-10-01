@@ -420,9 +420,9 @@
 
 ![Twilight Imperium 4th Edition Image](https://cf.geekdo-images.com/itemrep/img/UxsyZBpFiBNPOppOQ7ILJde_YhY=/fit-in/246x300/pic3727516.jpg)
 
-| Players | Min. Age | Time    |
-| ------: | -------: | ------: |
-|  3 - 6  |       14 |    240m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   3 - 6 |       14 | 240m |
 
 ## Contribute
 
