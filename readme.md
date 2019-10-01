@@ -485,6 +485,16 @@
 | ------: | -------: | -----: |
 |   1 - 5 |       10 | 45-60m |
 
+### [Secret Hitler](https://boardgamegeek.com/boardgame/188834/secret-hitler)
+
+> Secret Hitler is a dramatic game of political intrigue and betrayal set in 1930s Germany. Each player is randomly and secretly assigned to be a liberal or a fascist, and one player is Secret Hitler. The fascists coordinate to sow distrust and install their cold-blooded leader; the liberals must find and stop the Secret Hitler before it's too late. The liberal team always has a majority.
+
+![Secret Hitler Image](https://m.media-amazon.com/images/S/aplus-seller-content-images-us-east-1/ATVPDKIKX0DER/AZM5C4RTN0ERZ/B01JKD4HYC/j0WJECPJTgSr._UX899_TTW__.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|  5 - 10 |       13 |    45m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
