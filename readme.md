@@ -110,6 +110,16 @@
 
 ## Strategy
 
+### [Backgammon](https://en.wikipedia.org/wiki/Backgammon)
+
+> It is one of the oldest known board games. It is a two player game where each player has fifteen pieces (checkers) which move between twenty-four triangles (points) according to the roll of two dice. The objective of the game is to be first to bear off, i.e. move all fifteen checkers off the board.
+
+![Backgammon](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Backgammon_lg.png/320px-Backgammon_lg.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2     |       5  |  5-60m |
+
 ### [Tak](<https://en.wikipedia.org/wiki/Tak_(game)>)
 
 > The objective of Tak is to be the first to connect any two opposite edges of the board with their pieces, called "stones", creating a road. To this end, players will take turns attacking and capturing their opponent's pieces while supporting their own.
