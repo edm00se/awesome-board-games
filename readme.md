@@ -116,9 +116,9 @@
 
 ![Backgammon](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Backgammon_lg.png/320px-Backgammon_lg.png)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   2     |       5  |  5-60m |
+| Players | Min. Age |  Time |
+| ------: | -------: | ----: |
+|       2 |        5 | 5-60m |
 
 ### [Tak](<https://en.wikipedia.org/wiki/Tak_(game)>)
 
