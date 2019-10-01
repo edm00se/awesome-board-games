@@ -403,6 +403,17 @@
 | ------: | -------: | ------: |
 |  1 - 4  |       13 | 90-120m |
 
+### [Joking Hazard](https://boardgamegeek.com/boardgame/193621/joking-hazard)
+
+> From the creators of Cyanide & Happiness comes a card game where players compete to finish an awful comic strip. 
+  The creators said: "Someone on the Internet once told us that making stick figure comics is easy as hell, and that we were ugly and stupid.They were right on all counts. So, after crying for a few hours, we created the Random Comic Generator which since its inception in 2014 has entertained millions with its computer-generated comedy. After a few weeks of playing with the Random Comic Generator, we started to wonder if its hundreds of random panels might   lend themselves to a card game, where you compete against your friends to finish a comic with a funny punchline. So we printed  out all of the RCG panels and started playing with them." Draw 7 cards. The deck plays the first card, select a Judge to play the second, then everyone selects a third card to create  a three panel comic strip. The Judge picks a winner. The game includes a deck of 250 unique panel cards - that’s 15.4 million combinations of comics!
+
+![Joking Hazard_Image](https://cdn.shopify.com/s/files/1/1704/1809/products/65bbd0aad0d65b2449fb37bc57ade902a2420439_500x.jpg?v=1559258393)
+
+| Players | Min. Age | Time    |
+| ------: | -------: | ------: |
+|  3 - 10 |       18 | 30-90m |
+
 
 ## Contribute
 
