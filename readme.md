@@ -108,6 +108,16 @@
 | ------: | -------: | ---: |
 |   1 - 5 |       13 |  60m |
 
+### [Exit The Game the Abandoned Cabin](https://boardgamegeek.com/boardgame/203420/exit-game-abandoned-cabin)
+
+> After seeking shelter in an abandoned cabin and spending the night, you and your friends realize that someone has secured the door with a combination lock. The only way to escape your predicament is to work as a team, crack codes and solve various puzzles in order to deduct the combination that leads to freedom.
+
+![Exit Abandoned Cabin game image](https://cf.geekdo-images.com/itemrep/img/YuNiISiSOUDAtk634f7dUq7MXu8=/fit-in/246x300/pic3332426.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   1 - 6 |       12 | 60-120m |
+
 ## Strategy
 
 ### [Backgammon](https://en.wikipedia.org/wiki/Backgammon)
@@ -495,6 +505,16 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   1 - 5 |       10 | 45-60m |
+
+### [Secret Hitler](https://boardgamegeek.com/boardgame/188834/secret-hitler)
+
+> Secret Hitler is a dramatic game of political intrigue and betrayal set in 1930s Germany. Each player is randomly and secretly assigned to be a liberal or a fascist, and one player is Secret Hitler. The fascists coordinate to sow distrust and install their cold-blooded leader; the liberals must find and stop the Secret Hitler before it's too late. The liberal team always has a majority.
+
+![Secret Hitler Image](https://m.media-amazon.com/images/S/aplus-seller-content-images-us-east-1/ATVPDKIKX0DER/AZM5C4RTN0ERZ/B01JKD4HYC/j0WJECPJTgSr._UX899_TTW__.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|  5 - 10 |       13 |    45m |
 
 ## Contribute
 
