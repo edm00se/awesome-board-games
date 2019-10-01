@@ -435,6 +435,17 @@
 | ------: | -------: | ------: |
 |  3 - 10 |       18 | 30-90m |
 
+### [Lottery](https://www.thelotter.com.mx/juego-loteria-mexicana)
+
+>In the Lottery card game, each player has a board with different known images (a hand, a rooster ...). Later, a person, known as El Gritón, is drawing letters, and names them aloud. Players who have those cards on their board, put a pebble, bean or chip on top of the named image.
+>In the end, the player who before completes his board wins, that is, who first has on the board all the named images. To make the game more exciting, it is common to place small bets. Thus, the winner will take the total money raised. This is what could happen to you after buying the Spark online.
+
+<img alt="Lottery" src="https://www.sipuebla.com/spanishreader/assets/img/loteria-mexicana.jpg" width="260">
+
+| Players | Min. Age | Time    |
+| ------: | -------: | ------: |
+|  3 - 6 |       5 | 10m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
