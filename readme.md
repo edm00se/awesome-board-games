@@ -108,6 +108,16 @@
 | ------: | -------: | ---: |
 |   1 - 5 |       13 |  60m |
 
+### [Exit The Game the Abandoned Cabin](https://boardgamegeek.com/boardgame/203420/exit-game-abandoned-cabin)
+
+> After seeking shelter in an abandoned cabin and spending the night, you and your friends realize that someone has secured the door with a combination lock. The only way to escape your predicament is to work as a team, crack codes and solve various puzzles in order to deduct the combination that leads to freedom.
+
+![Exit Abandoned Cabin game image](https://cf.geekdo-images.com/itemrep/img/YuNiISiSOUDAtk634f7dUq7MXu8=/fit-in/246x300/pic3332426.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   1 - 6 |       12 | 60-120m |
+
 ## Strategy
 
 ### [Backgammon](https://en.wikipedia.org/wiki/Backgammon)
