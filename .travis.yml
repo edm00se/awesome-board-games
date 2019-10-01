@@ -3,7 +3,9 @@ cache:
   directories:	
     - "node_modules"	
 node_js:	
-  - lts/*	
+  - lts/*
+git:
+  depth: false
 script:	
   - npm run lint
   - npm run pre-prod-build	
