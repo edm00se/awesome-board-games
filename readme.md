@@ -505,6 +505,16 @@
 | ------: | -------: | -----: |
 |  5 - 10 |       13 |    45m |
 
+### [Smash Up](https://boardgamegeek.com/boardgame/122522/smash)
+
+> The "shufflebuilding" game Smash Up begins with a simple premise: take the 20-card decks of two factions, shuffle them into a deck of forty cards, then compete to crush more Bases than your opponents! Each faction involves a different gaming mechanism - the pirates move the cards, the zombies bring back the cards from the discard pile, the dinosaurs have enormous power - and each combination of factions brings a different gaming experience.
+
+![Smash Up Image](https://cf.geekdo-images.com/itemrep/img/B477eHwGjDYBLMYSIlLGGeJcoMo=/fit-in/246x300/pic1269874.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   2 - 4 |       12 |     45m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
