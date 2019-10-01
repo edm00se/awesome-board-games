@@ -515,6 +515,16 @@
 | ------: | -------: | ---: |
 |   2 - 4 |       12 |  45m |
 
+### [Gloomhaven](https://boardgamegeek.com/boardgame/174430/gloomhaven)
+
+> Gloomhaven is a game of Euro-inspired tactical combat in a persistent world of shifting motives. Players will take on the role of a wandering adventurer with their own special set of skills and their own reasons for traveling to this dark corner of the world. Players must work together out of necessity to clear out menacing dungeons and forgotten ruins. In the process, they will enhance their abilities with experience and loot, discover new locations to explore and plunder, and expand an ever-branching story fueled by the decisions they make.
+
+![Gloomhaven Image](https://cf.geekdo-images.com/itemrep/img/P7MVqNuhAl8Y4fxiM6e74kMX6e0=/fit-in/246x300/pic2437871.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   1 - 4 |       12 | 60-120m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
