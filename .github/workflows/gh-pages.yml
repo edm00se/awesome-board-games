@@ -19,7 +19,6 @@ jobs:
         npm ci
         npm run pre-prod-build
         npm run build
-        touch docs/.nojekyll
 
     - name: deploy
       uses: peaceiris/actions-gh-pages@v2.4.0
@@ -27,3 +26,5 @@ jobs:
         ACTIONS_DEPLOY_KEY: ${{ secrets.GITHUB_FORMAT_TOKEN }}
         PUBLISH_BRANCH: gh-pages
         PUBLISH_DIR: ./docs
+      with:
+        keepFiles: true
