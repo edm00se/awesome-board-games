@@ -501,9 +501,9 @@
 
 ![Secret Hitler Image](https://m.media-amazon.com/images/S/aplus-seller-content-images-us-east-1/ATVPDKIKX0DER/AZM5C4RTN0ERZ/B01JKD4HYC/j0WJECPJTgSr._UX899_TTW__.jpg)
 
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|  5 - 10 |       13 |    45m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|  5 - 10 |       13 |  45m |
 
 ### [Smash Up](https://boardgamegeek.com/boardgame/122522/smash)
 
@@ -511,9 +511,9 @@
 
 ![Smash Up Image](https://cf.geekdo-images.com/itemrep/img/B477eHwGjDYBLMYSIlLGGeJcoMo=/fit-in/246x300/pic1269874.jpg)
 
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   2 - 4 |       12 |     45m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |       12 |  45m |
 
 ## Contribute
 
