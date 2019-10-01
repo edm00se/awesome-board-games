@@ -110,6 +110,16 @@
 
 ## Strategy
 
+### [Backgammon](https://en.wikipedia.org/wiki/Backgammon)
+
+> It is one of the oldest known board games. It is a two player game where each player has fifteen pieces (checkers) which move between twenty-four triangles (points) according to the roll of two dice. The objective of the game is to be first to bear off, i.e. move all fifteen checkers off the board.
+
+![Backgammon](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Backgammon_lg.png/320px-Backgammon_lg.png)
+
+| Players | Min. Age |  Time |
+| ------: | -------: | ----: |
+|       2 |        5 | 5-60m |
+
 ### [Tak](<https://en.wikipedia.org/wiki/Tak_(game)>)
 
 > The objective of Tak is to be the first to connect any two opposite edges of the board with their pieces, called "stones", creating a road. To this end, players will take turns attacking and capturing their opponent's pieces while supporting their own.
@@ -272,6 +282,26 @@
 | ------: | -------: | -----: |
 |   4 - 8 |        7 | 30-90m |
 
+### [Cluedo](https://en.wikipedia.org/wiki/Cluedo)
+
+> Cluedo is a murder mystery game for three to six players. Each player is a suspect in the murder and needs to prove his innocence by deducing who the actual murderer is, where the crime took place and which weapon was used. The players do this by strategically moving around the different rooms in the mansion and collecting various clues from the other players.
+
+![Cluedo game image](https://upload.wikimedia.org/wikipedia/en/6/61/Cluedo_1956_Small_Red_Box_Edition.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   3 - 6 |        8 | 10-60m |
+
+### [Sheriff of Nottingham](https://boardgamegeek.com/boardgame/157969/sheriff-nottingham)
+
+> In Sheriff of Nottingham, each player assumes the role of a merchant who is looking to make a tidy profit during the Prince's visit to Nottingham. While it is possible to make a decent profit off of legal goods, illicit goods will leave you swimming in riches. But be careful, lest the Sheriff of Nottingham catches you!
+
+![Sheriff of Nottingham game image](https://cf.geekdo-images.com/itemrep/img/ue8OIdjUCpDrnM9Y0ZXKuDdk8Y8=/fit-in/246x300/pic2075830.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   3 - 5 |       14 |  60m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
@@ -426,13 +456,13 @@
 
 ### [Joking Hazard](https://boardgamegeek.com/boardgame/193621/joking-hazard)
 
-> From the creators of Cyanide & Happiness comes a card game where players compete to finish an awful comic strip. 
->  The creators said: "Someone on the Internet once told us that making stick figure comics is easy as hell, and that we were ugly and stupid.They were right on all counts. So, after crying for a few hours, we created the Random Comic Generator which since its inception in 2014 has entertained millions with its computer-generated comedy. After a few weeks of playing with the Random Comic Generator, we started to wonder if its hundreds of random panels might   lend themselves to a card game, where you compete against your friends to finish a comic with a funny punchline. So we printed  out all of the RCG panels and started playing with them." Draw 7 cards. The deck plays the first card, select a Judge to play the second, then everyone selects a third card to create  a three panel comic strip. The Judge picks a winner. The game includes a deck of 250 unique panel cards - that’s 15.4 million combinations of comics!
+> From the creators of Cyanide & Happiness comes a card game where players compete to finish an awful comic strip.
+> The creators said: "Someone on the Internet once told us that making stick figure comics is easy as hell, and that we were ugly and stupid.They were right on all counts. So, after crying for a few hours, we created the Random Comic Generator which since its inception in 2014 has entertained millions with its computer-generated comedy. After a few weeks of playing with the Random Comic Generator, we started to wonder if its hundreds of random panels might lend themselves to a card game, where you compete against your friends to finish a comic with a funny punchline. So we printed out all of the RCG panels and started playing with them." Draw 7 cards. The deck plays the first card, select a Judge to play the second, then everyone selects a third card to create a three panel comic strip. The Judge picks a winner. The game includes a deck of 250 unique panel cards - that’s 15.4 million combinations of comics!
 
 <img alt="Joking Hazard box" src="https://www.jokinghazardgame.com/img/products/base-deck.jpg" width="260">
 
-| Players | Min. Age | Time    |
-| ------: | -------: | ------: |
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
 |  3 - 10 |       18 | 30-90m |
 
 ### [Lottery](https://www.thelotter.com.mx/juego-loteria-mexicana)
@@ -446,6 +476,25 @@
 | ------: | -------: | ------: |
 |  3 - 6  | 5        | 10m     |
 
+### [Monopoly](https://boardgamegeek.com/boardgame/41186/monopoly-city)
+
+> At first you think you are playing good old Monopoly where they just add some extra buildings to give a little twist. But the longer you play, the more you realise they actually made a whole new game. You start with more money than usual, which gives you the idea you will last longer (with a bit of luck maybe). The fact that now you can build right away when you bought a property, gives so much dynamic to the game. No more waiting until you have the whole set, or not having the set because one player refuses to trade. Even with a couple of single properties you can win the game.
+
+<img alt="Monopoly" src="https://cf.geekdo-images.com/itemrep/img/CEVG3XKEt3JT0Zw4TeuNL36i4gM=/fit-in/246x300/pic486673.jpg">
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 6 |        8 | 40-75m |
+
+### [Terror Below](https://boardgamegeek.com/boardgame/270138/terror-below)
+
+> Terror Below is a game of government experiments gone wild in the Nevada desert. The faster you move, the more vibrations you make, attracting the attention of the vicious worms underground. Navigate the difficult terrain to collect valuable worm eggs and deliver them to locations around town to claim bounties. If you're feeling lucky, collect items and weapons to go hunt 'em.
+
+![Terror Below Image](https://cf.geekdo-images.com/itemrep/img/-3Jw5XTh_9nBjVPO6PutnWCTVSQ=/fit-in/246x300/pic4560900.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   1 - 5 |       10 | 45-60m |
 
 ## Contribute
 
