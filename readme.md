@@ -272,6 +272,16 @@
 | ------: | -------: | -----: |
 |   4 - 8 |        7 | 30-90m |
 
+### [Cluedo](https://en.wikipedia.org/wiki/Cluedo)
+
+> Cluedo is a murder mystery game for three to six players. Each player is a suspect in the murder and needs to prove his innocence by deducing who the actual murderer is, where the crime took place and which weapon was used. The players do this by strategically moving around the different rooms in the mansion and collecting various clues from the other players.
+
+![Cluedo game image](https://upload.wikimedia.org/wikipedia/en/6/61/Cluedo_1956_Small_Red_Box_Edition.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   3 - 6 |        8 | 10-60m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
