@@ -414,6 +414,16 @@
 | ------: | -------: | -----: |
 |   2 - 5 |        7 | 15-20m |
 
+### [Twilight Imperium 4th Edition](https://boardgamegeek.com/boardgame/233078/twilight-imperium-fourth-edition)
+
+> Twilight Imperium (Fourth Edition) is a game of galactic conquest in which three to six players take on the role of one of seventeen factions vying for galactic domination through military might, political maneuvering, and economic bargaining. Every faction offers a completely different play experience, from the wormhole-hopping Ghosts of Creuss to the Emirates of Hacan, masters of trade and economics. These seventeen races are offered many paths to victory, but only one may sit upon the throne of Mecatol Rex as the new masters of the galaxy.
+
+![Twilight Imperium 4th Edition Image](https://cf.geekdo-images.com/itemrep/img/UxsyZBpFiBNPOppOQ7ILJde_YhY=/fit-in/246x300/pic3727516.jpg)
+
+| Players | Min. Age | Time    |
+| ------: | -------: | ------: |
+|  3 - 6  |       14 |    240m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
