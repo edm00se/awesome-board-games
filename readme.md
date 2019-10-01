@@ -407,11 +407,11 @@
 
 > Bears vs Babies is a card game in which you build handsome, incredible monsters who go to war with horrible, awful babies. The shared deck of cards consists of bear parts (and other monster parts) and baby cards. When you draw a part, you use it to build a monster for yourself; when you draw a baby, it goes in the center of the table. When babies are provoked, they attack, and anyone who has fewer monster parts than the number of attacking babies loses their monster; everyone with more parts than babies defeats this infantile army and scores.
 
-![Bears vs. Babies Image](https://cf.geekdo-images.com/imagepage/img/mCG6F7WCV0iC0bnXa_onRxeYx2w=/fit-in/900x600/filters:no_upscale()/pic3231155.png)
+![Bears vs. Babies Image](https://explodingkittens.com/img/store/games/bvb_core_thumb_x1.png)
 
 | Players | Min. Age | Time    |
 | ------: | -------: | ------: |
-|  2 - 5  |        7 |     15 - 20m |
+|  2 - 5  |        7 |15 - 20m |
 
 ## Contribute
 
