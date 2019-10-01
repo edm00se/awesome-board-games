@@ -8,6 +8,7 @@
     "build:now": "cross-env NODE_ENV=production vuepress build . -d dist",
     "test": "npm run lint",
     "lint": "awesome-lint",
+    "format": "npx prettier readme.md --write",
     "pre-prod-build": "chmod +x .pre-prod-build.sh &&./.pre-prod-build.sh",
     "now-build": "npm run pre-prod-build && npm run build:now"
   },
