@@ -535,6 +535,18 @@
 | ------: | -------: | ---: |
 |   4 - 8 |       12 |  30m |
 
+### [Codenames](https://boardgamegeek.com/boardgame/178900/codenames)
+
+> Two rival spymasters know the secret identities of 25 agents. Their teammates know the agents only by their CODENAMES.
+
+In Codenames, two teams compete to see who can make contact with all of their agents first. Spymasters give one-word clues that can point to multiple words on the board. Their teammates try to guess words of the right color while avoiding those that belong to the opposing team. And everyone wants to avoid the assassin.
+
+![Codenames Image](https://cf.geekdo-images.com/imagepage/img/BwJJTrofiaH0Muxuo5rv0VCmuCY=/fit-in/900x600/filters:no_upscale()/pic2582929.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 8 |       14 |  15m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
