@@ -535,6 +535,16 @@
 | ------: | -------: | ---: |
 |   4 - 8 |       12 |  30m |
 
+### [Trash Pandas](https://gamewright.com/product/Trash-Pandas)
+
+> Trash Pandas is a card game where you get to play as a racoon, trying to gather useful trash as you paw through the card deck. Start a collection of precious trash items, like day-old pizza or half-eaten candy, and gain points to be the best trash panda on the block. But wait, roll the dice to sabatoge other masked fiends to prevent them from taking your spot at the top, but make sure you don't mess with any Doggos that can mess with you back. Trash is treasure, and stash the most trash!
+
+![Trash Pandas Image](https://cf.geekdo-images.com/itemrep/img/_y-H3J7gUewKSFyTS4_lzkbblgo=/fit-in/246x300/pic3989423.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 5 |        8 |    15m |
+
 ### [Codenames](https://boardgamegeek.com/boardgame/178900/codenames)
 
 > Two rival spymasters know the secret identities of 25 agents. Their teammates know the agents only by their CODENAMES.
