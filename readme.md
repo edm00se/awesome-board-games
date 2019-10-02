@@ -525,6 +525,16 @@
 | ------: | -------: | ------: |
 |   1 - 4 |       12 | 60-120m |
 
+### [Telestrations](https://boardgamegeek.com/boardgame/46213/telestrations)
+
+> Each player begins by sketching a TELESTRATIONS word dictated by the roll of a die. The old fashioned sand timer may limit the amount of time they get to execute their sketch, but it certainly doesn't limit creativity! Time's up! All players, all at the same time, pass their sketch to the next player, who must guess what's been drawn. Players then simultaneously pass their guess -- which hopefully matches the original word (or does it??) -- to the next player who must try to draw the word they see -- and so on.
+
+![Telestrations Image](https://cf.geekdo-images.com/itemrep/img/G28zSLO9mMXGHjn5ZSY4vk0sd3Y=/fit-in/246x300/pic2523100.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   4 - 8 |       12 |  30m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
