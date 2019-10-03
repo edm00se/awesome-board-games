@@ -502,8 +502,8 @@
 ![Terraforming Mars](https://upload.wikimedia.org/wikipedia/en/f/f0/Terraforming_Mars_board_game_box_cover.jpg)
 
 | Players | Min. Age | Time |
-| ------: | -------: | -----: |
-|  1 - 5  |       12 |   120m |
+| ------: | -------: | ---: |
+|   1 - 5 |       12 | 120m |
 
 ### [Secret Hitler](https://boardgamegeek.com/boardgame/188834/secret-hitler)
 
