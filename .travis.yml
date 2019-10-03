@@ -1,22 +1,19 @@
-language: node_js	
-cache:	
-  directories:	
-    - "node_modules"	
-node_js:	
+language: node_js
+cache:
+  directories:
+    - "node_modules"
+node_js:
   - lts/*
 git:
   depth: false
-script:	
-  - npm run lint
-  - npm run pre-prod-build	
-  - npm run build	
-  - touch docs/.nojekyll	
-deploy:	
-  provider: pages	
-  local-dir: docs	
-  skip-cleanup: true	
-  github-token: $GH_TOKEN  # Set in the settings page of your repository, as a secure variable	
-  keep-history: true	
-  fqdn: awesomeboard.games	
-  on:	
+script:
+  - npm run build:travis
+deploy:
+  provider: pages
+  local-dir: docs
+  skip-cleanup: true
+  github-token: $GH_TOKEN  # Set in the settings page of your repository, as a secure variable
+  keep-history: true
+  fqdn: awesomeboard.games
+  on:
     branch: master
