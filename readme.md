@@ -342,6 +342,17 @@
 | ------: | -------: | -----: |
 |   2     |        6 | 1-10m  |
 
+### [Shadow Hunters](https://en.wikipedia.org/wiki/Shadow_Hunters)
+
+> Shadow Hunters is a survival board game set in a devil-filled forest in which three groups of characters—the Shadows, creatures of the night; the Hunters, humans who try to destroy supernatural creatures; and the Neutrals, civilians caught in the middle of this ancient battle—struggle against each other to survive.
+> You belong to one of these groups and must conceal your identity from others since you don't know whom you can trust—at least not initially. Over time, though, someone might decipher who you are through your actions or through Hermit cards, or you might even reveal yourself to use your special ability.
+
+![Shadow Hunters Image](https://cf.geekdo-images.com/itemrep/img/RTm1Doeg8mGYz9VP_YEp__9h37Q=/fit-in/246x300/pic1215982.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   4-8   |        13| 45m    |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
