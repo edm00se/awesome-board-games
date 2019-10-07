@@ -353,6 +353,16 @@
 | ------: | -------: | -----: |
 |   4-8   |       13 |  45m   |
 
+### [Persian Wars](https://boardgamegeek.com/boardgame/236008/persian-wars)
+
+> Persian Wars is a card-driven wargame depicting the Greco-Persian conflict from 494 to 466 B.C. Players control either the Persian empire and its generals, Xerxes, Artabazus, Artayntes, Artemisia and Mardonius or the Greek city-states and their generals, the Athenians Xanthippus, Miltiades and Themistocles and Spartans, Leonidas and Pausanias.
+
+![Persian Wars Image](https://cf.geekdo-images.com/itemrep/img/dP4fwGwf-wFQ36ROJU0v2lOQF3E=/fit-in/246x300/pic4079777.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |       12 | 60-90m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
