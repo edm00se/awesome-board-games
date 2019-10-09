@@ -639,7 +639,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
-|   2 - 8 |       8 |  15m |
+|   2 - 8 |       8  |  15m |
 
 ## Contribute
 
