@@ -629,6 +629,18 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 | ------: | -------: | ---: |
 |   2 - 8 |       14 |  15m |
 
+### [SuperFight](https://www.superfightgame.com/)
+
+> A game of absurd arguments
+
+Superfight is a game where you argue with your friends over ridiculous fights. The game is very simple. Players use the cards to create ridiculous fighters, and argue about which character would win in a fight. Then everyone around the table votes on the winner. As you can imagine, the fights are epic and hilarious. It’s fun for all ages and works for all kinds of players.
+
+![SuperFight Image](https://cf.geekdo-images.com/itemrep/img/lzYOqbq7xfZbofwrWPrIlxl1APA=/fit-in/246x300/pic2429251.png)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 8 |       8  |  15m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
