@@ -651,6 +651,17 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | ---: |
 |   2 - 4 |       10 |  20m |
 
+### [Pinch 'n' Pass](https://boardgamegeek.com/boardgame/270030/pinch-n-pass)
+
+> Battle with your opponents and the buzzer in this quick-thinking, fast-paced game of categories. How many famous actors, pizza topping, things that are red, or breeds of dog can you name under pressure? ‘Pinch’ and ‘pass’ category cards differ in that you try to snag pinch cards from other players by shouting out something from the category and you try to get rid of pass cards hot-potato style by saying something from the category. Whoever’s left holding the card when the buzzer goes off  reaps the benefit (for pinch cards) or suffering the penalty (for pass cards). First player to the finish line is the winner, but don’t get knocked out for getting caught with too many pass cards! Each player may also call another player out for a head-to-head round. You can only do it once, so make it count!
+
+
+![Pinch 'n' Pass Image](https://images-na.ssl-images-amazon.com/images/I/51b2hKGHwnL._AC_.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   3 - 6 |       12 |  30m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
