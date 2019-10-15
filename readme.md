@@ -641,6 +641,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | ---: |
 |   2 - 8 |       8  |  15m |
 
+### [Love Letter](https://en.wikipedia.org/wiki/Love_Letter_(card_game))
+
+> Love Letter is a game of risk, deduction, and luck. Each player attempts to have their love letter delivered to Annette, the princess of Tempest, before anyone else does. From a deck with sixteen cards and eight roles, each player starts with one card. As the game progresses, each player must choose between their current role and those remaining in the deck. Will your letter reach the princess first?
+
+![Love Letter Image](https://cf.geekdo-images.com/itemrep/img/x7Xa_F99E1UJXXKp2_NQi-sgwEM=/fit-in/246x300/pic1401448.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |       10 |  20m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
