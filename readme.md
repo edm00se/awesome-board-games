@@ -655,7 +655,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 > TZAAR is the second game in the GIPF series of abstract strategy games. Each player has types of pieces (6 tzaars, 9 tzarras, and 15 totts). Players take turns trying to capture opponent's pieces or stacking their pieces. Stacking pieces makes them stronger but reduces the number of pieces the player has on the board. Players lose if they cannot capture their opponent's piece or they do not have at least one type of each piece on the baord. 
 
-![TZAAR image](https://en.wikipedia.org/wiki/TZAAR#/media/File:TZAAR_box_cover.png)
+![TZAAR image](https://upload.wikimedia.org/wikipedia/en/b/b2/TZAAR_box_cover.png)
 
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
