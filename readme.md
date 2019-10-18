@@ -374,6 +374,16 @@
 | ------: | -------: | -----: |
 |   2 - 4 |       12 | 60-90m |
 
+### [Twilight Imperium](https://en.wikipedia.org/wiki/Twilight_Imperium)
+
+> The game's premise is a large-scale space opera. It is set in the unstable power vacuum left after the centuries-long decline and collapse of the previously dominant Lazax race.] The old galactic central capital, Mecatol Rex, located in the center of the map is maintained by custodians who maintain the imperial libraries and oversee the meetings of the galactic council. Players assume the roles of rising empires on the fringes of the galaxy, vying for military and political control, until one finally becomes sufficiently dominant to take over as a new galactic emperor.
+
+![Twilight Imperium game image](https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Twilight-imperium-layout_12.jpg/350px-Twilight-imperium-layout_12.jpg)
+
+| Players | Min. Age | Time     |
+| ------: | -------: | -----:   |
+|   3 - 8 |      14+ | 240-480m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
