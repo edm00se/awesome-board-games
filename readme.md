@@ -14,6 +14,17 @@
 
 ## Family
 
+### [Ghost Blitz](<https://boardgamegeek.com/boardgame/83195/ghost-blitz>)
+
+> Balduin, the house ghost, found an old camera in the castle cellar. Immediately he photographed everything that he loves to make disappear when he is haunting  – including himself, of course. Unfortunately, the enchanted camera takes many photos in the wrong colors. Sometimes the green bottle is white, at other times it's blue. Looking at the photos, Balduin doesn't really remember any more what he wanted to make disappear next. Can you help him with his haunting and quickly name the right item, or even make it disappear by yourself? If you grab the right items quickly, you have a good chance of winning...
+
+![Ghost Blitz game image](https://cf.geekdo-images.com/itemrep/img/D-2aizsXhm-kpy0ffA4R--Xd07Y=/fit-in/246x300/pic2034769.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 8 |        8 |  20m |
+
+
 ### [Ticket to Ride](<https://wikipedia.org/wiki/Ticket_to_Ride_(board_game)>)
 
 > ...a cross-country train adventure where players collect cards of various types of train cars that enable them to claim railway routes connecting cities in various countries around the world.
@@ -108,7 +119,37 @@
 | ------: | -------: | ---: |
 |   1 - 5 |       13 |  60m |
 
+### [Exit The Game the Abandoned Cabin](https://boardgamegeek.com/boardgame/203420/exit-game-abandoned-cabin)
+
+> After seeking shelter in an abandoned cabin and spending the night, you and your friends realize that someone has secured the door with a combination lock. The only way to escape your predicament is to work as a team, crack codes and solve various puzzles in order to deduct the combination that leads to freedom.
+
+![Exit Abandoned Cabin game image](https://cf.geekdo-images.com/itemrep/img/YuNiISiSOUDAtk634f7dUq7MXu8=/fit-in/246x300/pic3332426.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   1 - 6 |       12 | 60-120m |
+
+### [Candy Land](<https://en.wikipedia.org/wiki/Candy_Land>)
+
+> The race is woven around a storyline about finding King Kandy, the lost king of Candy Land...game requires no reading and minimal counting skills, making it suitable for young children...players are never required to make choices, just follow directions.
+
+![Candy Land image](https://upload.wikimedia.org/wikipedia/en/d/de/Classic_Candy_Land_by_Winning_Moves.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 4 |        3 | 15-21m |
+
 ## Strategy
+
+### [Backgammon](https://en.wikipedia.org/wiki/Backgammon)
+
+> It is one of the oldest known board games. It is a two player game where each player has fifteen pieces (checkers) which move between twenty-four triangles (points) according to the roll of two dice. The objective of the game is to be first to bear off, i.e. move all fifteen checkers off the board.
+
+![Backgammon](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Backgammon_lg.png/320px-Backgammon_lg.png)
+
+| Players | Min. Age |  Time |
+| ------: | -------: | ----: |
+|       2 |        5 | 5-60m |
 
 ### [Tak](<https://en.wikipedia.org/wiki/Tak_(game)>)
 
@@ -272,6 +313,67 @@
 | ------: | -------: | -----: |
 |   4 - 8 |        7 | 30-90m |
 
+### [Cluedo](https://en.wikipedia.org/wiki/Cluedo)
+
+> Cluedo is a murder mystery game for three to six players. Each player is a suspect in the murder and needs to prove his innocence by deducing who the actual murderer is, where the crime took place and which weapon was used. The players do this by strategically moving around the different rooms in the mansion and collecting various clues from the other players.
+
+![Cluedo game image](https://upload.wikimedia.org/wikipedia/en/6/61/Cluedo_1956_Small_Red_Box_Edition.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   3 - 6 |        8 | 10-60m |
+
+### [Sheriff of Nottingham](https://boardgamegeek.com/boardgame/157969/sheriff-nottingham)
+
+> In Sheriff of Nottingham, each player assumes the role of a merchant who is looking to make a tidy profit during the Prince's visit to Nottingham. While it is possible to make a decent profit off of legal goods, illicit goods will leave you swimming in riches. But be careful, lest the Sheriff of Nottingham catches you!
+
+![Sheriff of Nottingham game image](https://cf.geekdo-images.com/itemrep/img/ue8OIdjUCpDrnM9Y0ZXKuDdk8Y8=/fit-in/246x300/pic2075830.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   3 - 5 |       14 |  60m |
+
+### [Splendor](https://boardgamegeek.com/boardgame/148228/splendor)
+
+> Splendor places you in the shoes of a wealthy Renaissance merchant trying to compete with others to build the most lucrative and prestigious jewelry business in all of Europe. Players will compete with each other to buy gem mines, transportation, and storefronts in order to increase their wealth and accumulate the most prestige points. As your fame and wealth grows, you may even attract the attention of the local nobles...
+
+![Splendor game image](https://upload.wikimedia.org/wikipedia/en/2/2e/BoardGameSplendorLogoFairUse.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |       10 |  30m |
+
+### [Connect Four](https://en.wikipedia.org/wiki/Connect_Four)
+
+> Connect Four is a two-player connection game in which the players first choose a color and then take turns dropping one colored disc from the top into a seven-column, six-row vertically suspended grid. The pieces fall straight down, occupying the lowest available space within the column. The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs. Connect Four is a solved game. The first player can always win by playing the right moves.
+
+![Connect four image](https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Connect_4_Board_and_Box.jpg/220px-Connect_4_Board_and_Box.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2     |        6 | 1-10m  |
+
+### [Shadow Hunters](https://en.wikipedia.org/wiki/Shadow_Hunters)
+
+> Shadow Hunters is a survival board game set in a devil-filled forest in which three groups of characters—the Shadows, creatures of the night; the Hunters, humans who try to destroy supernatural creatures; and the Neutrals, civilians caught in the middle of this ancient battle—struggle against each other to survive.
+> You belong to one of these groups and must conceal your identity from others since you don't know whom you can trust—at least not initially. Over time, though, someone might decipher who you are through your actions or through Hermit cards, or you might even reveal yourself to use your special ability.
+
+![Shadow Hunters Image](https://cf.geekdo-images.com/itemrep/img/RTm1Doeg8mGYz9VP_YEp__9h37Q=/fit-in/246x300/pic1215982.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   4-8   |       13 |  45m   |
+
+### [Persian Wars](https://boardgamegeek.com/boardgame/236008/persian-wars)
+
+> Persian Wars is a card-driven wargame depicting the Greco-Persian conflict from 494 to 466 B.C. Players control either the Persian empire and its generals, Xerxes, Artabazus, Artayntes, Artemisia and Mardonius or the Greek city-states and their generals, the Athenians Xanthippus, Miltiades and Themistocles and Spartans, Leonidas and Pausanias.
+
+![Persian Wars Image](https://cf.geekdo-images.com/itemrep/img/dP4fwGwf-wFQ36ROJU0v2lOQF3E=/fit-in/246x300/pic4079777.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |       12 | 60-90m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
@@ -426,14 +528,149 @@
 
 ### [Joking Hazard](https://boardgamegeek.com/boardgame/193621/joking-hazard)
 
-> From the creators of Cyanide & Happiness comes a card game where players compete to finish an awful comic strip. 
->  The creators said: "Someone on the Internet once told us that making stick figure comics is easy as hell, and that we were ugly and stupid.They were right on all counts. So, after crying for a few hours, we created the Random Comic Generator which since its inception in 2014 has entertained millions with its computer-generated comedy. After a few weeks of playing with the Random Comic Generator, we started to wonder if its hundreds of random panels might   lend themselves to a card game, where you compete against your friends to finish a comic with a funny punchline. So we printed  out all of the RCG panels and started playing with them." Draw 7 cards. The deck plays the first card, select a Judge to play the second, then everyone selects a third card to create  a three panel comic strip. The Judge picks a winner. The game includes a deck of 250 unique panel cards - that’s 15.4 million combinations of comics!
+> From the creators of Cyanide & Happiness comes a card game where players compete to finish an awful comic strip.
+> The creators said: "Someone on the Internet once told us that making stick figure comics is easy as hell, and that we were ugly and stupid.They were right on all counts. So, after crying for a few hours, we created the Random Comic Generator which since its inception in 2014 has entertained millions with its computer-generated comedy. After a few weeks of playing with the Random Comic Generator, we started to wonder if its hundreds of random panels might lend themselves to a card game, where you compete against your friends to finish a comic with a funny punchline. So we printed out all of the RCG panels and started playing with them." Draw 7 cards. The deck plays the first card, select a Judge to play the second, then everyone selects a third card to create a three panel comic strip. The Judge picks a winner. The game includes a deck of 250 unique panel cards - that’s 15.4 million combinations of comics!
 
 <img alt="Joking Hazard box" src="https://www.jokinghazardgame.com/img/products/base-deck.jpg" width="260">
 
-| Players | Min. Age | Time    |
-| ------: | -------: | ------: |
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
 |  3 - 10 |       18 | 30-90m |
+
+### [Monopoly](https://boardgamegeek.com/boardgame/41186/monopoly-city)
+
+> At first you think you are playing good old Monopoly where they just add some extra buildings to give a little twist. But the longer you play, the more you realise they actually made a whole new game. You start with more money than usual, which gives you the idea you will last longer (with a bit of luck maybe). The fact that now you can build right away when you bought a property, gives so much dynamic to the game. No more waiting until you have the whole set, or not having the set because one player refuses to trade. Even with a couple of single properties you can win the game.
+
+<img alt="Monopoly" src="https://cf.geekdo-images.com/itemrep/img/CEVG3XKEt3JT0Zw4TeuNL36i4gM=/fit-in/246x300/pic486673.jpg">
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 6 |        8 | 40-75m |
+
+### [Terror Below](https://boardgamegeek.com/boardgame/270138/terror-below)
+
+> Terror Below is a game of government experiments gone wild in the Nevada desert. The faster you move, the more vibrations you make, attracting the attention of the vicious worms underground. Navigate the difficult terrain to collect valuable worm eggs and deliver them to locations around town to claim bounties. If you're feeling lucky, collect items and weapons to go hunt 'em.
+
+![Terror Below Image](https://cf.geekdo-images.com/itemrep/img/-3Jw5XTh_9nBjVPO6PutnWCTVSQ=/fit-in/246x300/pic4560900.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   1 - 5 |       10 | 45-60m |
+
+### [Terraforming Mars](https://en.wikipedia.org/wiki/Terraforming_Mars_(board_game))
+
+> Terraforming Mars is a game where players take the role of corporations to terraform the planet by raising the temperature and creating oxygen, water, plant and animal life. Players compete to earn the most points, which are measured by their contribution to terraforming, as well as building human infrastructure.
+
+![Terraforming Mars](https://upload.wikimedia.org/wikipedia/en/f/f0/Terraforming_Mars_board_game_box_cover.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   1 - 5 |       12 | 120m |
+
+### [Secret Hitler](https://boardgamegeek.com/boardgame/188834/secret-hitler)
+
+> Secret Hitler is a dramatic game of political intrigue and betrayal set in 1930s Germany. Each player is randomly and secretly assigned to be a liberal or a fascist, and one player is Secret Hitler. The fascists coordinate to sow distrust and install their cold-blooded leader; the liberals must find and stop the Secret Hitler before it's too late. The liberal team always has a majority.
+
+![Secret Hitler Image](https://m.media-amazon.com/images/S/aplus-seller-content-images-us-east-1/ATVPDKIKX0DER/AZM5C4RTN0ERZ/B01JKD4HYC/j0WJECPJTgSr._UX899_TTW__.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|  5 - 10 |       13 |  45m |
+
+### [Smash Up](https://boardgamegeek.com/boardgame/122522/smash)
+
+> The "shufflebuilding" game Smash Up begins with a simple premise: take the 20-card decks of two factions, shuffle them into a deck of forty cards, then compete to crush more Bases than your opponents! Each faction involves a different gaming mechanism - the pirates move the cards, the zombies bring back the cards from the discard pile, the dinosaurs have enormous power - and each combination of factions brings a different gaming experience.
+
+![Smash Up Image](https://cf.geekdo-images.com/itemrep/img/B477eHwGjDYBLMYSIlLGGeJcoMo=/fit-in/246x300/pic1269874.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |       12 |  45m |
+
+### [Gloomhaven](https://boardgamegeek.com/boardgame/174430/gloomhaven)
+
+> Gloomhaven is a game of Euro-inspired tactical combat in a persistent world of shifting motives. Players will take on the role of a wandering adventurer with their own special set of skills and their own reasons for traveling to this dark corner of the world. Players must work together out of necessity to clear out menacing dungeons and forgotten ruins. In the process, they will enhance their abilities with experience and loot, discover new locations to explore and plunder, and expand an ever-branching story fueled by the decisions they make.
+
+![Gloomhaven Image](https://cf.geekdo-images.com/itemrep/img/P7MVqNuhAl8Y4fxiM6e74kMX6e0=/fit-in/246x300/pic2437871.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   1 - 4 |       12 | 60-120m |
+
+### [Telestrations](https://boardgamegeek.com/boardgame/46213/telestrations)
+
+> Each player begins by sketching a TELESTRATIONS word dictated by the roll of a die. The old fashioned sand timer may limit the amount of time they get to execute their sketch, but it certainly doesn't limit creativity! Time's up! All players, all at the same time, pass their sketch to the next player, who must guess what's been drawn. Players then simultaneously pass their guess -- which hopefully matches the original word (or does it??) -- to the next player who must try to draw the word they see -- and so on.
+
+![Telestrations Image](https://cf.geekdo-images.com/itemrep/img/G28zSLO9mMXGHjn5ZSY4vk0sd3Y=/fit-in/246x300/pic2523100.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   4 - 8 |       12 |  30m |
+
+### [Trash Pandas](https://gamewright.com/product/Trash-Pandas)
+
+> Trash Pandas is a card game where you get to play as a racoon, trying to gather useful trash as you paw through the card deck. Start a collection of precious trash items, like day-old pizza or half-eaten candy, and gain points to be the best trash panda on the block. But wait, roll the dice to sabatoge other masked fiends to prevent them from taking your spot at the top, but make sure you don't mess with any Doggos that can mess with you back. Trash is treasure, and stash the most trash!
+
+![Trash Pandas Image](https://cf.geekdo-images.com/itemrep/img/_y-H3J7gUewKSFyTS4_lzkbblgo=/fit-in/246x300/pic3989423.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 5 |        8 |  15m |
+
+### [Codenames](https://boardgamegeek.com/boardgame/178900/codenames)
+
+> Two rival spymasters know the secret identities of 25 agents. Their teammates know the agents only by their CODENAMES.
+
+In Codenames, two teams compete to see who can make contact with all of their agents first. Spymasters give one-word clues that can point to multiple words on the board. Their teammates try to guess words of the right color while avoiding those that belong to the opposing team. And everyone wants to avoid the assassin.
+
+![Codenames Image](https://cf.geekdo-images.com/itemrep/img/j3KnNONTvPaOqyY_pwhS9C9s5bk=/fit-in/246x300/pic2582929.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 8 |       14 |  15m |
+
+### [SuperFight](https://www.superfightgame.com/)
+
+> A game of absurd arguments
+
+Superfight is a game where you argue with your friends over ridiculous fights. The game is very simple. Players use the cards to create ridiculous fighters, and argue about which character would win in a fight. Then everyone around the table votes on the winner. As you can imagine, the fights are epic and hilarious. It’s fun for all ages and works for all kinds of players.
+
+![SuperFight Image](https://cf.geekdo-images.com/itemrep/img/lzYOqbq7xfZbofwrWPrIlxl1APA=/fit-in/246x300/pic2429251.png)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 8 |       8  |  15m |
+
+### [Love Letter](https://en.wikipedia.org/wiki/Love_Letter_(card_game))
+
+> Love Letter is a game of risk, deduction, and luck. Each player attempts to have their love letter delivered to Annette, the princess of Tempest, before anyone else does. From a deck with sixteen cards and eight roles, each player starts with one card. As the game progresses, each player must choose between their current role and those remaining in the deck. Will your letter reach the princess first?
+
+![Love Letter Image](https://cf.geekdo-images.com/itemrep/img/x7Xa_F99E1UJXXKp2_NQi-sgwEM=/fit-in/246x300/pic1401448.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |       10 |  20m |
+
+### [TZAAR](https://en.wikipedia.org/wiki/TZAAR)
+
+> TZAAR is the second game in the GIPF series of abstract strategy games. Each player has types of pieces (6 tzaars, 9 tzarras, and 15 totts). Players take turns trying to capture opponent's pieces or stacking their pieces. Stacking pieces makes them stronger but reduces the number of pieces the player has on the board. Players lose if they cannot capture their opponent's piece or they do not have at least one type of each piece on the baord. 
+
+![TZAAR image](https://upload.wikimedia.org/wikipedia/en/b/b2/TZAAR_box_cover.png)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|       2 |       13 | 30-60m |
+
+### [Pinch 'n' Pass](https://boardgamegeek.com/boardgame/270030/pinch-n-pass)
+
+> Battle with your opponents and the buzzer in this quick-thinking, fast-paced game of categories. How many famous actors, pizza topping, things that are red, or breeds of dog can you name under pressure? ‘Pinch’ and ‘pass’ category cards differ in that you try to snag pinch cards from other players by shouting out something from the category and you try to get rid of pass cards hot-potato style by saying something from the category. Whoever’s left holding the card when the buzzer goes off  reaps the benefit (for pinch cards) or suffering the penalty (for pass cards). First player to the finish line is the winner, but don’t get knocked out for getting caught with too many pass cards! Each player may also call another player out for a head-to-head round. You can only do it once, so make it count!
+
+
+![Pinch 'n' Pass Image](https://images-na.ssl-images-amazon.com/images/I/51b2hKGHwnL._AC_.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   3 - 6 |       12 |  30m |
 
 ## Contribute
 

@@ -10,7 +10,7 @@ Guidelines:
 
 ## Adding to This List
 
-Note: if this all seems complicated, it shouldn't. Go check out the [example source block for a game][example-game-block] in the [formatting guide][formatting-guide] and it should clear things up.
+Note: if this all seems complicated, it shouldn't. Go check out the [example source block for a game][example-game-block] in the [formatting guide][formatting-guide] and it should clear things up. Please keep game additions in separate pull requests.
 
 For specifics, please ensure your pull request adheres to the following guidelines:
 
