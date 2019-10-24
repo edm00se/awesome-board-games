@@ -672,6 +672,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | ---: |
 |   3 - 6 |       12 |  30m |
 
+### [Cranium](https://boardgamegeek.com/boardgame/891/cranium)
+
+> Cranium bills itself as the "whole-brain" game. It's a party game that borrows from a host of other popular party games of recent times. Players have to successfully complete activities in each of four sections to win. 1) Creative Cat - A player must clue a word to his or her teammates by drawing it, sculpting it in clay, or drawing it with his or her eyes closed. 2) Data Head - A variety of trivia questions. 3) Word Worm - Players unscramble words, spell challenging words, guess definitions, identify words with letters left out, or spell words backwords. 4) Star Performer - players must whistle a song, impersonate a celebrity, or act out a clue. Cranium has elements similar to those of Pictionary, Charades, Trivial Pursuit: Genus Edition, Celebrities, Huggermugger, Claymania, etc.
+
+![Cranium Image](https://cf.geekdo-images.com/itemrep/img/LI4w44KvZfDdRJacsftOUtvSKC0=/fit-in/246x300/pic4994220.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|  4 - 16 |       13 |  60m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
