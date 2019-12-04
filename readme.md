@@ -139,6 +139,16 @@
 | ------: | -------: | -----: |
 |   2 - 4 |        3 | 15-21m |
 
+### [Sorry!](https://boardgamegeek.com/boardgame/2407/sorry)
+
+> Slide, collide and score to win the game of Sorry! Draw cards to see how far you get to move one of your pawns on the board. If you land on a Slide you can zip to the end and bump your opponents' pawns or your own!
+
+![Sorry image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Sorry_diamond_edit.jpg/440px-Sorry_diamond_edit.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |        6 | 30m    |
+
 ## Strategy
 
 ### [Backgammon](https://en.wikipedia.org/wiki/Backgammon)
@@ -373,6 +383,16 @@
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
 |   2 - 4 |       12 | 60-90m |
+
+### [Mastermind](https://boardgamegeek.com/boardgame/2392/mastermind)
+
+> Guess the color of hidden pegs. A deduction game where each player takes turn making a limited number of guesses, using logic to deduce what pegs the opponent has hidden.
+
+![Mastermind image](https://target.scene7.com/is/image/Target/GUEST_ed6783bd-a3da-470d-93c5-3b73fc716bfd?wid=488&hei=488&fmt=pjpeg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|    2    |       8  |  30m   |
 
 ## Party
 
