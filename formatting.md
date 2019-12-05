@@ -15,7 +15,7 @@ A block of text should follow these formatting guidelines:
   - if you can't find an image on Wikipedia or BoardGameGeek, try to find it elsewhere, in a size as close 250px x 250px or so
 - a table, with basic statistics; \# of players, min. age, and estimated time to play
 
-When in doubt, follow the information from the vendor, or a trusted source like [Board Game Geek][board-game-geek-url].
+When in doubt, follow the information from the vendor, or a trusted source like [Board Game Geek][bgg-com].
 
 ## Example
 
