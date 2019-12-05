@@ -37,10 +37,6 @@ When in doubt, follow the information from the vendor, or a trusted source like 
 
 ![rendered output][output-example]
 
-## Auto-Formatting
-
-After seeing some easily missed formatting issues which the linter detects, I've added a GitHub Action to take over the linting and formatting duties, which should hopefully handle most simple formatting issues automatically.
-
 [markdown-guide-src]: https://help.github.com/articles/about-writing-and-formatting-on-github/
 [output-example]: ./assets/images/rendered_md_example.png
 [wikipedia-org]: https://www.wikipedia.org/
