@@ -149,6 +149,16 @@
 | ------: | -------: | -----: |
 |   2 - 4 |        6 | 30m    |
 
+### [Klask](https://boardgamegeek.com/boardgame/165722/klask)
+
+> Klask is a board game that has a ball field shape with two deep holes functioning as goals in each end of the field. The purpose of the game is to push the small ball around on the field with your magnet/gaming piece, shoot the ball past the obstacles and your opponent and into the goal hole.
+
+![Klask image](https://cf.geekdo-images.com/itemrep/img/tVtNzNug3e8QiLREwiEJOZMF0UY=/fit-in/246x300/pic2627442.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|       2 |        8 | 10m    |
+
 
 ## Strategy
 
