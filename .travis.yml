@@ -8,12 +8,4 @@ git:
   depth: false
 script:
   - npm run build:travis
-deploy:
-  provider: pages
-  local-dir: docs
-  skip-cleanup: true
-  github-token: $GH_TOKEN  # Set in the settings page of your repository, as a secure variable
-  keep-history: true
-  fqdn: awesomeboard.games
-  on:
-    branch: master
+  - npm run lint
