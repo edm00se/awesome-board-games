@@ -8,7 +8,7 @@ on:
   pull_request_review_comment:
     types: [created, edited]
 jobs:
-  build:
+  janet:
     runs-on: ubuntu-latest
     name: The Good Place
     steps:
