@@ -6,7 +6,6 @@
     "dev": "vuepress dev .",
     "build": "cross-env NODE_ENV=production vuepress build . -d docs",
     "build:now": "cross-env NODE_ENV=production vuepress build . -d dist",
-    "build:travis": "run-s lint pre-prod-build build",
     "test": "npm run lint",
     "lint": "awesome-lint",
     "format": "prettier readme.md --write",
