@@ -424,6 +424,16 @@
 | ------: | -------: | -----: |
 |   2 - 4 |       13 | 30-45m |
 
+### [Heroscape](https://boardgamegeek.com/boardgame/11170/heroscape-master-set-rise-valkyrie)
+
+> Join the battle of all time! Draft your army from troops of all different eras, species, and battle styles then fight on a battlefield created by you and your friends. Work together to accomplish a scenario laid out in the included rules or duke it out amongst yourselves to see who's the greater battlefield commander.
+
+![Heroscape Master Set: Rise of the Valkyrie](https://cdn.shopify.com/s/files/1/1031/9405/products/1_13261260-646a-4892-a1ab-737aa730c902.jpeg?v=1589744301)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 4 |        8 |    90m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
