@@ -1,3 +1,4 @@
+<!--lint disable no-repeat-punctuation match-punctuation awesome-heading awesome-github-->
 <div align="center">
   <img src="./assets/images/Jon_Board.png" alt="Jon and the Board Game of Westeros" title="you know nothing, Jon Snow">
   <br />
@@ -14,7 +15,7 @@
 
 ## Family
 
-### [Ghost Blitz](<https://boardgamegeek.com/boardgame/83195/ghost-blitz>)
+### [Ghost Blitz](https://boardgamegeek.com/boardgame/83195/ghost-blitz)
 
 > Balduin, the house ghost, found an old camera in the castle cellar. Immediately he photographed everything that he loves to make disappear when he is haunting  – including himself, of course. Unfortunately, the enchanted camera takes many photos in the wrong colors. Sometimes the green bottle is white, at other times it's blue. Looking at the photos, Balduin doesn't really remember any more what he wanted to make disappear next. Can you help him with his haunting and quickly name the right item, or even make it disappear by yourself? If you grab the right items quickly, you have a good chance of winning...
 
@@ -23,7 +24,6 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 8 |        8 |  20m |
-
 
 ### [Ticket to Ride](<https://wikipedia.org/wiki/Ticket_to_Ride_(board_game)>)
 
@@ -129,7 +129,7 @@
 | ------: | -------: | ------: |
 |   1 - 6 |       12 | 60-120m |
 
-### [Candy Land](<https://en.wikipedia.org/wiki/Candy_Land>)
+### [Candy Land](https://en.wikipedia.org/wiki/Candy_Land)
 
 > The race is woven around a storyline about finding King Kandy, the lost king of Candy Land...game requires no reading and minimal counting skills, making it suitable for young children...players are never required to make choices, just follow directions.
 
@@ -145,9 +145,9 @@
 
 ![Sorry image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Sorry_diamond_edit.jpg/300px-Sorry_diamond_edit.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   2 - 4 |        6 | 30m    |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |        6 |  30m |
 
 ### [Klask](https://boardgamegeek.com/boardgame/165722/klask)
 
@@ -155,10 +155,9 @@
 
 ![Klask image](https://cf.geekdo-images.com/itemrep/img/tVtNzNug3e8QiLREwiEJOZMF0UY=/fit-in/246x300/pic2627442.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|       2 |        8 | 10m    |
-
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|       2 |        8 |  10m |
 
 ## Strategy
 
@@ -370,9 +369,9 @@
 
 ![Connect four image](https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Connect_4_Board_and_Box.jpg/220px-Connect_4_Board_and_Box.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   2     |        6 | 1-10m  |
+| Players | Min. Age |  Time |
+| ------: | -------: | ----: |
+|       2 |        6 | 1-10m |
 
 ### [Shadow Hunters](https://en.wikipedia.org/wiki/Shadow_Hunters)
 
@@ -381,9 +380,9 @@
 
 ![Shadow Hunters Image](https://cf.geekdo-images.com/itemrep/img/RTm1Doeg8mGYz9VP_YEp__9h37Q=/fit-in/246x300/pic1215982.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   4-8   |       13 |  45m   |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|     4-8 |       13 |  45m |
 
 ### [Persian Wars](https://boardgamegeek.com/boardgame/236008/persian-wars)
 
@@ -391,7 +390,7 @@
 
 ![Persian Wars Image](https://cf.geekdo-images.com/itemrep/img/dP4fwGwf-wFQ36ROJU0v2lOQF3E=/fit-in/246x300/pic4079777.png)
 
-| Players | Min. Age | Time   |
+| Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 4 |       12 | 60-90m |
 
@@ -401,9 +400,9 @@
 
 ![Mastermind image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mastermind.jpg/226px-Mastermind.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|    2    |       8  |  30m   |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|       2 |        8 |  30m |
 
 ### [Call to Adventure](https://www.brotherwisegames.com/about-call-to-adventure)
 
@@ -411,7 +410,7 @@
 
 ![Call to Adventure box image](https://cf.geekdo-images.com/itemrep/img/9s46VFMEDqq9BGZwHDB0ZnDHwhw=/fit-in/246x300/pic4165094.jpg)
 
-| Players | Min. Age | Time   |
+| Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 4 |       13 | 30-45m |
 
@@ -598,7 +597,7 @@
 | ------: | -------: | -----: |
 |   1 - 5 |       10 | 45-60m |
 
-### [Terraforming Mars](https://en.wikipedia.org/wiki/Terraforming_Mars_(board_game))
+### [Terraforming Mars](<https://en.wikipedia.org/wiki/Terraforming_Mars_(board_game)>)
 
 > Terraforming Mars is a game where players take the role of corporations to terraform the planet by raising the temperature and creating oxygen, water, plant and animal life. Players compete to earn the most points, which are measured by their contribution to terraforming, as well as building human infrastructure.
 
@@ -680,9 +679,9 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
-|   2 - 8 |       8  |  15m |
+|   2 - 8 |        8 |  15m |
 
-### [Love Letter](https://en.wikipedia.org/wiki/Love_Letter_(card_game))
+### [Love Letter](<https://en.wikipedia.org/wiki/Love_Letter_(card_game)>)
 
 > Love Letter is a game of risk, deduction, and luck. Each player attempts to have their love letter delivered to Annette, the princess of Tempest, before anyone else does. From a deck with sixteen cards and eight roles, each player starts with one card. As the game progresses, each player must choose between their current role and those remaining in the deck. Will your letter reach the princess first?
 
@@ -694,7 +693,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### [TZAAR](https://en.wikipedia.org/wiki/TZAAR)
 
-> TZAAR is the second game in the GIPF series of abstract strategy games. Each player has types of pieces (6 tzaars, 9 tzarras, and 15 totts). Players take turns trying to capture opponent's pieces or stacking their pieces. Stacking pieces makes them stronger but reduces the number of pieces the player has on the board. Players lose if they cannot capture their opponent's piece or they do not have at least one type of each piece on the baord. 
+> TZAAR is the second game in the GIPF series of abstract strategy games. Each player has types of pieces (6 tzaars, 9 tzarras, and 15 totts). Players take turns trying to capture opponent's pieces or stacking their pieces. Stacking pieces makes them stronger but reduces the number of pieces the player has on the board. Players lose if they cannot capture their opponent's piece or they do not have at least one type of each piece on the baord.
 
 ![TZAAR image](https://upload.wikimedia.org/wikipedia/en/b/b2/TZAAR_box_cover.png)
 
@@ -704,8 +703,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### [Pinch 'n' Pass](https://boardgamegeek.com/boardgame/270030/pinch-n-pass)
 
-> Battle with your opponents and the buzzer in this quick-thinking, fast-paced game of categories. How many famous actors, pizza topping, things that are red, or breeds of dog can you name under pressure? ‘Pinch’ and ‘pass’ category cards differ in that you try to snag pinch cards from other players by shouting out something from the category and you try to get rid of pass cards hot-potato style by saying something from the category. Whoever’s left holding the card when the buzzer goes off  reaps the benefit (for pinch cards) or suffering the penalty (for pass cards). First player to the finish line is the winner, but don’t get knocked out for getting caught with too many pass cards! Each player may also call another player out for a head-to-head round. You can only do it once, so make it count!
-
+> Battle with your opponents and the buzzer in this quick-thinking, fast-paced game of categories. How many famous actors, pizza topping, things that are red, or breeds of dog can you name under pressure? ‘Pinch’ and ‘pass’ category cards differ in that you try to snag pinch cards from other players by shouting out something from the category and you try to get rid of pass cards hot-potato style by saying something from the category. Whoever’s left holding the card when the buzzer goes off reaps the benefit (for pinch cards) or suffering the penalty (for pass cards). First player to the finish line is the winner, but don’t get knocked out for getting caught with too many pass cards! Each player may also call another player out for a head-to-head round. You can only do it once, so make it count!
 
 ![Pinch 'n' Pass Image](https://images-na.ssl-images-amazon.com/images/I/51b2hKGHwnL._AC_.jpg)
 
@@ -725,14 +723,13 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### [Mind the Gap](https://boardgamegeek.com/boardgame/229537/mind-gap)
 
-> Mind the Gap is a card game that replicates the iconic design of the London Underground map, and the game is licensed by Transport for London. Players have a hand of cards, each representing stations on the London Underground. Each player lays a card face up and players in turn play cards that are on a line that matches that of the previous card. If they cannot lay a card, they draw a card. The winner is the first player to exhaust their hand. 
-
+> Mind the Gap is a card game that replicates the iconic design of the London Underground map, and the game is licensed by Transport for London. Players have a hand of cards, each representing stations on the London Underground. Each player lays a card face up and players in turn play cards that are on a line that matches that of the previous card. If they cannot lay a card, they draw a card. The winner is the first player to exhaust their hand.
 
 ![Mind the Gap image](https://cf.geekdo-images.com/itemrep/img/-tBdBfB3GDsePPK0kNT4K4-EH5E=/fit-in/246x300/pic3604392.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   2 - 8 |        6 | 20m    |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 8 |        6 |  20m |
 
 ## Contribute
 
