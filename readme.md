@@ -159,6 +159,16 @@
 | ------: | -------: | ---: |
 |       2 |        8 |  10m |
 
+### [Battleball](https://boardgamegeek.com/boardgame/6795/battleball)
+
+> Battleball is a football board game but with teams made of players with physical and mechanical enhancements - which has made the sport more intense and more deadly. Plan a strategy and do your best to score two touchdowns without having all of your players be destroyed!
+
+![Battleball Image](https://cf.geekdo-images.com/imagepage/img/mE8Cieh1nQwge1TZ_40RkA7KADA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic227687.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|       2 |        8 |  45m |
+
 ## Strategy
 
 ### [Backgammon](https://en.wikipedia.org/wiki/Backgammon)
