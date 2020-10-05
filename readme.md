@@ -163,7 +163,7 @@
 
 > Battleball is a football board game but with teams made of players with physical and mechanical enhancements - which has made the sport more intense and more deadly. Plan a strategy and do your best to score two touchdowns without having all of your players be destroyed!
 
-![Battleball Image](https://i.ebayimg.com/images/g/xFsAAOSwOMpd6G8M/s-l400.jpg)
+![Battleball Image](https://cf.geekdo-images.com/itemrep/img/_ybsCFVKunSnqyGPCiuXbT2kuDo=/fit-in/246x300/filters:strip_icc()/pic227687.jpg)
 
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
@@ -424,7 +424,7 @@
 | ------: | -------: | -----: |
 |   2 - 4 |       13 | 30-45m |
 
-### [Heroscape](https://boardgamegeek.com/boardgame/11170/heroscape-master-set-rise-valkyrie)
+### [Heroscape](https://cf.geekdo-images.com/itemrep/img/QxW14xwSXjhYU8h_KlvG09nbBd0=/fit-in/246x300/filters:strip_icc()/pic244662.jpg)
 
 > Join the battle of all time! Draft your army from troops of all different eras, species, and battle styles then fight on a battlefield created by you and your friends. Work together to accomplish a scenario laid out in the included rules or duke it out amongst yourselves to see who's the greater battlefield commander.
 
