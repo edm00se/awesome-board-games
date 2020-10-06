@@ -430,9 +430,9 @@
 
 ![Heroscape Master Set: Rise of the Valkyrie](https://cf.geekdo-images.com/itemrep/img/QxW14xwSXjhYU8h_KlvG09nbBd0=/fit-in/246x300/filters:strip_icc()/pic244662.jpg)
 
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   2 - 4 |        8 |    90m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |        8 |  90m |
 
 ## Party
 
