@@ -434,6 +434,16 @@
 | ------: | -------: | ---: |
 |   2 - 4 |        8 |  90m |
 
+### [Stone Age](https://boardgamegeek.com/boardgame/34635/stone-age)
+
+> In Stone Age, players live in the early days of human history, competing for food and collecting resources to expand their tribe and achieve new levels of civilization. Take turns assigning your tribe members to limited areas on the board that benefit you in different ways, sequence your actions strategically and feed your people to avoid losing points or resources.
+
+![Stone Age](https://cf.geekdo-images.com/itemrep/img/vApiI-gvXtwafEriPc4jDVJ1ajA=/fit-in/246x300/filters:strip_icc()/pic1632539.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 4 |       10 | 60-90m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
