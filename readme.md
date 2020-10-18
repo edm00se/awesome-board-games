@@ -169,6 +169,16 @@
 | ------: | -------: | ---: |
 |       2 |        8 |  45m |
 
+### [Parcheesi](https://en.wikipedia.org/wiki/Parcheesi)
+
+> Pachisi, the national game of India, dates back to 4 AD and remains popular today. Parcheesi is the westernized version. Parcheesi is typically played with two dice, four pieces per player and a gameboard with a track around the outside, four corner spaces and four home paths leading to a central end space. Moving all four pieces to the home position wins the game.
+
+![Parcheesi Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Parcheesi-board-perspective.jpg/320px-Parcheesi-board-perspective.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |        8 | 30-60m |
+
 ## Strategy
 
 ### [Backgammon](https://en.wikipedia.org/wiki/Backgammon)
