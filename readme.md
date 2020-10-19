@@ -179,6 +179,17 @@
 | ------: | -------: | -----: |
 |   2 - 4 |        8 | 30-60m |
 
+### [Santorini](https://boardgamegeek.com/boardgame/194655/santorini)
+
+> Santorini is an accessible strategy game, simple enough for an elementary school classroom while aiming to provide gameplay depth and content for hardcore gamers to explore, The rules are simple. Each turn consists of 2 steps. those are Move (move one of your builders into a neighboring space) and Build (construct a building level adjacent to the builder you move). If either of your builders reaches the third level, you win.
+
+![Santorini Image](https://cf.geekdo-images.com/itemrep/img/8vG-UtGeFbhMXPTzLDUOqWot8hA=/fit-in/246x300/filters:strip_icc()/pic3283110.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |        8 |    20m |
+
+
 ## Strategy
 
 ### [Backgammon](https://en.wikipedia.org/wiki/Backgammon)
