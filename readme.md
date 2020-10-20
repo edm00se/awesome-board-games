@@ -802,6 +802,18 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | --------:|
 |   2 - 4 |      12+ |  90-120m |
 
+### [The Mind](https://www.boardgamegeek.com/boardgame/244992/mind)
+
+>The Mind is more than just a game. It's an experiment, a journey, a team experience in which you can't exchange information, yet will become one to defeat all the levels of the game.
+
+In more detail, the deck contains cards numbered 1-100, and during the game you try to complete 12, 10, or 8 levels of play with 2, 3, or 4 players. In a level, each player receives a hand of cards equal to the number of the level: one card in level 1, two cards in level 2, etc. Collectively you must play these cards into the center of the table on a single discard pile in ascending order but you cannot communicate with one another in any way as to which cards you hold. You simply stare into one another's eyes, and when you feel the time is right, you play your lowest card. If no one holds a card lower than what you played, great, the game continues! If someone did, all players discard face up all cards lower than what you played, and you lose one life.
+
+![The Mind image](https://cf.geekdo-images.com/q_JGK291hrhnhiRB0667oA__imagepage/img/WUf5FT5SWkXQsf-K1Q3-fHyyJYY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3979766.png)
+
+| Players | Min. Age | Time     |
+| ------: | -------: | --------:|
+|   2 - 4 |      8+ |       15m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
