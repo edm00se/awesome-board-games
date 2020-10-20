@@ -812,7 +812,7 @@ In more detail, the deck contains cards numbered 1-100, and during the game you 
 
 | Players | Min. Age | Time     |
 | ------: | -------: | --------:|
-|   2 - 4 |      8+ |       15m |
+|   2 - 4 |      8+  |      15m |
 
 ## Contribute
 
