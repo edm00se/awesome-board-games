@@ -189,6 +189,16 @@
 | ------: | -------: | -----: |
 |   2 - 4 |        8 | 30-60m |
 
+### [Tokaido](https://boardgamegeek.com/boardgame/123540/tokaido)
+
+> In Tokaido, each player is a traveler crossing the "East sea road", one of the most magnificent roads of Japan. While traveling, you will meet people, taste fine meals, collect beautiful items, discover great panoramas, and visit temples and wild places but at the end of the day, when everyone has arrived at the end of the road you'll have to be the most initiated traveler – which means that you'll have to be the one who discovered the most interesting and varied things. All of the actions in Tokaido are very simple, and combined with a unique graphic design, Tokaido offers players a peaceful zen mood in its play.
+
+![Tokaido Image](https://cf.geekdo-images.com/itemrep/img/oNPKz7nD6d53yT7CDIquGw6moNg=/fit-in/246x300/filters:strip_icc()/pic3747956.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 5 |        8 |    45m |
+
 ### [Santorini](https://boardgamegeek.com/boardgame/194655/santorini)
 
 > Santorini is an accessible strategy game, simple enough for an elementary school classroom while aiming to provide gameplay depth and content for hardcore gamers to explore, The rules are simple. Each turn consists of 2 steps. those are Move (move one of your builders into a neighboring space) and Build (construct a building level adjacent to the builder you move). If either of your builders reaches the third level, you win.
