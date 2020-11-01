@@ -149,6 +149,16 @@
 | ------: | -------: | -----: |
 |   2 - 4 |        3 | 15-21m |
 
+### [Chutes and Ladders](https://en.wikipedia.org/wiki/Snakes_and_Ladders)
+
+> Also known as Snakes and Ladders, Chutes and Ladders is simple and easy to play, even for those who can't read. Going up the ladders and down the chutes, a child will learn (by the pictures) the rewards of good deeds and the consequences of naughty ones. 
+
+![Chutes and Ladders game image](https://upload.wikimedia.org/wikipedia/en/b/ba/Cnl03.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |        4 | 15-30m |
+
 ### [Sorry](https://boardgamegeek.com/boardgame/2407/sorry)
 
 > Slide, collide and score to win the game of Sorry! Draw cards to see how far you get to move one of your pawns on the board. If you land on a Slide you can zip to the end and bump your opponents' pawns or your own!
