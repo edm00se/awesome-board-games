@@ -12,6 +12,7 @@
 - [Family](#family)
 - [Strategy](#strategy)
 - [Party](#party)
+- [Contribute](#contribute)
 
 ## Family
 
@@ -835,12 +836,5 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
-
-To the extent possible under law, any and/or all copyright has been waived as well as any
-related or neighboring rights to this work.
 
 [contrib-guide]: contributing.md
