@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/edm00se/awesome-board-games#readme",
   "devDependencies": {
-    "@vuepress/plugin-google-analytics": "^1.8.0",
+    "@vuepress/plugin-google-analytics": "^1.8.2",
     "@vuepress/plugin-pwa": "^1.8.0",
     "awesome-lint": "^0.17.1",
     "cross-env": "^7.0.3",
