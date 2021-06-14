@@ -26,7 +26,7 @@
 | ------: | -------: | ---: |
 |   2 - 8 |        8 |  20m |
 
-### [Ticket to Ride](<https://wikipedia.org/wiki/Ticket_to_Ride_(board_game)>)
+### [Ticket to Ride](https://wikipedia.org/wiki/Ticket_to_Ride_(board_game))
 
 > ...a cross-country train adventure where players collect cards of various types of train cars that enable them to claim railway routes connecting cities in various countries around the world.
 
@@ -36,7 +36,7 @@
 | ------: | -------: | -----: |
 |   2 - 5 |        8 | 30-60m |
 
-### [Pandemic](<https://wikipedia.org/wiki/Pandemic_(board_game)>)
+### [Pandemic](https://wikipedia.org/wiki/Pandemic_(board_game))
 
 > Can you save humanity in this cooperative game where deadly viruses are spreading across the globe? Together, you will treat diseases, share knowledge, and fly all over the world to prevent outbreaks and slow down the epidemic.
 
@@ -66,7 +66,7 @@
 | ------: | -------: | ---: |
 |   2 - 5 |       10 |  60m |
 
-### [Elder Sign](<https://wikipedia.org/wiki/Elder_Sign_(card_game)>)
+### [Elder Sign](https://wikipedia.org/wiki/Elder_Sign_(card_game))
 
 > Set in a world of Lovecraftian horror, cooperatively investigate a museum full of strange artefacts and stranger demons. Collect eldritch symbols, "elder signs", to close the portals and prevent the creatures from invading our world. Collect enough before the time is up or suffer the wrath of the Ancient Ones.
 
@@ -88,7 +88,7 @@
 | ------: | -------: | ---: |
 |   3 - 6 |       13 |  60m |
 
-### [Dixit](<https://en.wikipedia.org/wiki/Dixit_(card_game)>)
+### [Dixit](https://en.wikipedia.org/wiki/Dixit_(card_game))
 
 > Using a deck of cards illustrated with dreamlike images, players select cards that match a title suggested by the "storyteller", and attempt to guess which card the "storyteller" selected.
 
@@ -233,7 +233,7 @@
 | ------: | -------: | ----: |
 |       2 |        5 | 5-60m |
 
-### [Tak](<https://en.wikipedia.org/wiki/Tak_(game)>)
+### [Tak](https://en.wikipedia.org/wiki/Tak_(game))
 
 > The objective of Tak is to be the first to connect any two opposite edges of the board with their pieces, called "stones", creating a road. To this end, players will take turns attacking and capturing their opponent's pieces while supporting their own.
 
@@ -243,7 +243,7 @@
 | ------: | -------: | ---: |
 |       2 |        5 |  30m |
 
-### [7 Wonders](<https://wikipedia.org/wiki/7_Wonders_(board_game)>)
+### [7 Wonders](https://wikipedia.org/wiki/7_Wonders_(board_game))
 
 > You are the leader of one of the 7 great cities of the Ancient World. Gather resources, develop commercial routes, and affirm your military supremacy. Build your city and erect an architectural wonder which will transcend future times.
 
@@ -295,7 +295,7 @@
 | ------: | -------: | -------: |
 |   1 - 5 |       14 | 120-180m |
 
-### [Game of Thrones](<https://en.wikipedia.org/wiki/A_Game_of_Thrones_(board_game)>)
+### [Game of Thrones](https://en.wikipedia.org/wiki/A_Game_of_Thrones_(board_game))
 
 > A Game of Thrones allows the players to take on the roles of several of the Great Houses vying for control of the Seven Kingdoms, including House Stark, House Lannister, House Baratheon, House Greyjoy, House Tyrell, and as of the expansion A Clash of Kings, House Martell. Players maneuver armies to secure support in the various regions that comprise the Seven Kingdoms, with the goal of capturing enough support to claim the Iron Throne. The basic gameplay mechanics are reminiscent of Diplomacy, especially in the order-giving process, though A Game of Thrones is significantly more complicated overall.
 
@@ -355,7 +355,7 @@
 | ------: | -------: | ---: |
 |   2 - 8 |        8 |  15m |
 
-### [Carcassonne](<https://en.wikipedia.org/wiki/Carcassonne_(board_game)>)
+### [Carcassonne](https://en.wikipedia.org/wiki/Carcassonne_(board_game))
 
 > Tile-placement game in which the players draw and place a tile with a piece of southern French landscape on it. Build your castles, connect them with roads and grassland, assign meeples to roles and score points.
 
@@ -508,7 +508,7 @@
 | ------: | -------: | ---: |
 |   2 - 8 |        7 |  10m |
 
-### [Mysterium](<https://wikipedia.org/wiki/Mysterium_(board_game)>)
+### [Mysterium](https://wikipedia.org/wiki/Mysterium_(board_game))
 
 > As a group, divine the messages from the recently murdered ghost to solve the murder in this collaborative whodunit. Equally easy for beginners and experienced gamers to play with something new every game.
 
