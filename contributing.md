@@ -28,5 +28,5 @@ Thank you for your suggestions!
 [awesome-list-src]: https://github.com/sindresorhus/awesome
 [formatting-guide]: formatting.md
 [help-guide]: help.md
-[example-game-block]: https://github.com/edm00se/awesome-board-games/blob/master/formatting.md#example
-[readme-edit-link]: https://github.com/edm00se/awesome-board-games/edit/master/readme.md
+[example-game-block]: https://github.com/edm00se/awesome-board-games/blob/main/formatting.md#example
+[readme-edit-link]: https://github.com/edm00se/awesome-board-games/edit/main/readme.md
