@@ -1,3 +1,5 @@
+name: Janet
+
 on:
   issues:
     types: [opened, edited, labeled]
