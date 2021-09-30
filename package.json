@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "npm run pre-prod-build && vitepress dev .",
     "build": "cross-env NODE_ENV=production vitepress build .",
-    "test": "npm run lint",
+    "test": "run-s lint lint-md",
     "lint": "awesome-lint",
     "lint-md": "remark .",
     "format": "prettier readme.md --write",
