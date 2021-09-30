@@ -7,7 +7,7 @@
     "build": "cross-env NODE_ENV=production vitepress build .",
     "test": "run-s lint lint-md",
     "lint": "awesome-lint",
-    "lint-md": "remark .",
+    "lint-md": "remark --frail .",
     "format": "prettier readme.md --write",
     "pre-prod-build": "chmod +x .pre-prod-build.sh &&./.pre-prod-build.sh",
     "post-prod-build": "chmod +x .post-prod-build.sh &&./.post-prod-build.sh",
