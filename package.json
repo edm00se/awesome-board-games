@@ -7,6 +7,7 @@
     "build": "cross-env NODE_ENV=production vitepress build .",
     "test": "npm run lint",
     "lint": "awesome-lint",
+    "lint-md": "remark .",
     "format": "prettier readme.md --write",
     "pre-prod-build": "chmod +x .pre-prod-build.sh &&./.pre-prod-build.sh",
     "post-prod-build": "chmod +x .post-prod-build.sh &&./.post-prod-build.sh",
@@ -28,6 +29,13 @@
     "cross-env": "^7.0.3",
     "npm-run-all": "^4.1.5",
     "prettier": "^2.4.1",
+    "remark-cli": "^10.0.0",
+    "remark-lint-no-dead-urls": "^1.1.0",
     "vitepress": "^0.18.1"
+  },
+  "remarkConfig": {
+    "plugins": [
+      "remark-lint-no-dead-urls"
+    ]
   }
 }
