@@ -369,7 +369,7 @@
 
 > Exploding Kittens is a highly-strategic, kitty-powered version of Russian roulette. It was the most-funded game in the history of Kickstarter and has paved the way for peace and tranquility in the modern world. It also features cards illustrated by The Oatmeal.
 
-<img alt="Exploding Kittens board game" src="https://explodingkittens.com/img/home/exploding-kittens-box_x1.png" width="260">
+![Exploding Kittens image](https://cf.geekdo-images.com/N8bL53-pRU7zaXDTrEaYrw__itemrep/img/ON0bQporMQQ9KJlVC2UP8LAa_WI=/fit-in/246x300/filters:strip_icc()/pic2691976.png)
 
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
@@ -653,7 +653,7 @@
 > From the creators of Cyanide & Happiness comes a card game where players compete to finish an awful comic strip.
 > The creators said: "Someone on the Internet once told us that making stick figure comics is easy as hell, and that we were ugly and stupid.They were right on all counts. So, after crying for a few hours, we created the Random Comic Generator which since its inception in 2014 has entertained millions with its computer-generated comedy. After a few weeks of playing with the Random Comic Generator, we started to wonder if its hundreds of random panels might lend themselves to a card game, where you compete against your friends to finish a comic with a funny punchline. So we printed out all of the RCG panels and started playing with them." Draw 7 cards. The deck plays the first card, select a Judge to play the second, then everyone selects a third card to create a three panel comic strip. The Judge picks a winner. The game includes a deck of 250 unique panel cards - that’s 15.4 million combinations of comics!
 
-<img alt="Joking Hazard box" src="https://www.jokinghazardgame.com/img/products/base-deck.jpg" width="260">
+![Joking Hazard image](https://cf.geekdo-images.com/ohrUtQ0FGHPSFxfSX2Ltmg__itemrep/img/5CtvRcuyQMZZV1QYhGNeSGo4J7Q=/fit-in/246x300/filters:strip_icc()/pic6411897.png)
 
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
