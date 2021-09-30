@@ -833,6 +833,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | --------:|
 |   2 - 4 |      8+  |      15m |
 
+### [Rat-a-Tat Cat](https://www.boardgamegeek.com/boardgame/3837/rat-tat-cat)
+
+> Get rid of the rats and go for the cats! In Rat-a-Tat Cat, less is always better, and you want to go out with the lowest score. Can you remember the numbers on the other players' cards? Can you keep a poker face, but notice when another player looks pleased? Sharpen your memory and your timing, and have fun with the cool cats and bad rats of Rat-a-Tat Cat. This is the Gamewright version.
+
+![Rat-a-Tat Cat image](https://cf.geekdo-images.com/4nQQ9GA-1JXcxwNd-tCR8w__imagepage/img/5-81C1cMjLUJ36rrR6YuxMJILHs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic147435.jpg)
+
+| Players | Min. Age | Time     |
+| ------: | -------: | --------:|
+|   2 - 6 |      6+  |      10m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
