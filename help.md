@@ -22,6 +22,6 @@ You'll need a [GitHub account](https://github.com/join)!
 
 Sometimes, a maintainer will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-\* list guidelines.
 
-[Here](https://github.com/RichardLitt/knowledge/blob/main/github/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
+[Here](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
 
 [readme-url]: readme.md
