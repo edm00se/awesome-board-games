@@ -3,14 +3,14 @@
   "version": "1.0.0",
   "description": "> A curated list of awesome board games!",
   "scripts": {
-    "dev": "vuepress dev .",
-    "build": "cross-env NODE_ENV=production vuepress build . -d docs",
-    "build:now": "cross-env NODE_ENV=production vuepress build . -d dist",
+    "dev": "npm run pre-prod-build && vitepress dev .",
+    "build": "cross-env NODE_ENV=production vitepress build .",
     "test": "npm run lint",
     "lint": "awesome-lint",
     "format": "prettier readme.md --write",
     "pre-prod-build": "chmod +x .pre-prod-build.sh &&./.pre-prod-build.sh",
-    "now-build": "npm run pre-prod-build && npm run build:now"
+    "post-prod-build": "chmod +x .post-prod-build.sh &&./.post-prod-build.sh",
+    "vercel-build": "npm run pre-prod-build && npm run build && npm run post-prod-build"
   },
   "repository": {
     "type": "git",
@@ -24,12 +24,10 @@
   },
   "homepage": "https://github.com/edm00se/awesome-board-games#readme",
   "devDependencies": {
-    "@vuepress/plugin-google-analytics": "^1.8.2",
-    "@vuepress/plugin-pwa": "^1.8.2",
     "awesome-lint": "^0.18.0",
     "cross-env": "^7.0.3",
     "npm-run-all": "^4.1.5",
     "prettier": "^2.4.1",
-    "vuepress": "^1.8.2"
+    "vitepress": "^0.18.1"
   }
 }
