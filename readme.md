@@ -853,6 +853,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time     |
 | ------: | -------: | --------:|
 |   2 - 6 |      6+  |      10m |
+
 ### [Unanimo Party](https://www.boardgamegeek.com/boardgame/261614/unanimo-party)
 
 > Be unanimous on 6 words!
