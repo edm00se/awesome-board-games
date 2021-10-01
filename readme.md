@@ -152,7 +152,7 @@
 
 ### [Chutes and Ladders](https://en.wikipedia.org/wiki/Snakes_and_Ladders)
 
-> Also known as Snakes and Ladders, Chutes and Ladders is simple and easy to play, even for those who can't read. Going up the ladders and down the chutes, a child will learn (by the pictures) the rewards of good deeds and the consequences of naughty ones. 
+> Also known as Snakes and Ladders, Chutes and Ladders is simple and easy to play, even for those who can't read. Going up the ladders and down the chutes, a child will learn (by the pictures) the rewards of good deeds and the consequences of naughty ones.
 
 ![Chutes and Ladders game image](https://upload.wikimedia.org/wikipedia/en/b/ba/Cnl03.jpg)
 
@@ -495,6 +495,16 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 4 |       10 | 60-90m |
+
+### [Blokus](https://en.wikipedia.org/wiki/Blokus)
+
+> Game with Tetris-like, colored pieces made from little squares that players are trying to play onto the board. Each new piece must be placed so that it touches at least one piece of the same color but only corner-to-corner contact is allowed — edges of the same color pieces cannot touch. Game ends when nobody can place any more pieces. Player with least sum of squares from not placed peaces wins the game.
+
+![Blokus game image](https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Blokus_board_game.jpg/200px-Blokus_board_game.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |        7 | 20-30m |
 
 ## Party
 
