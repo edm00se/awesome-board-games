@@ -496,6 +496,26 @@
 | ------: | -------: | -----: |
 |   2 - 4 |       10 | 60-90m |
 
+### [Axis & Allies](https://en.wikipedia.org/wiki/Axis_%26_Allies)
+
+> Played on a board depicting a Spring 1942 political map of Earth divided by territories, players take the role of one or more of the five major belligerents of World War II: the Axis powers of Germany and Japan; and the Allied powers of the Soviet Union, the United Kingdom, and the United States. Turn rotates among these belligerents, who control armies of playing pieces with which they attempt to capture enemy territories, with results determined by dice rolls.
+
+![Axis & Allies image](https://www.war-boardgames.com/wp-content/uploads/2012/06/axis-allies.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 5 |       12 | 180m |
+
+### [Blokus](https://en.wikipedia.org/wiki/Blokus)
+
+> Game with Tetris-like, colored pieces made from little squares that players are trying to play onto the board. Each new piece must be placed so that it touches at least one piece of the same color but only corner-to-corner contact is allowed — edges of the same color pieces cannot touch. Game ends when nobody can place any more pieces. Player with least sum of squares from not placed peaces wins the game.
+
+![Blokus game image](https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Blokus_board_game.jpg/200px-Blokus_board_game.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |        7 | 20-30m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
@@ -863,6 +883,17 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time     |
 | ------: | -------: | --------:|
 |   2 - 4 |      10+  |      90m |
+
+### [Unanimo Party](https://www.boardgamegeek.com/boardgame/261614/unanimo-party)
+
+> Be unanimous on 6 words!
+> A card is placed in the centre of the table. At that moment, each player writes words on his notepad which are inspired by the theme. Let your inspiration guide you… But be careful, whatever you do, don’t be original. The only answers which count are the ones which are the same as the other players!
+
+![Rat-a-Tat Cat image](https://cf.geekdo-images.com/7KL7IYpSbZ3xWVYVdKfUeg__itemrep/img/t5OBTFFAWagqcmrW6odyvW3Zn1I=/fit-in/246x300/filters:strip_icc()/pic4415146.jpg)
+
+| Players | Min. Age | Time     |
+| ------: | -------: | --------:|
+|  3 - 12 |     10+  |      30m |
 
 ## Contribute
 
