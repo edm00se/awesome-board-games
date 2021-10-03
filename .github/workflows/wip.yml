@@ -1,0 +1,18 @@
+name: WIP
+on:
+  pull_request:
+    types:
+      - opened
+      - edited
+      - labeled
+      - unlabeled
+      - synchronize
+
+jobs:
+  WIP:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: wow-actions/wip@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          labels: 'do-not-merge', 'work in progress', 'wip', 'needs work', '🚧'
