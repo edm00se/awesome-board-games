@@ -874,6 +874,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | --------:|
 |   2 - 6 |      6+  |      10m |
 
+### [Scrabble](https://boardgamegeek.com/boardgame/320/scrabble)
+
+> In this classic word game, players use their seven drawn letter-tiles to form words on the gameboard. Each word laid out earns points based on the commonality of the letters used, with certain board spaces giving bonuses. But a word can only be played if it uses at least one already-played tile or adds to an already-played word. This leads to slightly tactical play, as potential words are rejected because they would give an opponent too much access to the better bonus spaces.
+
+![Scrabble image](https://cf.geekdo-images.com/mVmmntn2oQd0PfFrWBvwIQ__itemrep/img/xtiNZzN_7T6xZ3EPxzgYcBz9Ydk=/fit-in/246x300/filters:strip_icc()/pic404651.jpg)
+
+| Players | Min. Age | Time     |
+| ------: | -------: | --------:|
+|   2 - 4 |      10+  |      90m |
+
 ### [Unanimo Party](https://www.boardgamegeek.com/boardgame/261614/unanimo-party)
 
 > Be unanimous on 6 words!
