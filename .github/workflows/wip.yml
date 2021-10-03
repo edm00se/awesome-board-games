@@ -12,7 +12,8 @@ jobs:
   WIP:
     runs-on: ubuntu-latest
     steps:
-      - uses: wow-actions/wip@v1
+      - name: Work In Progress Check
+        uses: wow-actions/wip@master
         with:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-            labels: "do-not-merge", "work in progress", "wip", "needs work", "🚧"
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          labels: 'do-not-merge', 'work in progress', 'wip', 'needs work', '🚧'
