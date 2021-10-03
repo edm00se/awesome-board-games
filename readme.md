@@ -500,7 +500,7 @@
 
 > Played on a board depicting a Spring 1942 political map of Earth divided by territories, players take the role of one or more of the five major belligerents of World War II: the Axis powers of Germany and Japan; and the Allied powers of the Soviet Union, the United Kingdom, and the United States. Turn rotates among these belligerents, who control armies of playing pieces with which they attempt to capture enemy territories, with results determined by dice rolls.
 
-![Axis & Allies image](https://cf.geekdo-images.com/wVcuG7IymuvTXcb41ylQmA__square/img/Yjup61qiPBbITFHqjfTrmbWCaAY=/75x75/filters:strip_icc()/pic318779.jpg)
+![Axis & Allies image](https://cf.geekdo-images.com/wVcuG7IymuvTXcb41ylQmA__imagepagezoom/img/on_JtoqrR0V3t3bhzs2B-ZGPjFE=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic318779.jpg)
 
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
