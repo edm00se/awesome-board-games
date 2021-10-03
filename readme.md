@@ -496,6 +496,17 @@
 | ------: | -------: | -----: |
 |   2 - 4 |       10 | 60-90m |
 
+### [Axis & Allies](https://en.wikipedia.org/wiki/Axis_%26_Allies)
+
+> Played on a board depicting a Spring 1942 political map of Earth divided by territories, players take the role of one or more of the five major belligerents of World War II: the Axis powers of Germany and Japan; and the Allied powers of the Soviet Union, the United Kingdom, and the United States. Turn rotates among these belligerents, who control armies of playing pieces with which they attempt to capture enemy territories, with results determined by dice rolls.
+
+![Axis & Allies image](https://boardgamegeek.com/image/24006/axis-allies)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 5 |       12 | 180m |
+
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
