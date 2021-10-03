@@ -864,6 +864,17 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | --------:|
 |   2 - 6 |      6+  |      10m |
 
+### [Unanimo Party](https://www.boardgamegeek.com/boardgame/261614/unanimo-party)
+
+> Be unanimous on 6 words!
+> A card is placed in the centre of the table. At that moment, each player writes words on his notepad which are inspired by the theme. Let your inspiration guide you… But be careful, whatever you do, don’t be original. The only answers which count are the ones which are the same as the other players!
+
+![Rat-a-Tat Cat image](https://cf.geekdo-images.com/7KL7IYpSbZ3xWVYVdKfUeg__itemrep/img/t5OBTFFAWagqcmrW6odyvW3Zn1I=/fit-in/246x300/filters:strip_icc()/pic4415146.jpg)
+
+| Players | Min. Age | Time     |
+| ------: | -------: | --------:|
+|  3 - 12 |     10+  |      30m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
