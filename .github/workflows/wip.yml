@@ -11,9 +11,11 @@ on:
 
 jobs:
   WIP:
+    name: Work In Progress Checker
     runs-on: ubuntu-latest
     steps:
-      - uses: wow-actions/wip@v1
+      - name: Work In Progress Action
+        uses: wow-actions/wip@v1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
