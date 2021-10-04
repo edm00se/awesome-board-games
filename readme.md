@@ -884,6 +884,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | --------:|
 |   2 - 6 |      6+  |      10m |
 
+### [Nine Men's Morris](https://en.wikipedia.org/wiki/Nine_men's_morris)
+
+> The board consists of a grid with twenty-four intersections or points. Each player has nine pieces, or "men", usually coloured black and white. Players try to form 'mills'—three of their own men lined horizontally or vertically—allowing a player to remove an opponent's man from the game. A player wins by reducing the opponent to two pieces (where they could no longer form mills and thus be unable to win), or by leaving them without a legal move.
+
+![Nine Men's Morris image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Nine_Men%27s_Morris_board_with_coordinates.svg/300px-Nine_Men%27s_Morris_board_with_coordinates.svg.png)
+
+| Players | Min. Age | Time     |
+| ------: | -------: | --------:|
+|       2 |       5+ |   5m-60m |
+
 ### [Scrabble](https://boardgamegeek.com/boardgame/320/scrabble)
 
 > In this classic word game, players use their seven drawn letter-tiles to form words on the gameboard. Each word laid out earns points based on the commonality of the letters used, with certain board spaces giving bonuses. But a word can only be played if it uses at least one already-played tile or adds to an already-played word. This leads to slightly tactical play, as potential words are rejected because they would give an opponent too much access to the better bonus spaces.
