@@ -516,6 +516,16 @@
 | ------: | -------: | -----: |
 |   2 - 4 |        7 | 20-30m |
 
+### [Chinese Checkers](https://en.wikipedia.org/wiki/Chinese_checkers)
+
+> Sternhalma, commonly known as Chinese checkers or Chinese chequers, is a strategy board game of German origin which can be played by two, three, four, or six people, playing individually or with partners. The game is a modern and simplified variation of the game Halma.
+
+![Chinese Checkers game image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/ChineseCheckersboard.jpeg/300px-ChineseCheckersboard.jpeg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 6 |       7  | 10–30m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
