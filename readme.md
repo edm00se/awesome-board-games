@@ -526,6 +526,25 @@
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
 |   2 - 5 |       10 | 40-60m |
+### [Telepathy](https://boardgamegeek.com/boardgame/40182/telepathy)
+
+> In this puzzle solving challenge of deduction, logic and intuition, players go head to head to see who can be the first to guess their opponent's secret square. Every action turn brings you closer to finding the hidden, ancient symbol. But watch out; your opponent may be closer to solving your secret square than you think! The Telepathy board game is an outstanding logic building tool, ideal for educators and puzzle solvers alike. If you like Sudoku, Mastermind, or Battleship, this game is for you.
+
+![Telepathy Image](https://cf.geekdo-images.com/HUrpAkrqZVwcjN8HXzaZaQ__itemrep/img/glE42FIgi4qCUEiDZxT_qJ1Vckk=/fit-in/246x300/filters:strip_icc\(\)/pic5283740.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |       12 |  20m |
+
+### [Chinese Checkers](https://en.wikipedia.org/wiki/Chinese_checkers)
+
+> Sternhalma, commonly known as Chinese checkers or Chinese chequers, is a strategy board game of German origin which can be played by two, three, four, or six people, playing individually or with partners. The game is a modern and simplified variation of the game Halma.
+
+![Chinese Checkers game image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/ChineseCheckersboard.jpeg/300px-ChineseCheckersboard.jpeg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 6 |       7  | 10–30m |
 
 ## Party
 
@@ -884,6 +903,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time     |
 | ------: | -------: | --------:|
 |   2 - 6 |      6+  |      10m |
+
+### [Nine Men's Morris](https://en.wikipedia.org/wiki/Nine_men's_morris)
+
+> The board consists of a grid with twenty-four intersections or points. Each player has nine pieces, or "men", usually coloured black and white. Players try to form 'mills'—three of their own men lined horizontally or vertically—allowing a player to remove an opponent's man from the game. A player wins by reducing the opponent to two pieces (where they could no longer form mills and thus be unable to win), or by leaving them without a legal move.
+
+![Nine Men's Morris image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Nine_Men%27s_Morris_board_with_coordinates.svg/300px-Nine_Men%27s_Morris_board_with_coordinates.svg.png)
+
+| Players | Min. Age | Time     |
+| ------: | -------: | --------:|
+|       2 |       5+ |   5m-60m |
 
 ### [Scrabble](https://boardgamegeek.com/boardgame/320/scrabble)
 
