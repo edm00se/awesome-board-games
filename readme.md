@@ -944,6 +944,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | --------:|
 |  3 - 12 |     10+  |      30m |
 
+### [Small World](https://boardgamegeek.com/boardgame/40692/small-world)
+
+> An area control game where players control different fantasy races with a unique set of abilities. The goal is to conquer and control as much of the player board as possible and halting your opponents' expansion. When your race can't expand any further you let it fall into decline and pick a new race to continue the quest for dominance.
+
+![Small World game image](https://cf.geekdo-images.com/aoPM07XzoceB-RydLh08zA__itemrep/img/vxZGxHhrtnOMxPM38WNIu-tfYmI=/fit-in/246x300/filters:strip_icc()/pic428828.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 5 |        8 | 40-80m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
