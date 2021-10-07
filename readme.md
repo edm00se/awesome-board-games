@@ -220,6 +220,15 @@
 | ------: | -------: | -----: |
 |   2 - 4 |        8 |    20m |
 
+### [Sushi Draft](https://boardgamegeek.com/boardgame/144865/sushi-draft)
+
+> Sushi Draft is a card game that looks good enough to eat! Sushi Draft includes a deck of 32 sushi cards (8 ikura, 7 ebi, 6 maguro, 5 tamago, 4 kappa and 2 "wild" triples) and 18 point tokens (three each for the five types of sushi and three for dessert); the point tokens range in value from 1-5, with the more plentiful sushi dishes being worth more points. Over three rounds, players draft plates of sushi and collect sushi points, which are drawn randomly. The player with the most diverse menu gets dessert. Players tally their points, and whoever has the highest score wins. Sushi Draft is quick to learn and fun for the whole family, and is the perfect introduction to the classic genre of pick-and-pass/card-drafting games!
+
+![Sushi Draft image](https://cf.geekdo-images.com/VBF3tF7GdSMA0j1E6HPlvQ__itemrep/img/wAInfSxdweuNqVxnL5Qsq5P_wtk=/fit-in/246x300/filters:strip_icc()/pic2062272.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   3 - 5 |        8 |    15m |
 
 ## Strategy
 
