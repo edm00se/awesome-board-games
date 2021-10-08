@@ -11,7 +11,8 @@
     "format": "prettier readme.md --write",
     "pre-prod-build": "chmod +x .pre-prod-build.sh &&./.pre-prod-build.sh",
     "post-prod-build": "chmod +x .post-prod-build.sh &&./.post-prod-build.sh",
-    "vercel-build": "npm run pre-prod-build && npm run build && npm run post-prod-build"
+    "rm:readme": "rm readme.md",
+    "vercel-build": "run-s pre-prod-build rm:readme build post-prod-build"
   },
   "repository": {
     "type": "git",
