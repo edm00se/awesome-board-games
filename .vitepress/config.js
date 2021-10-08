@@ -31,6 +31,11 @@ module.exports = {
       '/formatting.html': '',
       '/help.html': '',
       '/code-of-conduct.html': ''
+    },
+
+    algolia: {
+      apiKey: '74f2353ad49785793c24440b3521ed96',
+      indexName: 'awesomeboard'
     }
   }
 }
