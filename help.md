@@ -24,4 +24,4 @@ Sometimes, a maintainer will ask you to edit your Pull Request before it is incl
 
 [Here](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
 
-[readme-url]: readme.md
+[readme-url]: https://github.com/edm00se/awesome-board-games/edit/main/readme.md
