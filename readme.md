@@ -230,6 +230,17 @@
 | ------: | -------: | -----: |
 |   3 - 5 |        8 |    15m |
 
+### [PARKS](https://boardgamegeek.com/boardgame/266524/parks)
+
+> PARKS is a celebration of the US National Parks featuring illustrious art from Fifty-Nine Parks. In PARKS, players will take on the role of two hikers who will trek trails to see sites, observe wildlife, take photos, and visit national parks over the course of the game. They will take actions and collect memories of the places your hikers visit. These memories are represented by various resource tokens like mountains and forests. Collecting these memories in sets will allow players to trade them in to visit a National Park at the end of each hike. Each trail, represented by tiles, represents a different season, and as each season passes, the trails change and grow steadily longer. Each turn, players send one of their hikers down the trail. While on the trail, hikers will see beautiful sites and perform an action when they arrive. When a hiker reaches the end of the trail, they can spend tokens they have received to visit Parks and earn points. Your goal is to have the most points from your Parks, photos, and personal bonus at the end of the year. 
+
+![PARKS image](https://cf.geekdo-images.com/mF2cSNRk2O6HtE45Sl9TcA__itemrep/img/aO688RtGLH5MV7LUHkmghPUjSJQ=/fit-in/246x300/filters:strip_icc()/pic4852372.jpg)
+
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 5 |       10 |40 -70m |
+
 ## Strategy
 
 ### [Backgammon](https://en.wikipedia.org/wiki/Backgammon)
