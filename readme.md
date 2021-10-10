@@ -913,6 +913,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | --------:|
 |   2 - 6 |      6+  |      10m |
 
+### [Abalone](https://boardgamegeek.com/boardgame/526/abalone)
+
+> This beautiful and functional board has room for two teams of large marbles. Players take turns pushing the marbles around the board, with the goal of pushing six of the opposing player's marbles off the board. The central idea is that a column of marbles has weight given by the number of marbles in line. Someone will need to push with a heavier group of marbles in order to push the column along that axis. However, with six possible directions, it's difficult to defend yourself perfectly. Also, it's possible to play the game with up to six players when supplemental marble sets are purchased.
+
+![Abalone image](http://cdn.aktivcommunication.cz/images/products/box/4426.jpg)
+
+| Players | Min. Age | Time     |
+| ------: | -------: | --------:|
+|       2 |      7+  |      30m |
+
 ### [Nine Men's Morris](https://en.wikipedia.org/wiki/Nine_men's_morris)
 
 > The board consists of a grid with twenty-four intersections or points. Each player has nine pieces, or "men", usually coloured black and white. Players try to form 'mills'—three of their own men lined horizontally or vertically—allowing a player to remove an opponent's man from the game. A player wins by reducing the opponent to two pieces (where they could no longer form mills and thus be unable to win), or by leaving them without a legal move.
