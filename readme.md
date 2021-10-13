@@ -243,8 +243,7 @@
 
 ### [Kingdomino](https://boardgamegeek.com/boardgame/204583/kingdomino)
 
-> In Kingdomino, you are playing as a lord who is seeking new lands to expand your kingdom. You must explore all the lands, including wheat fields, lakes, and mountains, to spot the best plots, while competing with other lords to acquire them first.
-This game is like Dominoes. It uses tiles with two sections. Each turn, player will select a new domino to connect to their existing kingdom, making sure at least one of its sides connects to a matching terrain type already in play. The order of who picks first depends on which tile was previously chosen, with better tiles forcing players to pick later in the next round. The game ends when each player has completed a 5x5 grid and then points are counted based on number of connecting tiles and crowns symbol.
+> In Kingdomino, you are playing as a lord who is seeking new lands to expand your kingdom. You must explore all the lands, including wheat fields, lakes, and mountains, to spot the best plots, while competing with other lords to acquire them first. This game is like Dominoes. It uses tiles with two sections. Each turn, player will select a new domino to connect to their existing kingdom, making sure at least one of its sides connects to a matching terrain type already in play. The order of who picks first depends on which tile was previously chosen, with better tiles forcing players to pick later in the next round. The game ends when each player has completed a 5x5 grid and then points are counted based on number of connecting tiles and crowns symbol.
 
 ![Kingdomino image](https://cf.geekdo-images.com/3h9W8BfB_rltQ48EBmHliw__itemrep/img/iL7bbm8d4meLUnnrFrmKx0Xk2k0=/fit-in/246x300/filters:strip_icc()/pic3132685.png)
 
