@@ -989,7 +989,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 > Noir is a "denouement" game that lasts only a few minutes per round. The "denouement mechanic" is a special type of storytelling game, where the key elements of the stories events are determined by the game, then the players must weave them together in the most inventive of ways.
 > Noir is packed with a grim cast of Femme Fatales, gum shoe P.I.s, mean Mobsters and hardened Hit Men. The play throws up stories which are by turns dark, hilarious, inventive and always, always memorable.
-At the bitter end the best denouement of the game wins!
+> At the bitter end the best denouement of the game wins!
 
 ![Noir game image](https://cf.geekdo-images.com/4gaw7uVUCijAZa5bnZP84Q__itemrep/img/iymr5JN2rzqoDvm7soJFk0IvquI=/fit-in/246x300/filters:strip_icc()/pic3941376.png)
 
