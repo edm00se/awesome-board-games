@@ -576,6 +576,16 @@
 | ------: | -------: | -----: |
 |   2 - 6 |       7  | 10–30m |
 
+### [Citadels](https://en.wikipedia.org/wiki/Citadels_(card_game))
+
+> In Citadels Classic, you are vying to become the kingdom’s next Master Builder. But first, you must impress the monarchy with your city-building skills. To achieve your goal, you must gather resources while simultaneously predicting your opponents’ plans—and foiling them! In the end, only the steward whose city most impresses the king will earn the title of Master Builder.
+
+![Citadels game image](https://cf.geekdo-images.com/42iW4E-vOumFXRQAiSf-GA__itemrep/img/NVAwUCUVc6QWNKZNUBiIMg2nk8A=/fit-in/246x300/filters:strip_icc()/pic3239104.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 7 |     10+  | 30-60m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
