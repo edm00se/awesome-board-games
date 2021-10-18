@@ -255,7 +255,7 @@
 
 > Players take turns rolling the dice — which feature six unique symbols — then race to grab the tile with the matching pattern before anyone else. Whoever grabs six tiles first wins!
 
-![Cobra Paw image](https://cf.geekdo-images.com/4dwXEEXmCGd8JIiRg7njUA__square/img/0idd9XUuSBv9v6_wgpwYVf8AKAs=/75x75/filters:strip_icc()/pic5349983.png)
+![Cobra Paw image](https://cf.geekdo-images.com/4dwXEEXmCGd8JIiRg7njUA__itemrep/img/vEPbqyeRa30jmstCkz2rkvHom5E=/fit-in/246x300/filters:strip_icc()/pic5349983.png)
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
