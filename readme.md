@@ -261,7 +261,6 @@
 | ------: | -------: | -----: |
 |   2 - 6 |        5 |  5-15m |
 
-
 ## Strategy
 
 ### [Backgammon](https://en.wikipedia.org/wiki/Backgammon)
