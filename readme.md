@@ -249,7 +249,7 @@
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
-|   2 - 6 |        5 |    5-15m |
+|   2 - 4 |        8 |    15m |
 
 ### [Cobra Paw](https://boardgamegeek.com/boardgame/204583/kingdomino)
 
@@ -259,7 +259,8 @@
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
-|   2 - 4 |        8 |    15m |
+|   2 - 6 |        5 |  5-15m |
+
 
 ## Strategy
 
