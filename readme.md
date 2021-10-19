@@ -251,7 +251,7 @@
 | ------: | -------: | -----: |
 |   2 - 4 |        8 |    15m |
 
-### [Cobra Paw](https://boardgamegeek.com/boardgame/204583/kingdomino)
+### [Cobra Paw](https://boardgamegeek.com/boardgame/220700/cobra-paw)
 
 > Players take turns rolling the dice — which feature six unique symbols — then race to grab the tile with the matching pattern before anyone else. Whoever grabs six tiles first wins!
 
