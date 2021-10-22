@@ -1032,7 +1032,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 > Hit the road for a roller-coaster life of adventure, family, unexpected surprises, and pets! Want to take the family path, start a career, or venture down a risky road? In this game, players can make their own exciting choices as they move through the twists and turns of life. Move the car token around the gameboard from Start to Retirement, and experience unexpected surprises related to family, career, and other milestones of life. Players can adopt pets in this version of The Game of Life game. The player with the most money at the end of the game wins!
 > Adult assembly required.
 > This board game also has a digital app version.
-![The game of life image](https://user-images.githubusercontent.com/61943677/138511347-83f63faf-c2a8-4c2e-bf76-c9909c824978.png)
+![The game of life image](https://user-images.githubusercontent.com/61943677/138511562-a7995fe8-e01d-4ecb-b575-145ccae5bd9f.png)
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
