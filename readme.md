@@ -1027,6 +1027,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   3 - 6 |      10+ | 10-60m |
 
+### [The Singaporean Dream](https://www.thesingaporeandream.com/)
+
+> A spin-off from Monopoly Deal, Singaporean Dream is an interactive card game where you can sabo, complain and pay your way to be the perfect Singaporean.
+
+![The Singaporean Dream image](https://cf.geekdo-images.com/AgAtrZRUwIttv1wRlvMskQ__itemrep/img/T6flb1-mQiTpzWu2S1dSQrhoUjw=/fit-in/246x300/filters:strip_icc()/pic4481765.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 6 |      18+ | 20-30m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
