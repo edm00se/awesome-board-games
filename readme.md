@@ -604,7 +604,17 @@
 
 | Players | Min. Age | Time    |
 | ------: | -------: | ------: |
-|   1 - 5 |     15+  | 60-180m |
+|   1 - 4 |     14+  | 90-150m |
+
+### [Ark Nova](https://boardgamegeek.com/boardgame/342942/ark-nova)
+
+> In Ark Nova, you will plan and design a modern, scientifically managed zoo. With the ultimate goal of owning the most successful zoological establishment, you will build enclosures, accommodate animals, and support conservation projects all over the world. Specialists and unique buildings will help you in achieving this goal.
+
+![Backgammon](https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__imagepage/img/qR1EvTSNPjDa-pNPGxU9HY2oKfs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6293412.jpg)
+
+| Players | Min. Age |  Time |
+| ------: | -------: | ----: |
+|       2 |        5 | 5-60m |
 
 ## Party
 
