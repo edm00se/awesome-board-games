@@ -1037,6 +1037,18 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   3 - 6 |      10+ | 10-60m |
 
+### [The Game of Life](https://en.wikipedia.org/wiki/The_Game_of_Life)
+
+> Hit the road for a roller-coaster life of adventure, family, unexpected surprises, and pets! Want to take the family path, start a career, or venture down a risky road? In this game, players can make their own exciting choices as they move through the twists and turns of life. Move the car token around the gameboard from Start to Retirement, and experience unexpected surprises related to family, career, and other milestones of life. Players can adopt pets in this version of The Game of Life game. The player with the most money at the end of the game wins!
+> Adult assembly required.
+> This board game also has a digital app version.
+
+![the game of life image](https://user-images.githubusercontent.com/61943677/138511931-aa1cdf9f-7d2a-4ab9-a3b7-f7f0d1a0f867.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 6 |        8+ | 30-80m |
+
 ### [The Singaporean Dream](https://www.thesingaporeandream.com/)
 
 > A spin-off from Monopoly Deal, Singaporean Dream is an interactive card game where you can sabo, complain and pay your way to be the perfect Singaporean.
