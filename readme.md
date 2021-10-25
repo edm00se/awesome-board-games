@@ -475,6 +475,16 @@
 | ------: | -------: | ----: |
 |       2 |        6 | 1-10m |
 
+### [Gorgasali: Battle Royale](https://www.gorgasalibr.com)
+
+> Gorgasali: Battle Royale is a role-playing board game based mainly on the concept of battle royale. The story of the game is fictional, and the game mechanics - completely unique. Start the game from the sector and enter the map through the gate. Scroll through the map and try to open the boxes to collect the cards needed for the fight. Engage in battle with an opponent to knock him out of the game and earn his own cards. Higher strength cards give you a better chance of winning. Be careful with the reducing of the zone, due to having less space to navigate without taking damage. To win the game you must be the only surviving player on the map.
+
+![Gorgasali: Battle Royale Image](https://cf.geekdo-images.com/rEZCI1GVQMDIeeZ-IWGtRw__itemrep/img/L_ehmv4w5hR9hPdOF1RwoZIovK4=/fit-in/246x300/filters:strip_icc()/pic4960193.jpg)
+
+| Players | Min. Age |   Time   |
+| ------: | -------: | -------: |
+|    2-10 |       10 |  40-180m |
+
 ### [Shadow Hunters](https://en.wikipedia.org/wiki/Shadow_Hunters)
 
 > Shadow Hunters is a survival board game set in a devil-filled forest in which three groups of characters—the Shadows, creatures of the night; the Hunters, humans who try to destroy supernatural creatures; and the Neutrals, civilians caught in the middle of this ancient battle—struggle against each other to survive.
