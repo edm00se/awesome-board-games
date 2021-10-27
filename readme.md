@@ -1069,6 +1069,19 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 6 |      18+ | 20-30m |
 
+
+### [Battleship](https://board-games-galore.fandom.com/wiki/Battleship)
+
+> In this two-person game of strategy, players secretly arrange their ships on a lettered and numbered 10x10 grid and then try to locate and destroy their opponent’s fleet. There are two grids for each player. One grid is used for placing your own vessels and tracking hits made against you, while the second grid is for marking the hits targeted at your opponent. Take turns firing shots by calling out one of the grid’s plot points. If a hit doesn’t strike a ship, it’s considered a miss and pegged with white pieces. If a hit makes contact with a ship, then that strike gets pegged with red. The number of hits each kind of vessel can sustain before it sinks is varied. After some initial exploratory firing, you will likely start to figure out the location of your opponent’s ships and begin to deal the fatal blows. It’s a battle on the high seas!
+
+![Battleship image](https://static.wikia.nocookie.net/board-games-galore/images/1/11/HAG-A3264.jpg/revision/latest?cb=20160717132521)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2  |        8+ | 30m around|
+
+
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
