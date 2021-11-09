@@ -1084,7 +1084,9 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 > Love Singapore’s Local Food? This Food Card Game contains 50 local dishes for you to guess and the winner will be the one who can guess the most.
 
-![Say What? Shiok Food Card Game](https://images.squarespace-cdn.com/content/v1/5649b2dbe4b0142472e867bc/1573954498990-B1NESNC79U51TJNXQEBB/SG+FOOD+GAME+FRONT.JPG?format=1000w)
+![Say What? Shiok Food Card Game](https://images.squarespace-cdn.com/content/v1/5649b2dbe4b0142472e867bc/1573954498990-B1NESNC79U51TJNXQEBB/SG+FOOD+GAME+FRONT.JPG?format=250w)
+
+I found that with the format parameter that the image link can return a more reasonable image size. If you accept this code suggestion that should meet the needs of this PR.
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
