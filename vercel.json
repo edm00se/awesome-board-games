@@ -4,5 +4,8 @@
   "public": true,
   "builds": [
     {"src": "package.json", "use": "@vercel/static-build"}
-  ]
+  ],
+  "github": {
+    "silent": true
+  }
 }
