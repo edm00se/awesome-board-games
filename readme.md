@@ -365,7 +365,7 @@
 | ------: | -------: | ------: |
 |   2 - 8 |       12 | 90-120m |
 
-### [Anachrony](http://anachronyboardgame.com/)
+### [Anachrony](https://mindclashgames.com/game-worlds/anachrony/)
 
 > Anachrony is a competitive Euro-style strategy game set in a post-apocalyptic world rebuilt along four different ideological Paths. The game is played through a series of turns called Eras, with past ones reachable through time travel later in the game. Players assume the roles of iconic leaders of the four Paths, striving not only for the supremacy and well-being of their people, but also their survival. After the fourth Era, an asteroid impact shakes Earth, threatening to destroy the World Capital, Earth’s last independent city. The Paths should prepare for the coming cataclysm, and when the time comes, take their part in evacuating the collapsing Capital. In the end, one of the Paths will be the new home to the reformed World Council, and lead humanity into a new future.
 
