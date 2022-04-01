@@ -6,11 +6,12 @@ jobs:
   lint:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
-      - name: Use Node.js 14 (LTS)
-        uses: actions/setup-node@v1
+      - uses: actions/checkout@v3
+      - name: Use Node.js 16 (LTS)
+        uses: actions/setup-node@v3
         with:
-          node-version: 14
+          node-version: 16
+          cache: 'npm'
       - name: npm install, build, and lint/test
         run: |
           npm ci
