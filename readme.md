@@ -626,6 +626,16 @@
 | ------: | -------: | ------: |
 |   1 - 4 |      14+ | 90-150m |
 
+### [Rising Sun](https://boardgamegeek.com/boardgame/205896/rising-sun)
+
+> Rising Sun is a board game for 3 to 5 players set in legendary feudal Japan. As the Kami descend from the heavens to reshape the land in their image, it is up to each player to lead their clan to victory. Use politics to further your cause, negotiate to seek the most profitable alliances, worship the Kami to gain their favor, recruit monsters out of legend to bolster your forces, and use your resources wisely to be victorious in battle.
+
+![Rising Sun image](https://cf.geekdo-images.com/iwevA6XmiNLHn1QnGUucqw__itemrep/img/QC2OAbicZssRpGJkUmp0Zbto-cs=/fit-in/246x300/filters:strip_icc()/pic3880340.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   3 - 5 |       14 | 90-120m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
