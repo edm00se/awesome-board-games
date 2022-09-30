@@ -640,7 +640,7 @@
 
 > In the 2400s, mankind begins to terraform the planet Mars. Giant corporations, sponsored by the World Government on Earth, initiate huge projects to raise the temperature, the oxygen level, and the ocean coverage until the environment is habitable. Over several decades, you play as these corporations and work together in the terraforming process, but compete for getting victory points that are awarded not only for your contribution to the terraforming, but also for advancing human infrastructure and having the most terraformed areas of Mars.
 
-![Terraforming image](https://cf.geekdo-images.com/b4FYCmR66FYtxD_UhbnxyA__imagepagezoom/img/qELn1IafjO8yQt0FxfpiZ1n8Buw=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic6595124.jpg)
+![Terraforming Mars image](https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__itemrep/img/IwUOQfhP5c0KcRJBY4X_hi3LpsY=/fit-in/246x300/filters:strip_icc()/pic3536616.jpg)
 
 | Players | Min. Age | Time    |
 | ------: | -------: | ------: |
