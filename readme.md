@@ -1100,6 +1100,17 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 6 |      5 | 20-30m |
 
+
+### [Clue (1949)](https://boardgamegeek.com/boardgame/1294/clue)
+
+> Clue is so popular that it has spawned multiple editions, books, and even a cult classic film. Can’t distinguish between the different versions? Here’s a hint: The original is always marked “The Classic Mystery Game.” Currently, there is a Star Wars version of Clue that takes place inside the Empire’s Death Star, and players can choose to be Luke, Leia, Han, Chewbacca, R2-D2, or C-3PO. Find the murderer, you can!
+
+![Clue (1949) game image](https://cf.geekdo-images.com/owlmDA10KegcwPaapY5auw__imagepage/img/Rt9I1XN5Nl12_aGaLae2BP9nbDM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5146918.png)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 6 |        8 |  45m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
