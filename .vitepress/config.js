@@ -34,7 +34,8 @@ module.exports = {
     },
 
     algolia: {
-      apiKey: '74f2353ad49785793c24440b3521ed96',
+      appId: 'HM2OEMY7QZ',
+      apiKey: '4fed2ba7f2cd080ad79969be2934a7a9',
       indexName: 'awesomeboard'
     }
   }
