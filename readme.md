@@ -1100,6 +1100,18 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 6 |      5 | 20-30m |
 
+
+### [Ayoayo](https://en.wikipedia.org/wiki/Ayoayo)
+
+> Ayoayo (Yoruba: Ayò Ọlọ́pọ́n) is a traditional mancala played by the Yoruba people in Nigeria. It is very close to the Oware game that spread to the Americas with the atlantic slave trade. Among modern mancalas, which are most often derived from Warri, the Kalah is a notable one that has essentially the same rules as Ayoayo.
+> There are games with identical rules also in other areas of Africa. One such game is the Endodoi, played by the Maasai people of Kenya and Tanzania.
+
+![Ayoayo image](https://en.wikipedia.org/wiki/Ayoayo#/media/File:MancalaWari.JPG)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2  |      8 | 15-30m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
