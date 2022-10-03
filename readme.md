@@ -1112,6 +1112,18 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2  |      8 | 15-30m |
 
+
+### [Condottiere](https://boardgamegeek.com/boardgame/112/condottiere)
+
+> The object of Condottiere is to acquire four connected provinces in renaissance Italy. To do this players auction off different provinces on the board and bid on these provinces with a hand of cards representing mercenaries,seasons, scarecrows, and political figures. However, unlike standard auctions, in Condottiere every player loses their bid. 
+> Players are, in effect, bidding the number of troops they are willing to lose in order to win a province.
+
+![Condottiere image](https://cf.geekdo-images.com/PZ3Y8nJBWeQzLrCbjFcNFA__itemrep/img/I5U2ErlXmrnGVjxkdlTrq7EuC8w=/fit-in/246x300/filters:strip_icc()/pic6974400.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 6 |        14 | around 45m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
