@@ -1136,6 +1136,17 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 6 |        14 | around 45m |
 
+
+### [Decrypto](https://boardgamegeek.com/boardgame/225694/decrypto)
+
+> In Decypto, two teams composed of 2 to 4 players compete. Your goal is to transmit codes to your teammates without letting the opposing team intercept them. Therefore, your communication should be clear enough for your team to understand, but vague enough to confound your opponents. You are also attempting to intercept your opponents' codes.
+
+![Decrypto image](https://cf.geekdo-images.com/hHZWXnUTMYDd_KTAM6Jwlw__itemrep/img/9Kx83YFeiA7DeSjMxyfmv6-cGC8=/fit-in/246x300/filters:strip_icc()/pic3759421.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   3 - 8 |       12 | 15-45m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
