@@ -1138,15 +1138,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### [Hidden Leaders](https://boardgamegeek.com/boardgame/320718/hidden-leaders)
 
-> The island of Oshra is in turmoil. Following the death of the Emperor, the conflict between the Hill Tribes and the Imperial Army escalated. While the Water People try to maintain balance between the old rivals, the Undead aim to escalate the war. All hope rests on the six children of the Emperor: Who of them will claim the throne?
-In Hidden Leaders, you take the role of one of six secret leaders, each of them is allied with two of the four factions/colors. By playing heroes into your tableau, either openly or secretly, you influence the outcome of the conflict.
-At the end of the game, one of the four factions will win:
-Red leading > Red victory
-Green leading > Green victory
-Tie between Red & Green > Blue victory
-Red & Green in War Zone > Black victory
-Each player who is aligned with the winning faction can claim the victory. However, they must have more heroes of this color than any competitor.
-Hidden Leaders is a quick, light strategy card game with direct player interaction. It combines tableau building and deduction elements with its unique winning mechanism. This is a game of great tension with no-down time, that’s fast to learn. Its distinctive artwork and character names will make you smile.
+> The island of Oshra is in turmoil. Following the death of the Emperor, the conflict between the Hill Tribes and the Imperial Army escalated. While the Water People try to maintain balance between the old rivals, the Undead aim to escalate the war. All hope rests on the six children of the Emperor: Who of them will claim the throne? In Hidden Leaders, you take the role of one of six secret leaders, each of them is allied with two of the four factions/colors. By playing heroes into your tableau, either openly or secretly, you influence the outcome of the conflict. At the end of the game, one of the four factions will win:Red leading > Red victory Green leading > Green victory Tie between Red & Green > Blue victory Red & Green in War Zone > Black victory Each player who is aligned with the winning faction can claim the victory. However, they must have more heroes of this color than any competitor. Hidden Leaders is a quick, light strategy card game with direct player interaction. It combines tableau building and deduction elements with its unique winning mechanism. This is a game of great tension with no-down time, that’s fast to learn. Its distinctive artwork and character names will make you smile.
 
 ![Hidden Leaders](https://cf.geekdo-images.com/vDu0Zb4ooGEOF29ZaRQ3EQ__itemrep/img/mjljolaPV0Y9NUYBVU1YOmdnnBY=/fit-in/246x300/filters:strip_icc()/pic5845169.jpg)
 
