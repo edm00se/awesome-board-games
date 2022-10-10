@@ -273,6 +273,16 @@
 | ------: | -------: | -----: |
 |   2 - 6 |        5 |  5-15m |
 
+### [Sagrada](https://boardgamegeek.com/boardgame/199561/sagrada)
+
+> Each player builds a stained glass window by building up a grid of dice on their player board. Each board has some restrictions on which color or shade (value) of die can be placed there. Dice of the same shade or color may never be placed next to each other. Dice are drafted in player order, with the start player rotating each round, snaking back around after the last player drafts two dice. Scoring is variable per game based on achieving various patterns and varieties of placement...as well as bonus points for dark shades of a particular hidden goal color.
+
+![Sagrada game image](https://cf.geekdo-images.com/PZt3EAAGV3dFIVuwMR0AEw__itemrep/img/fLGFtsAiZgj3VwTDvgCn2yBIDYw=/fit-in/246x300/filters:strip_icc()/pic3525224.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |       10 | 30-45m |
+
 ## Strategy
 
 ### [Backgammon](https://en.wikipedia.org/wiki/Backgammon)
