@@ -658,6 +658,16 @@
 | ------: | -------: | ------: |
 |   3 - 5 |       14 | 90-120m |
 
+### [Pax Viking](https://boardgamegeek.com/boardgame/303954/pax-viking)
+
+> Pax Viking is a card driven game where you compete over cards in a common market in combination with strategic movement of longships on the map. You can play cards you buy on map locations you control through your longships; create trading posts, claim benefits from events and more. You can also play cards on your jarlboard, adding abilities to your player through friends, allies and gods. Through your actions you collect followers to give you power and influence for your final bid: to be the first king of Sweden.
+
+![Pax Viking image](https://spieltraum-shop.de/media/image/a3/40/05/show-id-1619527818652747_200x200.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   (1 -) 3 - 6 |       12 | 20m * number of players |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
