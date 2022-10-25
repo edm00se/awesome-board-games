@@ -664,9 +664,9 @@
 
 ![Pax Viking image](https://spieltraum-shop.de/media/image/a3/40/05/show-id-1619527818652747_200x200.jpg)
 
-| Players | Min. Age |  Time   |
-| ------: | -------: | ------: |
-|   (1 -) 3 - 6 |       12 | 20m * number of players |
+| Players | Min. Age |   Time   |
+| ------: | -------: | -------: |
+|   1 - 6 |       12 | 60 - 90m |
 
 ## Party
 
