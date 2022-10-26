@@ -658,6 +658,16 @@
 | ------: | -------: | ------: |
 |   3 - 5 |       14 | 90-120m |
 
+### [Dune: Imperium](https://boardgamegeek.com/boardgame/316554/dune-imperium)
+
+> Dune: Imperium uses deck-building to add a hidden-information angle to traditional worker placement. You start with a unique leader card, as well as a deck identical to those of your opponents. As you acquire cards and build your deck, your choices will define your strengths and weaknesses. Cards allow you to send your Agents to certain spaces on the game board, so how your deck evolves affects your strategy.
+
+![Dune: Imperium image](https://ccdn.anyfinder.eu/assets/cQK9Bx79FSvDbwJQhJtnr5k7StyaUhOq7rBH00sbLEu0SSLFQQ8FcMoHNQMT36cf?height=200)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   1 - 4 |       14 | 60-120m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
