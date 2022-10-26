@@ -658,6 +658,26 @@
 | ------: | -------: | ------: |
 |   3 - 5 |       14 | 90-120m |
 
+### [Pax Viking](https://boardgamegeek.com/boardgame/303954/pax-viking)
+
+> Pax Viking is a card driven game where you compete over cards in a common market in combination with strategic movement of longships on the map. You can play cards you buy on map locations you control through your longships; create trading posts, claim benefits from events and more. You can also play cards on your jarlboard, adding abilities to your player through friends, allies and gods. Through your actions you collect followers to give you power and influence for your final bid: to be the first king of Sweden.
+
+![Pax Viking image](https://spieltraum-shop.de/media/image/a3/40/05/show-id-1619527818652747_200x200.jpg)
+
+| Players | Min. Age |   Time   |
+| ------: | -------: | -------: |
+|   1 - 6 |       12 | 60 - 90m |
+
+### [Dune: Imperium](https://boardgamegeek.com/boardgame/316554/dune-imperium)
+
+> Dune: Imperium uses deck-building to add a hidden-information angle to traditional worker placement. You start with a unique leader card, as well as a deck identical to those of your opponents. As you acquire cards and build your deck, your choices will define your strengths and weaknesses. Cards allow you to send your Agents to certain spaces on the game board, so how your deck evolves affects your strategy.
+
+![Dune: Imperium image](https://ccdn.anyfinder.eu/assets/cQK9Bx79FSvDbwJQhJtnr5k7StyaUhOq7rBH00sbLEu0SSLFQQ8FcMoHNQMT36cf?height=200)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   1 - 4 |       14 | 60-120m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
@@ -1168,7 +1188,6 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |--------:|---------:|-------:|
 |   2 - 6 |        10 | 20-40m 
 
-
 ### [Muse](https://boardgamegeek.com/boardgame/234396/muse)
 
 > Muse is a competitive or cooperative party game where you use imaginative clues to inspire your teammates to get them to correctly guess the Masterpiece. 
@@ -1179,6 +1198,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
 |  2 - 12 |       10 | around 30m |
+
+### [Jackal](https://boardgamegeek.com/boardgame/42702/jackal)
+
+> In Jackal the players take command of pirate bands disembarking on Treasure Island. Each player may move their selected pirate once per round. The players explore the island in search of treasure to load on board their ships, while trying to recapture treasure from each other at the same time. The object of the game is to load more gold onto your ship than any other player.
+
+![Jackal image](https://cf.geekdo-images.com/LmNDNw-RdbcQzntcfQjmoQ__itemrep/img/kJZf7177r0fj_W9RmzJdX9t_3Cc=/fit-in/246x300/filters:strip_icc()/pic1638334.jpg)
+
+| Players | Min. Age | Time  |
+| ------: | -------: | ----: |
+|   2 - 4 |        8 |  120m |
 
 ## Contribute
 
