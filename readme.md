@@ -1188,6 +1188,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |--------:|---------:|-------:|
 |   2 - 6 |        10 | 20-40m 
 
+### [Muse](https://boardgamegeek.com/boardgame/234396/muse)
+
+> Muse is a competitive or cooperative party game where you use imaginative clues to inspire your teammates to get them to correctly guess the Masterpiece. 
+> As a Muse, you need to be creative to give the right clue to lead your team to their Masterpiece. As artists, you work alongside one another to decipher that clue, and correctly choose the Masterpiece from the line-up.
+
+![Muse image](https://cf.geekdo-images.com/6gDD73LSCMrr7ab1LHCXCg__itemrep/img/8JT5XGPKSWOt3VUGpjmfdkrBeSc=/fit-in/246x300/filters:strip_icc()/pic3719954.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|  2 - 12 |       10 | 30m |
 
 ### [Jackal](https://boardgamegeek.com/boardgame/42702/jackal)
 
