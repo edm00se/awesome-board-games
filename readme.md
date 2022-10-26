@@ -1188,6 +1188,17 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |--------:|---------:|-------:|
 |   2 - 6 |        10 | 20-40m 
 
+
+### [Jackal](https://boardgamegeek.com/boardgame/42702/jackal)
+
+> In Jackal the players take command of pirate bands disembarking on Treasure Island. Each player may move their selected pirate once per round. The players explore the island in search of treasure to load on board their ships, while trying to recapture treasure from each other at the same time. The object of the game is to load more gold onto your ship than any other player.
+
+![Jackal image](https://cf.geekdo-images.com/LmNDNw-RdbcQzntcfQjmoQ__itemrep/img/kJZf7177r0fj_W9RmzJdX9t_3Cc=/fit-in/246x300/filters:strip_icc()/pic1638334.jpg)
+
+| Players | Min. Age | Time  |
+| ------: | -------: | ----: |
+|   2 - 4 |        8 |  120m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
