@@ -1197,7 +1197,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
-|  2 - 12 |       10 | around 30m |
+|  2 - 12 |       10 | 30m |
 
 ### [Jackal](https://boardgamegeek.com/boardgame/42702/jackal)
 
