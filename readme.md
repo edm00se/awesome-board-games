@@ -289,7 +289,7 @@
 > Talisman takes you on a journey through magical lands, as you endeavor to reclaim the Crown of Command.
 > Each turn will see your hero advancing, battling, gaining knowledge and power necessary to defeat the guardians lurking between the Portal of Power and the Valley of Fire.
 
-![Talisman](https://cf.geekdo-images.com/GfXN7KP7ny2YU7A-zrZObA__imagepage/img/e6OSm6UndEBhgcEX6b6dA2wx650=/fit-in/900x600/filters:no_upscale():strip_icc()/pic818904.jpg)
+![Talisman](https://cf.geekdo-images.com/GfXN7KP7ny2YU7A-zrZObA__itemrep/img/qTes0WV8umHK5pLuKl5tZFpGYrU=/fit-in/246x300/filters:strip_icc()/pic818904.jpg)
 
 | Players | Min. Age |    Time |
 | ------: | -------: | ------: |
