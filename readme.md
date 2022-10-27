@@ -283,6 +283,20 @@
 | ------: | -------: | -----: |
 |   1 - 4 |       10 | 30-45m |
 
+
+### [Talisman](https://boardgamegeek.com/boardgame/714/talisman)
+
+> Talisman takes you on a journey through magical lands, as you endeavor to reclaim the Crown of Command.
+> Each turn will see your hero advancing, battling, gaining knowledge and power necessary to defeat the guardians lurking between the Portal of Power and the Valley of Fire.
+
+![Talisman](https://cf.geekdo-images.com/GfXN7KP7ny2YU7A-zrZObA__itemrep/img/qTes0WV8umHK5pLuKl5tZFpGYrU=/fit-in/246x300/filters:strip_icc()/pic818904.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|    2 -6 |        9 | 90-240m |
+
+
+
 ## Strategy
 
 ### [Backgammon](https://en.wikipedia.org/wiki/Backgammon)
