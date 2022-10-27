@@ -112,7 +112,7 @@
 
 ### [Contrast](https://boardgamegeek.com/boardgame/218465/contrast)
 
-> _Tall, Small, Big, Thin, Heavy, Light, Round, Square, Yellow, Red, Blue and Green._ Pick the symbol that matches the picture best! Dont worry, there is no wrong answer, but you only get a point if the majority of players has picked the same symbol as you!
+> _Tall, Small, Big, Thin, Heavy, Light, Round, Square, Yellow, Red, Blue and Green._ Pick the symbol that matches the picture best! Don't worry, there is no wrong answer, but you only get a point if the majority of players has picked the same symbol as you!
 
 ![Contrast_game_image](https://cf.geekdo-images.com/itemrep/img/_UZrwCiUkZHABXrGsjTQ2YoSjjs=/fit-in/246x300/pic3788079.png)
 
@@ -913,7 +913,7 @@
 
 ### [Trash Pandas](https://gamewright.com/product/Trash-Pandas)
 
-> Trash Pandas is a card game where you get to play as a racoon, trying to gather useful trash as you paw through the card deck. Start a collection of precious trash items, like day-old pizza or half-eaten candy, and gain points to be the best trash panda on the block. But wait, roll the dice to sabatoge other masked fiends to prevent them from taking your spot at the top, but make sure you don't mess with any Doggos that can mess with you back. Trash is treasure, and stash the most trash!
+> Trash Pandas is a card game where you get to play as a racoon, trying to gather useful trash as you paw through the card deck. Start a collection of precious trash items, like day-old pizza or half-eaten candy, and gain points to be the best trash panda on the block. But wait, roll the dice to sabotage other masked fiends to prevent them from taking your spot at the top, but make sure you don't mess with any Doggos that can mess with you back. Trash is treasure, and stash the most trash!
 
 ![Trash Pandas Image](https://cf.geekdo-images.com/itemrep/img/_y-H3J7gUewKSFyTS4_lzkbblgo=/fit-in/246x300/pic3989423.jpg)
 
@@ -957,7 +957,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### [TZAAR](https://en.wikipedia.org/wiki/TZAAR)
 
-> TZAAR is the second game in the GIPF series of abstract strategy games. Each player has types of pieces (6 tzaars, 9 tzarras, and 15 totts). Players take turns trying to capture opponent's pieces or stacking their pieces. Stacking pieces makes them stronger but reduces the number of pieces the player has on the board. Players lose if they cannot capture their opponent's piece or they do not have at least one type of each piece on the baord.
+> TZAAR is the second game in the GIPF series of abstract strategy games. Each player has types of pieces (6 tzaars, 9 tzarras, and 15 totts). Players take turns trying to capture opponent's pieces or stacking their pieces. Stacking pieces makes them stronger but reduces the number of pieces the player has on the board. Players lose if they cannot capture their opponent's piece or they do not have at least one type of each piece on the board.
 
 ![TZAAR image](https://cf.geekdo-images.com/83RmBw8qTkDJo7qC-YY8og__itemrep/img/MsIQXw5i3XfQPNqcsKM56bPS-So=/fit-in/246x300/filters:strip_icc()/pic3607816.jpg)
 
@@ -977,7 +977,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### [Cranium](https://boardgamegeek.com/boardgame/891/cranium)
 
-> Cranium bills itself as the "whole-brain" game. It's a party game that borrows from a host of other popular party games of recent times. Players have to successfully complete activities in each of four sections to win. 1) Creative Cat - A player must clue a word to his or her teammates by drawing it, sculpting it in clay, or drawing it with his or her eyes closed. 2) Data Head - A variety of trivia questions. 3) Word Worm - Players unscramble words, spell challenging words, guess definitions, identify words with letters left out, or spell words backwords. 4) Star Performer - players must whistle a song, impersonate a celebrity, or act out a clue. Cranium has elements similar to those of Pictionary, Charades, Trivial Pursuit: Genus Edition, Celebrities, Huggermugger, Claymania, etc.
+> Cranium bills itself as the "whole-brain" game. It's a party game that borrows from a host of other popular party games of recent times. Players have to successfully complete activities in each of four sections to win. 1) Creative Cat - A player must clue a word to his or her teammates by drawing it, sculpting it in clay, or drawing it with his or her eyes closed. 2) Data Head - A variety of trivia questions. 3) Word Worm - Players unscramble words, spell challenging words, guess definitions, identify words with letters left out, or spell words backwards. 4) Star Performer - players must whistle a song, impersonate a celebrity, or act out a clue. Cranium has elements similar to those of Pictionary, Charades, Trivial Pursuit: Genus Edition, Celebrities, Huggermugger, Claymania, etc.
 
 ![Cranium Image](https://cf.geekdo-images.com/itemrep/img/LI4w44KvZfDdRJacsftOUtvSKC0=/fit-in/246x300/pic4994220.jpg)
 
