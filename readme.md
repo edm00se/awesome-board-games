@@ -1209,6 +1209,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | ----: |
 |   2 - 4 |        8 |  120m |
 
+### [Heist: One Team, One Mission](https://boardgamegeek.com/boardgame/282237/heist-one-team-one-mission)
+
+> In this co-operative electronic game, players take on the roles of different characters -- Money Man, Hacker, Lookout, or Explosives Expert -- and work together to open an electronic safe and grab $50 million in cold hard cash along the way.
+
+![Heist game image](https://cf.geekdo-images.com/T7_1ABnRxbmZLtJak_qJJg__itemrep/img/BGg1fCo4ihT15QfxrgHaDv5131A=/fit-in/246x300/filters:strip_icc()/pic4821613.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |        7 |  5-15m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
