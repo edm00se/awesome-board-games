@@ -168,7 +168,7 @@
 
 ![Chutes and Ladders game image](https://upload.wikimedia.org/wikipedia/en/b/ba/Cnl03.jpg)
 
-| Players | Min. Age | Time   |
+| Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 4 |        4 | 15-30m |
 
@@ -208,7 +208,7 @@
 
 ![Parcheesi Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Parcheesi-board-perspective.jpg/320px-Parcheesi-board-perspective.jpg)
 
-| Players | Min. Age | Time   |
+| Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 4 |        8 | 30-60m |
 
@@ -218,9 +218,9 @@
 
 ![Tokaido Image](https://cf.geekdo-images.com/itemrep/img/oNPKz7nD6d53yT7CDIquGw6moNg=/fit-in/246x300/filters:strip_icc()/pic3747956.png)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   2 - 5 |        8 |    45m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 5 |        8 |  45m |
 
 ### [Santorini](https://boardgamegeek.com/boardgame/194655/santorini)
 
@@ -228,9 +228,9 @@
 
 ![Santorini Image](https://cf.geekdo-images.com/itemrep/img/8vG-UtGeFbhMXPTzLDUOqWot8hA=/fit-in/246x300/filters:strip_icc()/pic3283110.png)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   2 - 4 |        8 |    20m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |        8 |  20m |
 
 ### [Sushi Draft](https://boardgamegeek.com/boardgame/144865/sushi-draft)
 
@@ -238,9 +238,9 @@
 
 ![Sushi Draft image](https://cf.geekdo-images.com/VBF3tF7GdSMA0j1E6HPlvQ__itemrep/img/wAInfSxdweuNqVxnL5Qsq5P_wtk=/fit-in/246x300/filters:strip_icc()/pic2062272.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   3 - 5 |        8 |    15m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   3 - 5 |        8 |  15m |
 
 ### [PARKS](https://boardgamegeek.com/boardgame/266524/parks)
 
@@ -249,9 +249,9 @@
 ![PARKS image](https://cf.geekdo-images.com/mF2cSNRk2O6HtE45Sl9TcA__itemrep/img/aO688RtGLH5MV7LUHkmghPUjSJQ=/fit-in/246x300/filters:strip_icc()/pic4852372.jpg)
 
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   1 - 5 |       10 |40 -70m |
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   1 - 5 |       10 | 40 -70m |
 
 ### [Kingdomino](https://boardgamegeek.com/boardgame/204583/kingdomino)
 
@@ -259,9 +259,9 @@
 
 ![Kingdomino image](https://cf.geekdo-images.com/3h9W8BfB_rltQ48EBmHliw__itemrep/img/iL7bbm8d4meLUnnrFrmKx0Xk2k0=/fit-in/246x300/filters:strip_icc()/pic3132685.png)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   2 - 4 |        8 |    15m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |        8 |  15m |
 
 ### [Cobra Paw](https://boardgamegeek.com/boardgame/220700/cobra-paw)
 
@@ -269,9 +269,9 @@
 
 ![Cobra Paw image](https://cf.geekdo-images.com/4dwXEEXmCGd8JIiRg7njUA__itemrep/img/vEPbqyeRa30jmstCkz2rkvHom5E=/fit-in/246x300/filters:strip_icc()/pic5349983.png)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   2 - 6 |        5 |  5-15m |
+| Players | Min. Age |  Time |
+| ------: | -------: | ----: |
+|   2 - 6 |        5 | 5-15m |
 
 ### [Sagrada](https://boardgamegeek.com/boardgame/199561/sagrada)
 
@@ -279,9 +279,23 @@
 
 ![Sagrada game image](https://cf.geekdo-images.com/PZt3EAAGV3dFIVuwMR0AEw__itemrep/img/fLGFtsAiZgj3VwTDvgCn2yBIDYw=/fit-in/246x300/filters:strip_icc()/pic3525224.jpg)
 
-| Players | Min. Age | Time   |
+| Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   1 - 4 |       10 | 30-45m |
+
+
+### [Talisman](https://boardgamegeek.com/boardgame/714/talisman)
+
+> Talisman takes you on a journey through magical lands, as you endeavor to reclaim the Crown of Command.
+> Each turn will see your hero advancing, battling, gaining knowledge and power necessary to defeat the guardians lurking between the Portal of Power and the Valley of Fire.
+
+![Talisman](https://cf.geekdo-images.com/GfXN7KP7ny2YU7A-zrZObA__imagepage/img/e6OSm6UndEBhgcEX6b6dA2wx650=/fit-in/900x600/filters:no_upscale():strip_icc()/pic818904.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|    2 -6 |        9 | 90-240m |
+
+
 
 ## Strategy
 
@@ -503,9 +517,9 @@
 
 ![Gorgasali: Battle Royale Image](https://cf.geekdo-images.com/rEZCI1GVQMDIeeZ-IWGtRw__itemrep/img/L_ehmv4w5hR9hPdOF1RwoZIovK4=/fit-in/246x300/filters:strip_icc()/pic4960193.jpg)
 
-| Players | Min. Age |   Time   |
-| ------: | -------: | -------: |
-|    2-10 |       10 |  40-180m |
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|    2-10 |       10 | 40-180m |
 
 ### [Shadow Hunters](https://en.wikipedia.org/wiki/Shadow_Hunters)
 
@@ -584,7 +598,7 @@
 
 ![Blokus game image](https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Blokus_board_game.jpg/200px-Blokus_board_game.jpg)
 
-| Players | Min. Age | Time   |
+| Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 4 |        7 | 20-30m |
 
@@ -595,7 +609,7 @@
 ![The Estates image](https://cf.geekdo-images.com/AvC3AzHo8JlcvgKtQ3PDWA__itemrep/img/fKXzvy-mkwqrTORbPC-aNLB_ei8=/fit-in/246x300/filters:strip_icc()/pic4071903.jpg)
 
 
-| Players | Min. Age | Time   |
+| Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 5 |       10 | 40-60m |
 ### [Telepathy](https://boardgamegeek.com/boardgame/40182/telepathy)
@@ -614,9 +628,9 @@
 
 ![Chinese Checkers game image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/ChineseCheckersboard.jpeg/300px-ChineseCheckersboard.jpeg)
 
-| Players | Min. Age | Time   |
+| Players | Min. Age |   Time |
 | ------: | -------: | -----: |
-|   2 - 6 |       7  | 10–30m |
+|   2 - 6 |        7 | 10–30m |
 
 ### [Citadels](https://en.wikipedia.org/wiki/Citadels_(card_game))
 
@@ -624,9 +638,9 @@
 
 ![Citadels game image](https://cf.geekdo-images.com/42iW4E-vOumFXRQAiSf-GA__itemrep/img/NVAwUCUVc6QWNKZNUBiIMg2nk8A=/fit-in/246x300/filters:strip_icc()/pic3239104.jpg)
 
-| Players | Min. Age | Time   |
+| Players | Min. Age |   Time |
 | ------: | -------: | -----: |
-|   2 - 7 |     10+  | 30-60m |
+|   2 - 7 |      10+ | 30-60m |
 
 ### [Leaving Earth](https://boardgamegeek.com/boardgame/173064/leaving-earth)
 
@@ -634,9 +648,9 @@
 
 ![Leaving Earth game image](https://cf.geekdo-images.com/rpjQ2X1g2fau-VsgAYvo2A__itemrep/img/6tc-Bi7iqr-DRoszSytamoIoQjw=/fit-in/246x300/filters:strip_icc()/pic2624698.jpg)
 
-| Players | Min. Age | Time    |
+| Players | Min. Age |    Time |
 | ------: | -------: | ------: |
-|   1 - 5 |     15+  | 60-180m |
+|   1 - 5 |      15+ | 60-180m |
 
 ### [Ark Nova](https://boardgamegeek.com/boardgame/342942/ark-nova)
 
@@ -644,7 +658,7 @@
 
 ![Ark Nova](https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__itemrep/img/IRqrT7kOqPQilogauyQkOnLx-HU=/fit-in/246x300/filters:strip_icc()/pic6293412.jpg)
 
-| Players | Min. Age | Time    |
+| Players | Min. Age |    Time |
 | ------: | -------: | ------: |
 |   1 - 4 |      14+ | 90-150m |
 
@@ -654,7 +668,7 @@
 
 ![Rising Sun image](https://cf.geekdo-images.com/iwevA6XmiNLHn1QnGUucqw__itemrep/img/QC2OAbicZssRpGJkUmp0Zbto-cs=/fit-in/246x300/filters:strip_icc()/pic3880340.jpg)
 
-| Players | Min. Age |  Time   |
+| Players | Min. Age |    Time |
 | ------: | -------: | ------: |
 |   3 - 5 |       14 | 90-120m |
 
@@ -664,7 +678,7 @@
 
 ![Pax Viking image](https://spieltraum-shop.de/media/image/a3/40/05/show-id-1619527818652747_200x200.jpg)
 
-| Players | Min. Age |   Time   |
+| Players | Min. Age |     Time |
 | ------: | -------: | -------: |
 |   1 - 6 |       12 | 60 - 90m |
 
@@ -674,7 +688,7 @@
 
 ![Dune: Imperium image](https://ccdn.anyfinder.eu/assets/cQK9Bx79FSvDbwJQhJtnr5k7StyaUhOq7rBH00sbLEu0SSLFQQ8FcMoHNQMT36cf?height=200)
 
-| Players | Min. Age |  Time   |
+| Players | Min. Age |    Time |
 | ------: | -------: | ------: |
 |   1 - 4 |       14 | 60-120m |
 
@@ -1001,9 +1015,9 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ![Catan image](https://cf.geekdo-images.com/itemrep/img/mSwnoBBEdGDnzC5wlDVU9dhpIyA=/fit-in/246x300/filters:strip_icc()/pic2420310.jpg)
 
-| Players | Min. Age | Time     |
-| ------: | -------: | --------:|
-|   2 - 4 |      12+ |  90-120m |
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   2 - 4 |      12+ | 90-120m |
 
 ### [The Mind](https://www.boardgamegeek.com/boardgame/244992/mind)
 
@@ -1011,9 +1025,9 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ![The Mind image](https://cf.geekdo-images.com/itemrep/img/w6x_ahGLQVe2u6trDx0kO91OprM=/fit-in/246x300/filters:strip_icc()/pic3979766.png)
 
-| Players | Min. Age | Time     |
-| ------: | -------: | --------:|
-|   2 - 4 |      8+  |      15m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |       8+ |  15m |
 
 ### [Marrakesh](https://boardgamegeek.com/boardgame/342810/marrakesh)
 
@@ -1022,9 +1036,9 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ![Marrakesh image](https://cf.geekdo-images.com/zSMdU8DMBBvW2LIOjVCM7A__itemrep/img/-RnOaoGEX9YStxHqYm3x4Vvk8Nc=/fit-in/246x300/filters:strip_icc()/pic6289695.jpg)
 
-| Players | Min. Age | Time     |
-| ------: | -------: | --------:|
-|   2 - 4 |      14+ |     120m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |      14+ | 120m |
 
 ### [Rat-a-Tat Cat](https://www.boardgamegeek.com/boardgame/3837/rat-tat-cat)
 
@@ -1032,9 +1046,9 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ![Rat-a-Tat Cat image](https://cf.geekdo-images.com/4nQQ9GA-1JXcxwNd-tCR8w__itemrep/img/7bCQhZauNwAuekRT3xwbt2FCLlo=/fit-in/246x300/filters:strip_icc()/pic147435.jpg)
 
-| Players | Min. Age | Time     |
-| ------: | -------: | --------:|
-|   2 - 6 |      6+  |      10m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 6 |       6+ |  10m |
 
 ### [Abalone](https://boardgamegeek.com/boardgame/526/abalone)
 
@@ -1042,9 +1056,9 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ![Abalone image](http://cdn.aktivcommunication.cz/images/products/box/4426.jpg)
 
-| Players | Min. Age | Time     |
-| ------: | -------: | --------:|
-|       2 |      7+  |      30m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|       2 |       7+ |  30m |
 
 ### [Nine Men's Morris](https://en.wikipedia.org/wiki/Nine_men's_morris)
 
@@ -1052,9 +1066,9 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ![Nine Men's Morris image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Nine_Men%27s_Morris_board_with_coordinates.svg/300px-Nine_Men%27s_Morris_board_with_coordinates.svg.png)
 
-| Players | Min. Age | Time     |
-| ------: | -------: | --------:|
-|       2 |       5+ |   5m-60m |
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|       2 |       5+ | 5m-60m |
 
 ### [Scrabble](https://boardgamegeek.com/boardgame/320/scrabble)
 
@@ -1062,9 +1076,9 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ![Scrabble image](https://cf.geekdo-images.com/mVmmntn2oQd0PfFrWBvwIQ__itemrep/img/xtiNZzN_7T6xZ3EPxzgYcBz9Ydk=/fit-in/246x300/filters:strip_icc()/pic404651.jpg)
 
-| Players | Min. Age | Time     |
-| ------: | -------: | --------:|
-|   2 - 4 |      10+  |      90m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |      10+ |  90m |
 
 ### [Unanimo Party](https://www.boardgamegeek.com/boardgame/261614/unanimo-party)
 
@@ -1073,9 +1087,9 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ![Rat-a-Tat Cat image](https://cf.geekdo-images.com/7KL7IYpSbZ3xWVYVdKfUeg__itemrep/img/t5OBTFFAWagqcmrW6odyvW3Zn1I=/fit-in/246x300/filters:strip_icc()/pic4415146.jpg)
 
-| Players | Min. Age | Time     |
-| ------: | -------: | --------:|
-|  3 - 12 |     10+  |      30m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|  3 - 12 |      10+ |  30m |
 
 ### [Small World](https://boardgamegeek.com/boardgame/40692/small-world)
 
@@ -1083,7 +1097,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ![Small World game image](https://cf.geekdo-images.com/aoPM07XzoceB-RydLh08zA__itemrep/img/vxZGxHhrtnOMxPM38WNIu-tfYmI=/fit-in/246x300/filters:strip_icc()/pic428828.jpg)
 
-| Players | Min. Age | Time   |
+| Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 5 |        8 | 40-80m |
 
@@ -1095,7 +1109,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ![Noir game image](https://cf.geekdo-images.com/4gaw7uVUCijAZa5bnZP84Q__itemrep/img/iymr5JN2rzqoDvm7soJFk0IvquI=/fit-in/246x300/filters:strip_icc()/pic3941376.png)
 
-| Players | Min. Age | Time   |
+| Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   3 - 6 |      10+ | 10-60m |
 
@@ -1107,9 +1121,9 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ![the game of life image](https://user-images.githubusercontent.com/61943677/138511931-aa1cdf9f-7d2a-4ab9-a3b7-f7f0d1a0f867.png)
 
-| Players | Min. Age | Time   |
+| Players | Min. Age |   Time |
 | ------: | -------: | -----: |
-|   2 - 6 |        8+ | 30-80m |
+|   2 - 6 |       8+ | 30-80m |
 
 ### [The Singaporean Dream](https://www.thesingaporeandream.com/)
 
@@ -1117,7 +1131,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ![The Singaporean Dream image](https://cf.geekdo-images.com/AgAtrZRUwIttv1wRlvMskQ__itemrep/img/T6flb1-mQiTpzWu2S1dSQrhoUjw=/fit-in/246x300/filters:strip_icc()/pic4481765.png)
 
-| Players | Min. Age | Time   |
+| Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 6 |      18+ | 20-30m |
 
@@ -1128,9 +1142,9 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ![Battleship image](https://cf.geekdo-images.com/dUh-sb2V8CyDjBDvwzf-qg__itemrep/img/_U6cCRlORa_Ex4emUsVXE77bCbo=/fit-in/246x300/filters:strip_icc()/pic1293566.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   2  |        8+ | 30m around|
+| Players | Min. Age |       Time |
+| ------: | -------: | ---------: |
+|       2 |       8+ | 30m around |
 
 ### [Say What? Shiok Food Card Game](https://www.saywhatwithfriends.com/shop/say-what-singapores-shiok-food-card-game)
 
@@ -1138,9 +1152,9 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ![Say What? Shiok Food Card Game](https://images.squarespace-cdn.com/content/v1/5649b2dbe4b0142472e867bc/1573954498990-B1NESNC79U51TJNXQEBB/SG+FOOD+GAME+FRONT.JPG?format=250w)
 
-| Players | Min. Age | Time   |
+| Players | Min. Age |   Time |
 | ------: | -------: | -----: |
-|   2 - 6 |      5 | 20-30m |
+|   2 - 6 |        5 | 20-30m |
 
 
 ### [Ayoayo](https://en.wikipedia.org/wiki/Ayoayo)
@@ -1150,9 +1164,9 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ![Ayoayo image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/The_Ayo_%28Olopon%29_game.jpg/180px-The_Ayo_%28Olopon%29_game.jpg)
 
-| Players | Min. Age | Time   |
+| Players | Min. Age |   Time |
 | ------: | -------: | -----: |
-|   2  |      8 | 15-30m |
+|       2 |        8 | 15-30m |
 
 
 ### [Condottiere](https://boardgamegeek.com/boardgame/112/condottiere)
@@ -1162,9 +1176,9 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ![Condottiere image](https://cf.geekdo-images.com/PZ3Y8nJBWeQzLrCbjFcNFA__itemrep/img/I5U2ErlXmrnGVjxkdlTrq7EuC8w=/fit-in/246x300/filters:strip_icc()/pic6974400.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   2 - 6 |        14 | around 45m |
+| Players | Min. Age |       Time |
+| ------: | -------: | ---------: |
+|   2 - 6 |       14 | around 45m |
 
 
 ### [Decrypto](https://boardgamegeek.com/boardgame/225694/decrypto)
@@ -1173,7 +1187,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ![Decrypto image](https://cf.geekdo-images.com/hHZWXnUTMYDd_KTAM6Jwlw__itemrep/img/9Kx83YFeiA7DeSjMxyfmv6-cGC8=/fit-in/246x300/filters:strip_icc()/pic3759421.jpg)
 
-| Players | Min. Age | Time   |
+| Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   3 - 8 |       12 | 15-45m |
 
@@ -1185,8 +1199,8 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 ![Hidden Leaders](https://cf.geekdo-images.com/vDu0Zb4ooGEOF29ZaRQ3EQ__itemrep/img/mjljolaPV0Y9NUYBVU1YOmdnnBY=/fit-in/246x300/filters:strip_icc()/pic5845169.jpg)
 
 | Players | Min. Age |   Time |
-|--------:|---------:|-------:|
-|   2 - 6 |        10 | 20-40m 
+| ------: | -------: | -----: |
+|   2 - 6 |       10 | 20-40m |
 
 ### [Muse](https://boardgamegeek.com/boardgame/234396/muse)
 
@@ -1195,9 +1209,9 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ![Muse image](https://cf.geekdo-images.com/6gDD73LSCMrr7ab1LHCXCg__itemrep/img/8JT5XGPKSWOt3VUGpjmfdkrBeSc=/fit-in/246x300/filters:strip_icc()/pic3719954.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|  2 - 12 |       10 | 30m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|  2 - 12 |       10 |  30m |
 
 ### [Jackal](https://boardgamegeek.com/boardgame/42702/jackal)
 
@@ -1205,9 +1219,9 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ![Jackal image](https://cf.geekdo-images.com/LmNDNw-RdbcQzntcfQjmoQ__itemrep/img/kJZf7177r0fj_W9RmzJdX9t_3Cc=/fit-in/246x300/filters:strip_icc()/pic1638334.jpg)
 
-| Players | Min. Age | Time  |
-| ------: | -------: | ----: |
-|   2 - 4 |        8 |  120m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |        8 | 120m |
 
 ### [Heist: One Team, One Mission](https://boardgamegeek.com/boardgame/282237/heist-one-team-one-mission)
 
@@ -1215,9 +1229,9 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ![Heist game image](https://cf.geekdo-images.com/T7_1ABnRxbmZLtJak_qJJg__itemrep/img/BGg1fCo4ihT15QfxrgHaDv5131A=/fit-in/246x300/filters:strip_icc()/pic4821613.png)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   2 - 4 |        7 |  5-15m |
+| Players | Min. Age |  Time |
+| ------: | -------: | ----: |
+|   2 - 4 |        7 | 5-15m |
 
 ## Contribute
 
