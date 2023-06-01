@@ -947,7 +947,7 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 | ------: | -------: | ---: |
 |   2 - 8 |       14 |  15m |
 
-### [SuperFight](https://www.superfightgame.com/)
+### [SuperFight](https://boardgamegeek.com/boardgame/139443/superfight)
 
 > A game of absurd arguments
 
