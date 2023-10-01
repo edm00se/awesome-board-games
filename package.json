@@ -30,7 +30,7 @@
     "cross-env": "^7.0.3",
     "npm-run-all": "^4.1.5",
     "prettier": "^3.0.3",
-    "remark-cli": "^11.0.0",
+    "remark-cli": "^12.0.0",
     "remark-lint-no-dead-urls": "^1.1.0",
     "remark-validate-links": "^12.1.1",
     "vitepress": "^0.22.4"
