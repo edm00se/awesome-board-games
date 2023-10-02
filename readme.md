@@ -295,7 +295,16 @@
 | ------: | -------: | ------: |
 |    2 -6 |        9 | 90-240m |
 
+### [The Witcher: Old World](https://boardgamegeek.com/boardgame/331106/witcher-old-world)
 
+> The Witcher: Old World immerses you in the legendary universe of The Witcher franchise. In the time when monsters roamed the Continent, the well-trained Witchers were in high demand. Competing schools prepared them for perilous adventures and helping those in trouble in exchange for coins.
+> In this competitive board game, 2-5 players embark on quests, make moral choices, fight monsters, and sometimes brawl with other witchers to defend their school's honor. Players construct unique decks with attacks, dodges, and witcher magic called "signs" to achieve powerful combos. Earn money, obtain items, and train skills through quests, battles or even dice poker.
+
+![The Witcher: Old World](https://cf.geekdo-images.com/tQVVSXcmYLvAoI28cp-2Tg__itemrep/img/rxCXKwIjRmHKwONcIo5Ja7iTiKc=/fit-in/246x300/filters:strip_icc()/pic5974859.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|    1 -5 |       14 | 90-150m |
 
 ## Strategy
 
