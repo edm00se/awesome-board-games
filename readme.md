@@ -156,7 +156,7 @@
 
 > The race is woven around a storyline about finding King Kandy, the lost king of Candy Land...game requires no reading and minimal counting skills, making it suitable for young children...players are never required to make choices, just follow directions.
 
-![Candy Land image](https://upload.wikimedia.org/wikipedia/en/d/de/Classic_Candy_Land_by_Winning_Moves.jpg)
+![Candy Land image]([https://upload.wikimedia.org/wikipedia/en/d/de/Classic_Candy_Land_by_Winning_Moves.jpg](https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Candy_land_mb_cover_1949.jpg/250px-Candy_land_mb_cover_1949.jpg))
 
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
