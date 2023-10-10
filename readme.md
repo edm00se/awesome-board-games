@@ -701,6 +701,16 @@
 | ------: | -------: | ------: |
 |   1 - 4 |       14 | 60-120m |
 
+### [Great Western Trails](https://boardgamegeek.com/boardgame/193738/great-western-trail)
+
+> America in the 19th century: You are a rancher and repeatedly herd your cattle from Texas to Kansas City, where you send them off by train. This earns you money and victory points. Needless to say, each time you arrive in Kansas City, you want to have your most valuable cattle in tow. However, the "Great Western Trail" not only requires that you keep your herd in good shape, but also that you wisely use the various buildings along the trail. Also, it might be a good idea to hire capable staff: cowboys to improve your herd, craftsmen to build your very own buildings, or engineers for the important railroad line
+
+![Great Western Trails image](https://cf.geekdo-images.com/u1l0gH7sb_vnvDvoO_QHqA__itemrep/img/s3qAGoXVCK6gA8nsHDICfZ4Jc1c=/fit-in/246x300/filters:strip_icc()/pic4887376.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   2 - 4 |       12 | 75-120m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
