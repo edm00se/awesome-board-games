@@ -701,6 +701,16 @@
 | ------: | -------: | ------: |
 |   1 - 4 |       14 | 60-120m |
 
+### [Android: Netrunner](https://boardgamegeek.com/boardgame/124742/android-netrunner)
+
+> Android: Netrunner is a strategic asymmetrical Living Card Game for two players set in a cyberpunk future. One player represents a powerful megacorporation aiming to score agendas by advancing them, protected by a web of security ice programs, while the other player assumes the role of a lone hacker, or runner, attempting to infiltrate and disrupt the corporation's plans by acquiring resources, hardware, and ice-breaker programs. With a goal of reaching seven points, players face high-stakes risks, including brain damage and bad publicity, in their quest for victory in this futuristic battle for control and information.
+
+![Android: Netrunner](https://cf.geekdo-images.com/2ewHIIG_TRq8bYlqk0jIMw__itemrep/img/Nz7z5Qk3fZ3R6IM14pDRg1D8XKE=/fit-in/246x300/filters:strip_icc()/pic3738560.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   2     |       14 | 45m     |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
