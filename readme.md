@@ -701,6 +701,16 @@
 | ------: | -------: | ------: |
 |   1 - 4 |       14 | 60-120m |
 
+### [Twilight Struggle](https://boardgamegeek.com/boardgame/12333/twilight-struggle)
+
+> Twilight Struggle is a compelling two-player board game that encapsulates the forty-five-year geopolitical struggle between the Soviet Union and the United States, characterized by intrigue, prestige, and the occasional outbreak of warfare. Set against the backdrop of post-World War II Europe and spanning until 1989, the game delves into the complex dynamics of the Cold War. Players engage in a dance of influence, intelligence, and diplomatic maneuvering, representing the two superpowers' efforts to shape the world according to their ideologies. Based on the renowned card-driven game tradition, Twilight Struggle presents a low-complexity, quick-playing experience in which players use cards and units strategically on a world map to gain allies and control key regions. Historical events, from the Arab-Israeli conflicts to the Cuban Missile Crisis, are vividly portrayed through Event cards, and players must navigate nuclear tensions and the Space Race while avoiding the looming threat of nuclear war. Twilight Struggle offers an immersive journey through one of the most critical periods in modern history.
+
+![Twilight Struggle image](https://cf.geekdo-images.com/pNCiUUphnoeWOYfsWq0kng__itemrep/img/WMsXl-Wa8q2n9_lJH536Mhi2COc=/fit-in/246x300/filters:strip_icc()/pic3530661.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   2     |       13 | 120-180m|
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
