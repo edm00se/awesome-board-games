@@ -700,6 +700,15 @@
 | Players | Min. Age |  Time   |
 | ------: | -------: | ------: |
 |   1 - 4 |       14 | 60-120m |
+### [Through the Ages: A New Story of Civilization](https://boardgamegeek.com/boardgame/182028/through-ages-new-story-civilization)
+
+> Through the Ages: A New Story of Civilization is a strategic board game that combines elements of card drafting, civilization building, and resource management. In this digital implementation, players guide their civilizations through the ages, from antiquity to the modern era, focusing on advancements in technology, the construction of wonders, and the development of a strong military. Weaker aspects of a player's civilization can be exploited by opponents, making military strength a vital component. Victory is achieved by accumulating the most culture by the end of the modern age. With its deep gameplay and historical context, Through the Ages offers a challenging and immersive strategy experience for players aiming to build the most prosperous civilization.
+
+![Through the Ages: A New Story of Civilization image](https://cf.geekdo-images.com/fVwPntkJKgaEo0rIC0RwpA__itemrep/img/TF5TpehpgE7XvNSRzSSWjnYCbLc=/fit-in/246x300/filters:strip_icc()/pic2663291.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   2 - 4 |       14 |    120m |
 
 ## Party
 
