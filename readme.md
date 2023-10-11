@@ -1264,6 +1264,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |--------:|---------:|-----:|
 |     2   |        13 |  20m |
 
+### [Blood on the Clocktower](https://boardgamegeek.com/boardgame/240980/blood-clocktower)
+
+> Blood on the Clocktower is a bluffing game enjoyed by 5 to 20 players on opposing teams of Good and Evil, overseen by a Storyteller player who conducts the action and makes crucial decisions. The goal of the game is to successfully deduce and execute the demons before they outnumber the townfolk. During a 'day' phase players socialize openly and whisper privately to trade knowledge or spread lies, culminating in a player's execution if a majority suspects them of being Evil. Of a 'night' time, players close their eyes and are woken one at a time by the Storyteller to gather information, spread mischief, or kill. The Storyteller uses the game's intricate playing pieces to guide each game, leaving others free to play without a table or board. Players stay in the thick of the action to the very end even if their characters are killed, haunting Ravenswood Bluff as ghosts trying to win from beyond the grave. If you arrive late to a game, you can enter after it's started as a powerful Traveller character with unusual talents and questionable allegiances. Each character comes with their own special ability and no two players in a game are ever the same character. 
+ 
+![Blood on the clocktower img](https://cf.geekdo-images.com/HINb2nkFn5IiZxAlzQIs4g__itemrep/img/ji9nruIqJkNi8omWgNRZKmrZjwA=/fit-in/246x300/filters:strip_icc()/pic7009391.jpg)
+
+| Players | Min. Age | Time |
+|--------:|---------:|-----:|
+|   5-20  |        15 |  30-120m |
+
 
 ## Contribute
 
