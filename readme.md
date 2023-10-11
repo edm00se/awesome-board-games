@@ -1264,6 +1264,15 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |--------:|---------:|-----:|
 |     2   |        13 |  20m |
 
+### [Wits & Wagers](https://boardgamegeek.com/boardgame/20100/wits-wagers)
+
+> Not a trivia buff? It doesn't matter! In Wits & Wagers, each player writes a guess to a question such as “In what year did the bikini swimsuit makes its first appearance?” or “How many feet wide is an NFL football field?” and places it face-up on the betting mat. Think you know the answer? Bet on your guess. Think you know who the experts are? Bet on their guess. The closest answer — without going over — pays out according to the odds on the betting mat. Strike it big and you'll be cheering like you just hit the jackpot! Wits & Wagers is a trivia game that lets you bet on anyone's answer. So you can win by making educated guesses, by playing the odds, or by knowing the interests of your friends. It can be taught in 2 minutes, played in 25 minutes, and accommodates up to 20 people in teams. 
+ 
+![Wits & Wagers image](https://cf.geekdo-images.com/5eGv23b7gutMvKYOPtQkYA__imagepage/img/NyyVudRA-7GNNfJM2vZAo4u53hs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic96548.jpg)
+
+| Players | Min. Age | Time |
+|--------:|---------:|-----:|
+|  3 - 7  |       10 |  25m |
 
 ## Contribute
 
