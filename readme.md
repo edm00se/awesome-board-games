@@ -701,6 +701,16 @@
 | ------: | -------: | ------: |
 |   1 - 4 |       14 | 60-120m |
 
+### [The Castles of Burgundy](https://boardgamegeek.com/boardgame/84876/castles-burgundy)
+
+> The Castles of Burgundy is an immersive board game set in the Burgundy region of High Medieval France. Players assume the roles of aristocrats seeking to expand their princedoms by building settlements, constructing formidable castles, engaging in river trade, exploiting silver mines, and harnessing the knowledge of travelers. The core gameplay revolves around selecting settlement tiles from the game board and placing them onto a personal player board, with each tile having a unique function. These tiles must be placed in regions that match their type. The game unfolds in five phases, each comprising five rounds. Players roll dice at the start of each round, with one player determining the availability of goods tiles. On their turns, players can perform two of four possible actions: taking settlement tiles from the game board, placing tiles on their player board, delivering goods, or obtaining worker tokens to adjust dice rolls. Bonus points are awarded for various accomplishments, and the game concludes after the fifth phase. Victory points are tallied, and the player with the most points emerges as the winner. With both basic and advanced rules, The Castles of Burgundy offers a deep and engaging gameplay experience, and it is part of the Alea big box series.
+
+![The Castles of Burgundy image](https://cf.geekdo-images.com/5CFwjd8zTcGYVUnkXh04hw__itemrep/img/GLJxEMRq5M4T9BZGcZ6xtDzj5OQ=/fit-in/246x300/filters:strip_icc()/pic1176894.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   2 - 4 |       12 |  30-90m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
