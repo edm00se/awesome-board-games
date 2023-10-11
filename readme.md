@@ -1264,6 +1264,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |--------:|---------:|-----:|
 |     2   |        13 |  20m |
 
+### [Just One](https://boardgamegeek.com/boardgame/254640/just-one)
+
+> Just One is a cooperative party game in which you play together to discover as many mystery words as possible. Find the best clue to help your teammate. Be unique, as all identical clues will be cancelled! A complete game is played over 13 cards. The goal is to get a score as close to 13 as possible. In case of a right answer, the players score 1 point. In case of wrong answer, they lose the current card as well as the top card of the deck. Thus losing 2 points. In case of lack of answer, the players only lose the current card, and therefore only 1 point. You have the choice – make the difference!
+
+![Just One image](https://cf.geekdo-images.com/ocAuKT9hp99yBY77e4uuPg__itemrep/img/z0G8pfPvUewTm8apjBQHq0qkwAw=/fit-in/246x300/filters:strip_icc()/pic5137279.jpg)
+
+| Players | Min. Age | Time |
+|--------:|---------:|-----:|
+|  3 - 7  |        8 |  20 - 60m |
+
 
 ## Contribute
 
