@@ -709,7 +709,7 @@
 
 | Players | Min. Age |  Time   |
 | ------: | -------: | ------: |
-|   2 - 6 |       14 | 60-300m |
+|   2 - 6 |       14 | 60-200m |
 
 ### [Android: Netrunner](https://boardgamegeek.com/boardgame/124742/android-netrunner)
 
