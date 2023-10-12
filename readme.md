@@ -709,7 +709,7 @@
 
 | Players | Min. Age |  Time   |
 | ------: | -------: | ------: |
-|   2 - 4 |       12 | 75-120m |
+|   2 - 4 |       12 | 75-150m |
 
 ### [Through the Ages: A New Story of Civilization](https://boardgamegeek.com/boardgame/182028/through-ages-new-story-civilization)
 
