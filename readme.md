@@ -701,7 +701,6 @@
 | ------: | -------: | ------: |
 |   1 - 4 |       14 | 60-120m |
 
-
 ### [Field of Fires](https://boardgamegeek.com/boardgame/22877/fields-fire)
 
 > Fields of Fire is a solitaire tactical wargame published by GMT Games, designed to simulate historical campaigns from World War II to the present day. The game revolves around a card-based system, employing two decks—the terrain deck and action decks. Players are tasked with constructing maps for various missions within a historical campaign, employing turn-based strategic actions to achieve their objectives. A single game comprises several missions, each lasting approximately 3 to 5 hours. Fields of Fire has received recognition for its excellence, including Games Magazine's award for Best New Historical Simulation Game in their 2010 Games 100 issue. It offers a deep and immersive strategic experience for players interested in historical warfare simulations.
@@ -712,6 +711,16 @@
 | ------: | -------: | ------: |
 |   1     |       12 | 60-300m |
 
+<!--lint ignore no-heading-punctuation-->
+### [Ambush!](https://boardgamegeek.com/boardgame/1608/ambush)
+
+> Ambush! is a strategy board game developed by Avalon Hill, known for its innovative approach to single-player gameplay in the wargaming genre. Released in 1983, it broke away from the traditional requirement of two players by allowing a solo player to engage in man-to-man combat scenarios. What made Ambush! unique was its use of tables, charts, and a "paragraph book" to control the opponent's actions, eliminating the need for an opposing player. This approach kept the enemy hidden until they became visible through gameplay, enhancing the element of surprise and realism. While it allowed for multiple players to participate by controlling different squads or soldiers, the complexity of scenario creation often required players to purchase expansion modules. Ambush! is a strategy game that offers an engaging and challenging experience for players seeking tactical warfare simulations.
+
+![Ambush!](https://cf.geekdo-images.com/8H-hiPuWsdD07fcj0kMsYA__itemrep/img/lrnLlctpbFXS7Sz_MnZu-SveGoE=/fit-in/246x300/filters:strip_icc()/pic265524.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   1     |       12 | 180-240m |
 
 
 ## Party
