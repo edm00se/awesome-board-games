@@ -845,6 +845,10 @@
 
 ![Power Grid](https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/PGbox_cover_cropped.jpg/150px-PGbox_cover_cropped.jpg)
 
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   2 - 6 |       12 |    120m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
