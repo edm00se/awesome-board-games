@@ -803,6 +803,16 @@
 | ------: | -------: | ------: |
 |   1     |       12 | 180-240m |
 
+### [Brass: Birmingham](https://boardgamegeek.com/boardgame/224517/brass-birmingham)
+
+> Brass: Birmingham is an intricate economic strategy game, serving as the sequel to Martin Wallace's classic Brass, and it immerses players in the dynamic world of Birmingham during the industrial revolution, spanning the years 1770-1870. In this game, players compete as entrepreneurs, striving to build, develop, and expand their industries and networks to capitalize on the shifting demands of the market. Actions in each round include building industries, expanding networks, developing industry value, selling goods through a new trader system, and even taking loans when necessary. The game unfolds in two eras, the canal era and the rail era, with the goal of accumulating the most victory points. Birmingham introduces strategic complexity with the addition of breweries, a range of manufactured goods, and pottery industries, along with a modified market for coal and iron. This sequel offers a fresh, captivating narrative and gameplay experience while retaining the essence of its predecessor, Brass.
+
+![Brass: Birmingham image](https://cf.geekdo-images.com/x3zxjr-Vw5iU4yDPg70Jgw__itemrep/img/giNUMut4HAl-zWyQkGG0YchmuLI=/fit-in/246x300/filters:strip_icc()/pic3490053.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   2 - 4 |       14 | 60-120m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
