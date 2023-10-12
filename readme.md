@@ -701,7 +701,7 @@
 | ------: | -------: | ------: |
 |   1 - 4 |       14 | 60-120m |
 
-### [Field of Fires](https://boardgamegeek.com/boardgame/22877/fields-fire)
+### [Field of Fire](https://boardgamegeek.com/boardgame/22877/fields-fire)
 
 > Fields of Fire is a solitaire tactical wargame published by GMT Games, designed to simulate historical campaigns from World War II to the present day. The game revolves around a card-based system, employing two decks—the terrain deck and action decks. Players are tasked with constructing maps for various missions within a historical campaign, employing turn-based strategic actions to achieve their objectives. A single game comprises several missions, each lasting approximately 3 to 5 hours. Fields of Fire has received recognition for its excellence, including Games Magazine's award for Best New Historical Simulation Game in their 2010 Games 100 issue. It offers a deep and immersive strategic experience for players interested in historical warfare simulations.
 
