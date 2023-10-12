@@ -100,6 +100,21 @@
 | ------: | -------: | ---: |
 |   3 - 6 |       13 |  60m |
 
+### [Crokinole](https://boardgamegeek.com/boardgame/521/crokinole)
+
+> Crokinole is a traditional dexterity game.
+> 
+> Crokinole is played on a circular wooden board, with wooden circular disks as playing pieces.
+> Players take turns shooting disks across the circular wooden board by flicking the disks with their fingers. Players try to land their disks in scoring regions on the board, with the highest scoring area the recessed hole in the very center of the board. Each round, each player/side alternately shoots a set number of disks (usually 12 or 8), shooting one disk each turn.
+> 
+> As a traditional game, there are often many variations played, but the following method is based on the National Crokinole Association's rules which also govern the World Crokinole Championship.
+
+![Crokinole game image](https://cf.geekdo-images.com/7ejbxsn-UtLl3ehamuAEdw__itemrep/img/5OXvXz34AnlF9eCXZtNFMJ89JNc=/fit-in/246x300/filters:strip_icc()/pic79413.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |        8 | 30m |
+
 ### [Dixit](https://en.wikipedia.org/wiki/Dixit_(card_game))
 
 > Using a deck of cards illustrated with dreamlike images, players select cards that match a title suggested by the "storyteller", and attempt to guess which card the "storyteller" selected.
