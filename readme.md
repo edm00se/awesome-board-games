@@ -273,6 +273,22 @@
 | ------: | -------: | -----: |
 |   2 - 6 |        5 |  5-15m |
 
+### [Splendor Duel](https://boardgamegeek.com/boardgame/364073/splendor-duel)
+
+> Confront your rival guild in a race for victory. Take Gem and Pearl tokens from the common board, then purchase cards, gather bonuses, royal favours, and prestige.
+> 
+> Discover new twists and strategic opportunities derived from Splendor, the original best-selling game. Acquire cards with impressive powers, take advantage of special Privileges, and fight over scarce access to Pearls.
+> 
+> Splendor Duel is a two-player only standalone game based on Splendor that retains some of the main gameplay mechanisms of that design, while being a bit more complex, dynamic, interactive, rich, tense, and mean.
+> 
+> The game features a main board shared by both opponents, card powers, and three victory conditions.
+
+![Splendor Duel game image](https://cf.geekdo-images.com/V1PyFDPNFY4bJFgreLPxmQ__itemrep/img/X1a_aOpNwx26n4NuXIK3RDvP7hY=/fit-in/246x300/filters:strip_icc()/pic6929347.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|     2  |       10 | 30-60m |
+
 ### [Sagrada](https://boardgamegeek.com/boardgame/199561/sagrada)
 
 > Each player builds a stained glass window by building up a grid of dice on their player board. Each board has some restrictions on which color or shade (value) of die can be placed there. Dice of the same shade or color may never be placed next to each other. Dice are drafted in player order, with the start player rotating each round, snaking back around after the last player drafts two dice. Scoring is variable per game based on achieving various patterns and varieties of placement...as well as bonus points for dark shades of a particular hidden goal color.
@@ -1383,6 +1399,26 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time |
 |--------:|---------:|-----:|
 |  3 - 7  |       10 |  25m |
+
+### [Just One](https://boardgamegeek.com/boardgame/254640/just-one)
+
+> Just One is a cooperative party game in which you play together to discover as many mystery words as possible. Find the best clue to help your teammate. Be unique, as all identical clues will be cancelled! A complete game is played over 13 cards. The goal is to get a score as close to 13 as possible. In case of a right answer, the players score 1 point. In case of wrong answer, they lose the current card as well as the top card of the deck. Thus losing 2 points. In case of lack of answer, the players only lose the current card, and therefore only 1 point. You have the choice – make the difference!
+
+![Just One image](https://cf.geekdo-images.com/ocAuKT9hp99yBY77e4uuPg__itemrep/img/z0G8pfPvUewTm8apjBQHq0qkwAw=/fit-in/246x300/filters:strip_icc()/pic5137279.jpg)
+
+| Players | Min. Age | Time |
+|--------:|---------:|-----:|
+|  3 - 7  |        8 |  20 - 60m |
+
+### [Blood on the Clocktower](https://boardgamegeek.com/boardgame/240980/blood-clocktower)
+
+> Blood on the Clocktower is a bluffing game enjoyed by 5 to 20 players on opposing teams of Good and Evil, overseen by a Storyteller player who conducts the action and makes crucial decisions. The goal of the game is to successfully deduce and execute the demons before they outnumber the townfolk. During a 'day' phase players socialize openly and whisper privately to trade knowledge or spread lies, culminating in a player's execution if a majority suspects them of being Evil. Of a 'night' time, players close their eyes and are woken one at a time by the Storyteller to gather information, spread mischief, or kill. The Storyteller uses the game's intricate playing pieces to guide each game, leaving others free to play without a table or board. Players stay in the thick of the action to the very end even if their characters are killed, haunting Ravenswood Bluff as ghosts trying to win from beyond the grave. If you arrive late to a game, you can enter after it's started as a powerful Traveller character with unusual talents and questionable allegiances. Each character comes with their own special ability and no two players in a game are ever the same character. 
+ 
+![Blood on the clocktower img](https://cf.geekdo-images.com/HINb2nkFn5IiZxAlzQIs4g__itemrep/img/ji9nruIqJkNi8omWgNRZKmrZjwA=/fit-in/246x300/filters:strip_icc()/pic7009391.jpg)
+
+| Players | Min. Age | Time |
+|--------:|---------:|-----:|
+|   5-20  |        15 |  30-120m |
 
 ### [Snake Oil](https://boardgamegeek.com/boardgame/113289/snake-oil)
 
