@@ -711,6 +711,39 @@
 | ------: | -------: | ------: |
 |   2     |       14 | 45m     |
 
+### [Agon | Queen Guard | Royal Guard](https://boardgamegeek.com/boardgame/5168/queens-guard)
+
+> Queen's Guard, also known as Agon, is a strategic board game played on a hexagonal board consisting of 91 smaller hexagons, with a central hexagon known as the throne. The board features alternating colors of hexagons in rings, radiating from the throne. Each player has one queen piece and six guard pieces, which start in alternating positions along the outer ring of the board. Players take turns moving their pieces towards the center of the board, either forward or laterally. A player's piece can be captured by an opponent if it is surrounded on two sides in a straight line, and the captured piece must then be relocated to the outer ring. To win the game, a player must successfully maneuver their queen onto the throne while also surrounding it with all six of their guard pieces. Queen's Guard is a strategic game that requires careful planning and tactical thinking to achieve victory.
+
+
+![Agon or Queen Guard or Royal Guard image](https://cf.geekdo-images.com/uZAIEi0sjSAW7lFktn8lkw__itemrep/img/kQcXUPRckHkbQZe3lC-yh_rgqYA=/fit-in/246x300/filters:strip_icc()/pic1750585.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   2     |       9  |     30m |
+
+### [Field of Fire](https://boardgamegeek.com/boardgame/22877/fields-fire)
+
+> Fields of Fire is a solitaire tactical wargame published by GMT Games, designed to simulate historical campaigns from World War II to the present day. The game revolves around a card-based system, employing two decks—the terrain deck and action decks. Players are tasked with constructing maps for various missions within a historical campaign, employing turn-based strategic actions to achieve their objectives. A single game comprises several missions, each lasting approximately 3 to 5 hours. Fields of Fire has received recognition for its excellence, including Games Magazine's award for Best New Historical Simulation Game in their 2010 Games 100 issue. It offers a deep and immersive strategic experience for players interested in historical warfare simulations.
+
+![Field of Fires](https://cf.geekdo-images.com/I6mylmwz8JSzMTL_1QJVeQ__itemrep/img/qRkrmdPBOZjxKXk5qzx6OEeU7PA=/fit-in/246x300/filters:strip_icc()/pic406760.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   1     |       12 | 60-300m |
+
+<!--lint ignore no-heading-punctuation-->
+### [Ambush!](https://boardgamegeek.com/boardgame/1608/ambush)
+
+> Ambush! is a strategy board game developed by Avalon Hill, known for its innovative approach to single-player gameplay in the wargaming genre. Released in 1983, it broke away from the traditional requirement of two players by allowing a solo player to engage in man-to-man combat scenarios. What made Ambush! unique was its use of tables, charts, and a "paragraph book" to control the opponent's actions, eliminating the need for an opposing player. This approach kept the enemy hidden until they became visible through gameplay, enhancing the element of surprise and realism. While it allowed for multiple players to participate by controlling different squads or soldiers, the complexity of scenario creation often required players to purchase expansion modules. Ambush! is a strategy game that offers an engaging and challenging experience for players seeking tactical warfare simulations.
+
+![Ambush!](https://cf.geekdo-images.com/8H-hiPuWsdD07fcj0kMsYA__itemrep/img/lrnLlctpbFXS7Sz_MnZu-SveGoE=/fit-in/246x300/filters:strip_icc()/pic265524.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   1     |       12 | 180-240m |
+
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
