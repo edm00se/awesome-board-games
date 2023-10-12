@@ -284,6 +284,18 @@
 |   1 - 4 |       10 | 30-45m |
 
 
+### [Patchwork](https://boardgamegeek.com/boardgame/163412/patchwork)
+
+> In Patchwork, two players compete to build the most aesthetic (and high-scoring) patchwork quilt on a personal 9x9 game board. To start play, lay out all of the patches at random in a circle and place a marker directly clockwise of the 2-1 patch. Each player takes five buttons — the currency/points in the game — and someone is chosen as the start player.
+> 
+> On a turn, a player either purchases one of the three patches standing clockwise of the spool or passes. To purchase a patch, you pay the cost in buttons shown on the patch, move the spool to that patch's location in the circle, add the patch to your game board, then advance your time token on the time track a number of spaces equal to the time shown on the patch. You're free to place the patch anywhere on your board that doesn't overlap other patches, but you probably want to fit things together as tightly as possible. If your time token is behind or on top of the other player's time token, then you take another turn; otherwise the opponent now goes. Instead of purchasing a patch, you can choose to pass; to do this, you move your time token to the space immediately in front of the opponent's time token, then take one button from the bank for each space you moved.
+
+![Patchwork game image](https://cf.geekdo-images.com/wLW7pFn0--20lEizEz5p3A__itemrep/img/rJ1GPoOG_t9d3H2mnfROcR5OhNQ=/fit-in/246x300/filters:strip_icc()/pic2270442.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 |        8 | 15-30m |
+
 ### [Talisman](https://boardgamegeek.com/boardgame/714/talisman)
 
 > Talisman takes you on a journey through magical lands, as you endeavor to reclaim the Crown of Command.
