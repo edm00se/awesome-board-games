@@ -1444,7 +1444,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 > Geek Out! is a party game that can determine once and for all which player is the most knowledgeable about your favorite pop culture subjects! In the game, you draw cards asking you to list a certain number of things which fall under a certain category: comic books, fantasy, games, science fiction, and miscellaneous. Before you begin, however, the other players may try to steal your points (and bragging rights!) by bidding to list even more than the card requires. The bidding continues until one player is ready to "out-geek" their friends. Collect a predetermined number of cards, and you win!
  
-![Snake Oil image](https://cf.geekdo-images.com/mrrFDQq5nYASziu28UqomQ__itemrep/img/Wik_Jo17reIqCGCaok772tlLNAY=/fit-in/246x300/filters:strip_icc()/pic1634333.jpg)
+![Geek Out! image](https://cf.geekdo-images.com/mrrFDQq5nYASziu28UqomQ__itemrep/img/Wik_Jo17reIqCGCaok772tlLNAY=/fit-in/246x300/filters:strip_icc()/pic1634333.jpg)
 
 | Players | Min. Age | Time   |
 |--------:|---------:|-------:|
