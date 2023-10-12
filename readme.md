@@ -711,6 +711,118 @@
 | ------: | -------: | ------: |
 |   1 - 4 |       12 | 60-150m |
 
+### [Twilight Struggle](https://boardgamegeek.com/boardgame/12333/twilight-struggle)
+
+> Twilight Struggle is a compelling two-player board game that encapsulates the forty-five-year geopolitical struggle between the Soviet Union and the United States, characterized by intrigue, prestige, and the occasional outbreak of warfare. Set against the backdrop of post-World War II Europe and spanning until 1989, the game delves into the complex dynamics of the Cold War. Players engage in a dance of influence, intelligence, and diplomatic maneuvering, representing the two superpowers' efforts to shape the world according to their ideologies. Based on the renowned card-driven game tradition, Twilight Struggle presents a low-complexity, quick-playing experience in which players use cards and units strategically on a world map to gain allies and control key regions. Historical events, from the Arab-Israeli conflicts to the Cuban Missile Crisis, are vividly portrayed through Event cards, and players must navigate nuclear tensions and the Space Race while avoiding the looming threat of nuclear war. Twilight Struggle offers an immersive journey through one of the most critical periods in modern history.
+
+![Twilight Struggle image](https://cf.geekdo-images.com/pNCiUUphnoeWOYfsWq0kng__itemrep/img/WMsXl-Wa8q2n9_lJH536Mhi2COc=/fit-in/246x300/filters:strip_icc()/pic3530661.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   2     |       13 | 120-180m|
+
+### [Great Western Trails](https://boardgamegeek.com/boardgame/193738/great-western-trail)
+
+> America in the 19th century: You are a rancher and repeatedly herd your cattle from Texas to Kansas City, where you send them off by train. This earns you money and victory points. Needless to say, each time you arrive in Kansas City, you want to have your most valuable cattle in tow. However, the "Great Western Trail" not only requires that you keep your herd in good shape, but also that you wisely use the various buildings along the trail. Also, it might be a good idea to hire capable staff: cowboys to improve your herd, craftsmen to build your very own buildings, or engineers for the important railroad line
+
+![Great Western Trails image](https://cf.geekdo-images.com/u1l0gH7sb_vnvDvoO_QHqA__itemrep/img/s3qAGoXVCK6gA8nsHDICfZ4Jc1c=/fit-in/246x300/filters:strip_icc()/pic4887376.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   2 - 4 |       12 | 75-150m |
+
+### [Through the Ages: A New Story of Civilization](https://boardgamegeek.com/boardgame/182028/through-ages-new-story-civilization)
+
+> Through the Ages: A New Story of Civilization is a strategic board game that combines elements of card drafting, civilization building, and resource management. In this digital implementation, players guide their civilizations through the ages, from antiquity to the modern era, focusing on advancements in technology, the construction of wonders, and the development of a strong military. Weaker aspects of a player's civilization can be exploited by opponents, making military strength a vital component. Victory is achieved by accumulating the most culture by the end of the modern age. With its deep gameplay and historical context, Through the Ages offers a challenging and immersive strategy experience for players aiming to build the most prosperous civilization.
+
+![Through the Ages: A New Story of Civilization image](https://cf.geekdo-images.com/fVwPntkJKgaEo0rIC0RwpA__itemrep/img/TF5TpehpgE7XvNSRzSSWjnYCbLc=/fit-in/246x300/filters:strip_icc()/pic2663291.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   2 - 4 |       14 |    120m |
+
+### [The Castles of Burgundy](https://boardgamegeek.com/boardgame/84876/castles-burgundy)
+
+> The Castles of Burgundy is an immersive board game set in the Burgundy region of High Medieval France. Players assume the roles of aristocrats seeking to expand their princedoms by building settlements, constructing formidable castles, engaging in river trade, exploiting silver mines, and harnessing the knowledge of travelers. The core gameplay revolves around selecting settlement tiles from the game board and placing them onto a personal player board, with each tile having a unique function. These tiles must be placed in regions that match their type. The game unfolds in five phases, each comprising five rounds. Players roll dice at the start of each round, with one player determining the availability of goods tiles. On their turns, players can perform two of four possible actions: taking settlement tiles from the game board, placing tiles on their player board, delivering goods, or obtaining worker tokens to adjust dice rolls. Bonus points are awarded for various accomplishments, and the game concludes after the fifth phase. Victory points are tallied, and the player with the most points emerges as the winner. With both basic and advanced rules, The Castles of Burgundy offers a deep and engaging gameplay experience, and it is part of the Alea big box series.
+
+![The Castles of Burgundy image](https://cf.geekdo-images.com/5CFwjd8zTcGYVUnkXh04hw__itemrep/img/GLJxEMRq5M4T9BZGcZ6xtDzj5OQ=/fit-in/246x300/filters:strip_icc()/pic1176894.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   2 - 4 |       12 |  30-90m |
+
+### [Brass: Lancashire](https://boardgamegeek.com/boardgame/28720/brass-lancashire)
+
+> Brass: Lancashire, formerly known as Brass, is an engaging economic strategy game that immerses players in the competitive world of cotton entrepreneurs during the industrial revolution in Lancashire. The objective is to develop, construct, and expand your industrial network to meet the high demand for iron, coal, and cotton. The game unfolds in two phases, the canal phase, and the rail phase, with victory points (VPs) being the ultimate goal. Players take turns, with each round offering two actions to choose from a set list, which includes building industries, constructing canals or rails, developing industries, selling cotton, or taking a loan. The turn order depends on the amount of money spent, creating strategic opportunities for those who go later in the order. After the canal phase, a scoring round occurs, followed by the rail phase with expanded building possibilities. After another scoring round, the game concludes, and the winner is determined. The game's unique card system dictates where industries can be built while allowing flexible use for other actions, encouraging strategic card management. Resources are shared, adding depth to competition, as players often rely on each other's production. This 2018 edition by Roxley Games features new artwork and rules enhancements, making it a captivating and improved experience for players aiming to build the most prosperous industrial empire in Lancashire.
+
+![Brass Lancashire image](https://cf.geekdo-images.com/tHVtPzu82mBpeQbbZkV6EA__itemrep/img/A9DQBjrHvs1YlYCWMD0mtp-jnNc=/fit-in/246x300/filters:strip_icc()/pic3469216.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   2 - 4 |       14 | 60-120m |
+
+### [Eclipse: Second Dawn Galaxy](https://boardgamegeek.com/boardgame/246900/eclipse-second-dawn-galaxy)
+
+> A game of Eclipse places you in control of a vast interstellar civilization, competing for success with its rivals. You explore new star systems, research technologies, and build spaceships with which to wage war. There are many potential paths to victory, so you need to plan your strategy according to the strengths and weaknesses of your species, while paying attention to the other civilizations' endeavors.
+
+![Eclipse: Second Dawn Galaxy image](https://cf.geekdo-images.com/Oh3kHw6lweg6ru71Q16h2Q__itemrep/img/1flTGokf8uwox72PWvkNq3kOhMM=/fit-in/246x300/filters:strip_icc()/pic5235277.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   2 - 6 |       14 | 60-200m |
+
+### [Android: Netrunner](https://boardgamegeek.com/boardgame/124742/android-netrunner)
+
+> Android: Netrunner is a strategic asymmetrical Living Card Game for two players set in a cyberpunk future. One player represents a powerful megacorporation aiming to score agendas by advancing them, protected by a web of security ice programs, while the other player assumes the role of a lone hacker, or runner, attempting to infiltrate and disrupt the corporation's plans by acquiring resources, hardware, and ice-breaker programs. With a goal of reaching seven points, players face high-stakes risks, including brain damage and bad publicity, in their quest for victory in this futuristic battle for control and information.
+
+![Android: Netrunner](https://cf.geekdo-images.com/2ewHIIG_TRq8bYlqk0jIMw__itemrep/img/Nz7z5Qk3fZ3R6IM14pDRg1D8XKE=/fit-in/246x300/filters:strip_icc()/pic3738560.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   2     |       14 | 45m     |
+
+### [Agon | Queen Guard | Royal Guard](https://boardgamegeek.com/boardgame/5168/queens-guard)
+
+> Queen's Guard, also known as Agon, is a strategic board game played on a hexagonal board consisting of 91 smaller hexagons, with a central hexagon known as the throne. The board features alternating colors of hexagons in rings, radiating from the throne. Each player has one queen piece and six guard pieces, which start in alternating positions along the outer ring of the board. Players take turns moving their pieces towards the center of the board, either forward or laterally. A player's piece can be captured by an opponent if it is surrounded on two sides in a straight line, and the captured piece must then be relocated to the outer ring. To win the game, a player must successfully maneuver their queen onto the throne while also surrounding it with all six of their guard pieces. Queen's Guard is a strategic game that requires careful planning and tactical thinking to achieve victory.
+
+
+![Agon or Queen Guard or Royal Guard image](https://cf.geekdo-images.com/uZAIEi0sjSAW7lFktn8lkw__itemrep/img/kQcXUPRckHkbQZe3lC-yh_rgqYA=/fit-in/246x300/filters:strip_icc()/pic1750585.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   2     |       9  |     30m |
+
+### [Field of Fire](https://boardgamegeek.com/boardgame/22877/fields-fire)
+
+> Fields of Fire is a solitaire tactical wargame published by GMT Games, designed to simulate historical campaigns from World War II to the present day. The game revolves around a card-based system, employing two decks—the terrain deck and action decks. Players are tasked with constructing maps for various missions within a historical campaign, employing turn-based strategic actions to achieve their objectives. A single game comprises several missions, each lasting approximately 3 to 5 hours. Fields of Fire has received recognition for its excellence, including Games Magazine's award for Best New Historical Simulation Game in their 2010 Games 100 issue. It offers a deep and immersive strategic experience for players interested in historical warfare simulations.
+
+![Field of Fires](https://cf.geekdo-images.com/I6mylmwz8JSzMTL_1QJVeQ__itemrep/img/qRkrmdPBOZjxKXk5qzx6OEeU7PA=/fit-in/246x300/filters:strip_icc()/pic406760.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   1     |       12 | 60-300m |
+
+<!--lint ignore no-heading-punctuation-->
+### [Ambush!](https://boardgamegeek.com/boardgame/1608/ambush)
+
+> Ambush! is a strategy board game developed by Avalon Hill, known for its innovative approach to single-player gameplay in the wargaming genre. Released in 1983, it broke away from the traditional requirement of two players by allowing a solo player to engage in man-to-man combat scenarios. What made Ambush! unique was its use of tables, charts, and a "paragraph book" to control the opponent's actions, eliminating the need for an opposing player. This approach kept the enemy hidden until they became visible through gameplay, enhancing the element of surprise and realism. While it allowed for multiple players to participate by controlling different squads or soldiers, the complexity of scenario creation often required players to purchase expansion modules. Ambush! is a strategy game that offers an engaging and challenging experience for players seeking tactical warfare simulations.
+
+![Ambush!](https://cf.geekdo-images.com/8H-hiPuWsdD07fcj0kMsYA__itemrep/img/lrnLlctpbFXS7Sz_MnZu-SveGoE=/fit-in/246x300/filters:strip_icc()/pic265524.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   1     |       12 | 180-240m |
+
+### [Brass: Birmingham](https://boardgamegeek.com/boardgame/224517/brass-birmingham)
+
+> Brass: Birmingham is an intricate economic strategy game, serving as the sequel to Martin Wallace's classic Brass, and it immerses players in the dynamic world of Birmingham during the industrial revolution, spanning the years 1770-1870. In this game, players compete as entrepreneurs, striving to build, develop, and expand their industries and networks to capitalize on the shifting demands of the market. Actions in each round include building industries, expanding networks, developing industry value, selling goods through a new trader system, and even taking loans when necessary. The game unfolds in two eras, the canal era and the rail era, with the goal of accumulating the most victory points. Birmingham introduces strategic complexity with the addition of breweries, a range of manufactured goods, and pottery industries, along with a modified market for coal and iron. This sequel offers a fresh, captivating narrative and gameplay experience while retaining the essence of its predecessor, Brass.
+
+![Brass: Birmingham image](https://cf.geekdo-images.com/x3zxjr-Vw5iU4yDPg70Jgw__itemrep/img/giNUMut4HAl-zWyQkGG0YchmuLI=/fit-in/246x300/filters:strip_icc()/pic3490053.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   2 - 4 |       14 | 60-120m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
