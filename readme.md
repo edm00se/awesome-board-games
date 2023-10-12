@@ -263,6 +263,18 @@
 | ------: | -------: | -----: |
 |   2 - 4 |        8 |    15m |
 
+### [SCOUT](https://boardgamegeek.com/boardgame/291453/scout)
+
+> SCOUT is a ladder-climbing game in which cards have two potential values, players may not rearrange their hand of cards, and players may pass their turn to take a card from the current high set of cards into their hand.
+> 
+> More specifically, cards are dual-indexed, with different values on each half of the card, with the 45 cards having all possible combinations of the numbers 1-10. During set-up, whoever is shuffling the cards should randomize both the order of the cards in the deck and their orientation. Once each player has been dealt their entire hand of cards, they pick up that hand without rearranging any of the cards; if they wish, they can rotate their entire hand of cards in order to use the values on the other end of each card, but again they cannot rearrange the order of cards in their hand.
+
+![SCOUT game image](https://cf.geekdo-images.com/cf0xxkevbwTGF3VUZymKjg__itemrep/img/SBOXfC-WOg_Iko_2lHw3VMymsow=/fit-in/246x300/filters:strip_icc()/pic6398727.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 5 |        9 | 15m |
+
 ### [Cobra Paw](https://boardgamegeek.com/boardgame/220700/cobra-paw)
 
 > Players take turns rolling the dice — which feature six unique symbols — then race to grab the tile with the matching pattern before anyone else. Whoever grabs six tiles first wins!
