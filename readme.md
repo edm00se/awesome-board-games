@@ -273,6 +273,22 @@
 | ------: | -------: | -----: |
 |   2 - 6 |        5 |  5-15m |
 
+### [Splendor Duel](https://boardgamegeek.com/boardgame/364073/splendor-duel)
+
+> Confront your rival guild in a race for victory. Take Gem and Pearl tokens from the common board, then purchase cards, gather bonuses, royal favours, and prestige.
+> 
+> Discover new twists and strategic opportunities derived from Splendor, the original best-selling game. Acquire cards with impressive powers, take advantage of special Privileges, and fight over scarce access to Pearls.
+> 
+> Splendor Duel is a two-player only standalone game based on Splendor that retains some of the main gameplay mechanisms of that design, while being a bit more complex, dynamic, interactive, rich, tense, and mean.
+> 
+> The game features a main board shared by both opponents, card powers, and three victory conditions.
+
+![Splendor Duel game image](https://cf.geekdo-images.com/V1PyFDPNFY4bJFgreLPxmQ__itemrep/img/X1a_aOpNwx26n4NuXIK3RDvP7hY=/fit-in/246x300/filters:strip_icc()/pic6929347.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|     2  |       10 | 30-60m |
+
 ### [Sagrada](https://boardgamegeek.com/boardgame/199561/sagrada)
 
 > Each player builds a stained glass window by building up a grid of dice on their player board. Each board has some restrictions on which color or shade (value) of die can be placed there. Dice of the same shade or color may never be placed next to each other. Dice are drafted in player order, with the start player rotating each round, snaking back around after the last player drafts two dice. Scoring is variable per game based on achieving various patterns and varieties of placement...as well as bonus points for dark shades of a particular hidden goal color.
