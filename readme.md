@@ -295,6 +295,18 @@
 | ------: | -------: | ------: |
 |    2 -6 |        9 | 90-240m |
 
+### [Wingspan Asia](https://boardgamegeek.com/boardgame/366161/wingspan-asia)
+
+> In this third expansion to Wingspan, we welcome new species to our habitats by exploring the vibrant, intriguing, and magnificent birds of Asia. These birds were chosen from the over 2,800 species that live in Asia.
+> Wingspan Asia is several different things: A stand-alone game for 1 player or 2 players (Duet mode that can be used with any bird/bonus cards), a card expansion to the original Wingspan (any bird/bonus cards across any Wingspan game or expansion can be combined), and a 6-7 player expansion via the new Flock mode (for which the player components from the core game are necessary).
+> —description from the publisher
+
+![Wingspan Asia game image](https://cf.geekdo-images.com/h1dRxq4lNMpuSUSGdgCmfA__itemrep/img/0qPO5ec-o8lueYYpLW2Hb2ikahU=/fit-in/246x300/filters:strip_icc()/pic7107431.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|    1 - 2 |        10 | 40-70m |
+
 ### [The Witcher: Old World](https://boardgamegeek.com/boardgame/331106/witcher-old-world)
 
 > The Witcher: Old World immerses you in the legendary universe of The Witcher franchise. In the time when monsters roamed the Continent, the well-trained Witchers were in high demand. Competing schools prepared them for perilous adventures and helping those in trouble in exchange for coins.
