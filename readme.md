@@ -701,6 +701,16 @@
 | ------: | -------: | ------: |
 |   1 - 4 |       14 | 60-120m |
 
+### [Gaia Project](https://boardgamegeek.com/boardgame/220308/gaia-project)
+
+> Gaia Project is a captivating board game, a spiritual successor to Terra Mystica. In this game, players take on the roles of fourteen distinct factions, each native to one of seven unique types of planets. To thrive and expand, these factions must terraform neighboring planets into their own habitats, all while competing with other groups for resources and space. Gaia planets serve as common grounds for colonization, and Transdimensional planets can be transformed into Gaia planets, creating additional layers of strategic complexity. All factions can enhance their skills across six key areas of development: Terraforming, Navigation, Artificial Intelligence, Gaiaforming, Economy, and Research, leading to advanced technology and unique bonuses. Each faction boasts its own set of skills and abilities, adding depth to the gameplay. The game board consists of ten sectors, offering a variable setup for enhanced replayability, making Gaia Project an engaging and strategic experience for players looking to explore the frontiers of interstellar colonization.
+
+![Gaia Project image](https://cf.geekdo-images.com/hGWFm3hbMlCDsfCsauOQ4g__itemrep/img/MNyaVUlEsVQmbv3nObPl0SEd_TI=/fit-in/246x300/filters:strip_icc()/pic5375625.png)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   1 - 4 |       12 | 60-150m |
+
 ### [Twilight Struggle](https://boardgamegeek.com/boardgame/12333/twilight-struggle)
 
 > Twilight Struggle is a compelling two-player board game that encapsulates the forty-five-year geopolitical struggle between the Soviet Union and the United States, characterized by intrigue, prestige, and the occasional outbreak of warfare. Set against the backdrop of post-World War II Europe and spanning until 1989, the game delves into the complex dynamics of the Cold War. Players engage in a dance of influence, intelligence, and diplomatic maneuvering, representing the two superpowers' efforts to shape the world according to their ideologies. Based on the renowned card-driven game tradition, Twilight Struggle presents a low-complexity, quick-playing experience in which players use cards and units strategically on a world map to gain allies and control key regions. Historical events, from the Arab-Israeli conflicts to the Cuban Missile Crisis, are vividly portrayed through Event cards, and players must navigate nuclear tensions and the Space Race while avoiding the looming threat of nuclear war. Twilight Struggle offers an immersive journey through one of the most critical periods in modern history.
