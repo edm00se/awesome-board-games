@@ -253,6 +253,20 @@
 | ------: | -------: | -----: |
 |   1 - 5 |       10 |40 -70m |
 
+### [The Quacks of Quedlinburg](https://boardgamegeek.com/boardgame/244521/quacks-quedlinburg)
+
+> In The Quacks of Quedlinburg, players are charlatans — or quack doctors — each making their own secret brew by adding ingredients one at a time. Take care with what you add, though, for a pinch too much of this or that will spoil the whole mixture!
+> 
+> Each player has their own bag of ingredient chips. During each round, they simultaneously draw chips from their bags and add them to their pots. The higher the face value of the drawn chip, the further it is placed in the pot's swirling pattern, increasing how much the potion will be worth. Push your luck as far as you can, but if you add too many cherry bombs, your pot will explode!
+> 
+> At the end of each round, players gain victory points and coins to spend on new ingredients, depending on how well they managed to fill up their pots. But players whose pots have exploded must choose points or coins — not both! The player with the most victory points at the end of nine rounds wins the game.
+
+![The Quacks of Quedlinburg game image](https://cf.geekdo-images.com/pH5LgRL4mNRon-2NsSDb1Q__itemrep/img/qe9ywOTxtPr_n4DoXZgEY-C2qU0=/fit-in/246x300/filters:strip_icc()/pic6137509.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |       10 |  45m |
+
 ### [Kingdomino](https://boardgamegeek.com/boardgame/204583/kingdomino)
 
 > In Kingdomino, you are playing as a lord who is seeking new lands to expand your kingdom. You must explore all the lands, including wheat fields, lakes, and mountains, to spot the best plots, while competing with other lords to acquire them first. This game is like Dominoes. It uses tiles with two sections. Each turn, player will select a new domino to connect to their existing kingdom, making sure at least one of its sides connects to a matching terrain type already in play. The order of who picks first depends on which tile was previously chosen, with better tiles forcing players to pick later in the next round. The game ends when each player has completed a 5x5 grid and then points are counted based on number of connecting tiles and crowns symbol.
