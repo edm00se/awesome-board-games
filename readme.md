@@ -295,6 +295,20 @@
 | ------: | -------: | ------: |
 |    2 -6 |        9 | 90-240m |
 
+### [Welcome to the Moon](https://boardgamegeek.com/boardgame/339789/welcome-moon)
+
+> You've built housing for humanity in neighborhoods and New Las Vegas. Now you need to save humanity through space colonization...
+> 
+> Welcome to the Moon uses the same flip-and-write game mechanisms as the earlier title Welcome To..., but now you can play in a campaign across eight adventure sheets. On a turn, you flip cards from three stacks to create three different combinations of a starship number and a corresponding action, then all players choose one of these three combinations. You use the number to fill a space in a zone on your adventure sheet in numerical order, and everyone is racing to be the first to complete common missions.
+> 
+> The eight adventure sheets feature very different mechanisms from the classic concept, and when you play in campaign mode, you'll make choices that change the next adventure, which means that each campaign will differ from the previous one.
+
+![Welcome to the Moon game image](https://cf.geekdo-images.com/eCdiHCB9OobumwaGl4dbOQ__itemrep/img/S8KJaJ1UfomzoC4XGob6pIkresI=/fit-in/246x300/filters:strip_icc()/pic6204967.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 6 |        10 | 25-30m |
+
 ### [The Witcher: Old World](https://boardgamegeek.com/boardgame/331106/witcher-old-world)
 
 > The Witcher: Old World immerses you in the legendary universe of The Witcher franchise. In the time when monsters roamed the Continent, the well-trained Witchers were in high demand. Competing schools prepared them for perilous adventures and helping those in trouble in exchange for coins.
