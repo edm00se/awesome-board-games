@@ -701,6 +701,16 @@
 | ------: | -------: | ------: |
 |   1 - 4 |       14 | 60-120m |
 
+### [Eclipse: Second Dawn Galaxy](https://boardgamegeek.com/boardgame/246900/eclipse-second-dawn-galaxy)
+
+> A game of Eclipse places you in control of a vast interstellar civilization, competing for success with its rivals. You explore new star systems, research technologies, and build spaceships with which to wage war. There are many potential paths to victory, so you need to plan your strategy according to the strengths and weaknesses of your species, while paying attention to the other civilizations' endeavors.
+
+![Eclipse: Second Dawn Galaxy image](https://cf.geekdo-images.com/Oh3kHw6lweg6ru71Q16h2Q__itemrep/img/1flTGokf8uwox72PWvkNq3kOhMM=/fit-in/246x300/filters:strip_icc()/pic5235277.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   2 - 6 |       14 | 60-200m |
+
 ### [Android: Netrunner](https://boardgamegeek.com/boardgame/124742/android-netrunner)
 
 > Android: Netrunner is a strategic asymmetrical Living Card Game for two players set in a cyberpunk future. One player represents a powerful megacorporation aiming to score agendas by advancing them, protected by a web of security ice programs, while the other player assumes the role of a lone hacker, or runner, attempting to infiltrate and disrupt the corporation's plans by acquiring resources, hardware, and ice-breaker programs. With a goal of reaching seven points, players face high-stakes risks, including brain damage and bad publicity, in their quest for victory in this futuristic battle for control and information.
@@ -742,7 +752,6 @@
 | Players | Min. Age |  Time   |
 | ------: | -------: | ------: |
 |   1     |       12 | 180-240m |
-
 
 ## Party
 
