@@ -700,6 +700,7 @@
 | Players | Min. Age |  Time   |
 | ------: | -------: | ------: |
 |   1 - 4 |       14 | 60-120m |
+
 ### [Gaia Project](https://boardgamegeek.com/boardgame/220308/gaia-project)
 
 > Gaia Project is a captivating board game, a spiritual successor to Terra Mystica. In this game, players take on the roles of fourteen distinct factions, each native to one of seven unique types of planets. To thrive and expand, these factions must terraform neighboring planets into their own habitats, all while competing with other groups for resources and space. Gaia planets serve as common grounds for colonization, and Transdimensional planets can be transformed into Gaia planets, creating additional layers of strategic complexity. All factions can enhance their skills across six key areas of development: Terraforming, Navigation, Artificial Intelligence, Gaiaforming, Economy, and Research, leading to advanced technology and unique bonuses. Each faction boasts its own set of skills and abilities, adding depth to the gameplay. The game board consists of ten sectors, offering a variable setup for enhanced replayability, making Gaia Project an engaging and strategic experience for players looking to explore the frontiers of interstellar colonization.
