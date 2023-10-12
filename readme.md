@@ -306,6 +306,22 @@
 | ------: | -------: | ------: |
 |    1 -5 |       14 | 90-150m |
 
+### [The Isle of Cats](https://boardgamegeek.com/boardgame/281259/isle-cats)
+
+> The Isle of Cats is a competitive, medium-weight, card-drafting, polyomino cat-placement board game for 1-4 players (6 with expansions).
+> 
+> In the game, you are citizens of Squalls End on a rescue mission to The Isle of Cats and must rescue as many cats as possible before the evil Lord Vesh arrives. Each cat is represented by a unique tile and belongs to a family, you must find a way to make them all fit on your boat while keeping families together. You will also need to manage resources as you:
+> - Explore the island (by drafting cards)
+> - Rescue cats
+> - Find treasures
+> - Befriend Oshax
+
+![The Isle of Cats game image](https://cf.geekdo-images.com/AuAheDzhkLufiZFE9JaRNA__itemrep/img/UTvJuevXkKm8HYOJYtUms_7iC2I=/fit-in/246x300/filters:strip_icc()/pic4781085.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |        8 | 60-90m |
+
 ## Strategy
 
 ### [Backgammon](https://en.wikipedia.org/wiki/Backgammon)
