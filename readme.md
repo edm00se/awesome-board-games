@@ -287,7 +287,7 @@
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
-|   2 - 5 |        8 | 30-60m |
+|     2  |       10 | 30-60m |
 
 ### [Sagrada](https://boardgamegeek.com/boardgame/199561/sagrada)
 
