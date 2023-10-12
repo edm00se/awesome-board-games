@@ -839,6 +839,16 @@
 | ------: | -------: | ------: |
 |   2 - 4 |       14 | 60-120m |
 
+### [Power Grid](https://en.wikipedia.org/wiki/Power_Grid)
+
+> Is an economic and resource management board game that simulates the energy industry. Players take on the role of power company executives, competing to expand their power networks, purchase resources, and supply electricity to cities. The game is noted for its auctions, as players bid for power plants and resources, making strategic decisions about when and where to expand their networks. Success in Power Grid requires careful financial planning and a keen understanding of market dynamics.
+
+![Power Grid](https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/PGbox_cover_cropped.jpg/150px-PGbox_cover_cropped.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   2 - 6 |       12 |    120m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
@@ -1390,6 +1400,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |--------:|---------:|-----:|
 |     2   |        13 |  20m |
 
+### [Wits & Wagers](https://boardgamegeek.com/boardgame/20100/wits-wagers)
+
+> Not a trivia buff? It doesn't matter! In Wits & Wagers, each player writes a guess to a question such as “In what year did the bikini swimsuit makes its first appearance?” or “How many feet wide is an NFL football field?” and places it face-up on the betting mat. Think you know the answer? Bet on your guess. Think you know who the experts are? Bet on their guess. The closest answer — without going over — pays out according to the odds on the betting mat. Strike it big and you'll be cheering like you just hit the jackpot! Wits & Wagers is a trivia game that lets you bet on anyone's answer. So you can win by making educated guesses, by playing the odds, or by knowing the interests of your friends. It can be taught in 2 minutes, played in 25 minutes, and accommodates up to 20 people in teams. 
+ 
+![Wits & Wagers image](https://cf.geekdo-images.com/TxojLHTFHfBOBAk9MQSyLg__itemrep/img/HoSHsIveJn0jvXHUeM5x3-iGf44=/fit-in/246x300/filters:strip_icc()/pic2558555.jpg)
+
+| Players | Min. Age | Time |
+|--------:|---------:|-----:|
+|  3 - 7  |       10 |  25m |
+
 ### [Just One](https://boardgamegeek.com/boardgame/254640/just-one)
 
 > Just One is a cooperative party game in which you play together to discover as many mystery words as possible. Find the best clue to help your teammate. Be unique, as all identical clues will be cancelled! A complete game is played over 13 cards. The goal is to get a score as close to 13 as possible. In case of a right answer, the players score 1 point. In case of wrong answer, they lose the current card as well as the top card of the deck. Thus losing 2 points. In case of lack of answer, the players only lose the current card, and therefore only 1 point. You have the choice – make the difference!
@@ -1409,6 +1429,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time |
 |--------:|---------:|-----:|
 |   5-20  |        15 |  30-120m |
+
+### [Snake Oil](https://boardgamegeek.com/boardgame/113289/snake-oil)
+
+> In the Old West, the wily snake oil salesman had a special talent, getting the most skeptical customers to buy the most dubious products. Now it's your turn! Invent your own zany two-word products – Rumor Mirror! Burp Balloon! – and sell them to all types of wacky customers. If the round's customer buys your product, you win the round! To set up Snake Oil, each player takes six purple word cards. The customer for the round draws a customer card and announces it. Inventors quickly combine two purple word cards from their hand to form a crazy new product to sell to that customer. When ready, each inventor quickly pitches his or her product directly to the customer. The customer can end any pitch that goes longer than thirty seconds. The customer decides which product to buy and gives the inventor of that product the round's customer card as the prize. Inventors discard all used word cards and take two new word cards each. The player to the left of the customer becomes the next round's customer. Play repeats until each player has been the customer once. Whoever collects the most customer cards wins the game. 
+ 
+![Snake Oil image](https://cf.geekdo-images.com/q-Sdv383LKSBIPOrSRb5Cg__itemrep/img/c0f6lC5Lk2qu6i1MG8FA7osBb9w=/fit-in/246x300/filters:strip_icc()/pic7617053.jpg)
+
+| Players | Min. Age | Time   |
+|--------:|---------:|-------:|
+|  3 - 10 |       10 | 20-30m |
 
 ### [Monikers](https://boardgamegeek.com/boardgame/156546/monikers)
 
