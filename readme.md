@@ -701,6 +701,16 @@
 | ------: | -------: | ------: |
 |   1 - 4 |       14 | 60-120m |
 
+### [Brass Lancashire](https://boardgamegeek.com/boardgame/28720/brass-lancashire)
+
+> Brass: Lancashire, formerly known as Brass, is an engaging economic strategy game that immerses players in the competitive world of cotton entrepreneurs during the industrial revolution in Lancashire. The objective is to develop, construct, and expand your industrial network to meet the high demand for iron, coal, and cotton. The game unfolds in two phases, the canal phase, and the rail phase, with victory points (VPs) being the ultimate goal. Players take turns, with each round offering two actions to choose from a set list, which includes building industries, constructing canals or rails, developing industries, selling cotton, or taking a loan. The turn order depends on the amount of money spent, creating strategic opportunities for those who go later in the order. After the canal phase, a scoring round occurs, followed by the rail phase with expanded building possibilities. After another scoring round, the game concludes, and the winner is determined. The game's unique card system dictates where industries can be built while allowing flexible use for other actions, encouraging strategic card management. Resources are shared, adding depth to competition, as players often rely on each other's production. This 2018 edition by Roxley Games features new artwork and rules enhancements, making it a captivating and improved experience for players aiming to build the most prosperous industrial empire in Lancashire.
+
+![Brass Lancashire image](https://cf.geekdo-images.com/tHVtPzu82mBpeQbbZkV6EA__itemrep/img/A9DQBjrHvs1YlYCWMD0mtp-jnNc=/fit-in/246x300/filters:strip_icc()/pic3469216.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   2 - 4 |       14 | 60-120m |
+
 ### [Eclipse: Second Dawn Galaxy](https://boardgamegeek.com/boardgame/246900/eclipse-second-dawn-galaxy)
 
 > A game of Eclipse places you in control of a vast interstellar civilization, competing for success with its rivals. You explore new star systems, research technologies, and build spaceships with which to wage war. There are many potential paths to victory, so you need to plan your strategy according to the strengths and weaknesses of your species, while paying attention to the other civilizations' endeavors.
