@@ -1374,6 +1374,17 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |--------:|---------:|-----:|
 |     2   |        13 |  20m |
 
+### [Snake Oil](https://boardgamegeek.com/boardgame/113289/snake-oil)
+
+> In the Old West, the wily snake oil salesman had a special talent, getting the most skeptical customers to buy the most dubious products. Now it's your turn! Invent your own zany two-word products – Rumor Mirror! Burp Balloon! – and sell them to all types of wacky customers. If the round's customer buys your product, you win the round! To set up Snake Oil, each player takes six purple word cards. The customer for the round draws a customer card and announces it. Inventors quickly combine two purple word cards from their hand to form a crazy new product to sell to that customer. When ready, each inventor quickly pitches his or her product directly to the customer. The customer can end any pitch that goes longer than thirty seconds. The customer decides which product to buy and gives the inventor of that product the round's customer card as the prize. Inventors discard all used word cards and take two new word cards each. The player to the left of the customer becomes the next round's customer. Play repeats until each player has been the customer once. Whoever collects the most customer cards wins the game. 
+ 
+![Snake Oil image](https://cf.geekdo-images.com/q-Sdv383LKSBIPOrSRb5Cg__itemrep/img/c0f6lC5Lk2qu6i1MG8FA7osBb9w=/fit-in/246x300/filters:strip_icc()/pic7617053.jpg)
+
+| Players | Min. Age | Time   |
+|--------:|---------:|-------:|
+|  3 - 10 |       10 | 20-30m |
+
+
 
 ## Contribute
 
