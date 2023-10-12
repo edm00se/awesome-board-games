@@ -849,6 +849,16 @@
 | ------: | -------: | ------: |
 |   2 - 6 |       12 |    120m |
 
+### [Blue and Gray](https://boardgamegeek.com/boardgame/19254/blue-and-gray)
+
+> In Blue and Gray, each player begins with 17 guards and one captain set up on the line intersections of a 9 × 9 grid board. The object of the game is to advance the captain to the center of the board following an outlined path of 17 steps. However, the captain can only advance if the next step along the path is unoccupied by friendly or opposing guards. Guards can move along lines in any direction (except over the central point) and can capture each other by jumping, as in checkers.
+
+![Blue and Gray](https://cf.geekdo-images.com/HuNHalxx1iLEDID94UhvGg__itemrep/img/Eiqc98uK6pGm7ne5BgaQvPcnYZU=/fit-in/246x300/filters:strip_icc()/pic1525635.png)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   2 |       8 |    20m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
