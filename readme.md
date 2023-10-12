@@ -68,6 +68,20 @@
 | ------: | -------: | ---: |
 |   2 - 5 |       10 |  45m |
 
+### [Everdell](https://boardgamegeek.com/boardgame/199792/everdell)
+
+> Within the charming valley of Everdell, beneath the boughs of towering trees, among meandering streams and mossy hollows, a civilization of forest critters is thriving and expanding. From Everfrost to Bellsong, many a year have come and gone, but the time has come for new territories to be settled and new cities established. You will be the leader of a group of critters intent on just such a task. There are buildings to construct, lively characters to meet, events to host—you have a busy year ahead of yourself. Will the sun shine brightest on your city before the winter moon rises?
+> 
+> Everdell is a game of dynamic tableau building and worker placement.
+> 
+> On their turn a player can take one of three actions:
+
+![Everdell game image](https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__itemrep/img/nyVhVuXdmw-1sigbocTKG81UInM=/fit-in/246x300/filters:strip_icc()/pic3918905.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |        13 | 40-80m |
+
 ### [Forbidden Sky](https://boardgamegeek.com/boardgame/245271/forbidden-sky)
 
 > Soar to dizzying heights in the electrifying cooperative adventure. Work as a team to explore a mysterious platform that floats at the center of a savage storm. Connect a circuit of cables to launch a secret rocket — all before you are struck by lightning or blown off to the depths below. It's a high-wire act that will test your team's capacity for courage and cooperation. One false step and you all could be grounded.This latest installment in the Forbidden that game series takes you to new heights with several novel challenges, including collectively planning a terrain using only limited information and constructing a real electrical circuit.
