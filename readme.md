@@ -1374,6 +1374,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |--------:|---------:|-----:|
 |     2   |        13 |  20m |
 
+### [Just One](https://boardgamegeek.com/boardgame/254640/just-one)
+
+> Just One is a cooperative party game in which you play together to discover as many mystery words as possible. Find the best clue to help your teammate. Be unique, as all identical clues will be cancelled! A complete game is played over 13 cards. The goal is to get a score as close to 13 as possible. In case of a right answer, the players score 1 point. In case of wrong answer, they lose the current card as well as the top card of the deck. Thus losing 2 points. In case of lack of answer, the players only lose the current card, and therefore only 1 point. You have the choice – make the difference!
+
+![Just One image](https://cf.geekdo-images.com/ocAuKT9hp99yBY77e4uuPg__itemrep/img/z0G8pfPvUewTm8apjBQHq0qkwAw=/fit-in/246x300/filters:strip_icc()/pic5137279.jpg)
+
+| Players | Min. Age | Time |
+|--------:|---------:|-----:|
+|  3 - 7  |        8 |  20 - 60m |
+
 ### [Blood on the Clocktower](https://boardgamegeek.com/boardgame/240980/blood-clocktower)
 
 > Blood on the Clocktower is a bluffing game enjoyed by 5 to 20 players on opposing teams of Good and Evil, overseen by a Storyteller player who conducts the action and makes crucial decisions. The goal of the game is to successfully deduce and execute the demons before they outnumber the townfolk. During a 'day' phase players socialize openly and whisper privately to trade knowledge or spread lies, culminating in a player's execution if a majority suspects them of being Evil. Of a 'night' time, players close their eyes and are woken one at a time by the Storyteller to gather information, spread mischief, or kill. The Storyteller uses the game's intricate playing pieces to guide each game, leaving others free to play without a table or board. Players stay in the thick of the action to the very end even if their characters are killed, haunting Ravenswood Bluff as ghosts trying to win from beyond the grave. If you arrive late to a game, you can enter after it's started as a powerful Traveller character with unusual talents and questionable allegiances. Each character comes with their own special ability and no two players in a game are ever the same character. 
