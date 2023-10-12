@@ -1440,6 +1440,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |--------:|---------:|-------:|
 |  3 - 10 |       10 | 20-30m |
 
+### [Animocrazzy](https://boardgamegeek.com/boardgame/542/animocrazy)
+
+> How can the Jolly Pets resist the big bag of candies right in front of them? Everything goes well at the beginning when they calmly agree on the same amount of candies for each of them, but soon they come up with more and more ideas and a debate starts… the Pig says,“Those who weigh over 10kg should get an extra candy!”... the Dog says, “Whoever oversleeps should return a candy to the pool!” To resolve their hectic argument, they finally decide to form the House of Pets, at which the animal councilors will discuss proposals and vote on new laws. Who can get the most delicious candies in this exciting voting game? Based on Karl-Heinz Schmiel's Das Regeln Wir Schon, players attempt to pass laws which benefit themselves. The laws are either immediate or semi-permanent, and they can have all kinds of different effects: all players with beards get five points, vote cards must be played with the left hand, or some sort of re-evaluation or redistribution of the chips that each player has. The chips are the main way that players score, but their worth fluctuates constantly. On a turn, a player draws a card and then proposes a vote, and this continues until the End card is drawn.
+ 
+![Animocrazy image](https://cf.geekdo-images.com/CvX3vmdadXc-ZVlFsd6Iwg__itemrep/img/ChmtyLNIPBaIkRYVkiS4GH1uyEU=/fit-in/246x300/filters:strip_icc()/pic4888035.jpg)
+
+| Players | Min. Age | Time   |
+|--------:|---------:|-------:|
+|  4 - 10 |       10 |   30m  |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
