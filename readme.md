@@ -701,6 +701,16 @@
 | ------: | -------: | ------: |
 |   1 - 4 |       14 | 60-120m |
 
+### [Through the Ages: A New Story of Civilization](https://boardgamegeek.com/boardgame/182028/through-ages-new-story-civilization)
+
+> Through the Ages: A New Story of Civilization is a strategic board game that combines elements of card drafting, civilization building, and resource management. In this digital implementation, players guide their civilizations through the ages, from antiquity to the modern era, focusing on advancements in technology, the construction of wonders, and the development of a strong military. Weaker aspects of a player's civilization can be exploited by opponents, making military strength a vital component. Victory is achieved by accumulating the most culture by the end of the modern age. With its deep gameplay and historical context, Through the Ages offers a challenging and immersive strategy experience for players aiming to build the most prosperous civilization.
+
+![Through the Ages: A New Story of Civilization image](https://cf.geekdo-images.com/fVwPntkJKgaEo0rIC0RwpA__itemrep/img/TF5TpehpgE7XvNSRzSSWjnYCbLc=/fit-in/246x300/filters:strip_icc()/pic2663291.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   2 - 4 |       14 |    120m |
+
 ### [The Castles of Burgundy](https://boardgamegeek.com/boardgame/84876/castles-burgundy)
 
 > The Castles of Burgundy is an immersive board game set in the Burgundy region of High Medieval France. Players assume the roles of aristocrats seeking to expand their princedoms by building settlements, constructing formidable castles, engaging in river trade, exploiting silver mines, and harnessing the knowledge of travelers. The core gameplay revolves around selecting settlement tiles from the game board and placing them onto a personal player board, with each tile having a unique function. These tiles must be placed in regions that match their type. The game unfolds in five phases, each comprising five rounds. Players roll dice at the start of each round, with one player determining the availability of goods tiles. On their turns, players can perform two of four possible actions: taking settlement tiles from the game board, placing tiles on their player board, delivering goods, or obtaining worker tokens to adjust dice rolls. Bonus points are awarded for various accomplishments, and the game concludes after the fifth phase. Victory points are tallied, and the player with the most points emerges as the winner. With both basic and advanced rules, The Castles of Burgundy offers a deep and engaging gameplay experience, and it is part of the Alea big box series.
