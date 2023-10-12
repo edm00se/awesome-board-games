@@ -1440,6 +1440,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |--------:|---------:|-------:|
 |  3 - 10 |       10 | 20-30m |
 
+### [Kragmortha](https://boardgamegeek.com/boardgame/26859/kragmortha)
+
+> Oh clever goblins, will you be able to avoid the wrath of the Dark Lord (Rigor Mortis, the Master of all Evils) while he wanders in his study? Terrible spells will be cast upon those who are hit by the glances of the Dark Lord! Kragmortha is a party game for 2-8 players that will be afflicted by exhilarating penances. No one will resist its humor! BEWARE! This game produces physical penances and is nocive (definition of nocive is : Hurtful or injurious) to the health! Kragmortha shares artwork with Aye, Dark Overlord! The Red Box
+ 
+![Kragmortha image](https://cf.geekdo-images.com/wTGi8HXbSeproPHaFizchw__itemrep/img/3wKW83dlMsWHc7CqIxMrxd66JsY=/fit-in/246x300/filters:strip_icc()/pic1703109.jpg)
+
+| Players | Min. Age | Time   |
+|--------:|---------:|-------:|
+|  2 - 8  |       8  | 30-45m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
