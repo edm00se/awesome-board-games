@@ -839,6 +839,12 @@
 | ------: | -------: | ------: |
 |   2 - 4 |       14 | 60-120m |
 
+### [Power Grid](https://en.wikipedia.org/wiki/Power_Grid)
+
+> Is an economic and resource management board game that simulates the energy industry. Players take on the role of power company executives, competing to expand their power networks, purchase resources, and supply electricity to cities. The game is noted for its auctions, as players bid for power plants and resources, making strategic decisions about when and where to expand their networks. Success in Power Grid requires careful financial planning and a keen understanding of market dynamics.
+
+![Power Grid](https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/PGbox_cover_cropped.jpg/150px-PGbox_cover_cropped.jpg)
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
