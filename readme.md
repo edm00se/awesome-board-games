@@ -1236,6 +1236,17 @@
 | ------: | -------: | -----: |
 |   1 - 5 |       10 | 45-60m |
 
+
+### [Food Chain Magnate](https://boardgamegeek.com/boardgame/175914/food-chain-magnate)
+
+> "Lemonade? They want lemonade? What is the world coming to? I want commercials for burgers on all channels, every 15 minutes. We are the Home of the Original Burger, not a hippie health haven. And place a billboard next to that new house on the corner. I want them craving beer every second they sit in their posh new garden." The new management trainee trembles in front of the CEO and tries to politely point out that... "How do you mean, we don't have enough staff? The HR director reports to you. Hire more people! Train them! But whatever you do, don't pay them any real wages. I did not go into business to become poor. And fire that discount manager, she is only costing me money. From now on, we'll sell gourmet burgers. Same crap, double the price. Get my marketing director in here!"
+
+![Food Chain Magnate game image](https://cf.geekdo-images.com/Wtxml94LAXsIWQCxGPS63Q__itemrep/img/Bl9o9eur7lveoZUYwAl9LL9NSJo=/fit-in/246x300/filters:strip_icc()/pic2649434.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2–5 |        14 | 120–240 Min |
+
 ### [Terraforming Mars](<https://en.wikipedia.org/wiki/Terraforming_Mars_(board_game)>)
 
 > Terraforming Mars is a game where players take the role of corporations to terraform the planet by raising the temperature and creating oxygen, water, plant and animal life. Players compete to earn the most points, which are measured by their contribution to terraforming, as well as building human infrastructure.
