@@ -241,6 +241,18 @@
 | ------: | -------: | ---: |
 |       2 |        8 |  45m |
 
+### [Heat: Pedal to the Metal](https://boardgamegeek.com/boardgame/366013/heat-pedal-metal)
+
+> Based on simple and intuitive hand management, Heat: Pedal to the Metal puts players in the driver's seat of intense car races, jockeying for position to cross the finish line first, while managing their car's speed if they don't want to overheat. Selecting the right upgrades for their car will help them hug the curves and keep their engine cool enough to maintain top speeds. Ultimately, their driving skills will be the key to victory!
+> 
+> Drivers can compete in a single race or use the "Championship System" to play a whole season in one game night, customizing their car before each race to claim the top spot of the podium. They have to be careful as the weather, road conditions, and events will change every race to spice up their championship. Players can also enjoy a solo mode with the Legends Module or add automated drivers as additional opponents in multiplayer games.
+
+![Heat: Pedal to the Metal game image](https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__itemrep/img/mSj0nZUY3ofhIXFZJLGzF-6MQTg=/fit-in/246x300/filters:strip_icc()/pic6940449.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 6 |        10 | 30-60m |
+
 ### [Parcheesi](https://en.wikipedia.org/wiki/Parcheesi)
 
 > Pachisi, the national game of India, dates back to 4 AD and remains popular today. Parcheesi is the westernized version. Parcheesi is typically played with two dice, four pieces per player and a gameboard with a track around the outside, four corner spaces and four home paths leading to a central end space. Moving all four pieces to the home position wins the game.
