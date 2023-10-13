@@ -650,6 +650,18 @@
 | ------: | -------: | ------: |
 |   2 - 4 |       13 | 90-120m |
 
+
+### [Orléans](https://boardgamegeek.com/boardgame/164928/orleans)
+
+> During the medieval goings-on around Orléans, you must assemble a following of farmers, merchants, knights, monks, etc. to gain supremacy through trade, construction and science in medieval France.
+>In Orléans, you will recruit followers and put them to work to make use of their abilities. Farmers and Boatmen supply you with money and goods; Knights expand your scope of action and secure your mercantile expeditions; Craftsmen build trading stations and tools to facilitate work; Scholars make progress in science; Traders open up new locations for you to use your followers; and last but not least, it cannot hurt to get active in monasteries since with Monks on your side you are much less likely to fall prey to fate.
+
+![Orléans game image](https://cf.geekdo-images.com/nagl1li6kYt9elV9jbfVQw__itemrep/img/oYYWKekDiHllrWnFNef7En3gP4c=/fit-in/246x300/filters:strip_icc()/pic6228507.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2–4 |        12 | 90 Min |
+
 ### [Complots](https://boardgamegeek.com/boardgame/188188/complots)
 
 > A corrupt city, subject to vice and avarice, is under the control of vile characters. The seat of power is vacant and waiting for you to take it — unless someone else takes it first. In Complots, as in the original game Coup, you control two characters and start with two coins, and through trickery, manipulation and bluffing, you want to eliminate all other players who stand in your way, possibly by having them eliminate one another along the way.
