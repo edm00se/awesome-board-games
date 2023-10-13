@@ -130,6 +130,18 @@
 | ------: | -------: | -----: |
 |   2 - 8 |       14 | 30-45m |
 
+### [Cascadia](https://boardgamegeek.com/boardgame/295947/cascadia)
+
+> Cascadia is a puzzly tile-laying and token-drafting game featuring the habitats and wildlife of the Pacific Northwest.
+> 
+> In the game, you take turns building out your own terrain area and populating it with wildlife. You start with three hexagonal habitat tiles (with the five types of habitat in the game), and on a turn you choose a new habitat tile that's paired with a wildlife token, then place that tile next to your other ones and place the wildlife token on an appropriate habitat. (Each tile depicts 1-3 types of wildlife from the five types in the game, and you can place at most one tile on a habitat.) Four tiles are on display, with each tile being paired at random with a wildlife token, so you must make the best of what's available — unless you have a nature token to spend so that you can pick your choice of each item.
+
+![Cascadia game image](https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__itemrep/img/RjD03wEf_LoX0EF4DhnW6f0xNHU=/fit-in/246x300/filters:strip_icc()/pic5100691.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |        10 | 30-45m |
+
 ### [Dungeons & Dragons: Castle Ravenloft](https://boardgamegeek.com/boardgame/59946/dungeons-dragons-castle-ravenloft-board-game)
 
 > The master of Ravenloft is having guests for dinner – and you are invited!\
