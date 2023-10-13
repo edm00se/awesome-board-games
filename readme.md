@@ -40,6 +40,20 @@
 | ------: | -------: | ---: |
 |   2 - 4 |        8 |  10m |
 
+### [Wingspan](https://boardgamegeek.com/boardgame/266192/wingspan)
+
+> Wingspan is a competitive, medium-weight, card-driven, engine-building board game from Stonemaier Games. It's designed by Elizabeth Hargrave and features over 170 birds illustrated by Beth Sobel, Natalia Rojas, and Ana Maria Martinez.
+> 
+> You are bird enthusiasts—researchers, bird watchers, ornithologists, and collectors—seeking to discover and attract the best birds to your network of wildlife preserves. Each bird extends a chain of powerful combinations in one of your habitats (actions). These habitats focus on several key aspects of growth:
+> - Gain food tokens via custom dice in a birdfeeder dice tower
+> - Lay eggs using egg miniatures in a variety of colors
+
+![Wingspan game image](https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__itemrep/img/DR7181wU4sHT6gn6Q1XccpPxNHg=/fit-in/246x300/filters:strip_icc()/pic4458123.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 5 |        10 | 40-70m |
+
 ### [Ghost Blitz](https://boardgamegeek.com/boardgame/83195/ghost-blitz)
 
 > Balduin, the house ghost, found an old camera in the castle cellar. Immediately he photographed everything that he loves to make disappear when he is haunting  – including himself, of course. Unfortunately, the enchanted camera takes many photos in the wrong colors. Sometimes the green bottle is white, at other times it's blue. Looking at the photos, Balduin doesn't really remember any more what he wanted to make disappear next. Can you help him with his haunting and quickly name the right item, or even make it disappear by yourself? If you grab the right items quickly, you have a good chance of winning...
