@@ -450,6 +450,18 @@
 | ------: | -------: | -----: |
 |   2 |        8 | 15-30m |
 
+### [Cartographers](https://boardgamegeek.com/boardgame/263918/cartographers)
+
+> Queen Gimnax has ordered the reclamation of the northern lands. As a cartographer in her service, you are sent to map this territory, claiming it for the Kingdom of Nalos. Through official edicts, the queen announces which lands she prizes most, and you will increase your reputation by meeting her demands. But you are not alone in this wilderness. The Dragul contest your claims with their outposts, so you must draw your lines carefully to reduce their influence. Reclaim the greatest share of the queen’s desired lands and you will be declared the greatest cartographer in the kingdom.
+> 
+> In Cartographers: A Roll Player Tale, players compete to earn the most reputation stars by the time four seasons have passed. Each season, players draw on their map sheets and earn reputation by carrying out the queen's edicts before the season is over. The player with the most reputation stars at the end of winter wins!
+
+![Cartographers game image](https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__itemrep/img/0wjmkvfHlWU5_l9dnaoDanV0s5U=/fit-in/246x300/filters:strip_icc()/pic4397932.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 100 |        10 | 30-45m |
+
 ### [Talisman](https://boardgamegeek.com/boardgame/714/talisman)
 
 > Talisman takes you on a journey through magical lands, as you endeavor to reclaim the Crown of Command.
