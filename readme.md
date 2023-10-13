@@ -1440,6 +1440,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |--------:|---------:|-------:|
 |  3 - 10 |       10 | 20-30m |
 
+### [Bagh Chal](https://en.wikipedia.org/wiki/Bagh-Chal)
+
+> Bagh Chal (tiger game) is a strategic, two-player board game that originated in Nepal. The game is asymmetric in that one player controls four tigers and the other player controls up to twenty goats. The tigers hunt the goats while the goats attempt to block the tiger's movements. This game is also seen in southern India with a different board, but the rules are same. The game is played on a 5×5 point grid. Pieces are positioned at the intersection of the lines. Gameplay takes place in two phases. In the first phase the goats are placed on the board while the tigers are moved. In the second phase both the tigers and the goats are moved. For the tigers the goal is to capture five goats to win. A goat can be captured by jumping over it, although capturing is not obligatory. The goats win by blocking all of tiger's leagal moves.
+
+![Bagh Chal image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Brass_goat_tiger_game_board.jpg/250px-Brass_goat_tiger_game_board.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|       2 |        4 |  60m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
