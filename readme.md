@@ -1308,6 +1308,19 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 | ------: | -------: | ---: |
 |   2 - 8 |       14 |  15m |
 
+
+### [Viticulture Essential Edition](https://boardgamegeek.com/boardgame/183394/viticulture-essential-edition)
+
+> In Viticulture, the players find themselves in the roles of people in rustic, pre-modern Tuscany who have inherited meager vineyards. They have a few plots of land, an old crushpad, a tiny cellar, and three workers. They each have a dream of being the first to call their winery a true success.
+> The players are in the position of determining how they want to allocate their workers throughout the year. Every season is different on a vineyard, so the workers have different tasks they can take care of in the summer and winter. There's competition over those tasks, and often the first worker to get to the job has an advantage over subsequent workers.
+> Fortunately for the vineyard owners, people love to visit wineries, and it just so happens that many of those visitors are willing to help out around the vineyard when they visit as long as you assign a worker to take care of them. Their visits (in the form of cards) are brief but can be very helpful.
+
+![Viticulture Essential Edition game image](https://cf.geekdo-images.com/l_PRU2lVlX9seScRFcvFlA__itemrep/img/rfRBuKUlSgnnNpbRfy_osB9xrsM=/fit-in/246x300/filters:strip_icc()/pic6500949.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–6 |        13 | 45–90 Min |
+
 ### [SuperFight](https://boardgamegeek.com/boardgame/139443/superfight)
 
 > A game of absurd arguments
