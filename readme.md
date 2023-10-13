@@ -991,6 +991,17 @@
 | ------: | -------: | ------: |
 |   2 - 6 |       14 | 60-200m |
 
+### [Mage Knight Board Game](https://boardgamegeek.com/boardgame/96848/mage-knight-board-game)
+
+> The Mage Knight board game puts you in control of one of four powerful Mage Knights as you explore (and conquer) a corner of the Mage Knight universe under the control of the Atlantean Empire. Build your army, fill your deck with powerful spells and actions, explore caves and dungeons, and eventually conquer powerful cities controlled by this once-great faction! In competitive scenarios, opposing players may be powerful allies, but only one will be able to claim the land as their own. In cooperative scenarios, the players win or lose as a group. Solo rules are also included.
+Combining elements of RPGs, deck-building, and traditional board games the Mage Knight board game captures the rich history of the Mage Knight universe in a self-contained gaming experience.
+
+![Mage Knight Board Game game image](https://cf.geekdo-images.com/DUO2hz9AlLOH8p9ED-lCWg__itemrep/img/6OmGo3bidk3ma7U1v-oq_2pEJZI=/fit-in/246x300/filters:strip_icc()/pic1083380.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–4 |        14 | 60–240 Min |
+
 ### [Android: Netrunner](https://boardgamegeek.com/boardgame/124742/android-netrunner)
 
 > Android: Netrunner is a strategic asymmetrical Living Card Game for two players set in a cyberpunk future. One player represents a powerful megacorporation aiming to score agendas by advancing them, protected by a web of security ice programs, while the other player assumes the role of a lone hacker, or runner, attempting to infiltrate and disrupt the corporation's plans by acquiring resources, hardware, and ice-breaker programs. With a goal of reaching seven points, players face high-stakes risks, including brain damage and bad publicity, in their quest for victory in this futuristic battle for control and information.
