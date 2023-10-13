@@ -16,6 +16,18 @@
 
 ## Family
 
+### [The Crew: Mission Deep Sea](https://boardgamegeek.com/boardgame/324856/crew-mission-deep-sea)
+
+> In the trick-taking card game The Crew: Mission Deep Sea, you and the other players work together to search for the lost continent of Mu. This new adventure takes your crew deep down into the abyss on a search for the fabled sunken land. How far you get depends entirely on how well you work together as a team. Card by card, trick by trick, your search party will discover the challenges that lie ahead and forge a path to Mu.
+> 
+> This new version of The Crew has the same innovative co-operative trick-taking mechanism as the highly lauded original game — but with some exciting new surprises! While communication between your crew members is severely limited by your submerged state, it is also critical to your success; finding the hidden land in the murky depths depends not only on winning tricks, but also on carefully negotiating the order in which they are won. If things don't go as planned, you might just be able to salvage the operation, but it will take near flawless execution and perhaps a little luck to finally reach Mu.
+
+![The Crew: Mission Deep Sea game image](https://cf.geekdo-images.com/VuBqZ1sMaDAVVHF_OEJP4g__itemrep/img/tgB3g7PECxG14yQ0FkMiMaXaOFE=/fit-in/246x300/filters:strip_icc()/pic5988903.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 5 |        10 | 20m |
+
 ### [Dungeon Mayhem](https://boardgamegeek.com/boardgame/260300/dungeon-mayhem)
 
 > In this action-packed Dungeons & Dragons card game, you win by being the last adventurer standing.
