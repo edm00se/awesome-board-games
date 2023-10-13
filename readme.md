@@ -253,6 +253,16 @@
 | ------: | -------: | -----: |
 |   1 - 5 |       10 |40 -70m |
 
+### [The Quest for El Dorado](https://boardgamegeek.com/boardgame/217372/quest-el-dorado)
+
+> In The Quest for El Dorado, players take the roles of expedition leaders who have embarked on a search for the legendary land of gold in the dense jungles of South America. Each player assembles and equips their own team, hiring various helpers from the scout to the scientist to the aborigine. All of them have one goal in mind: Reaching the golden border first and winning all of the riches for themselves. Whoever chooses the best tactics will be rewarded!
+
+![The Quest for El Dorado game image](https://cf.geekdo-images.com/GLXfUI72Qph2136CxWIJww__itemrep/img/dD5tKXielG7vTwuJWeyv2PmVsds=/fit-in/246x300/filters:strip_icc()/pic7648372.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |        10 | 30-60m |
+
 ### [The Quacks of Quedlinburg](https://boardgamegeek.com/boardgame/244521/quacks-quedlinburg)
 
 > In The Quacks of Quedlinburg, players are charlatans — or quack doctors — each making their own secret brew by adding ingredients one at a time. Take care with what you add, though, for a pinch too much of this or that will spoil the whole mixture!
