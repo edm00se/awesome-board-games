@@ -568,6 +568,21 @@
 | ------: | -------: | ---: |
 |       2 |       10 |  30m |
 
+
+
+### [The Gallerist](https://boardgamegeek.com/boardgame/125153/gallerist)
+
+> This age of art and capitalism has created a need for a new occupation - The Gallerist.
+> Combining the elements of an Art dealer, museum curator, and Artists’ manager, you are about to take on that job! You will promote and nurture Artists; buy, display, and sell their Art; and build and exert your international reputation. As a result, you will achieve the respect needed to draw visitors to your Gallery from all over the world.
+> There's a lot of work to be done, but don't worry, you can hire assistants to help you achieve your goals. Build your fortune by running the most lucrative Gallery and secure your reputation as a world-class Gallerist!
+Maximize your money and thus win the game by:
+
+![The Gallerist game image](https://cf.geekdo-images.com/ie1GSt1XV04sXQXt-3O1UQ__itemrep/img/HBQJFsyK0mDMgd_DKxD4Xmhi4UA=/fit-in/246x300/filters:strip_icc()/pic2503200.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–4 |        13 | 60–150 Min |
+
 ### [Antike Duellum](https://boardgamegeek.com/boardgame/104955/antike-duellum)
 
 > Antike Duellum – previewed at Spiel 2011 under the name Casus Belli – is a two-player strategy game based on modified rules from Mac Gerdts' Antike. The game includes two scenarios: Punic Wars (Rome vs. Carthago) on one side of the board, and Persian Wars (Greeks vs. Persians) on the other. The goal of the game is to be the first to gain nine ancient personages (Kings, Scholars, Generals, Citizens, Navigators).
