@@ -994,7 +994,7 @@
 ### [Mage Knight Board Game](https://boardgamegeek.com/boardgame/96848/mage-knight-board-game)
 
 > The Mage Knight board game puts you in control of one of four powerful Mage Knights as you explore (and conquer) a corner of the Mage Knight universe under the control of the Atlantean Empire. Build your army, fill your deck with powerful spells and actions, explore caves and dungeons, and eventually conquer powerful cities controlled by this once-great faction! In competitive scenarios, opposing players may be powerful allies, but only one will be able to claim the land as their own. In cooperative scenarios, the players win or lose as a group. Solo rules are also included.
-Combining elements of RPGs, deck-building, and traditional board games the Mage Knight board game captures the rich history of the Mage Knight universe in a self-contained gaming experience.
+> Combining elements of RPGs, deck-building, and traditional board games the Mage Knight board game captures the rich history of the Mage Knight universe in a self-contained gaming experience.
 
 ![Mage Knight Board Game game image](https://cf.geekdo-images.com/DUO2hz9AlLOH8p9ED-lCWg__itemrep/img/6OmGo3bidk3ma7U1v-oq_2pEJZI=/fit-in/246x300/filters:strip_icc()/pic1083380.jpg)
 
