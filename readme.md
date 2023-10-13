@@ -40,6 +40,16 @@
 | ------: | -------: | ---: |
 |   2 - 4 |        8 |  10m |
 
+### [That's Pretty Clever](https://boardgamegeek.com/boardgame/244522/s-pretty-clever)
+
+> Choose your dice cleverly in Ganz schön clever (German for "That's Pretty Clever") to enter them into the matching colored areas on your score sheet, putting together tricky chain-scoring opportunities, and racking up the points! The dice you don't use are as important as those you do, because every die with a lower value than the chosen one can be used by the other players, keeping everyone in the game at all times.
+
+![That's Pretty Clever! game image](https://cf.geekdo-images.com/3-unuy5JW1cC8C6EUBNiOA__itemrep/img/6BcSS0mLm9nJBIXTcz0HQ5SKJmI=/fit-in/246x300/filters:strip_icc()/pic4410877.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 – 4 |        8 | 30m |
+
 ### [Wingspan](https://boardgamegeek.com/boardgame/266192/wingspan)
 
 > Wingspan is a competitive, medium-weight, card-driven, engine-building board game from Stonemaier Games. It's designed by Elizabeth Hargrave and features over 170 birds illustrated by Beth Sobel, Natalia Rojas, and Ana Maria Martinez.
