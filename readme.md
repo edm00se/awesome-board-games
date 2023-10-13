@@ -578,6 +578,17 @@
 | ------: | -------: | ---: |
 |       2 |       13 |  75m |
 
+### [Too Many Bones](https://boardgamegeek.com/boardgame/192135/too-many-bones)
+
+> Too Many Bones comes loaded for bear by breaking into a new genre: the dice-builder RPG. This game takes everything you think you know about dice-rolling and turns it on its head. Dripping with strategy, this fantasy-based RPG puts you in the skin of a new race and takes you on an adventure to the northern territories to root out and defeat growing enemy forces and of course the infamous "baddie" responsible.
+> Team up or go it alone in a 1-4 player Coop or Solo play campaign. With over 100+ unique skill dice and 4-7 classes to choose from, every battle is its own mini challenge to figure out. Your adventure will consist of 8-12 battles before you reach your final destination and face off against one of a number of possible kingpins in order to win. Along the way, you will be faced with storyline decisions that will quickly have you weighing risk/reward, odds, and logic - with dice woven into every aspect! Your party will also be faced with other decisions: when to rest, when to explore, or even which fights to pursue! The Encounter cards offer fun plot twists and some comic relief, all while setting the stage for your next battle.
+
+![Too Many Bones game image](https://cf.geekdo-images.com/wKwRk0wYBcrtLAfgn4PCdg__itemrep/img/xKVF_SqBoULptBCjVdvHmpdsP0o=/fit-in/246x300/filters:strip_icc()/pic6624445.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–4 |        12 | 60–120 Min |
+
 ### [Legendary: A Marvel Deck Building Game](https://boardgamegeek.com/boardgame/129437/legendary-marvel-deck-building-game)
 
 <!-- nothing on wikipedia currently -->
