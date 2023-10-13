@@ -568,6 +568,18 @@
 | ------: | -------: | ---: |
 |       2 |       10 |  30m |
 
+### [Barrage](https://boardgamegeek.com/boardgame/251247/barrage)
+
+> In the dystopic 1930s, the industrial revolution pushed the exploitation of fossil-based resources to the limit, and now the only thing powerful enough to quench the thirst for power of the massive machines and of the unstoppable engineering progress is the unlimited hydroelectric energy provided by the rivers.
+> Barrage is a resource management strategic game in which players compete to build their majestic dams, raise them to increase their storing capacity, and deliver all the potential power through pressure tunnels connected to the energy turbines of their powerhouses.
+> Each player represents one of the four international companies who are gathering machinery, innovative patents and brilliant engineers to claim the best locations to collect and exploit the water of a contested Alpine region crossed by rivers.
+
+![Barrage game image](https://cf.geekdo-images.com/jEPmWvvYpqkWrKOzqIHFsg__itemrep/img/-s65MFZDOx3Uf0Ec8Nol2nTBl5g=/fit-in/246x300/filters:strip_icc()/pic4336469.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–4 |        14 | 60–120 Min |
+
 ### [Antike Duellum](https://boardgamegeek.com/boardgame/104955/antike-duellum)
 
 > Antike Duellum – previewed at Spiel 2011 under the name Casus Belli – is a two-player strategy game based on modified rules from Mac Gerdts' Antike. The game includes two scenarios: Punic Wars (Rome vs. Carthago) on one side of the board, and Persian Wars (Greeks vs. Persians) on the other. The goal of the game is to be the first to gain nine ancient personages (Kings, Scholars, Generals, Citizens, Navigators).
