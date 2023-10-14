@@ -1038,6 +1038,20 @@
 | ------: | -------: | ------: |
 |   1 - 4 |       12 | 60-150m |
 
+
+
+### [Pax Pamir: Second Edition](https://boardgamegeek.com/boardgame/256960/pax-pamir-second-edition)
+
+> In Pax Pamir, players assume the role of nineteenth century Afghan leaders attempting to forge a new state after the collapse of the Durrani Empire. Western histories often call this period "The Great Game" because of the role played by the Europeans who attempted to use central Asia as a theater for their own rivalries. In this game, those empires are viewed strictly from the perspective of the Afghans who sought to manipulate the interloping ferengi (foreigners) for their own purposes.
+> In terms of game play, Pax Pamir is a pretty straightforward tableau builder. Players spend most of their turns purchasing cards from a central market, then playing those cards in front of them in a single row called a court. Playing cards adds units to the game's map and grants access to additional actions that can be taken to disrupt other players and influence the course of the game. That last point is worth emphasizing. Though everyone is building their own row of cards, the game offers many ways for players to interfere with each other directly and indirectly.
+
+![Pax Pamir: Second Edition game image](https://cf.geekdo-images.com/oSM_AuKYfGIwOtKbVEsoVg__itemrep/img/4yTV5vAsuDi8MZP6wWysZA8tmQg=/fit-in/246x300/filters:strip_icc()/pic4503733.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–5 |        13 | 45–120 Min |
+
+
 ### [Twilight Struggle](https://boardgamegeek.com/boardgame/12333/twilight-struggle)
 
 > Twilight Struggle is a compelling two-player board game that encapsulates the forty-five-year geopolitical struggle between the Soviet Union and the United States, characterized by intrigue, prestige, and the occasional outbreak of warfare. Set against the backdrop of post-World War II Europe and spanning until 1989, the game delves into the complex dynamics of the Cold War. Players engage in a dance of influence, intelligence, and diplomatic maneuvering, representing the two superpowers' efforts to shape the world according to their ideologies. Based on the renowned card-driven game tradition, Twilight Struggle presents a low-complexity, quick-playing experience in which players use cards and units strategically on a world map to gain allies and control key regions. Historical events, from the Arab-Israeli conflicts to the Cuban Missile Crisis, are vividly portrayed through Event cards, and players must navigate nuclear tensions and the Space Race while avoiding the looming threat of nuclear war. Twilight Struggle offers an immersive journey through one of the most critical periods in modern history.
