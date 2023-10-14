@@ -660,6 +660,16 @@
 | ------: | -------: | ---: |
 |   2 - 8 |        8 |  15m |
 
+### [Shogi](https://en.wikipedia.org/wiki/Shogi)
+
+> Shogi, also known as Game of Generals, is a Japanese board game similar to chess, played on a 9x9 grid with 20 pieces per player. The objective is to checkmate the opponent's king, but pieces can be promoted upon reaching the enemy's promotion zone. Shogi offers a dynamic and strategic gameplay experience with unique piece movements and captures. It is much more complex than international chess. 
+
+![Shogi image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Shogi_Ban_Koma.jpg/250px-Shogi_Ban_Koma.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | -----:  |
+|       2 |        8 | 30-120m |
+
 ### [Carcassonne](https://en.wikipedia.org/wiki/Carcassonne_(board_game))
 
 > Tile-placement game in which the players draw and place a tile with a piece of southern French landscape on it. Build your castles, connect them with roads and grassland, assign meeples to roles and score points.
