@@ -608,6 +608,21 @@
 | ------: | -------: | ---: |
 |       2 |        5 |  30m |
 
+
+
+### [Puerto Rico](https://boardgamegeek.com/boardgame/3076/puerto-rico)
+
+> In Puerto Rico, players assume the roles of colonial governors on the island of Puerto Rico. The aim of the game is to amass victory points by shipping goods to Europe or by constructing buildings.
+> Each player uses a separate small board with spaces for city buildings, plantations, and resources. Shared between the players are three ships, a trading house, and a supply of resources and doubloons.
+> The resource cycle of the game is that players grow crops which they exchange for points or doubloons. Doubloons can then be used to buy buildings, which allow players to produce more crops or give them other abilities. Buildings and plantations do not work unless they are manned by colonists.
+
+![Puerto Rico game image](https://cf.geekdo-images.com/QFiIRd2kimaMqTyWsX0aUg__itemrep/img/YDEozo5DfKYdDp8xi2mAfoV2qWk=/fit-in/246x300/filters:strip_icc()/pic158548.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   3–5 |        12 | 90–150 Min |
+
+
 ### [7 Wonders](https://wikipedia.org/wiki/7_Wonders_(board_game))
 
 > You are the leader of one of the 7 great cities of the Ancient World. Gather resources, develop commercial routes, and affirm your military supremacy. Build your city and erect an architectural wonder which will transcend future times.
