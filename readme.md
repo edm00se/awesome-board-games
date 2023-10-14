@@ -464,7 +464,7 @@
 
 | Players | Min. Age |  Time   |
 | ------: | -------: | -----:  |
-|       2 |        5 | 30-120m |
+|       2 |        8 | 30-120m |
 
 ### [Carcassonne](https://en.wikipedia.org/wiki/Carcassonne_(board_game))
 
