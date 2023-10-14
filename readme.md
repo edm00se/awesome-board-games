@@ -146,6 +146,18 @@
 | ------: | -------: | -----: |
 |   1 - 4 |        13 | 40-80m |
 
+### [Azul: Summer Pavilion](https://boardgamegeek.com/boardgame/287954/azul-summer-pavilion)
+
+> At the turn of the 16th Century, King Manuel I commissioned Portugal's greatest artisans to construct grandiose buildings. After completing the Palaces of Evora and Sintra, the king sought to build a summer pavilion to honor the most famous members of the royal family. This construction was intended for the most talented artisans — whose skills meet the splendor that the royal family deserves. Sadly, King Manuel I died before construction ever began.
+> 
+> In Azul: Summer Pavilion, players return to Portugal to accomplish the task that never began. As a master artisan, you must use the finest materials to create the summer pavilion while carefully avoiding wasting supplies. Only the best will rise to the challenge to honor the Portuguese royal family.
+
+![Azul: Summer Pavilion game image](https://cf.geekdo-images.com/843kZ6WR0HfyXWEybA6L7A__itemrep/img/zOE89_4aCHOqoYITnbMSxAVR_UA=/fit-in/246x300/filters:strip_icc()/pic4930887.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 – 4 |        8 | 30–45m |
+
 ### [Forbidden Sky](https://boardgamegeek.com/boardgame/245271/forbidden-sky)
 
 > Soar to dizzying heights in the electrifying cooperative adventure. Work as a team to explore a mysterious platform that floats at the center of a savage storm. Connect a circuit of cables to launch a secret rocket — all before you are struck by lightning or blown off to the depths below. It's a high-wire act that will test your team's capacity for courage and cooperation. One false step and you all could be grounded.This latest installment in the Forbidden that game series takes you to new heights with several novel challenges, including collectively planning a terrain using only limited information and constructing a real electrical circuit.
