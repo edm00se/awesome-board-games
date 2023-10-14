@@ -795,6 +795,19 @@
 | ------: | -------: | -----: |
 |       2 |        5 | 5-120m |
 
+
+
+### [Pandemic Legacy: Season 0](https://boardgamegeek.com/boardgame/314040/pandemic-legacy-season-0)
+
+> 1962 — The Cold War continues as a new threat looms on the horizon, a deadly new Soviet bioweapon, something called "Project MEDUSA". You and your fellow medical graduates have been recruited by the CIA for the critical mission of investigating and preventing its development. Travel the world using carefully constructed aliases to move swiftly between Allied, Neutral, and Soviet cities. Your missions will require you to neutralize enemy agents, acquire specific targets, and set up other CIA agents on location to execute your operations without a hitch. As you complete objectives over the course of twelve months, each success or failure will bring you closer to the truth.
+> Combatting this dangerous new pathogen is of utmost importance, but it's not the only threat you'll encounter in the field. Enemy agents are taking root in all parts of the world, and it's critical to your mission that you keep them contained before they can escalate international tensions. Luckily for you, you won't be without backup. Coordinate with other covert operatives for assistance and make strategic use of these teams at different locations to clean up the board and keep your eye on your main objectives.
+
+![Pandemic Legacy: Season 0 game image](https://cf.geekdo-images.com/y0x1zbkpUXjddzWWnhekYw__itemrep/img/jkXL5CPHgbwGPoahpK73KV7ohJA=/fit-in/246x300/filters:strip_icc()/pic5581457.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2–4 |        14 | 45–60 Min |
+
 ### [Commonspoly](https://commonspoly.cc/)
 
 > Commonspoly is a fun strategy and turn based RPG game where players of the game work together to defend their world from being taken over by speculators. The game is like the direct opposite of what one does in the game of Monopoly. For in Commonspoly owning private goods is frowned upon and converting the privately owned goods to either public or community owned ones will be the task of the players. The game is really fun as its a pit against good and evil, where evil is/are depicted by the speculator characters in the game. Speculators go around the game and try to undo the efforts of the defendors. Also the game is released under Peer Production License and can be downloaded for free and printed at home to play.
