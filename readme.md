@@ -2008,6 +2008,26 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |--------:|---------:|-------:|
 |  4 - 16 |       17 | 30-60m |
 
+### [Jenga](https://en.wikipedia.org/wiki/Jenga)
+
+> Jenga is a game of physical skill created by British board game designer and author Leslie Scott and marketed by Hasbro. Players take turns removing one block at a time from a tower constructed of 54 blocks.
+
+![Jenga](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Jenga.JPG/220px-Jenga.JPG)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 5 |        6 | 10-15m |
+
+### [Mouse Trap](https://en.wikipedia.org/wiki/Mouse_Trap_(board_game))
+
+> Mouse Trap (originally Mouse Trap Game) is a board game first published by Ideal in 1963 for two to four players. It is one of the first mass-produced three-dimensional board games.The basic premise of Mouse Trap has been consistent over time, but the turn-based gameplay has changed. Its concept was first invented by Marvin Glass and designer Gordon Barlow from Marvin's company
+
+![Mouse Trap](https://upload.wikimedia.org/wikipedia/en/5/5f/Mouse_Trap_Board_and_Box.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |        6 | 30-35m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
