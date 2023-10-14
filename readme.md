@@ -1239,7 +1239,7 @@
 
 ### [Food Chain Magnate](https://boardgamegeek.com/boardgame/175914/food-chain-magnate)
 
-> "Lemonade? They want lemonade? What is the world coming to? I want commercials for burgers on all channels, every 15 minutes. We are the Home of the Original Burger, not a hippie health haven. And place a billboard next to that new house on the corner. I want them craving beer every second they sit in their posh new garden." The new management trainee trembles in front of the CEO and tries to politely point out that... "How do you mean, we don't have enough staff? The HR director reports to you. Hire more people! Train them! But whatever you do, don't pay them any real wages. I did not go into business to become poor. And fire that discount manager, she is only costing me money. From now on, we'll sell gourmet burgers. Same crap, double the price. Get my marketing director in here!"
+> Food Chain Magnate is a heavy strategy game about building a fast food chain. The focus is on building your company using a card-driven (human) resource management system. Players compete on a variable city map through purchasing, marketing and sales, and on a job market for key staff members. The game can be played by 2-5 serious gamers in 2-4 hours.
 
 ![Food Chain Magnate game image](https://cf.geekdo-images.com/Wtxml94LAXsIWQCxGPS63Q__itemrep/img/Bl9o9eur7lveoZUYwAl9LL9NSJo=/fit-in/246x300/filters:strip_icc()/pic2649434.png)
 
