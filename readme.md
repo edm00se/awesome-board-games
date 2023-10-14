@@ -1402,6 +1402,17 @@
 | ------: | -------: | -----: |
 |   1 - 5 |       10 | 45-60m |
 
+
+### [Food Chain Magnate](https://boardgamegeek.com/boardgame/175914/food-chain-magnate)
+
+> Food Chain Magnate is a heavy strategy game about building a fast food chain. The focus is on building your company using a card-driven (human) resource management system. Players compete on a variable city map through purchasing, marketing and sales, and on a job market for key staff members. The game can be played by 2-5 serious gamers in 2-4 hours.
+
+![Food Chain Magnate game image](https://cf.geekdo-images.com/Wtxml94LAXsIWQCxGPS63Q__itemrep/img/Bl9o9eur7lveoZUYwAl9LL9NSJo=/fit-in/246x300/filters:strip_icc()/pic2649434.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2–5 |        14 | 120–240 Min |
+
 ### [Terraforming Mars](<https://en.wikipedia.org/wiki/Terraforming_Mars_(board_game)>)
 
 > Terraforming Mars is a game where players take the role of corporations to terraform the planet by raising the temperature and creating oxygen, water, plant and animal life. Players compete to earn the most points, which are measured by their contribution to terraforming, as well as building human infrastructure.
