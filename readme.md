@@ -1702,6 +1702,19 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | --------:|
 |  3 - 12 |     10+  |      30m |
 
+
+### [Maracaibo](https://boardgamegeek.com/boardgame/276025/maracaibo)
+
+> Maracaibo, a strategy game for 1-4 players by Alexander Pfister, is set in the Caribbean during the 17th century. The players try to increase their influence in three nations in four rounds with a play time of 40 minutes per player.
+> The players sail on a round course through the Caribbean, e.g., you have city tiles where you are able to perform various actions or deliver goods to. One special feature is an implemented quest mode over more and various tiles, which tells the player, who chase after it, a little story.
+> As a player, you move with your ship around the course, managing it by using cards like in other games from Alexander Pfister.
+
+![Maracaibo game image](https://cf.geekdo-images.com/rMNa0k05zMdKgSEp26Q3Tw__itemrep/img/VO-J8Vei6K6SFQSJO-WuHjsLYbY=/fit-in/246x300/filters:strip_icc()/pic4917407.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–4 |        12 | 30–120 Min |
+
 ### [Small World](https://boardgamegeek.com/boardgame/40692/small-world)
 
 > An area control game where players control different fantasy races with a unique set of abilities. The goal is to conquer and control as much of the player board as possible and halting your opponents' expansion. When your race can't expand any further you let it fall into decline and pick a new race to continue the quest for dominance.
