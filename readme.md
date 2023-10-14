@@ -1082,6 +1082,17 @@
 | ------: | -------: | ------: |
 |   2 - 4 |       14 |    120m |
 
+### [Kanban EV](https://boardgamegeek.com/boardgame/284378/kanban-ev)
+
+> Electric vehicles (EVs) have become more common since 2014 and are the future of the automobile industry. They are superior vehicles due to them being more efficient, easier to maintain, cleaner, and cheaper to run. They are computerized machines that use AI to improve safety and in the near future will provide autonomous driving. They receive software upgrades during their lifetime and are constantly improving, unlike their traditional combustion-engine counterparts, which start to become obsolete as soon as you start using them.
+> You will be overseeing the production of these vehicles in Kanban EV, with "kanban" (看板) being the name for a scheduling system that supports an efficient assembly line, just-in-time production, and a smooth workflow process. Over the course of the game, players take on the role of rookie employees who are trying to secure their career. You need to manage suppliers and supplies, improve and innovate automobile parts, and get your hands greasy on the assembly line in order to boost production and impress the factory manager.
+
+![Kanban EV game image](https://cf.geekdo-images.com/L2Wn-zUqkcHgqvwvY212Ig__itemrep/img/S_mg665DznHuiuvxvOIPk2mYwHM=/fit-in/246x300/filters:strip_icc()/pic4924232.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–4 |        14 | 60–180 Min |
+
 ### [The Castles of Burgundy](https://boardgamegeek.com/boardgame/84876/castles-burgundy)
 
 > The Castles of Burgundy is an immersive board game set in the Burgundy region of High Medieval France. Players assume the roles of aristocrats seeking to expand their princedoms by building settlements, constructing formidable castles, engaging in river trade, exploiting silver mines, and harnessing the knowledge of travelers. The core gameplay revolves around selecting settlement tiles from the game board and placing them onto a personal player board, with each tile having a unique function. These tiles must be placed in regions that match their type. The game unfolds in five phases, each comprising five rounds. Players roll dice at the start of each round, with one player determining the availability of goods tiles. On their turns, players can perform two of four possible actions: taking settlement tiles from the game board, placing tiles on their player board, delivering goods, or obtaining worker tokens to adjust dice rolls. Bonus points are awarded for various accomplishments, and the game concludes after the fifth phase. Victory points are tallied, and the player with the most points emerges as the winner. With both basic and advanced rules, The Castles of Burgundy offers a deep and engaging gameplay experience, and it is part of the Alea big box series.
