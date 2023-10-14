@@ -522,7 +522,7 @@
 | ------: | -------: | -----: |
 |   1 - 100 |        10 | 30-45m |
 
-### [Tide of Fortune (1993)](https://boardgamegeek.com/boardgame/3354/tide-fortune)
+### [Tide of Fortune](https://boardgamegeek.com/boardgame/3354/tide-fortune)
 
 > This is an evolution of the Westwar series first introduced by Vanguard Games with Pas de Calais. Other games using a similar system are To the Far Shore and the Italian Campaign series (Sicily, Salerno, Anzio and Med War).
 >
@@ -540,8 +540,7 @@
 >
 > Low counter density, high maneuver. Medium-high complexity.
 
-
-![Tide of Fortune (1993)](https://cf.geekdo-images.com/vkDLqn-CMvTelKH0BvBBRA__imagepage/img/k2e0JHeSt5AwvNJco2rzFAXXaKM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3446255.jpg)
+<img src="https://cf.geekdo-images.com/vkDLqn-CMvTelKH0BvBBRA__imagepage/img/k2e0JHeSt5AwvNJco2rzFAXXaKM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3446255.jpg" width="270" height="285">
 
 | Players | Min. Age |    Time |
 | ------: | -------: | ------: |
