@@ -231,8 +231,6 @@
 | ------: | -------: | ------: |
 |   1 - 6 |       12 | 60-120m |
 
-
-
 ### [Candy Land](https://en.wikipedia.org/wiki/Candy_Land)
 
 > The race is woven around a storyline about finding King Kandy, the lost king of Candy Land...game requires no reading and minimal counting skills, making it suitable for young children...players are never required to make choices, just follow directions.
