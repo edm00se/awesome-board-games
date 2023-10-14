@@ -1168,6 +1168,16 @@
 | ------: | -------: | ------: |
 |   2     |       14 | 45m     |
 
+### [Underwater Cities](https://boardgamegeek.com/boardgame/247763/underwater-cities)
+
+> In Underwater Cities, which takes about 30-45 minutes per player, players represent the most powerful brains in the world, brains nominated due to the overpopulation of Earth to establish the best and most livable underwater areas possible.
+> The main principle of the game is card placement. Three colored cards are placed along the edge of the main board into 3 x 5 slots, which are also colored. Ideally players can place cards into slots of the same color. Then they can take both actions and advantages: the action depicted in the slot on the main board and also the advantage of the card. Actions and advantages can allow players to intake raw materials; to build and upgrade city domes, tunnels and production buildings such as farms, desalination devices and laboratories in their personal underwater area; to move their marker on the initiative track (which is important for player order in the next turn); to activate the player's "A-cards"; and to collect cards, both special ones and basic ones that allow for better decision possibilities during gameplay.
+
+![Underwater Cities game image](https://cf.geekdo-images.com/PwOwTVHovJAUQgghnGqCOg__itemrep/img/CHpbozXB266LtImU0nze5uXJ-HI=/fit-in/246x300/filters:strip_icc()/pic4837710.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–4 |        12 | 80–150 Min |
 ### [Agon | Queen Guard | Royal Guard](https://boardgamegeek.com/boardgame/5168/queens-guard)
 
 > Queen's Guard, also known as Agon, is a strategic board game played on a hexagonal board consisting of 91 smaller hexagons, with a central hexagon known as the throne. The board features alternating colors of hexagons in rings, radiating from the throne. Each player has one queen piece and six guard pieces, which start in alternating positions along the outer ring of the board. Players take turns moving their pieces towards the center of the board, either forward or laterally. A player's piece can be captured by an opponent if it is surrounded on two sides in a straight line, and the captured piece must then be relocated to the outer ring. To win the game, a player must successfully maneuver their queen onto the throne while also surrounding it with all six of their guard pieces. Queen's Guard is a strategic game that requires careful planning and tactical thinking to achieve victory.
