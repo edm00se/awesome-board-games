@@ -891,6 +891,19 @@
 | ------: | -------: | ------: |
 |   1 - 4 |      14+ | 90-150m |
 
+### [Clans of Caledonia](https://boardgamegeek.com/boardgame/216132/clans-caledonia)
+
+> Clans of Caledonia is a mid-to-heavy economic game set in 19th-century Scotland. At this time, Scotland made the transition from an agricultural to an industrialized country that heavily relied on trade and export. In the following years, food production increased significantly to feed the population growth. Linen was increasingly substituted by the cheaper cotton and raising sheep was given high importance. More and more distilleries were founded and whisky became the premium alcoholic beverage in Europe.
+> Players represent historic clans with unique abilities and compete to produce, trade and export agricultural goods and of course whisky!
+> The game ends after five rounds. Each round consists of the three phases:
+
+![Clans of Caledonia game image](https://cf.geekdo-images.com/SPuwc6RJ6y4PnTH36Pegsg__itemrep/img/xxhvhwGExrMMiLD9lcsUvQoKxU8=/fit-in/246x300/filters:strip_icc()/pic3511783.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–4 |        12 | 30–120 Min |
+
+
 ### [Rising Sun](https://boardgamegeek.com/boardgame/205896/rising-sun)
 
 > Rising Sun is a board game for 3 to 5 players set in legendary feudal Japan. As the Kami descend from the heavens to reshape the land in their image, it is up to each player to lead their clan to victory. Use politics to further your cause, negotiate to seek the most profitable alliances, worship the Kami to gain their favor, recruit monsters out of legend to bolster your forces, and use your resources wisely to be victorious in battle.
