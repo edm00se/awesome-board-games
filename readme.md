@@ -1765,6 +1765,20 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |   2 - 6 |        14 | around 45m |
 
 
+
+
+### [Lisboa](https://boardgamegeek.com/boardgame/161533/lisboa)
+
+> Lisboa is a game about the reconstruction of Lisboa after the great earthquake of 1755.
+> On November 1, 1755, Lisbon suffered an earthquake of an estimated magnitude of 8.5–9.0, followed by a tsunami and three days of fires. The city was almost totally destroyed. The Marques of Pombal — Sebastião José de Carvalho e Melo — was the then Minister of Foreign Affairs and the King put him in charge of the reconstruction of Lisbon. The Marques of Pombal gathered a team of engineers and architects and you, the players, are members of the nobility; members who will use your influence in the reconstruction and business development of the new city. You will work with the architects to build Lisbon anew, with the Marquis to develop commerce and with the King to open all the buildings, but the true reason you do all this is not for greatness or fame or even fortune, but for the most important thing of all in that time: wigs.
+
+![Lisboa game image](https://cf.geekdo-images.com/OrHS8_a1CqSGiXeTfCk0Wg__itemrep/img/3OmJPCYr0wEQQD5dIgW9YxY5hxQ=/fit-in/246x300/filters:strip_icc()/pic3209553.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–4 |        12 | 60–120 Min |
+
+
 ### [Decrypto](https://boardgamegeek.com/boardgame/225694/decrypto)
 
 > In Decypto, two teams composed of 2 to 4 players compete. Your goal is to transmit codes to your teammates without letting the opposing team intercept them. Therefore, your communication should be clear enough for your team to understand, but vague enough to confound your opponents. You are also attempting to intercept your opponents' codes.
