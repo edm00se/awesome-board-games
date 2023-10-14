@@ -1644,6 +1644,17 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |--------:|---------:|-------:|
 |  3 - 10 |       10 | 20-30m |
 
+### [Monikers](https://boardgamegeek.com/boardgame/156546/monikers)
+
+> Monikers is a party game based on the public domain game Celebrities, where players take turns attempting to get their teammates to guess names by describing or imitating well-known people. In the first round, clue givers can say anything they want, except for the name itself. For the second round, clue givers can only say one word. And in the final round, clue givers can’t say anything at all: they can only use gestures and charades.
+
+![Monikers image](https://cf.geekdo-images.com/4ipWVnxUSwnSVywPTitgvQ__itemrep/img/4fS9QlOZN7CuMDu8x73YzqZstSU=/fit-in/246x300/filters:strip_icc()/pic6346032.png)
+
+| Players | Min. Age | Time   |
+|--------:|---------:|-------:|
+|  4 - 16 |       17 | 30-60m |
+
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
