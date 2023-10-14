@@ -6,6 +6,7 @@ Guidelines:
 
 - This project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
 - A pull request should have a useful title. Pull requests with `Update readme.md` as the title are **strongly frowned upon**. Please carefully read everything in this file and stick to the [formatting guide][formatting-guide].
+- Keep to a single game addition per Pull Request.
 - If you need help getting started, how to add to the list, create a commit, or update a pull request, check out the [help guide][help-guide].
 
 ## Adding to This List
