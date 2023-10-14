@@ -76,6 +76,18 @@
 | ------: | -------: | -----: |
 |   1 - 4 |      12 | 30-120 |
 
+### [Istanbul](https://boardgamegeek.com/boardgame/148949/istanbul)
+
+> There's hustle and bustle at Istanbul's grand bazaar as merchants and their assistants rush through the narrow alleys in their attempt to be more successful than their competitors. Everything must be well organized: wheelbarrows must be filled with goods at the warehouses, then swiftly transported by the assistants to various destinations. Your goal? Be the first merchant to collect a certain number of rubies.
+> 
+> In Istanbul, you lead a group of one merchant and four assistants through 16 locations in the bazaar. At each such location, you can carry out a specific action. The challenge, though, is that to take an action, you must move your merchant and an assistant there, then leave the assistant behind (to handle all the details while you focus on larger matters). If you want to use that assistant again later, your merchant must return to that location to pick him up. Thus, you must plan ahead carefully to avoid being left with no assistants and thus unable to do anything...
+
+![Istanbul game image](https://cf.geekdo-images.com/PHH9Mreen2sBcxV6ZsE3ew__itemrep/img/3-96MTKIPtgjJ8inH9DWDxCf0no=/fit-in/246x300/filters:strip_icc()/pic1885326.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 – 5 |        10 | 40–60m |
+
 ### [Ticket to Ride](https://wikipedia.org/wiki/Ticket_to_Ride_(board_game))
 
 > ...a cross-country train adventure where players collect cards of various types of train cars that enable them to claim railway routes connecting cities in various countries around the world.
