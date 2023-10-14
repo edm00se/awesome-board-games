@@ -821,6 +821,19 @@
 | ------: | -------: | ---: |
 |   2 - 5 |       12 | 180m |
 
+### [Beyond the Sun](https://boardgamegeek.com/boardgame/317985/beyond-sun)
+
+> Beyond the Sun is a space civilization game in which players collectively decide the technological progress of humankind at the dawn of the Spacefaring Era, while competing against each other to be the leading faction in economic development, science, and galactic influence.
+> The game is played over a variable number of rounds until a number of game-end achievements are collectively claimed by the players. The winner is the faction with the most victory points, which are obtained by researching technologies, improving their economy, controlling and colonizing systems, and completing various achievements and events throughout the game.
+> On a turn, a player moves their action pawn to an empty action space, then takes that action. They then conduct their production phase, either producing ore, growing their population, or trading one of those resources for another. Finally, they can claim up to one achievement, if possible.
+
+![Beyond the Sun game image](https://cf.geekdo-images.com/BfEHqHQAvZLbRX7y7e9TWg__itemrep/img/kSw_dxGnXuq6trYpz7ob53-u2uU=/fit-in/246x300/filters:strip_icc()/pic5617866.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2–4 |        14+ | 60–120 Min |
+
+
 ### [Blokus](https://en.wikipedia.org/wiki/Blokus)
 
 > Game with Tetris-like, colored pieces made from little squares that players are trying to play onto the board. Each new piece must be placed so that it touches at least one piece of the same color but only corner-to-corner contact is allowed — edges of the same color pieces cannot touch. Game ends when nobody can place any more pieces. Player with least sum of squares from not placed peaces wins the game.
