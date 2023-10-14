@@ -1012,6 +1012,21 @@
 | ------: | -------: | ------: |
 |   2     |       9  |     30m |
 
+### [Fields of Arle](https://boardgamegeek.com/boardgame/159675/fields-arle)
+
+> Welcome to Arle
+> In Fields of Arle, created by Uwe Rosenberg, one to two players live as farmers in the small and peaceful town of Arle in East Frisia. The flax grown in the land surrounding the village makes it a profitable place to work and live. Fields of Arle takes players through four and a half years of this era of prosperity, with different opportunities available as the seasons change. Farm the land to capitalize on the demand for flax, or find other ways to make the most of the small town’s prosperity.
+> Work the Land
+> Whether you delve into flax farming or leverage other areas of expertise, always make sure that you have the land to build up your village. Construct dikes to keep the waters at bay and expand your fields. Dry out bogs to harvest peat and then clear the land for cultivation. Create more fields for your livestock, buildings, or future crops; after that, you can decide whether to house animals or cultivate a forest for timber. Perhaps you’d like to take up some flax farming for yourself, or diversify and try out a little bit of everything.
+
+![Fields of Arle game image](https://cf.geekdo-images.com/0w8go6cfvlpgJKydHUkDtA__itemrep/img/d8By7I7jEh7VAduRxBrISS2qfnA=/fit-in/246x300/filters:strip_icc()/pic2225968.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–2 |        13+ | 60–120 Min |
+
+
+
 ### [Field of Fire](https://boardgamegeek.com/boardgame/22877/fields-fire)
 
 > Fields of Fire is a solitaire tactical wargame published by GMT Games, designed to simulate historical campaigns from World War II to the present day. The game revolves around a card-based system, employing two decks—the terrain deck and action decks. Players are tasked with constructing maps for various missions within a historical campaign, employing turn-based strategic actions to achieve their objectives. A single game comprises several missions, each lasting approximately 3 to 5 hours. Fields of Fire has received recognition for its excellence, including Games Magazine's award for Best New Historical Simulation Game in their 2010 Games 100 issue. It offers a deep and immersive strategic experience for players interested in historical warfare simulations.
