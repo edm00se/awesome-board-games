@@ -460,7 +460,7 @@
 
 > Shogi, also known as Game of Generals, is a Japanese board game similar to chess, played on a 9x9 grid with 20 pieces per player. The objective is to checkmate the opponent's king, but pieces can be promoted upon reaching the enemy's promotion zone. Shogi offers a dynamic and strategic gameplay experience with unique piece movements and captures. It is much more complex than international chess. 
 
-![Shogi image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Shogi_Ban_Koma.jpg/495px-Shogi_Ban_Koma.jpg)
+![Shogi image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Shogi_Ban_Koma.jpg/250px-Shogi_Ban_Koma.jpg)
 
 | Players | Min. Age |  Time   |
 | ------: | -------: | -----:  |
