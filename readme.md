@@ -1644,6 +1644,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |--------:|---------:|-------:|
 |  3 - 10 |       10 | 20-30m |
 
+### [Kragmortha](https://boardgamegeek.com/boardgame/26859/kragmortha)
+
+> Oh clever goblins, will you be able to avoid the wrath of the Dark Lord (Rigor Mortis, the Master of all Evils) while he wanders in his study? Terrible spells will be cast upon those who are hit by the glances of the Dark Lord! Kragmortha is a party game for 2-8 players that will be afflicted by exhilarating penances. No one will resist its humor! BEWARE! This game produces physical penances and is nocive (definition of nocive is : Hurtful or injurious) to the health! Kragmortha shares artwork with Aye, Dark Overlord! The Red Box
+ 
+![Kragmortha image](https://cf.geekdo-images.com/wTGi8HXbSeproPHaFizchw__itemrep/img/3wKW83dlMsWHc7CqIxMrxd66JsY=/fit-in/246x300/filters:strip_icc()/pic1703109.jpg)
+
+| Players | Min. Age | Time   |
+|--------:|---------:|-------:|
+|  2 - 8  |       8  | 30-45m |
+
 ### [Animocrazy](https://boardgamegeek.com/boardgame/542/animocrazy)
 
 > How can the Jolly Pets resist the big bag of candies right in front of them? Everything goes well at the beginning when they calmly agree on the same amount of candies for each of them, but soon they come up with more and more ideas and a debate starts… the Pig says,“Those who weigh over 10kg should get an extra candy!”... the Dog says, “Whoever oversleeps should return a candy to the pool!” To resolve their hectic argument, they finally decide to form the House of Pets, at which the animal councilors will discuss proposals and vote on new laws. Who can get the most delicious candies in this exciting voting game? Based on Karl-Heinz Schmiel's Das Regeln Wir Schon, players attempt to pass laws which benefit themselves. The laws are either immediate or semi-permanent, and they can have all kinds of different effects: all players with beards get five points, vote cards must be played with the left hand, or some sort of re-evaluation or redistribution of the chips that each player has. The chips are the main way that players score, but their worth fluctuates constantly. On a turn, a player draws a card and then proposes a vote, and this continues until the End card is drawn.
