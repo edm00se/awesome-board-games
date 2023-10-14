@@ -1662,7 +1662,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
-|       2 |        4 |  60m |
+|       2 |        6 |  60m |
 
 ### [Kragmortha](https://boardgamegeek.com/boardgame/26859/kragmortha)
 
