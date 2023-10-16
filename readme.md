@@ -961,6 +961,18 @@
 | ------: | -------: | -----: |
 |   2 - 4 |       13 | 30-45m |
 
+### [Obsession](https://boardgamegeek.com/boardgame/231733/obsession)
+
+> You are the head of a respected but troubled family estate in mid-19th century Victorian England. After several lean decades, family fortunes are looking up! Your goal is to improve your estate so as to be in better standing with the truly influential families in Derbyshire.
+> Obsession is a game of 16 to 20 turns in which players build a deck of Victorian gentry (British social upper class), renovate their estate by acquiring building tiles from a centralized builders' market, and manipulate an extensive service staff of butlers, housekeepers, underbutlers, maids, valets, and footmen utilizing a novel worker placement mechanic. Successfully hosting prestigious social activities such as Fox Hunts, Music Recitals, Billiards, Political Debates, and Grand Balls increases a player's wealth, reputation, and connections among the elite.
+
+![Obsession game image](https://cf.geekdo-images.com/sy89BiuZXfbSnG7Cag9tBQ__itemrep/img/_1IdpMxkMKCR0bx-7E8mbh3nqzM=/fit-in/246x300/filters:strip_icc()/pic5902073.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–4 |        14+ | 30–90 Min |
+
+
 ### [Heroscape](https://cf.geekdo-images.com/itemrep/img/QxW14xwSXjhYU8h_KlvG09nbBd0=/fit-in/246x300/filters:strip_icc()/pic244662.jpg)
 
 > Join the battle of all time! Draft your army from troops of all different eras, species, and battle styles then fight on a battlefield created by you and your friends. Work together to accomplish a scenario laid out in the included rules or duke it out amongst yourselves to see who's the greater battlefield commander.
