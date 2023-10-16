@@ -586,7 +586,7 @@
 | ------: | -------: | -----: |
 |   1 - 4 |        8 | 60-90m |
 
-### [The Book of Pop-Up Board Games (1996)](https://boardgamegeek.com/boardgame/22626/book-pop-board-games)
+### [The Book of Pop-Up Board Games](https://boardgamegeek.com/boardgame/22626/book-pop-board-games)
 
 > There are four pop-up board games in this book. The games are, Space Escape, Pirate Treasure, Mummy Chase, & Save the Princess. Each game has a storage pocket to store the stand-up people. There is also a fold out spinner, that you use to move.
 
