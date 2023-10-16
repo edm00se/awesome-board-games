@@ -586,6 +586,16 @@
 | ------: | -------: | -----: |
 |   1 - 4 |        8 | 60-90m |
 
+### [The Book of Pop-Up Board Games](https://boardgamegeek.com/boardgame/22626/book-pop-board-games)
+
+> There are four pop-up board games in this book. The games are, Space Escape, Pirate Treasure, Mummy Chase, & Save the Princess. Each game has a storage pocket to store the stand-up people. There is also a fold out spinner, that you use to move.
+
+![The Book of Pop-Up Board Games (1996)](https://github.com/kishanrajput23/awesome-board-games/assets/70385488/27a63c2f-e87d-4457-b944-f0f1b2ef8f53)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |        10 | 30m |
+
 ## Strategy
 
 ### [Blood Rage](https://boardgamegeek.com/boardgame/170216/blood-rage)
