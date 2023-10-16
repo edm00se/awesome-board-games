@@ -1192,6 +1192,18 @@
 | ------: | -------: | ------: |
 |   2 - 4 |       12 |  30-90m |
 
+### [Mechs vs. Minions](https://boardgamegeek.com/boardgame/209010/mechs-vs-minions)
+
+> Mechs vs. Minions is a cooperative tabletop campaign for 2-4 players. Set in the world of Runeterra, players take on the roles of four intrepid Yordles: Corki, Tristana, Heimerdinger, and Ziggs, who must join forces and pilot their newly-crafted mechs against an army of marauding minions. With modular boards, programmatic command lines, and a story-driven campaign, each mission will be unique, putting your teamwork, programming, and piloting skills to the test.
+> There are ten missions in total, and each individual mission will take about 60-90 minutes. The box includes five game boards, four command lines (one for each player), four painted mech miniatures, ability and damage decks, a sand timer, a bomb-like-power source miniature, 6 metal trackers, 4 acrylic shards, 4 dice, and 100 minion miniatures. There also appears to be some large object trying to get out of that sealed box...
+
+![Mechs vs. Minions game image](https://cf.geekdo-images.com/n4J5LebMj0DQD016qW7ABw__itemrep/img/httjWYSnwrB_d1pPomIftQATHMc=/fit-in/246x300/filters:strip_icc()/pic3184103.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2–4 |        14+ | 60–120 Min |
+
+
 ### [Brass: Lancashire](https://boardgamegeek.com/boardgame/28720/brass-lancashire)
 
 > Brass: Lancashire, formerly known as Brass, is an engaging economic strategy game that immerses players in the competitive world of cotton entrepreneurs during the industrial revolution in Lancashire. The objective is to develop, construct, and expand your industrial network to meet the high demand for iron, coal, and cotton. The game unfolds in two phases, the canal phase, and the rail phase, with victory points (VPs) being the ultimate goal. Players take turns, with each round offering two actions to choose from a set list, which includes building industries, constructing canals or rails, developing industries, selling cotton, or taking a loan. The turn order depends on the amount of money spent, creating strategic opportunities for those who go later in the order. After the canal phase, a scoring round occurs, followed by the rail phase with expanded building possibilities. After another scoring round, the game concludes, and the winner is determined. The game's unique card system dictates where industries can be built while allowing flexible use for other actions, encouraging strategic card management. Resources are shared, adding depth to competition, as players often rely on each other's production. This 2018 edition by Roxley Games features new artwork and rules enhancements, making it a captivating and improved experience for players aiming to build the most prosperous industrial empire in Lancashire.
