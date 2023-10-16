@@ -858,6 +858,18 @@
 | ------: | -------: | -----: |
 |   4 - 8 |        7 | 30-90m |
 
+### [Tzolk'in: The Mayan Calendar](https://boardgamegeek.com/boardgame/126163/tzolk-mayan-calendar)
+
+> Tzolkin: The Mayan Calendar presents a new game mechanism: dynamic worker placement. Players representing different Mayan tribes place their workers on giant connected gears, and as the gears rotate they take the workers to different action spots.
+> During a turn, players can either (a) place one or more workers on the lowest visible spot of the gears or (b) pick up one or more workers. When placing workers, they must pay corn, which is used as a currency in the game. When they pick up a worker, they perform certain actions depending on the position of the worker. Actions located "later" on the gears are more valuable, so it's wise to let the time work for you – but players cannot skip their turn; if they have all their workers on the gears, they have to pick some up. 
+
+![Tzolk'in: The Mayan Calendar game image](https://cf.geekdo-images.com/kXf7mDyDYuHg6oe8yTUIEA__itemrep/img/8M-vck69HAdoJdStBZ8q91-7hRs=/fit-in/246x300/filters:strip_icc()/pic4604439.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2–4 |        13 | 90 Min |
+
+
 ### [Cluedo](https://en.wikipedia.org/wiki/Cluedo)
 
 > Cluedo is a murder mystery game for three to six players. Each player is a suspect in the murder and needs to prove his innocence by deducing who the actual murderer is, where the crime took place and which weapon was used. The players do this by strategically moving around the different rooms in the mansion and collecting various clues from the other players.
