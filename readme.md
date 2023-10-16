@@ -1285,6 +1285,19 @@
 | ------: | -------: | ------: |
 |   2 - 4 |       14 | 60-120m |
 
+
+
+### [Le Havre](https://boardgamegeek.com/boardgame/35677/le-havre)
+
+> In Le Havre, a player's turn consists of two parts: First, distribute newly supplied goods onto the offer spaces; then take an action. As an action, players may choose either to take all goods of one type from an offer space or to use one of the available buildings. Building actions allow players to upgrade goods, sell them or use them to build their own buildings and ships. Buildings are both an investment opportunity and a revenue stream, as players must pay an entry fee to use buildings that they do not own. Ships, on the other hand, are primarily used to provide the food that is needed to feed the workers.
+> After every seven turns, the round ends: players' cattle and grain may multiply through a Harvest, and players must feed their workers. After a fixed number of rounds, each player may carry out one final action, and then the game ends. Players add the value of their buildings and ships to their cash reserves. The player who has amassed the largest fortune is the winner.
+
+![Le Havre game image](https://cf.geekdo-images.com/y7Rqd3S6J7vyVhicR1bqTQ__itemrep/img/4Ks1jgI4QIqGjDjsOPIk9fJuLIE=/fit-in/246x300/filters:strip_icc()/pic6091101.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–5 |        12+ | 30–150 Min |
+
 ### [Power Grid](https://en.wikipedia.org/wiki/Power_Grid)
 
 > Is an economic and resource management board game that simulates the energy industry. Players take on the role of power company executives, competing to expand their power networks, purchase resources, and supply electricity to cities. The game is noted for its auctions, as players bid for power plants and resources, making strategic decisions about when and where to expand their networks. Success in Power Grid requires careful financial planning and a keen understanding of market dynamics.
