@@ -1066,6 +1066,20 @@
 | ------: | -------: | -----: |
 |   2 - 7 |     10+  | 30-60m |
 
+
+### [The Crew: The Quest for Planet Nine](https://boardgamegeek.com/boardgame/284083/crew-quest-planet-nine)
+
+> In the co-operative trick-taking game The Crew: The Quest for Planet Nine, the players set out as astronauts on an uncertain space adventure. What are the rumors regarding the unknown planet about? The eventful journey through space extends over 50 exciting missions. But this game can only be defeated by meeting common individual tasks of each player. In order to meet the varied challenges communication is essential in the team. But this is more difficult than expected in space.
+> With each mission the game becomes more difficult. After each mission the game can be paused and continued later. During each mission it is not the number of tricks but the right tricks at the right time that count.
+> The team completes a mission only if every single player is successful in fulfilling their tasks.
+
+![The Crew: The Quest for Planet Nine game image](https://cf.geekdo-images.com/98LnQShydr11OBKS46xY-Q__itemrep/img/etVRTXdF6IDsnGKQe77FRFP4H7M=/fit-in/246x300/filters:strip_icc()/pic5687013.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2–5 |        10+ | 20 Min |
+
+
 ### [Leaving Earth](https://boardgamegeek.com/boardgame/173064/leaving-earth)
 
 > The year is 1956. Mankind stands at the dawn of a new age, the Space Age, when the flying bombs of yesteryear will become the rocket ships of tomorrow. As the director of a national space program, your country is depending on you for success in this great contest. You may be the first to create an artificial satellite, send a probe to another planet, or even put a man on the moon.
