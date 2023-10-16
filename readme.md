@@ -1308,6 +1308,17 @@
 | ------: | -------: | ------: |
 |   2 - 6 |       12 |    120m |
 
+### [Grand Austria Hotel](https://boardgamegeek.com/boardgame/182874/grand-austria-hotel)
+
+> In the thick of the Viennese modern age, exquisite cafés are competing for customers. Inspiring artists, important politicians, and tourists from all over the world are populating Vienna and in need of a hotel room. This is your opportunity to turn your little café into a world famous hotel. Hire staff, fulfill the wishes of your guests, and gain the emperor's favor. Only then will your café become the Grand Austria Hotel.
+> The start player rolls the dice, sorting them by the rolled number and placing them on the corresponding action spaces. On a turn, a player chooses one of the six actions and carries it out. The number of the available dice in the corresponding action spaces determines how much the player gets from the action. They then remove one of the dice and can carry out additional actions. With the different actions, a player can get the necessary drinks and dishes, prepare the rooms, or hire staff.
+
+![Grand Austria Hotel game image](https://cf.geekdo-images.com/GlCmHjdLwv3SqSjv52ToGw__itemrep/img/Meb89u4vSn3xNl_2wJTF2TYXhr8=/fit-in/246x300/filters:strip_icc()/pic6966955.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2–4 |        12+ | 60–120 Min |
+
 ### [Blue and Gray](https://boardgamegeek.com/boardgame/19254/blue-and-gray)
 
 > In Blue and Gray, each player begins with 17 guards and one captain set up on the line intersections of a 9 × 9 grid board. The object of the game is to advance the captain to the center of the board following an outlined path of 17 steps. However, the captain can only advance if the next step along the path is unoccupied by friendly or opposing guards. Guards can move along lines in any direction (except over the central point) and can capture each other by jumping, as in checkers.
