@@ -953,6 +953,20 @@
 | ------: | -------: | -----: |
 |   2 - 4 |       12 | 60-90m |
 
+
+### [Concordia Venus](https://boardgamegeek.com/boardgame/256916/concordia-venus)
+
+> Concordia Venus is a standalone reimplementation of Concordia with some added features.
+> Concordia Venus is a peaceful strategy game of economic development in Roman times for 2-6 players aged 13 and up. Instead of looking to the luck of dice or cards, players must rely on their strategic abilities. Be sure to watch your rivals to determine which goals they are pursuing and where you can outpace them! In the game, colonists are sent out from Rome to settle down in cities that produce bricks, food, tools, wine, and cloth. Each player starts with an identical set of playing cards and acquires more cards during the game. These cards serve two purposes:
+> They allow a player to choose actions during the game.
+> They are worth victory points (VPs) at the end of the game.
+
+![Concordia Venus game image](https://cf.geekdo-images.com/36WIe0ZHkp5OvHOlB-8vog__itemrep/img/_lJIROiyeLhIZi7z9XO3Wt9w7wA=/fit-in/246x300/filters:strip_icc()/pic4356580.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2–6 |        12+ | 60–120 Min |
+
 ### [Mastermind](https://boardgamegeek.com/boardgame/2392/mastermind)
 
 > Guess the color of hidden pegs. A deduction game where each player takes turn making a limited number of guesses, using logic to deduce what pegs the opponent has hidden.
