@@ -2202,6 +2202,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 4 |        6 | 30-35m |
 
+### [Ashtapada](https://en.wikipedia.org/wiki/Ashtapada)
+
+> Ashtapada is an ancient Indian board game which predates chess and was mentioned on a list of games that Gautama Buddha would not play. The word Ashtapada is a term describing the 8x8 board that the game is played on. Similar to a chess board the board is divided into 8x8 grid of squares, although they are all of the same color. Contrary to chess this board has special markings known as castles, where pieces are safe from being captured or removed from play. Each player receives an even number of pieces to play the game. the goal is to move a pirce around the board clockwise, entering the castle, and to regain his castle back in a counterclockwise direction so as to make it reach the center.
+
+![Ashtapada](https://cf.geekdo-images.com/kg1eP5Vdj6LoFqQ2E2Kxew__imagepage/img/y1zK8q-R5QBZwZ-KRLB2mpCVu2Q=/fit-in/900x600/filters:no_upscale():strip_icc()/pic55539.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|       2 |        6 | 30-35m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
