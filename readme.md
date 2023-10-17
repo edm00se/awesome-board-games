@@ -1926,6 +1926,21 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 5 |        8 | 40-80m |
 
+### [Dominant Species](https://boardgamegeek.com/boardgame/62219/dominant-species)
+
+> 90,000 B.C. — A great ice age is fast approaching. Another titanic struggle for global supremacy has unwittingly commenced between the varying animal species.
+> Dominant Species is a game that abstractly recreates a tiny portion of ancient history: the ponderous encroachment of an ice age and what that entails for the living creatures trying to adapt to the slowly-changing earth.
+> Each player will assume the role of one of six major animal classes—mammal, reptile, bird, amphibian, arachnid, or insect. Each begins the game more or less in a state of natural balance in relation to one another. But that won’t last: It is indeed "survival of the fittest".
+> Through wily action pawn placement, players will strive to become dominant on as many different terrain tiles as possible in order to claim powerful card effects. Players will also want to propagate their individual species in order to earn victory points for their particular animal. Players will be aided in these endeavors via speciation, migration, and adaptation actions, among others.
+> All of this eventually leads to the end game—the final ascent of the ice age—where the player having accumulated the most victory points will have his animal crowned the Dominant Species.
+> But somebody better become dominant quickly, because it’s getting mighty cold...
+
+![Dominant Species game image](https://cf.geekdo-images.com/oeygRZntjNUJWvc8SxDfww__itemrep/img/x4ww31_ekLbL-wQBhxyFZ3qEYtw=/fit-in/246x300/filters:strip_icc()/pic784193.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2–6 |        14+ | 120–240 Min |
+
 ### [Noir](https://boardgamegeek.com/boardgame/242483/noir)
 
 > Noir is a "denouement" game that lasts only a few minutes per round. The "denouement mechanic" is a special type of storytelling game, where the key elements of the stories events are determined by the game, then the players must weave them together in the most inventive of ways.
