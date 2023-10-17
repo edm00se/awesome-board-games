@@ -2202,6 +2202,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 4 |        6 | 30-35m |
 
+### [Here I Stand](https://boardgamegeek.com/boardgame/17392/here-i-stand)
+
+> Here I Stand is the first card-driven game to prominently feature secret deal-making. A true six-sided diplomatic struggle, the game places a heavy emphasis on successful alliance-building through negotiations that occur away from the table during the pre-turn Diplomacy Phase. Set during the period in which Niccolò Machiavelli published his masterpiece "The Prince," backstabbing is always possible, especially because the card deck is loaded with event and response cards that can be played by any power to disrupt the plans of the powers in the lead.Here I Stand integrates religion, politics, economics, and diplomacy in a card-driven design. Games vary in length from 3–4 hours for a tournament scenario up to full campaign games that run about twice the time. Rules to play games with 3, 4, or 5 players are also included. The 3-player game is just as well balanced as the standard 6-player configuration, taking advantage of the natural alliances of the period.
+
+![Here I Stand](https://cf.geekdo-images.com/SaJz1vt6j4njvkhDaplSHA__itemrep/img/28KXJz7JsY47i1eKS6TRY_elzYg=/fit-in/246x300/filters:strip_icc()/pic353047.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 6 |       12 |90-360m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
