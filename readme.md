@@ -2216,7 +2216,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 > This game is like Clue but for younger kids – and yet still fun for adults too. A fox stole a pot pie, and you have to figure out which fox it was before they escape into the foxhole. My kids regularly play this cooperative whodunnit game independently, and I love watching them work together as a team to solve the mystery. This is a fun little game to build your child’s logic and deductive reasoning skills!
 
-![Outfoxed](https://happyyouhappyfamily.com/wp-content/uploads/2017/03/outfoxed-1-crop-250px.webp)
+![Outfoxed](https://upload.wikimedia.org/wikipedia/commons/f/f6/Outfoxed.webp)
 
 | Players | Min. Age | Time   |
 |-------: | -------: | ------:|
