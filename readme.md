@@ -2209,7 +2209,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 > Rescue witches to build your Coven: Heal, enthrall or convince the townsfolk and amass enough support to sway the periodic Witch Trials in your favor. If the hostile witnesses are outvoted, the convicted witch is absolved and joins the coven that rescued them. You start small but you can grow your coven to up to four witches this way, each with their own personality and special ability to help your cause. Reckless Witches caught by Witch Hunters are also put to trial, so with enough support from the townsfolk, even witches from other, less careful players’ coven can end up in yours.
 > Accessible, intuitive and familiar: Septima is Mindclash Games’ most accessible title to date, with beautiful, hand-drawn art style by Villő Farkas and with the character art of Barbara Bernát, wooden components and intuitive, theme-inspired mechanisms. It is very quick to teach and set up, and takes less than 2 hours to play, even with four players.
 
-![Septima](https://cf.geekdo-images.com/TEx3V_COEF6Vik8y3Ax3hA__imagepage/img/Q38pH3-pcW092Q5CvOKhW-6VRcM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6810993.jpg)
+![Septima](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRKbAxjXO8m6IA7ifrI5o_Q7mP24Lh2lxrYg&usqp=CAU)
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
