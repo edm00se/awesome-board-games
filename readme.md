@@ -586,6 +586,16 @@
 | ------: | -------: | -----: |
 |   1 - 4 |        8 | 60-90m |
 
+### [The Book of Pop-Up Board Games](https://boardgamegeek.com/boardgame/22626/book-pop-board-games)
+
+> There are four pop-up board games in this book. The games are, Space Escape, Pirate Treasure, Mummy Chase, & Save the Princess. Each game has a storage pocket to store the stand-up people. There is also a fold out spinner, that you use to move.
+
+![The Book of Pop-Up Board Games (1996)](https://github.com/kishanrajput23/awesome-board-games/assets/70385488/27a63c2f-e87d-4457-b944-f0f1b2ef8f53)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |        10 | 30m |
+
 ## Strategy
 
 ### [Blood Rage](https://boardgamegeek.com/boardgame/170216/blood-rage)
@@ -654,6 +664,19 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |       2 |       10 |  30m |
+
+### [The Gallerist](https://boardgamegeek.com/boardgame/125153/gallerist)
+
+> This age of art and capitalism has created a need for a new occupation - The Gallerist.
+> Combining the elements of an Art dealer, museum curator, and Artists’ manager, you are about to take on that job! You will promote and nurture Artists; buy, display, and sell their Art; and build and exert your international reputation. As a result, you will achieve the respect needed to draw visitors to your Gallery from all over the world.
+> There's a lot of work to be done, but don't worry, you can hire assistants to help you achieve your goals. Build your fortune by running the most lucrative Gallery and secure your reputation as a world-class Gallerist!
+> Maximize your money and thus win the game by:
+
+![The Gallerist game image](https://cf.geekdo-images.com/ie1GSt1XV04sXQXt-3O1UQ__itemrep/img/HBQJFsyK0mDMgd_DKxD4Xmhi4UA=/fit-in/246x300/filters:strip_icc()/pic2503200.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–4 |        13 | 60–150 Min |
 
 ### [Barrage](https://boardgamegeek.com/boardgame/251247/barrage)
 
@@ -855,6 +878,18 @@
 | ------: | -------: | -----: |
 |   4 - 8 |        7 | 30-90m |
 
+### [Tzolk'in: The Mayan Calendar](https://boardgamegeek.com/boardgame/126163/tzolk-mayan-calendar)
+
+> Tzolkin: The Mayan Calendar presents a new game mechanism: dynamic worker placement. Players representing different Mayan tribes place their workers on giant connected gears, and as the gears rotate they take the workers to different action spots.
+> During a turn, players can either (a) place one or more workers on the lowest visible spot of the gears or (b) pick up one or more workers. When placing workers, they must pay corn, which is used as a currency in the game. When they pick up a worker, they perform certain actions depending on the position of the worker. Actions located "later" on the gears are more valuable, so it's wise to let the time work for you – but players cannot skip their turn; if they have all their workers on the gears, they have to pick some up. 
+
+![Tzolk'in: The Mayan Calendar game image](https://cf.geekdo-images.com/kXf7mDyDYuHg6oe8yTUIEA__itemrep/img/8M-vck69HAdoJdStBZ8q91-7hRs=/fit-in/246x300/filters:strip_icc()/pic4604439.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2–4 |        13 | 90 Min |
+
+
 ### [Cluedo](https://en.wikipedia.org/wiki/Cluedo)
 
 > Cluedo is a murder mystery game for three to six players. Each player is a suspect in the murder and needs to prove his innocence by deducing who the actual murderer is, where the crime took place and which weapon was used. The players do this by strategically moving around the different rooms in the mansion and collecting various clues from the other players.
@@ -905,6 +940,18 @@
 | ------: | -------: | -------: |
 |    2-10 |       10 |  40-180m |
 
+
+### [Paladins of the West Kingdom](https://boardgamegeek.com/boardgame/266810/paladins-west-kingdom)
+
+> Paladins of the West Kingdom is set at a turbulent time of West Francia's story, circa 900 AD. Despite recent efforts to develop the city, outlying townships are still under threat from outsiders. Saracens scout the borders, while Vikings plunder wealth and livestock. Even the Byzantines from the east have shown their darker side. As noble men and women, players must gather workers from the city to defend against enemies, build fortifications and spread faith throughout the land. Fortunately you are not alone. In his great wisdom, the King has sent his finest knights to help aid in our efforts. So ready the horses and sharpen the swords. The Paladins are approaching.
+> The aim of Paladins of the West Kingdom is to be the player with the most victory points (VP) at game's end. Points are gained by building outposts and fortifications, commissioning monks and confronting outsiders. Each round, players will enlist the help of a specific Paladin and gather workers to carry out tasks. As the game progresses, players will slowly increase their faith, strength and influence. Not only will these affect their final score, but they will also determine the significance of their actions. The game is concluded at the end of the seventh round.
+
+![Paladins of the West Kingdom game image](https://cf.geekdo-images.com/4nhokcLdYoo6ulbZ1rmGgA__itemrep/img/2YT-EqfAb6vwxDSrFQMSm-luQAs=/fit-in/246x300/filters:strip_icc()/pic4462987.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–4 |        12 | 90–120 Min |
+
 ### [Shadow Hunters](https://en.wikipedia.org/wiki/Shadow_Hunters)
 
 > Shadow Hunters is a survival board game set in a devil-filled forest in which three groups of characters—the Shadows, creatures of the night; the Hunters, humans who try to destroy supernatural creatures; and the Neutrals, civilians caught in the middle of this ancient battle—struggle against each other to survive.
@@ -926,6 +973,20 @@
 | ------: | -------: | -----: |
 |   2 - 4 |       12 | 60-90m |
 
+
+### [Concordia Venus](https://boardgamegeek.com/boardgame/256916/concordia-venus)
+
+> Concordia Venus is a standalone reimplementation of Concordia with some added features.
+> Concordia Venus is a peaceful strategy game of economic development in Roman times for 2-6 players aged 13 and up. Instead of looking to the luck of dice or cards, players must rely on their strategic abilities. Be sure to watch your rivals to determine which goals they are pursuing and where you can outpace them! In the game, colonists are sent out from Rome to settle down in cities that produce bricks, food, tools, wine, and cloth. Each player starts with an identical set of playing cards and acquires more cards during the game. These cards serve two purposes:
+> They allow a player to choose actions during the game.
+> They are worth victory points (VPs) at the end of the game.
+
+![Concordia Venus game image](https://cf.geekdo-images.com/36WIe0ZHkp5OvHOlB-8vog__itemrep/img/_lJIROiyeLhIZi7z9XO3Wt9w7wA=/fit-in/246x300/filters:strip_icc()/pic4356580.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2–6 |        12+ | 60–120 Min |
+
 ### [Mastermind](https://boardgamegeek.com/boardgame/2392/mastermind)
 
 > Guess the color of hidden pegs. A deduction game where each player takes turn making a limited number of guesses, using logic to deduce what pegs the opponent has hidden.
@@ -945,6 +1006,18 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 4 |       13 | 30-45m |
+
+### [Obsession](https://boardgamegeek.com/boardgame/231733/obsession)
+
+> You are the head of a respected but troubled family estate in mid-19th century Victorian England. After several lean decades, family fortunes are looking up! Your goal is to improve your estate so as to be in better standing with the truly influential families in Derbyshire.
+> Obsession is a game of 16 to 20 turns in which players build a deck of Victorian gentry (British social upper class), renovate their estate by acquiring building tiles from a centralized builders' market, and manipulate an extensive service staff of butlers, housekeepers, underbutlers, maids, valets, and footmen utilizing a novel worker placement mechanic. Successfully hosting prestigious social activities such as Fox Hunts, Music Recitals, Billiards, Political Debates, and Grand Balls increases a player's wealth, reputation, and connections among the elite.
+
+![Obsession game image](https://cf.geekdo-images.com/sy89BiuZXfbSnG7Cag9tBQ__itemrep/img/_1IdpMxkMKCR0bx-7E8mbh3nqzM=/fit-in/246x300/filters:strip_icc()/pic5902073.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–4 |        14+ | 30–90 Min |
+
 
 ### [Heroscape](https://cf.geekdo-images.com/itemrep/img/QxW14xwSXjhYU8h_KlvG09nbBd0=/fit-in/246x300/filters:strip_icc()/pic244662.jpg)
 
@@ -975,6 +1048,19 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 5 |       12 | 180m |
+
+### [Beyond the Sun](https://boardgamegeek.com/boardgame/317985/beyond-sun)
+
+> Beyond the Sun is a space civilization game in which players collectively decide the technological progress of humankind at the dawn of the Spacefaring Era, while competing against each other to be the leading faction in economic development, science, and galactic influence.
+> The game is played over a variable number of rounds until a number of game-end achievements are collectively claimed by the players. The winner is the faction with the most victory points, which are obtained by researching technologies, improving their economy, controlling and colonizing systems, and completing various achievements and events throughout the game.
+> On a turn, a player moves their action pawn to an empty action space, then takes that action. They then conduct their production phase, either producing ore, growing their population, or trading one of those resources for another. Finally, they can claim up to one achievement, if possible.
+
+![Beyond the Sun game image](https://cf.geekdo-images.com/BfEHqHQAvZLbRX7y7e9TWg__itemrep/img/kSw_dxGnXuq6trYpz7ob53-u2uU=/fit-in/246x300/filters:strip_icc()/pic5617866.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2–4 |        14+ | 60–120 Min |
+
 
 ### [Blokus](https://en.wikipedia.org/wiki/Blokus)
 
@@ -1039,6 +1125,20 @@
 | ------: | -------: | -----: |
 |   2 - 7 |     10+  | 30-60m |
 
+
+### [The Crew: The Quest for Planet Nine](https://boardgamegeek.com/boardgame/284083/crew-quest-planet-nine)
+
+> In the co-operative trick-taking game The Crew: The Quest for Planet Nine, the players set out as astronauts on an uncertain space adventure. What are the rumors regarding the unknown planet about? The eventful journey through space extends over 50 exciting missions. But this game can only be defeated by meeting common individual tasks of each player. In order to meet the varied challenges communication is essential in the team. But this is more difficult than expected in space.
+> With each mission the game becomes more difficult. After each mission the game can be paused and continued later. During each mission it is not the number of tricks but the right tricks at the right time that count.
+> The team completes a mission only if every single player is successful in fulfilling their tasks.
+
+![The Crew: The Quest for Planet Nine game image](https://cf.geekdo-images.com/98LnQShydr11OBKS46xY-Q__itemrep/img/etVRTXdF6IDsnGKQe77FRFP4H7M=/fit-in/246x300/filters:strip_icc()/pic5687013.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2–5 |        10+ | 20 Min |
+
+
 ### [Leaving Earth](https://boardgamegeek.com/boardgame/173064/leaving-earth)
 
 > The year is 1956. Mankind stands at the dawn of a new age, the Space Age, when the flying bombs of yesteryear will become the rocket ships of tomorrow. As the director of a national space program, your country is depending on you for success in this great contest. You may be the first to create an artificial satellite, send a probe to another planet, or even put a man on the moon.
@@ -1058,6 +1158,19 @@
 | Players | Min. Age | Time    |
 | ------: | -------: | ------: |
 |   1 - 4 |      14+ | 90-150m |
+
+### [Clans of Caledonia](https://boardgamegeek.com/boardgame/216132/clans-caledonia)
+
+> Clans of Caledonia is a mid-to-heavy economic game set in 19th-century Scotland. At this time, Scotland made the transition from an agricultural to an industrialized country that heavily relied on trade and export. In the following years, food production increased significantly to feed the population growth. Linen was increasingly substituted by the cheaper cotton and raising sheep was given high importance. More and more distilleries were founded and whisky became the premium alcoholic beverage in Europe.
+> Players represent historic clans with unique abilities and compete to produce, trade and export agricultural goods and of course whisky!
+> The game ends after five rounds. Each round consists of the three phases:
+
+![Clans of Caledonia game image](https://cf.geekdo-images.com/SPuwc6RJ6y4PnTH36Pegsg__itemrep/img/xxhvhwGExrMMiLD9lcsUvQoKxU8=/fit-in/246x300/filters:strip_icc()/pic3511783.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–4 |        12 | 30–120 Min |
+
 
 ### [Rising Sun](https://boardgamegeek.com/boardgame/205896/rising-sun)
 
@@ -1164,6 +1277,18 @@
 | ------: | -------: | ------: |
 |   2 - 4 |       12 |  30-90m |
 
+### [Mechs vs. Minions](https://boardgamegeek.com/boardgame/209010/mechs-vs-minions)
+
+> Mechs vs. Minions is a cooperative tabletop campaign for 2-4 players. Set in the world of Runeterra, players take on the roles of four intrepid Yordles: Corki, Tristana, Heimerdinger, and Ziggs, who must join forces and pilot their newly-crafted mechs against an army of marauding minions. With modular boards, programmatic command lines, and a story-driven campaign, each mission will be unique, putting your teamwork, programming, and piloting skills to the test.
+> There are ten missions in total, and each individual mission will take about 60-90 minutes. The box includes five game boards, four command lines (one for each player), four painted mech miniatures, ability and damage decks, a sand timer, a bomb-like-power source miniature, 6 metal trackers, 4 acrylic shards, 4 dice, and 100 minion miniatures. There also appears to be some large object trying to get out of that sealed box...
+
+![Mechs vs. Minions game image](https://cf.geekdo-images.com/n4J5LebMj0DQD016qW7ABw__itemrep/img/httjWYSnwrB_d1pPomIftQATHMc=/fit-in/246x300/filters:strip_icc()/pic3184103.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2–4 |        14+ | 60–120 Min |
+
+
 ### [Brass: Lancashire](https://boardgamegeek.com/boardgame/28720/brass-lancashire)
 
 > Brass: Lancashire, formerly known as Brass, is an engaging economic strategy game that immerses players in the competitive world of cotton entrepreneurs during the industrial revolution in Lancashire. The objective is to develop, construct, and expand your industrial network to meet the high demand for iron, coal, and cotton. The game unfolds in two phases, the canal phase, and the rail phase, with victory points (VPs) being the ultimate goal. Players take turns, with each round offering two actions to choose from a set list, which includes building industries, constructing canals or rails, developing industries, selling cotton, or taking a loan. The turn order depends on the amount of money spent, creating strategic opportunities for those who go later in the order. After the canal phase, a scoring round occurs, followed by the rail phase with expanded building possibilities. After another scoring round, the game concludes, and the winner is determined. The game's unique card system dictates where industries can be built while allowing flexible use for other actions, encouraging strategic card management. Resources are shared, adding depth to competition, as players often rely on each other's production. This 2018 edition by Roxley Games features new artwork and rules enhancements, making it a captivating and improved experience for players aiming to build the most prosperous industrial empire in Lancashire.
@@ -1226,6 +1351,21 @@
 | ------: | -------: | ------: |
 |   2     |       9  |     30m |
 
+### [Fields of Arle](https://boardgamegeek.com/boardgame/159675/fields-arle)
+
+> Welcome to Arle
+> In Fields of Arle, created by Uwe Rosenberg, one to two players live as farmers in the small and peaceful town of Arle in East Frisia. The flax grown in the land surrounding the village makes it a profitable place to work and live. Fields of Arle takes players through four and a half years of this era of prosperity, with different opportunities available as the seasons change. Farm the land to capitalize on the demand for flax, or find other ways to make the most of the small town’s prosperity.
+> Work the Land
+> Whether you delve into flax farming or leverage other areas of expertise, always make sure that you have the land to build up your village. Construct dikes to keep the waters at bay and expand your fields. Dry out bogs to harvest peat and then clear the land for cultivation. Create more fields for your livestock, buildings, or future crops; after that, you can decide whether to house animals or cultivate a forest for timber. Perhaps you’d like to take up some flax farming for yourself, or diversify and try out a little bit of everything.
+
+![Fields of Arle game image](https://cf.geekdo-images.com/0w8go6cfvlpgJKydHUkDtA__itemrep/img/d8By7I7jEh7VAduRxBrISS2qfnA=/fit-in/246x300/filters:strip_icc()/pic2225968.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–2 |        13+ | 60–120 Min |
+
+
+
 ### [Field of Fire](https://boardgamegeek.com/boardgame/22877/fields-fire)
 
 > Fields of Fire is a solitaire tactical wargame published by GMT Games, designed to simulate historical campaigns from World War II to the present day. The game revolves around a card-based system, employing two decks—the terrain deck and action decks. Players are tasked with constructing maps for various missions within a historical campaign, employing turn-based strategic actions to achieve their objectives. A single game comprises several missions, each lasting approximately 3 to 5 hours. Fields of Fire has received recognition for its excellence, including Games Magazine's award for Best New Historical Simulation Game in their 2010 Games 100 issue. It offers a deep and immersive strategic experience for players interested in historical warfare simulations.
@@ -1257,6 +1397,19 @@
 | ------: | -------: | ------: |
 |   2 - 4 |       14 | 60-120m |
 
+
+
+### [Le Havre](https://boardgamegeek.com/boardgame/35677/le-havre)
+
+> In Le Havre, a player's turn consists of two parts: First, distribute newly supplied goods onto the offer spaces; then take an action. As an action, players may choose either to take all goods of one type from an offer space or to use one of the available buildings. Building actions allow players to upgrade goods, sell them or use them to build their own buildings and ships. Buildings are both an investment opportunity and a revenue stream, as players must pay an entry fee to use buildings that they do not own. Ships, on the other hand, are primarily used to provide the food that is needed to feed the workers.
+> After every seven turns, the round ends: players' cattle and grain may multiply through a Harvest, and players must feed their workers. After a fixed number of rounds, each player may carry out one final action, and then the game ends. Players add the value of their buildings and ships to their cash reserves. The player who has amassed the largest fortune is the winner.
+
+![Le Havre game image](https://cf.geekdo-images.com/y7Rqd3S6J7vyVhicR1bqTQ__itemrep/img/4Ks1jgI4QIqGjDjsOPIk9fJuLIE=/fit-in/246x300/filters:strip_icc()/pic6091101.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–5 |        12+ | 30–150 Min |
+
 ### [Power Grid](https://en.wikipedia.org/wiki/Power_Grid)
 
 > Is an economic and resource management board game that simulates the energy industry. Players take on the role of power company executives, competing to expand their power networks, purchase resources, and supply electricity to cities. The game is noted for its auctions, as players bid for power plants and resources, making strategic decisions about when and where to expand their networks. Success in Power Grid requires careful financial planning and a keen understanding of market dynamics.
@@ -1267,6 +1420,17 @@
 | ------: | -------: | ------: |
 |   2 - 6 |       12 |    120m |
 
+### [Grand Austria Hotel](https://boardgamegeek.com/boardgame/182874/grand-austria-hotel)
+
+> In the thick of the Viennese modern age, exquisite cafés are competing for customers. Inspiring artists, important politicians, and tourists from all over the world are populating Vienna and in need of a hotel room. This is your opportunity to turn your little café into a world famous hotel. Hire staff, fulfill the wishes of your guests, and gain the emperor's favor. Only then will your café become the Grand Austria Hotel.
+> The start player rolls the dice, sorting them by the rolled number and placing them on the corresponding action spaces. On a turn, a player chooses one of the six actions and carries it out. The number of the available dice in the corresponding action spaces determines how much the player gets from the action. They then remove one of the dice and can carry out additional actions. With the different actions, a player can get the necessary drinks and dishes, prepare the rooms, or hire staff.
+
+![Grand Austria Hotel game image](https://cf.geekdo-images.com/GlCmHjdLwv3SqSjv52ToGw__itemrep/img/Meb89u4vSn3xNl_2wJTF2TYXhr8=/fit-in/246x300/filters:strip_icc()/pic6966955.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2–4 |        12+ | 60–120 Min |
+
 ### [Blue and Gray](https://boardgamegeek.com/boardgame/19254/blue-and-gray)
 
 > In Blue and Gray, each player begins with 17 guards and one captain set up on the line intersections of a 9 × 9 grid board. The object of the game is to advance the captain to the center of the board following an outlined path of 17 steps. However, the captain can only advance if the next step along the path is unoccupied by friendly or opposing guards. Guards can move along lines in any direction (except over the central point) and can capture each other by jumping, as in checkers.
@@ -1276,6 +1440,16 @@
 | Players | Min. Age |  Time   |
 | ------: | -------: | ------: |
 |   2 |       8 |    20m |
+
+### [The Forever War](https://boardgamegeek.com/boardgame/5043/forever-war)
+
+> The Forever War is a science fiction board game, based on the novel "Forever War" by Joe Haldeman. It features squad-level combat in the third millennium. Combat occurs on airless portal planets, where small infantry ground units vie with each other for victory among the frozen wastes. A player can never be sure of whom or what he will find when his troops near the battlefield. Units are equipped with weapons of the latest technology, and embark on their starships. Only weeks or months pass for them, traveling at near-light speeds, but decades pass in the universe surrounding them. The enemy these units meet on the battlefield could be technologically decades ahead or behind them when the battle is joined.
+
+![The Forever War](https://cf.geekdo-images.com/Dy8ocrTp51HxcARd6Rha1A__itemrep/img/zpLHyvIy06wU44yNwx5LM6UVwDA=/fit-in/246x300/filters:strip_icc()/pic5722429.png)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   2 - 4 |       12 |    60m |
 
 ## Party
 
@@ -2017,6 +2191,26 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time   |
 |--------:|---------:|-------:|
 |  4 - 16 |       17 | 30-60m |
+
+### [Jenga](https://en.wikipedia.org/wiki/Jenga)
+
+> Jenga is a game of physical skill created by British board game designer and author Leslie Scott and marketed by Hasbro. Players take turns removing one block at a time from a tower constructed of 54 blocks.
+
+![Jenga](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Jenga.JPG/220px-Jenga.JPG)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 5 |        6 | 10-15m |
+
+### [Mouse Trap](https://en.wikipedia.org/wiki/Mouse_Trap_(board_game))
+
+> Mouse Trap (originally Mouse Trap Game) is a board game first published by Ideal in 1963 for two to four players. It is one of the first mass-produced three-dimensional board games.The basic premise of Mouse Trap has been consistent over time, but the turn-based gameplay has changed. Its concept was first invented by Marvin Glass and designer Gordon Barlow from Marvin's company
+
+![Mouse Trap](https://upload.wikimedia.org/wikipedia/en/5/5f/Mouse_Trap_Board_and_Box.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |        6 | 30-35m |
 
 ## Contribute
 
