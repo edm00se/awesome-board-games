@@ -2202,6 +2202,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 4 |        6 | 30-35m |
 
+### [Bruxelles 1893](https://boardgamegeek.com/boardgame/144592/bruxelles-1893)
+
+> Bruxelles 1893 is a worker placement game with elements of bidding and majority control. Each player is an architect of the late 19th century and is trying to achieve, through various actions, an architectural work in the Art Nouveau style. The most successful building yields the most points. Each player can also create works of art to increase his score.The action board is modular, with not every player having access to each action each turn. Some actions cost money – acquiring high-quality materials, building a level of your personal house, finding a patron, creating a work of art, selling that art for money and prestige – while other actions are free but can potentially cause you to lose one of your workers; these latter actions include acquiring low-quality materials, activating your patrons, visiting the stock exchange, and taking one of the actions with a cost. Once everyone has passed on taking more actions, the round ends and players have an art exhibition during which they can sell works. After this, players receive prestige points or bonus cards based on the symbols they've placed their workers next to on the action board.After five rounds, the game ends and players score bonus points based on their architect level, their bonus cards, how well they've completed their work, and their money on hand. The player with the most points wins.
+
+![Bruxelles 1893](https://m.media-amazon.com/images/I/81poqcRYByL._AC_SS300_.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 5 |       13 |50-125m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
