@@ -2202,6 +2202,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 4 |        6 | 30-35m |
 
+### [Space Marine: The Board Game](https://boardgamegeek.com/boardgame/395847/space-marine-board-game)
+
+> In the grim darkness of the 41st Millennium, Humanity is spread thin, fighting a losing battle against enemies all across the galaxy.Space Marine: The Board Game is a thrilling survival game, pitting the noble Lieutenant Titus of the Ultramarines against endless swarms of all-consuming alien horrors!The box is packed with 23 push-fit miniatures, dice, a ruler, a game board, and a 40-page rulebook packed with backstory and missions.You and a friend will take control of either the lone Space Marine, or more than 20 ravenous Tyranids that want to eat him alive.It’s fast-paced action, as Titus fights valiantly to defeat his enemies with superhuman strength and brutal weapons.Can he hold them back, or will the Tyranids overwhelm him in the end?Space Marine: The Board Game represents the perfect foot in the door for anyone who’s completely new to the Warhammer hobby.It’s easy to set up – every model is push-fit – and can be played in around 30 minutes. So if you have friends or family who want to give the worlds of Warhammer a go, this is a brilliant place to start.
+
+![Space Marine: The Board Game](https://cf.geekdo-images.com/5GXeE8plwHcs6mUPnN2KMQ__imagepage/img/Vk9fnm7QW3xCi-0EhF7op2a5T9E=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7760609.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|       2 |       12 | 30-60m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
