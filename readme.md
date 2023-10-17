@@ -2206,7 +2206,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 > In Evacuation, life on our planet is being burned away thanks to increasingly intense sunlight, so everyone is trying to move all the people and factories in their territories from the "old" planet to a new one — and they have only four rounds in which to do so.You start the game with a full functioning economy, and over the course of play, you must dismantle that economy and move it. Income on the old planet shrinks over time, and production probably won't be much better until you establish yourself on the new planet and kick things into action. Resources can't be mixed across the planets, so you need to take special care with your planning.To do this, you choose actions from the player board, with the expert variant adding cards to your hand that allow you to choose additional actions and combine them. Each action has its own value, and the sum of these actions is important for an "end of the round" bonus. Additionally, players move their markers along the orbital track based on the value of their actions.If you can raise production of three resources to level 8 and have three virtual reality machines on the new planet, you win.
 
-![Evacuation](https://cf.geekdo-images.com/BmJqVjuTl1GSb8tDJ3va_A__imagepage/img/PpLbBdQyH_-VGoLLm2FjPEjBjp0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7672541.jpg)
+![Evacuation](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH6tyBr_kCApC4rO4jy0iT7lwN2k-9Jc-YZO-j9L6sDnYWeDKhsymhytJihS8Dfd60ujY&usqp=CAU)
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
