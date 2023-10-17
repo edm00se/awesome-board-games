@@ -2202,6 +2202,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 4 |        6 | 30-35m |
 
+### [Voidfall](https://boardgamegeek.com/boardgame/337627/voidfall)
+
+> Voidfall is a space 4X game that brings the genre to Euro enthusiasts' tables. It combines the tension, player interaction, and deep empire customization of the 4X genre with the resource management, tight decisions, and minimum-luck gameplay of an economic Euro. Win by pushing back the Voidborn in the solo/coop mode, or by overcoming your rivals' influence in restoring the Domineum in the competitive mode — both using the same rule set and game system. Variability is ensured not only by multiple playable houses with their own strengths and weaknesses, but also by many different map set-ups for all game modes.
+
+![Voidfall](https://cf.geekdo-images.com/hItZjdDTNuaCZ7fEztwcUQ__itemrep/img/Uzot_otbvYXpwkTpnc1uwiXUWqs=/fit-in/246x300/filters:strip_icc()/pic6153324.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |       15 |90-120m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
