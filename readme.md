@@ -2202,6 +2202,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 4 |        6 | 30-35m |
 
+### [Nucleum](https://boardgamegeek.com/boardgame/396790/nucleum)
+
+> Nucleum is a heavy euro board game in which players take role of industrialists trying to succeed during the economic and technological boom of 19th-century Saxony, fueled by the invention and spread of the Nucleum (a nuclear reactor).Players earn victory points by developing their networks, building and powering urban buildings, securing contracts, and meeting milestones (randomized endgame goals). Each player also gets unique asymmetric technologies, giving them special powers when unlocked. Gameplay is continuous; players take turns one after another with no rounds or phases.
+
+![Nucleum](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFIjE71tvWlOSqaWueAWUegRdzazPDQbY-gzBfyueNAevX5a33dfjs-FTwOS5Q7rKtmIQ&usqp=CAU)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |       14 |60-150m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
