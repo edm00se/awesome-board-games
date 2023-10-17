@@ -1699,6 +1699,18 @@
 |   4 - 8 |       12 |  30m |
 
 
+### [The Search for Planet X](https://boardgamegeek.com/boardgame/279537/search-planet-x)
+
+> At the edge of our solar system, a dark planet may lurk. In 2015, astronomers estimated a large distant planet could explain the unique orbits of dwarf planets and other objects. Since then, astronomers have been scanning the sky, hoping to find this planet.
+> In The Search for Planet X, players take on the role of astronomers who use observations and logical deductions to search for this hypothetical planet. Each game, the companion app randomly selects an arrangement of objects and a location for Planet X following predefined logic rules.
+> Each round, as the earth travels around the sun, players use the app to perform scans and attend conferences. As they gain information about the location of the objects, they mark that information on their deduction sheets. As players learn the locations of the various objects, they can start publishing theories, which is how players score points.
+
+![The Search for Planet X game image](https://cf.geekdo-images.com/NItjtztEUAKOpaTWZddu9A__itemrep/img/19SxGv1lPB2SfRstNWo92R5XPNM=/fit-in/246x300/filters:strip_icc()/pic5744928.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–4 |        13+ | 60–75 Min |
+
 ### [Root](https://boardgamegeek.com/boardgame/237182/root)
 
 > Root is a game of adventure and war in which 2 to 4 (1 to 6 with the 'Riverfolk' expansion) players battle for control of a vast wilderness.
