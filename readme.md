@@ -1441,6 +1441,18 @@
 | ------: | -------: | ------: |
 |   2 - 4 |       12 |    60m |
 
+### [Race for the Galaxy](https://boardgamegeek.com/boardgame/28143/race-galaxy)
+
+> 2018 UPDATE: The second edition of the game is improved for CVD (color blindness) and includes 5 revised cards from the original version and 6 New Worlds promo homeworlds. The promo homeworlds and first edition compatible Revised Cards are both available for purchase through the BGG store.
+> In the card game Race for the Galaxy, players build galactic civilizations by playing game cards in front of them that represent worlds or technical and social developments. Some worlds allow players to produce goods, which can be consumed later to gain either card draws or victory points when the appropriate technologies are available to them. These are mainly provided by the developments and worlds that are not able to produce, but the fancier production worlds also give these bonuses.
+
+![Race for the Galaxy game image](https://cf.geekdo-images.com/-DOqixs8uwKUvvWPKI4f9w__itemrep/img/DBzrnh_ZSypfwdfZXVOvCGBf1ig=/fit-in/246x300/filters:strip_icc()/pic5261714.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2–4 |        12+ | 30–60 Min |
+
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
