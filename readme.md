@@ -1267,6 +1267,17 @@
 | ------: | -------: | ------: |
 |   2 - 4 |       12 |  30-90m |
 
+### [Aeon's End](https://boardgamegeek.com/boardgame/191189/aeons-end)
+
+> The survivors of a long-ago invasion have taken refuge in the forgotten underground city of Gravehold. There, the desperate remnants of society have learned that the energy of the very breaches the beings use to attack them can be repurposed through various gems, transforming the malign energies within into beneficial spells and weapons to aid their last line of defense: the breach mages.
+> Aeon's End is a cooperative game that explores the deckbuilding genre with a number of innovative mechanisms, including a variable turn order system that simulates the chaos of an attack, and deck management rules that require careful planning with every discarded card. Players will struggle to defend Gravehold from The Nameless and their hordes using unique abilities, powerful spells, and, most importantly of all, their collective wits.
+
+![Aeon's End game image](https://cf.geekdo-images.com/d50LceHj6LIafa4S_qIsCg__itemrep/img/Uswnuak6armCO4JWTi5_03kl0eo=/fit-in/246x300/filters:strip_icc()/pic3189350.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–4 |        14+ | 60 Min |
+
 ### [Mechs vs. Minions](https://boardgamegeek.com/boardgame/209010/mechs-vs-minions)
 
 > Mechs vs. Minions is a cooperative tabletop campaign for 2-4 players. Set in the world of Runeterra, players take on the roles of four intrepid Yordles: Corki, Tristana, Heimerdinger, and Ziggs, who must join forces and pilot their newly-crafted mechs against an army of marauding minions. With modular boards, programmatic command lines, and a story-driven campaign, each mission will be unique, putting your teamwork, programming, and piloting skills to the test.
