@@ -1929,7 +1929,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 ### [Dominant Species](https://boardgamegeek.com/boardgame/62219/dominant-species)
 
 > 90,000 B.C. — A great ice age is fast approaching. Another titanic struggle for global supremacy has unwittingly commenced between the varying animal species.
-Dominant Species is a game that abstractly recreates a tiny portion of ancient history: the ponderous encroachment of an ice age and what that entails for the living creatures trying to adapt to the slowly-changing earth.
+> Dominant Species is a game that abstractly recreates a tiny portion of ancient history: the ponderous encroachment of an ice age and what that entails for the living creatures trying to adapt to the slowly-changing earth.
 > Each player will assume the role of one of six major animal classes—mammal, reptile, bird, amphibian, arachnid, or insect. Each begins the game more or less in a state of natural balance in relation to one another. But that won’t last: It is indeed "survival of the fittest".
 > Through wily action pawn placement, players will strive to become dominant on as many different terrain tiles as possible in order to claim powerful card effects. Players will also want to propagate their individual species in order to earn victory points for their particular animal. Players will be aided in these endeavors via speciation, migration, and adaptation actions, among others.
 > All of this eventually leads to the end game—the final ascent of the ice age—where the player having accumulated the most victory points will have his animal crowned the Dominant Species.
