@@ -2207,7 +2207,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 > It's Evenfall, and the Clans of Magic are preparing for a new era. Evenfall is the time when the boundaries of reality collapse and the supernatural awakens. The World-Tree opens its glowing gateways to unknown distant regions. Send Witches from your clan to discover and control new Places of Power. Use them for arcane rituals and battle for the favor of the Powerstones. But there is only one seat on the Enchanted Throne! Do you have the skills to lead the world into a new era?
 > Evenfall is a card-driven, engine-building game with both novel and familiar mechanisms for 1 to 4 players. Manage your resources, execute your actions in an efficient order, and discover card and action synergies that generate victory points. The game ends after three rounds, then the player with the most points wins.
 
-![Evenfall](https://cf.geekdo-images.com/hEbikkJceop4K5OIVPOmSQ__imagepage/img/kKSRtnR2DYReGNbtDS30kNJQEiU=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7657810.jpg)
+![Evenfall](https://cf.geekdo-images.com/hEbikkJceop4K5OIVPOmSQ__itemrep/img/Og-JaIOaoKSnDSWGA22vvrPfxcs=/fit-in/246x300/filters:strip_icc()/pic7657810.jpg)
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
