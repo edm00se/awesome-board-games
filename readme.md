@@ -2206,7 +2206,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 > Living Forest is a 2021 board game designed by Aske Christiansen.Players act as Spirits of Nature to defend trees from being burnt by Onibi. Each turn is split into three phases, the guardian animal phase, the action phase, and attacks by Onibi. In the guardian phase, players draw guardian animal cards to form help lines using a push-your-luck mechanism.The action phase is split into actions that players may perform depending on the symbols on their help line, including gaining fragment tiles, attracting guardian animals, extinguishing a fire, moving on the Circle of Spirits board, or placing a protective tree. However, the strengths of the actions vary depending on symbols on guardian animal cards. For example, players may only extinguish fires for which they have fire symbols. After the action phase, the players have to take penalty cards to their own discard pile, a tree is attacked, and guardian animals are altered. Once a player reaches one of the game thresholds, including planting 12 trees, extinguishing 12 fires or gaining 12 flower symbols, the player ending the game wins.
 
-![Living Forest](https://cf.geekdo-images.com/fPhdfZX9UTLr4-SVgK0zoQ__imagepage/img/PoKEhfCrJtNe_BX-L8OYWDfyAmE=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5899025.jpg)
+![Living Forest](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPsHzWlhZvgpR5MB4NhKMACKevOsMif4fALE1Z2ldv7qF2sNHkAITMnq6WMkepW_7btvQ&usqp=CAU)
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
