@@ -2208,7 +2208,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 > The game employs the familiar "pick & pass" or "hand drafting" mechanism for players to select a new structure cards to add to their base. Each hand of cards represents a convoy of experts and equipment travelling between the players' outposts, giving the player the choice of one new construction each turn. In a new twist on the genre, each hand always contains one of a number of "Expedition" cards that grant a special free action every turn before passing on to the next player.Wooden lunar rover tokens are a neutral resource that add a worker placement element to the game. They are also used to break ties and so must be used with care.
 > Over the three distinct eras of the game, players compete for majority in 5 aspects of their bases: housing, transportation, science, industry, and food production. At the end of each era, the leader in each of these areas as determined by flag icons on their constructed buildings, collects bonus victory points.
 
-![Moon](https://upload.wikimedia.org/wikipedia/en/5/5f/Mouse_Trap_Board_and_Box.jpg)
+![Moon](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDKpy-Y6LadX-TprKSQAAJ6Hu6BCDkImHEl39lCRGORuJK5-PkFSbL9UgrSaLIVbOCXncFNYBILbGXiutgMqsEIa3lAAoImvkw5BeEItOthMdNokiGaaWlswcHMocbqoeyOwQZNiDfqzUXBiRm0Pb1wW2I9P76cv2Z5a9H5fqoQB6soAL216hbdEBo/s640/Polyhedron%20Collider%20Moon%20Board%20Game%20Review.jpg)
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
