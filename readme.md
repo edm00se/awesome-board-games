@@ -792,7 +792,7 @@
 | ------: | -------: | -----:  |
 |       2 |        8 | 30-120m |
 
-### [Lotería](https://en.wikipedia.org/wiki/Lotería)
+### [Lotería](https://boardgamegeek.com/boardgame/5878/loteria)
 
 > Lotería (Spanish word meaning "lottery") is a traditional game of chance, similar to bingo, but using images on a deck of cards instead of numbered ping pong balls. Every image has a name and an assigned number, but the number is usually ignored. Each player has at least one tabla, a board with a randomly created 4 x 4 grid of pictures with their corresponding name and number. Players choose a tabla (Spanish word for "board") to play with, from a variety of previously created tablas, each with a different selection of images.
 
