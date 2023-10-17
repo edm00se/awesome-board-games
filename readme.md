@@ -1062,6 +1062,18 @@
 | ------: | -------: | -----: |
 |   2 - 4 |        7 | 20-30m |
 
+### [Teotihuacan: City of Gods](https://boardgamegeek.com/boardgame/229853/teotihuacan-city-gods)
+
+> Travel back in time to the greatest city in Mesoamerica. Witness the glory and the twilight of the powerful pre-Columbian civilization. Strategize, accrue wealth, gain the favour of the gods, and become the builder of the magnificent Pyramid of the Sun.
+> In Teotihuacan: City of Gods, each player commands a force of worker dice, which grow in strength with every move. On your turn, you move a worker around a modular board, always choosing one of two areas of the location tile you land on: one offering you an action (and a worker upgrade), the other providing you with a powerful bonus (but without an upgrade).
+> While managing their workforce and resources, players develop new technologies, climb the steps of the three great temples, build houses for the inhabitants of the city, and raise the legendary and breath-taking Pyramid of the Sun in the center of the city.
+
+![Teotihuacan: City of Gods game image](https://cf.geekdo-images.com/wW5xjgBJcFyLaEWZwrYuKA__itemrep/img/3QLqMVpqfJ9IeVBnJVCE06T3Zhk=/fit-in/246x300/filters:strip_icc()/pic4583626.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–4 |        14+ | 90–120 Min |
+
 ### [Agricola](https://boardgamegeek.com/boardgame/31260/agricola)
 
 > Description from BoardgameNews
