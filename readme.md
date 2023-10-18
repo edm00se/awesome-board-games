@@ -2256,6 +2256,18 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |-------: | -------: | ------:|
 |   2 - 4 |       5  |  20m   |
 
+### [Chanakya's Chakkravyuh](https://boardgamegeek.com/boardgame/154680/chanakyas-chakkravyuh)
+
+> Chanakya's Chakkravyuh is a unique learning tool in the form of a financial board game. Its main purpose is to help players from all walks of life (including common man, entrepreneurs, corporate professionals, students, educators, home makers, investors) attain financial literacy. Minimum age is 15 years and above.
+Inspired by the 2000-year old wisdom of prominent Indian economist Chanakya, this game enlightens individuals on how to manage money and connect financial knowledge to resourceful opportunities, which are ever-present in today's changing world.
+The player initially chooses a dream out of various dreams listed on the board. Each dream has a purchase price listed on it. In order to win the game, the player must purchase his/her pre-selected dream.
+
+![Chanakya's Chakkravyuh](https://www.chanakyaschakkravyuh.com/wp-content/uploads/2016/01/LC-Box-Front-1-300x220.jpg)
+
+| Players | Min. Age | Time   |
+|-------: | -------: | ------:|
+|   2 - 6 |       15 |  360m  |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
