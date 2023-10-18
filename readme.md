@@ -2222,6 +2222,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |-------: | -------: | ------:|
 |   2 - 4 |       5  |  20m   |
 
+### [Dice Forge](https://boardgamegeek.com/boardgame/194594/dice-forge)
+
+> Dice Forge is a unique and exciting board game that challenges players to become gods by defeating their rivals. In this game, players are given divine dice that they can customize by snapping new faces onto them. The game combines some of the best mechanics of resource collection, dice rolling, and ability usage, making it a fun and engaging experience for players of all ages. To set up the game, players choose a hero and take a reserve board and four tracking cubes in their color, and start everything off at zero.
+
+![Outfoxed](https://cf.geekdo-images.com/4BTVGQWO0M9ayxyku3FW6Q__imagepage/img/iD_y2y5hLOHt8Y7a7Rsfv1H7qNA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3477004.jpg)
+
+| Players | Min. Age | Time   |
+|-------: | -------: | ------:|
+|   2 - 4 |       10 |  45m   |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
