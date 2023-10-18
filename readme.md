@@ -2236,6 +2236,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 4 |        6 | 30-35m |
 
+### [Frosthaven](https://boardgamegeek.com/boardgame/295770/frosthaven)
+
+> Frosthaven is a standalone adventure from the designer and publisher of Gloomhaven that features sixteen new characters, three new races, more than twenty new enemies, more than one hundred new items, and a new, 100-scenario campaign. Characters and items from Gloomhaven will be usable in Frosthaven, and vice versa.In addition to having the well-known combat mechanisms of Gloomhaven, Frosthaven will feature much more to do outside of combat, such as numerous mysteries to solve, a seasonal event system to live through, and player control over how this ramshackle village expands, with each new building offering new ways to progress.Frosthaven has a whole new set of items but there is a mechanic for bringing items over from 'Gloomhaven'. However, as it is a remote location, these products get imported and are not there as standard. Resources are much more valuable and you have to build items through a crafting system rather than just buy them.
+
+![Frosthaven](https://cf.geekdo-images.com/iEBr5o8AbJi9V9cgQcYROQ__itemrep/img/Z2XUvMkSdxK4qiewCLTJvUl41gA=/fit-in/246x300/filters:strip_icc()/pic6177719.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |       14 |30-120m |
+
 ### [Outfoxed](https://boardgamegeek.com/boardgame/172931/outfoxed)
 
 > This game is like Clue but for younger kids – and yet still fun for adults too. A fox stole a pot pie, and you have to figure out which fox it was before they escape into the foxhole. My kids regularly play this cooperative whodunnit game independently, and I love watching them work together as a team to solve the mystery. This is a fun little game to build your child’s logic and deductive reasoning skills!
