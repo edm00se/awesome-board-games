@@ -522,6 +522,30 @@
 | ------: | -------: | -----: |
 |   1 - 100 |        10 | 30-45m |
 
+### [Tide of Fortune](https://boardgamegeek.com/boardgame/3354/tide-fortune)
+
+> This is an evolution of the Westwar series first introduced by Vanguard Games with Pas de Calais. Other games using a similar system are To the Far Shore and the Italian Campaign series (Sicily, Salerno, Anzio and Med War).
+>
+> Tide of Fortune features the September-October Allied campaign in northern Belgium and in the Low countries, culminating with the Arnhem operation.
+>
+> Scale is 1-2 days/turn (variable because of the Impulse system), 3 km/hex. Units are regiments/brigades.
+>
+> The game has 2 22"x34" maps, 300 counters.
+>
+> The heart of the system is the Operations phase where players alternate activating formations (divisions) which execute Orders (Assault, Advance, Maneuver etc.).
+>
+> Players bid for Initiative and there are possibilities for the Reaction player to foil the initiative player's moves by having units react and do spoiling attacks.
+>
+> Losses can be applied to the HQ of a formation, not only directly to units.
+>
+> Low counter density, high maneuver. Medium-high complexity.
+
+<img src="https://cf.geekdo-images.com/vkDLqn-CMvTelKH0BvBBRA__imagepage/img/k2e0JHeSt5AwvNJco2rzFAXXaKM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3446255.jpg" width="270" height="285">
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|    1 -2 |      12  |   360m  |
+
 ### [Talisman](https://boardgamegeek.com/boardgame/714/talisman)
 
 > Talisman takes you on a journey through magical lands, as you endeavor to reclaim the Crown of Command.
