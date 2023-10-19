@@ -22,7 +22,7 @@ jobs:
         state: open
     - name: Under Threshold
       if: ${{ steps.get_prs.outputs.data.length <= 5 }}
-      run: "User has '${{ steps.get_prs.outputs.data.length }}' counted PRs, including this one. g2g"
+      run: "echo User has '${{ steps.get_prs.outputs.data.length }}' counted PRs, including this one. g2g"
     - name: Fail if too many open PRs
       if: ${{ steps.get_prs.outputs.data.length > 5 }}
       uses: actions/github-script@v6
