@@ -24,12 +24,12 @@ jobs:
       if: ${{ steps.get_prs.outputs.data.length <= 5 }}
       uses: actions/github-script@v6
       env:
-        OPEN_PR_COUNT: ${{ steps.get_prs.outputs.data.length }}
+        OPEN_PRS: ${{ steps.get_prs.outputs }}
       with:
         script: |
-          const { OPEN_PR_COUNT } = process.env;
-          console.log(OPEN_PR_COUNT);
-          const openPRct = parseInt(OPEN_PR_COUNT, 10);
+          const { OPEN_PRS} = process.env;
+          console.log(OPEN_PRS);
+          const openPRct = parseInt(OPEN_PR_COUNT.data.length, 10);
           console.log(`User has ${openPRct - 1} existing Pull Requests open. g2g`);
     - name: Fail if too many open PRs
       if: ${{ steps.get_prs.outputs.data.length > 5 }}
