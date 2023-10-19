@@ -24,7 +24,7 @@ jobs:
       if: ${{ steps.get_prs.outputs.data.length <= 5 }}
       uses: actions/github-script@v6
       env:
-        OPEN_PRS: ${{ steps.get_prs.outputs }}
+        OPEN_PRS: "${{ steps.get_prs.outputs }}"
       with:
         script: |
           const { OPEN_PRS} = process.env;
