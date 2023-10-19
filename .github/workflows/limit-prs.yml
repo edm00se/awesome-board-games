@@ -20,7 +20,7 @@ jobs:
         repository: ${{ github.repository }}
         author: ${{ github.event.pull_request.user.login }}
         state: open
-    - name: Derp
+    - name: Under Threshold
       if: ${{ steps.get_prs.outputs.data.length <= 5 }}
       uses: actions/github-script@v6
       with:
