@@ -2266,6 +2266,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |-------: | -------: | ------:|
 |   2 - 4 |       10 |  45m   |
 
+### [Kemet](https://boardgamegeek.com/boardgame/127023/kemet)
+
+> Kemet is a thrilling and strategic board game set in the mystical world of ancient Egypt. Players take on the roles of different Egyptian tribes vying for dominance. The game is known for its asymmetric powers, offering each tribe unique abilities and strengths. The goal is to build a powerful army, engage in epic battles, and conquer temples to gain victory points. With its rich theme, engaging battles, and diverse strategies, Kemet offers a dynamic and competitive gaming experience, where only the most cunning and powerful tribe will emerge victorious.
+
+![Kemet](https://cf.geekdo-images.com/RmZjhy7_6REp8IaXh9Zqwg__imagepage/img/qmyGVUaPSPuJ6KApTKcGFtuXRuk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3979527.jpg)
+
+| Players | Min. Age | Time   |
+|-------: | -------: | ------:|
+|   2 - 5 |       13 |  90m   |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
