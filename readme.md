@@ -2266,6 +2266,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |-------: | -------: | ------:|
 |   2 - 4 |       10 |  45m   |
 
+### [Photosynthesis](https://boardgamegeek.com/boardgame/218603/photosynthesis)
+
+> Photosynthesis is a visually captivating board game that invites players to immerse themselves in the beauty of a forest's life cycle. In this game, you'll strategically grow and shape your trees as they strive to reach for the sun's nourishing light. With its unique 3D cardboard trees and a thematic focus on ecology, Photosynthesis provides not only a delightful gaming experience but also an educational one. Players must strategically position their trees to maximize sunlight exposure while casting shadows on their opponents' growth.
+
+![Photosynthesis](https://cf.geekdo-images.com/HhkYuVxMy-XrRCBWmZ78Eg__imagepage/img/6MBUVKddkABPcAFFNLLV9P915ZA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3364832.jpg)
+
+| Players | Min. Age | Time   |
+|-------: | -------: | ------:|
+|   2 - 4 |       10 |  30m   |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
