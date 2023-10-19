@@ -25,7 +25,7 @@ jobs:
       uses: actions/github-script@v6
       with:
         script: |
-          core.setOutput(`User has ${{steps.get_prs.outputs.data.length-1}} existing Pull Requests open. g2g`);
+          console.log(`User has ${{steps.get_prs.outputs.data.length-1}} existing Pull Requests open. g2g`);
     - name: Fail if too many open PRs
       if: ${{ steps.get_prs.outputs.data.length > 5 }}
       uses: actions/github-script@v6
