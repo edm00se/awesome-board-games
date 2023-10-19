@@ -689,6 +689,21 @@
 | ------: | -------: | ---: |
 |       2 |       10 |  30m |
 
+### [Nucleum](https://boardgamegeek.com/boardgame/396790/nucleum)
+
+> Become the leader of the Industrial Revolution in an alternative timeline
+> 
+> When Elsa von Frühlingfeld presented her invention to King Frederik Augustus II of Saxony, people thought it was trickery. She used the recently isolated element Uranium to heat up a jar of water and used the resulting steam to power an engine that kept the Uranium active via a process she called “atomization.” Her device, the Nucleum, ushered in a new era of energy and prosperity over the next decades. Saxony went from a minor regional power to a European science and engineering hub. Now, a generation later, factories are still hungry for more power, demanding bigger and more Nucleums to be built, more Uranium imported from the nearby country of Bohemia, and railways and power lines built across the country to carry the tamed power of the atoms to Saxony’s great cities. Inventors, engineers, and industrialists flock to the Saxon court, vying to be the leader in this new industrial revolution.
+>
+> Nucleum is a heavy euro board game in which players take role of industrialists trying to succeed during the economic and technological boom of 19th-century Saxony, fueled by the invention and spread of the Nucleum (a nuclear reactor).
+
+![Nucleum](https://cf.geekdo-images.com/fIVUaMvbfy6GCOgfxt7xaw__itemrep/img/4kPMs8SPkvPycxnQLLPMVO_S59g=/fit-in/246x300/filters:strip_icc()/pic7647168.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   1 - 4 |        8 |  10m |
+
+
 ### [The Gallerist](https://boardgamegeek.com/boardgame/125153/gallerist)
 
 > This age of art and capitalism has created a need for a new occupation - The Gallerist.
