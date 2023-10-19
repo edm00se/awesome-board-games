@@ -10,24 +10,26 @@ jobs:
     runs-on: ubuntu-latest
     permissions: write-all
     steps:
-    - name: Check open pull requests
+    - name: Get open PRs for user
+      id: get_prs
+      uses: octokit/request-action@v2.x
+      with: 
+        route: GET /repos/:repository/pulls
+        repository: ${{ github.repository }}
+        author: ${{ github.event.pull_request.user.login }}
+        state: open
+    - name: Fail if too many open PRs
+      if: ${{ steps.get_prs.outputs.data.length > 5 }}
       uses: actions/github-script@v6
       with:
         script: |
-          const openPRs = await github.rest.pulls.list({
-            owner: context.repo.owner,
-            repo: context.repo.repo,
-            state: 'open',
-            author: context.payload.sender.login,
-          });
-
           const hasHacktoberfestAcceptedLabel = await github.rest.issues.listLabelsOnIssue({
             owner: context.repo.owner,
             repo: context.repo.repo,
             issue_number: context.payload.pull_request.number,
           }).then(response => response.data.some(label => label.name === 'hacktoberfest-accepted'));
 
-          if (openPRs.data.length > 5 && !hasHacktoberfestAcceptedLabel) {
+          if (!hasHacktoberfestAcceptedLabel) {
             const message = `You already have ${openPRs.data.length-1} other open pull requests. Please focus on completing those before opening new ones. Do not open additional PRs until those are resolved.`;
             await github.rest.issues.createComment({
               issue_number: context.issue.number,
