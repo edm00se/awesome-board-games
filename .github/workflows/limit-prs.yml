@@ -20,6 +20,12 @@ jobs:
         repository: ${{ github.repository }}
         author: ${{ github.event.pull_request.user.login }}
         state: open
+    - name: Derp
+      if: ${{ steps.get_prs.outputs.data.length <= 5 }}
+      uses: actions/github-script@v6
+      with:
+        script: |
+          core.setOutput(`User has ${steps.get_prs.outputs.data.length-1} existing Pull Requests open. g2g`);
     - name: Fail if too many open PRs
       if: ${{ steps.get_prs.outputs.data.length > 5 }}
       uses: actions/github-script@v6
@@ -32,7 +38,7 @@ jobs:
           }).then(response => response.data.some(label => label.name === 'hacktoberfest-accepted'));
 
           if (!hasHacktoberfestAcceptedLabel) {
-            const message = `You already have ${openPRs.data.length-1} other open pull requests. Please focus on completing those before opening new ones. Do not open additional PRs until those are resolved.`;
+            const message = `You already have ${steps.get_prs.outputs.data.length-1} other open pull requests. Please focus on completing those before opening new ones. Do not open additional PRs until those are resolved.`;
             await github.rest.issues.createComment({
               issue_number: context.issue.number,
               owner: context.repo.owner,
