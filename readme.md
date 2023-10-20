@@ -2517,6 +2517,17 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |-------: | -------: | ------:|
 |   2 - 5 |       13 |  90m   |
 
+### [Nemo's War](https://boardgamegeek.com/boardgame/187617/nemos-war-second-edition)
+
+> Jules Verne's classic novel Twenty Thousand Leagues Under the Sea tells the story of Captain Nemo and his astounding ship, the Nautilus. The second edition of Nemo's War, Victory Point Games' popular solitaire offering from designer Chris Taylor, is a greatly enhanced offering featuring mass-production printing and amazing Ian O'Toole art and graphics throughout. Set in year 1870, you set sail in this amazing electric-powered submarine, assuming the role and motive of Captain Nemo as you travel across the seas on missions of science, exploration, anti-Imperialism, and War! With this supercharged second edition of Nemo's War, prepare yourself for the adventure of a lifetime!
+
+![Nemo's War](https://cf.geekdo-images.com/E5DrIRQo7MJS3ww70esx5Q__itemrep/img/pWQb8ILX46F-znillIZ2Kp-K93c=/fit-in/246x300/filters:strip_icc()/pic4892981.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |       13 |60-120m |
+
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
