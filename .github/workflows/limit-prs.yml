@@ -23,7 +23,7 @@ jobs:
             author: context.payload.sender.login,
           });
           const openPRs = openPRraw.data.filter(el => el.user.login === context.payload.sender.login);
-          console.log(openPRs);
+          // console.log(openPRs);
           return openPRs.length;
     - name: Under Threshold
       if: ${{ steps.get_pr_count.outputs.result <= 5 }}
