@@ -1475,6 +1475,16 @@
 | ------: | -------: | ------: |
 |   2 - 4 |       12 |    60m |
 
+### [Contigo](https://boardgamegeek.com/boardgame/2545/contigo)
+
+> This game in the 3M Bookshelf Series is a cross between Mancala (a.k.a. Warri, Oh-Wah-Ree, Kalah) and more traditional Checkers-like games. It is played by four players according to the original rules, but can be adapted to be played by just two (the three-player game would be unbalanced).The 6x6 board is surrounded by Mancala-like pits, where pebbles are moved. The number of pebbles in a row/column/diagonal's pits controls how the pawns on the board move.Two sets of rules are supplied: the Alignment game, where you are trying to be the first to align four of your pawns in any six-space row --either horizontally, vertically or diagonally-- without opposing pawns between them, and the more advanced Capture game, where you're trying to capture your opponents' key pawns (kings, really).
+
+![Contigo](https://cf.geekdo-images.com/B2P9bmgJlL87px1_mbSX6g__itemrep/img/6jfkcejPAXdZCyEClQGQtwWLUxQ=/fit-in/246x300/filters:strip_icc()/pic4084792.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   2 - 4 |       12 |    45m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
