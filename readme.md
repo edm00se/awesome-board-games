@@ -2444,6 +2444,17 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |-------: | -------: | ------:|
 |   2 - 4 |       10 |  45m   |
 
+### [Paperback](https://boardgamegeek.com/boardgame/141572/paperback)
+
+> You are a paperback author trying to finish novels for your editor. Complete Westerns, Science Fiction, Romance or even the rare Best-Seller. Live the dream — and maybe pay the bills.
+> Word-building meets deck-building in the unique game Paperback. Players start with a deck of letter cards and wild cards. Each hand they form words, and purchase more powerful letters based on how well their word scored. Most letters have abilities that activate when they are used in a word, such as drawing more cards or double letter score. Players buy wilds to gain victory points. Variant included for cooperative play.
+
+![Paperback](https://cf.geekdo-images.com/iZl2U-2BjftbWfLw5y25Vg__itemrep/img/q0jh-ilPLYilMgq_LUePnruriKM=/fit-in/246x300/filters:strip_icc()/pic7069377.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   2 - 5 |        8 |    45m  |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
