@@ -27,7 +27,7 @@ jobs:
           return openPRs.length;
     - name: Under Threshold
       if: ${{ steps.get_pr_count.outputs.result <= 5 }}
-      run: "echo User has '${{ steps.get_prs.outputs.data.length }}' counted PRs, including this one. g2g"
+      run: "echo User has '${{ steps.get_pr_count.outputs.result }}' counted PRs, including this one. g2g"
     - name: Fail if too many open PRs
       if: ${{ steps.get_pr_count.outputs.result > 5 }}
       uses: actions/github-script@v6
