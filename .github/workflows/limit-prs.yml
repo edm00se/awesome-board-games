@@ -22,6 +22,7 @@ jobs:
             state: 'open',
             author: context.payload.sender.login,
           });
+          console.log(openPRs);
           return openPRs.data.length;
     - name: Under Threshold
       if: ${{ steps.get_pr_count.outputs.result <= 5 }}
