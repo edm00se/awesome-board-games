@@ -6,41 +6,37 @@ on:
 
 jobs:
   limit_prs:
-    if: ${{ !contains(github.event.pull_request.labels.*.name, 'approved') }}
+    if: ${{ !contains(github.event.pull_request.labels.*.name, 'hacktoberfest-accepted') }}
     runs-on: ubuntu-latest
     permissions: write-all
     steps:
-    - name: Get open PRs for user
+    - name: Check open pull requests
       id: get_prs
-      uses: octokit/request-action@v2.x
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with: 
-        route: GET /repos/:repository/pulls
-        repository: ${{ github.repository }}
-        author: ${{ github.event.pull_request.user.login }}
-        state: open
+      uses: actions/github-script@v6
+      with:
+        result-encoding: string
+        script: |
+          const openPRs = await github.rest.pulls.list({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            state: 'open',
+            author: context.payload.sender.login,
+          });
+          return openPRs.data.length;
     - name: Under Threshold
-      if: ${{ steps.get_prs.outputs.data.length <= 5 }}
+      if: ${{ steps.get_pr_count.outputs.result <= 5 }}
       run: "echo User has '${{ steps.get_prs.outputs.data.length }}' counted PRs, including this one. g2g"
     - name: Fail if too many open PRs
-      if: ${{ steps.get_prs.outputs.data.length > 5 }}
+      if: ${{ steps.get_pr_count.outputs.result > 5 }}
       uses: actions/github-script@v6
       with:
         script: |
-          const hasHacktoberfestAcceptedLabel = await github.rest.issues.listLabelsOnIssue({
+          const prCount = parseInt(${{ steps.get_pr_count.outputs.result }},10);
+          const message = `You already have ${prCount-1} other open pull requests. Please focus on completing those before opening new ones. Do not open additional PRs until those are resolved.`;
+          await github.rest.issues.createComment({
+            issue_number: context.issue.number,
             owner: context.repo.owner,
             repo: context.repo.repo,
-            issue_number: context.payload.pull_request.number,
-          }).then(response => response.data.some(label => label.name === 'hacktoberfest-accepted'));
-
-          if (!hasHacktoberfestAcceptedLabel) {
-            const message = `You already have ${steps.get_prs.outputs.data.length-1} other open pull requests. Please focus on completing those before opening new ones. Do not open additional PRs until those are resolved.`;
-            await github.rest.issues.createComment({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              body: message
-            });
-            core.setFailed(message);
-          }
+            body: message
+          });
+          core.setFailed(message);
