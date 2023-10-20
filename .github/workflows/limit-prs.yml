@@ -11,7 +11,7 @@ jobs:
     permissions: write-all
     steps:
     - name: Check open pull requests
-      id: get_prs
+      id: get_pr_count
       uses: actions/github-script@v6
       with:
         result-encoding: string
