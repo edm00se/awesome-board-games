@@ -2226,11 +2226,11 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 > Verdant is a puzzly spatial card game for 1 to 5 players. You take on the role of a houseplant enthusiast trying to create the coziest interior space by collecting and arranging houseplants and other objects within your home. You must position your plants so that they are provided the most suitable light conditions and take care of them to create the most verdant collection.
 
-Each turn, you select an adjacent pair of a card and token, then use those items to build an ever-expanding tableau of cards that represents your home. You need to keep various objectives in mind as you attempt to increase plant verdancy by making spatial matches and using item tokens to take various nurture actions. You can also build your "green thumb" skills, which allows you to take additional actions to care for your plants and create the coziest space!
+> Each turn, you select an adjacent pair of a card and token, then use those items to build an ever-expanding tableau of cards that represents your home. You need to keep various objectives in mind as you attempt to increase plant verdancy by making spatial matches and using item tokens to take various nurture actions. You can also build your "green thumb" skills, which allows you to take additional actions to care for your plants and create the coziest space!
 
-Verdant has beautful artwork from Beth Sobel and was designed by Flatout games who also created Cascadia and Calico.
+> Verdant has beautful artwork from Beth Sobel and was designed by Flatout games who also created Cascadia and Calico.
 
-![Verdant](https://cf.geekdo-images.com/c1XGn5ryzbqgMOHzObZpQw__original/img/RWppBKjLU5v6Pl-uW6IIxkCD4U4=/0x0/filters:format(png)/pic6094080.png)
+![Verdant](https://cf.geekdo-images.com/c1XGn5ryzbqgMOHzObZpQw__itemrep/img/4V6iTxz_WDK0EZCA4QSe2qQoTuU=/fit-in/246x300/filters:strip_icc()/pic6094080.png)
 
 | Players | Min. Age | Time   |
 |-------: | -------: | ------:|
