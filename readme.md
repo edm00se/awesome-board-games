@@ -2246,6 +2246,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 4 |        6 | 30-35m |
 
+### [Bruxelles 1893](https://boardgamegeek.com/boardgame/144592/bruxelles-1893)
+
+> Bruxelles 1893 is a worker placement game with elements of bidding and majority control. Each player is an architect of the late 19th century and is trying to achieve, through various actions, an architectural work in the Art Nouveau style. The most successful building yields the most points. Each player can also create works of art to increase his score.The action board is modular, with not every player having access to each action each turn. Some actions cost money – acquiring high-quality materials, building a level of your personal house, finding a patron, creating a work of art, selling that art for money and prestige – while other actions are free but can potentially cause you to lose one of your workers; these latter actions include acquiring low-quality materials, activating your patrons, visiting the stock exchange, and taking one of the actions with a cost. Once everyone has passed on taking more actions, the round ends and players have an art exhibition during which they can sell works. After this, players receive prestige points or bonus cards based on the symbols they've placed their workers next to on the action board.After five rounds, the game ends and players score bonus points based on their architect level, their bonus cards, how well they've completed their work, and their money on hand. The player with the most points wins.
+
+![Bruxelles 1893](https://cf.geekdo-images.com/sDga04VbcuQdapSSJme-Tg__itemrep/img/aui_nJkuW72phCvPezxpp5Pnw7M=/fit-in/246x300/filters:strip_icc()/pic1726346.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 5 |       13 |50-125m |
+
 ### [Here I Stand](https://boardgamegeek.com/boardgame/17392/here-i-stand)
 
 > Here I Stand is the first card-driven game to prominently feature secret deal-making. A true six-sided diplomatic struggle, the game places a heavy emphasis on successful alliance-building through negotiations that occur away from the table during the pre-turn Diplomacy Phase. Set during the period in which Niccolò Machiavelli published his masterpiece "The Prince," backstabbing is always possible, especially because the card deck is loaded with event and response cards that can be played by any power to disrupt the plans of the powers in the lead.Here I Stand integrates religion, politics, economics, and diplomacy in a card-driven design. Games vary in length from 3–4 hours for a tournament scenario up to full campaign games that run about twice the time. Rules to play games with 3, 4, or 5 players are also included. The 3-player game is just as well balanced as the standard 6-player configuration, taking advantage of the natural alliances of the period.
