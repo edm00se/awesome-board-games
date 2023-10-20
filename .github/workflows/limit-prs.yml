@@ -17,8 +17,8 @@ jobs:
         result-encoding: string
         script: |
           const openPRraw = await github.rest.pulls.list({
-            owner: context.repo.owner,
-            repo: context.repo.repo,
+            owner: 'edm00se',
+            repo: 'awesome-board-games',
             state: 'open',
             author: context.payload.sender.login,
           });
