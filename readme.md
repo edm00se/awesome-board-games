@@ -2236,6 +2236,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 4 |        6 | 30-35m |
 
+### [Pallanguzhi](https://en.wikipedia.org/wiki/Pallanguzhi)
+
+> Pallanguzhi or Pallankuli (fourteen pits) is a traditional mancala game played in south India. The game later also spread to as far as Sri Lanka and Malaysia. The game is played by two players, with a wooden board that has fourteen pits in all. There have been several variations in the layout of the pits, one among them being seven pits on each player's side. The pits contain cowry shells, seeds or small pebbles used as counters. It is played on a rectangular board with two rows and seven columns. 12 counters are placed in each cup except the middle of each row into which only 2 counters are placed. The starting player lifts the counters from any of his holes and, going counter-clockwise, distributes one counter in each hole. If he reaches the end of his cups he goes on his opponent's side of the board. When the player drops his last counter, he takes the counter from the next cup and continues placing them in this way. If the last counter falls into a cup with an empty cup beyond, the counters in the cup beyond the empty hole are captured by the player and put into his store. That player then continues play from the next cup containing counters. If the last counter falls into a cup with two empty holes beyond, he captures no counters and his turn is over. The next player continues play in the same way, taking counters from any of his cups and going around placing counters in a counter-clockwise direction. If, after having acounter dropped into it, a counter contains 6 counters, those become the property of the player who dropped it. The round is over when no counters remain.
+
+![Pallanguzhi](https://rukminim2.flixcart.com/image/416/416/jvmpci80/board-game/m/h/k/pallankuzhi-with-shells-and-box-jayam-original-imafggugzjk5q7yb.jpeg?q=70)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|       2 |        5 |   60m+ |
+
 ### [Forest Shuffle](https://boardgamegeek.com/boardgame/391163/forest-shuffle)
 
 > In Forest Shuffle, players compete to gather the most valuable trees, then attract species to these trees, thus creating an ecologically balanced habitat for flora and fauna.To start, each player has six cards in hand, with cards depicting either a particular type of tree or two forest dwellers (animal, plant, mushroom, etc.), with these latter cards being divided in half, whether vertically or horizontally, with one dweller in each card half.On a turn, either draw two cards — whether face down from the deck or face up from the clearing — and add them to your hand, or play a card from your hand by paying the cost, then putting it into play.Each tree and dweller shows a cost, and to pay this cost, you must discard cards from your hand into the clearing face up. If you play a tree, flip the top card of the deck into the clearing, then place the tree in front of you. If you play a dweller, pay only the cost on the dweller you choose, then slide this card under a tree that has an empty side that matches the dweller you want to play. (A tree can have cards played on all four sides of it: top, bottom, left, and right.)
