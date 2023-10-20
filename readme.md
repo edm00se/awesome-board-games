@@ -2236,6 +2236,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 4 |        6 | 30-35m |
 
+### [Living Forest](https://en.wikipedia.org/wiki/Living_Forest_(board_game))
+
+> Living Forest is a 2021 board game designed by Aske Christiansen.Players act as Spirits of Nature to defend trees from being burnt by Onibi. Each turn is split into three phases, the guardian animal phase, the action phase, and attacks by Onibi. In the guardian phase, players draw guardian animal cards to form help lines using a push-your-luck mechanism.The action phase is split into actions that players may perform depending on the symbols on their help line, including gaining fragment tiles, attracting guardian animals, extinguishing a fire, moving on the Circle of Spirits board, or placing a protective tree. However, the strengths of the actions vary depending on symbols on guardian animal cards. For example, players may only extinguish fires for which they have fire symbols. After the action phase, the players have to take penalty cards to their own discard pile, a tree is attacked, and guardian animals are altered. Once a player reaches one of the game thresholds, including planting 12 trees, extinguishing 12 fires or gaining 12 flower symbols, the player ending the game wins.
+
+![Living Forest](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPsHzWlhZvgpR5MB4NhKMACKevOsMif4fALE1Z2ldv7qF2sNHkAITMnq6WMkepW_7btvQ&usqp=CAU)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |       10 |    40m |
+
 ### [Pallanguzhi](https://en.wikipedia.org/wiki/Pallanguzhi)
 
 > Pallanguzhi or Pallankuli (fourteen pits) is a traditional mancala game played in south India. The game later also spread to as far as Sri Lanka and Malaysia. The game is played by two players, with a wooden board that has fourteen pits in all. There have been several variations in the layout of the pits, one among them being seven pits on each player's side. The pits contain cowry shells, seeds or small pebbles used as counters. It is played on a rectangular board with two rows and seven columns. 12 counters are placed in each cup except the middle of each row into which only 2 counters are placed. The starting player lifts the counters from any of his holes and, going counter-clockwise, distributes one counter in each hole. If he reaches the end of his cups he goes on his opponent's side of the board. When the player drops his last counter, he takes the counter from the next cup and continues placing them in this way. If the last counter falls into a cup with an empty cup beyond, the counters in the cup beyond the empty hole are captured by the player and put into his store. That player then continues play from the next cup containing counters. If the last counter falls into a cup with two empty holes beyond, he captures no counters and his turn is over. The next player continues play in the same way, taking counters from any of his cups and going around placing counters in a counter-clockwise direction. If, after having acounter dropped into it, a counter contains 6 counters, those become the property of the player who dropped it. The round is over when no counters remain.
