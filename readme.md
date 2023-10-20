@@ -2208,9 +2208,9 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ![Here I Stand](https://cf.geekdo-images.com/SaJz1vt6j4njvkhDaplSHA__itemrep/img/28KXJz7JsY47i1eKS6TRY_elzYg=/fit-in/246x300/filters:strip_icc()/pic353047.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   2 - 6 |       12 |180-360m |
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   2 - 6 |       12 | 180-360m|
 
 ## Contribute
 
