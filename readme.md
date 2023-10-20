@@ -1475,6 +1475,16 @@
 | ------: | -------: | ------: |
 |   2 - 4 |       12 |    60m |
 
+### [Contigo](https://boardgamegeek.com/boardgame/2545/contigo)
+
+> This game in the 3M Bookshelf Series is a cross between Mancala (a.k.a. Warri, Oh-Wah-Ree, Kalah) and more traditional Checkers-like games. It is played by four players according to the original rules, but can be adapted to be played by just two (the three-player game would be unbalanced).The 6x6 board is surrounded by Mancala-like pits, where pebbles are moved. The number of pebbles in a row/column/diagonal's pits controls how the pawns on the board move.Two sets of rules are supplied: the Alignment game, where you are trying to be the first to align four of your pawns in any six-space row --either horizontally, vertically or diagonally-- without opposing pawns between them, and the more advanced Capture game, where you're trying to capture your opponents' key pawns (kings, really).
+
+![Contigo](https://cf.geekdo-images.com/B2P9bmgJlL87px1_mbSX6g__itemrep/img/6jfkcejPAXdZCyEClQGQtwWLUxQ=/fit-in/246x300/filters:strip_icc()/pic4084792.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   2 - 4 |       12 |    45m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
@@ -2246,6 +2256,68 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 5 |       13 |50-125m |
 
+### [Here I Stand](https://boardgamegeek.com/boardgame/17392/here-i-stand)
+
+> Here I Stand is the first card-driven game to prominently feature secret deal-making. A true six-sided diplomatic struggle, the game places a heavy emphasis on successful alliance-building through negotiations that occur away from the table during the pre-turn Diplomacy Phase. Set during the period in which Niccolò Machiavelli published his masterpiece "The Prince," backstabbing is always possible, especially because the card deck is loaded with event and response cards that can be played by any power to disrupt the plans of the powers in the lead.Here I Stand integrates religion, politics, economics, and diplomacy in a card-driven design. Games vary in length from 3–4 hours for a tournament scenario up to full campaign games that run about twice the time. Rules to play games with 3, 4, or 5 players are also included. The 3-player game is just as well balanced as the standard 6-player configuration, taking advantage of the natural alliances of the period.
+
+![Here I Stand](https://cf.geekdo-images.com/SaJz1vt6j4njvkhDaplSHA__itemrep/img/28KXJz7JsY47i1eKS6TRY_elzYg=/fit-in/246x300/filters:strip_icc()/pic353047.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   2 - 6 |       12 | 180-360m|
+
+### [Space Marine: The Board Game](https://boardgamegeek.com/boardgame/395847/space-marine-board-game)
+
+> In the grim darkness of the 41st Millennium, Humanity is spread thin, fighting a losing battle against enemies all across the galaxy.Space Marine: The Board Game is a thrilling survival game, pitting the noble Lieutenant Titus of the Ultramarines against endless swarms of all-consuming alien horrors!The box is packed with 23 push-fit miniatures, dice, a ruler, a game board, and a 40-page rulebook packed with backstory and missions.You and a friend will take control of either the lone Space Marine, or more than 20 ravenous Tyranids that want to eat him alive.It’s fast-paced action, as Titus fights valiantly to defeat his enemies with superhuman strength and brutal weapons.Can he hold them back, or will the Tyranids overwhelm him in the end?Space Marine: The Board Game represents the perfect foot in the door for anyone who’s completely new to the Warhammer hobby.It’s easy to set up – every model is push-fit – and can be played in around 30 minutes. So if you have friends or family who want to give the worlds of Warhammer a go, this is a brilliant place to start.
+
+![Space Marine: The Board Game](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1kxMoBJRFMOhti-sS_IXqVau-oWahn1XkwQ&usqp=CAU)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|       2 |       12 | 30-60m |
+
+### [Moon](https://boardgamegeek.com/boardgame/358386/moon)
+
+> Moon depicts an almost plausible rush to construct lunar bases that are attractive places to live and work for the people of Earth. The most prestigious base will become the new lunar capital!
+> The game employs the familiar "pick & pass" or "hand drafting" mechanism for players to select a new structure cards to add to their base. Each hand of cards represents a convoy of experts and equipment travelling between the players' outposts, giving the player the choice of one new construction each turn. In a new twist on the genre, each hand always contains one of a number of "Expedition" cards that grant a special free action every turn before passing on to the next player.Wooden lunar rover tokens are a neutral resource that add a worker placement element to the game. They are also used to break ties and so must be used with care.
+> Over the three distinct eras of the game, players compete for majority in 5 aspects of their bases: housing, transportation, science, industry, and food production. At the end of each era, the leader in each of these areas as determined by flag icons on their constructed buildings, collects bonus victory points.
+
+![Moon](https://cf.geekdo-images.com/5S4mv0txfpPBtvttcOThUg__itemrep/img/tDaLiIY58rhlKzdvCnfxf31QTZ0=/fit-in/246x300/filters:strip_icc()/pic6742326.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 5 |       10 | 45-90m |
+
+### [Risk](https://en.wikipedia.org/wiki/Risk_(game))
+
+> ...A strategy game of diplomacy, conflict and conquest. The standard version is played on a board depicting a political map of the world, divided into 42 territories, which are grouped into six continents.
+
+![Risk Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amsterdam_-_Risk_players_-_1136_%28cropped%29.jpg/220px-Amsterdam_-_Risk_players_-_1136_%28cropped%29.jpg)
+
+| Players | Min. Age | Time    |
+| ------: | -------: | ------: |
+|   2 - 6 |       10 | 1hr-5hr |
+
+### [London (Second Edition)](https://boardgamegeek.com/boardgame/236191/london-second-edition)
+
+> A brand new edition of a popular classic, London will appeal to the strategic thinker among board game fans. Tasked with rebuilding London in the decades following the great fire, players juggle building requirements, bank loans, and poverty as they strive to realize their vision for the city.The game features a unique mechanism of playing cards to develop the city, then "running" the city by taking all the card actions simultaneously. Players have to repay all their loans before the game ends, but need to worry only about how much poverty they're creating relative to the other players.
+
+![London (Second Edition)](https://images.tcdn.com.br/img/img_prod/1018249/90_london_second_edition_3583_1_a1994afae39c2d750a11164d6583491d.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |       14 | 60-90m |
+
+### [Project L](https://boardgamegeek.com/boardgame/260180/project-l)
+
+> Project L is a fast-paced, tile-matching brain burner with triple-layer 3D puzzles and lovely acrylic pieces. Challenge your friends to a game of simple design but intricate gameplay that makes a lasting impression!The core of the game lies in using your pieces to complete puzzles. Starting with just two basic pieces, you use three actions every turn to develop a powerful engine. With more pieces of various types, you can efficiently complete even the most difficult puzzles. The puzzles you complete award you points or new pieces to further fuel your engine. Can you outsmart your opponents?
+
+![Project L](https://cf.geekdo-images.com/Zwx2ZXS6r6PaxhkaVEe75Q__itemrep/img/G_vl8CJ7cfz6_zaqp57D6z0YErU=/fit-in/246x300/filters:strip_icc()/pic4309147.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |        8 | 20-40m |
+
 ### [King of Tokyo](https://boardgamegeek.com/boardgame/70323/king-tokyo)
 
 > In King of Tokyo, you play mutant monsters, gigantic robots, and strange aliens—all of whom are destroying Tokyo and whacking each other in order to become the one and only King of Tokyo.At the start of each turn, you roll six dice, which show the following six symbols: 1, 2, or 3 Victory Points, Energy, Heal, and Attack. Over three successive throws, choose whether to keep or discard each die in order to win victory points, gain energy, restore health, or attack other players into understanding that Tokyo is YOUR territory.The fiercest player will occupy Tokyo, and earn extra victory points, but that player can't heal and must face all the other monsters alone! Top this off with special cards purchased with energy that have a permanent or temporary effect, such as the growing of a second head which grants you an additional die, body armor, nova death ray, and more.... and it's one of the most explosive games of the year!In order to win the game, one must either destroy Tokyo by accumulating 20 victory points, or be the only surviving monster once the fighting has ended.
@@ -2389,6 +2461,20 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time   |
 |-------: | -------: | ------:|
 |   2 - 4 |       5  |  20m   |
+
+### [Verdant](https://www.flatout.games/verdant)
+
+> Verdant is a puzzly spatial card game for 1 to 5 players. You take on the role of a houseplant enthusiast trying to create the coziest interior space by collecting and arranging houseplants and other objects within your home. You must position your plants so that they are provided the most suitable light conditions and take care of them to create the most verdant collection.
+
+> Each turn, you select an adjacent pair of a card and token, then use those items to build an ever-expanding tableau of cards that represents your home. You need to keep various objectives in mind as you attempt to increase plant verdancy by making spatial matches and using item tokens to take various nurture actions. You can also build your "green thumb" skills, which allows you to take additional actions to care for your plants and create the coziest space!
+
+> Verdant has beautful artwork from Beth Sobel and was designed by Flatout games who also created Cascadia and Calico.
+
+![Verdant](https://cf.geekdo-images.com/c1XGn5ryzbqgMOHzObZpQw__itemrep/img/4V6iTxz_WDK0EZCA4QSe2qQoTuU=/fit-in/246x300/filters:strip_icc()/pic6094080.png)
+
+| Players | Min. Age | Time   |
+|-------: | -------: | ------:|
+|   1 - 5 |      10  | 45-60m |
 
 ### [Dice Forge](https://boardgamegeek.com/boardgame/194594/dice-forge)
 
