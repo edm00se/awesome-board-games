@@ -22,7 +22,7 @@ jobs:
             state: 'open',
             author: context.payload.sender.login,
           });
-          const openPRs = openPRraw.data.filter(el => el.user.loign === context.payload.sender.login);
+          const openPRs = openPRraw.data.filter(el => el.user.login === context.payload.sender.login);
           console.log(openPRs);
           return openPRs.length;
     - name: Under Threshold
