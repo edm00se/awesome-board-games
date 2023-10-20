@@ -2246,6 +2246,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 4 |        6 | 30-35m |
 
+### [Here I Stand](https://boardgamegeek.com/boardgame/17392/here-i-stand)
+
+> Here I Stand is the first card-driven game to prominently feature secret deal-making. A true six-sided diplomatic struggle, the game places a heavy emphasis on successful alliance-building through negotiations that occur away from the table during the pre-turn Diplomacy Phase. Set during the period in which Niccolò Machiavelli published his masterpiece "The Prince," backstabbing is always possible, especially because the card deck is loaded with event and response cards that can be played by any power to disrupt the plans of the powers in the lead.Here I Stand integrates religion, politics, economics, and diplomacy in a card-driven design. Games vary in length from 3–4 hours for a tournament scenario up to full campaign games that run about twice the time. Rules to play games with 3, 4, or 5 players are also included. The 3-player game is just as well balanced as the standard 6-player configuration, taking advantage of the natural alliances of the period.
+
+![Here I Stand](https://cf.geekdo-images.com/SaJz1vt6j4njvkhDaplSHA__itemrep/img/28KXJz7JsY47i1eKS6TRY_elzYg=/fit-in/246x300/filters:strip_icc()/pic353047.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | ------: |
+|   2 - 6 |       12 | 180-360m|
+
 ### [Space Marine: The Board Game](https://boardgamegeek.com/boardgame/395847/space-marine-board-game)
 
 > In the grim darkness of the 41st Millennium, Humanity is spread thin, fighting a losing battle against enemies all across the galaxy.Space Marine: The Board Game is a thrilling survival game, pitting the noble Lieutenant Titus of the Ultramarines against endless swarms of all-consuming alien horrors!The box is packed with 23 push-fit miniatures, dice, a ruler, a game board, and a 40-page rulebook packed with backstory and missions.You and a friend will take control of either the lone Space Marine, or more than 20 ravenous Tyranids that want to eat him alive.It’s fast-paced action, as Titus fights valiantly to defeat his enemies with superhuman strength and brutal weapons.Can he hold them back, or will the Tyranids overwhelm him in the end?Space Marine: The Board Game represents the perfect foot in the door for anyone who’s completely new to the Warhammer hobby.It’s easy to set up – every model is push-fit – and can be played in around 30 minutes. So if you have friends or family who want to give the worlds of Warhammer a go, this is a brilliant place to start.
