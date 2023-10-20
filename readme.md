@@ -2236,6 +2236,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 4 |        6 | 30-35m |
 
+### [London (Second Edition)](https://boardgamegeek.com/boardgame/236191/london-second-edition)
+
+> A brand new edition of a popular classic, London will appeal to the strategic thinker among board game fans. Tasked with rebuilding London in the decades following the great fire, players juggle building requirements, bank loans, and poverty as they strive to realize their vision for the city.The game features a unique mechanism of playing cards to develop the city, then "running" the city by taking all the card actions simultaneously. Players have to repay all their loans before the game ends, but need to worry only about how much poverty they're creating relative to the other players.
+
+![London (Second Edition)](https://images.tcdn.com.br/img/img_prod/1018249/90_london_second_edition_3583_1_a1994afae39c2d750a11164d6583491d.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |       14 | 60-90m |
+
 ### [Project L](https://boardgamegeek.com/boardgame/260180/project-l)
 
 > Project L is a fast-paced, tile-matching brain burner with triple-layer 3D puzzles and lovely acrylic pieces. Challenge your friends to a game of simple design but intricate gameplay that makes a lasting impression!The core of the game lies in using your pieces to complete puzzles. Starting with just two basic pieces, you use three actions every turn to develop a powerful engine. With more pieces of various types, you can efficiently complete even the most difficult puzzles. The puzzles you complete award you points or new pieces to further fuel your engine. Can you outsmart your opponents?
