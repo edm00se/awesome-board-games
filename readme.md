@@ -2262,7 +2262,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 > Inspired by the 2000-year old wisdom of prominent Indian economist Chanakya, this game enlightens individuals on how to manage money and connect financial knowledge to resourceful opportunities, which are ever-present in today's changing world.
 > The player initially chooses a dream out of various dreams listed on the board. Each dream has a purchase price listed on it. In order to win the game, the player must purchase his/her pre-selected dream.
 
-![Chanakya's Chakkravyuh](https://cf.geekdo-images.com/zx1bljBmRT8lXv0uweZOug__imagepagezoom/img/VaH31sr0ZIrbgCyOmkCGsmLp7R0=/fit-in/246x300/filters:no_upscale():strip_icc()/pic1944811.jpg)
+![Chanakya's Chakkravyuh](https://www.chanakyaschakkravyuh.com/wp-content/uploads/2016/01/LC-Box-Front-1-300x220.jpg)
 
 | Players | Min. Age | Time   |
 |-------: | -------: | ------:|
