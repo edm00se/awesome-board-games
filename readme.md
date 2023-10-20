@@ -2420,6 +2420,20 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |-------: | -------: | ------:|
 |   2 - 4 |       5  |  20m   |
 
+### [Verdant](https://www.flatout.games/verdant)
+
+> Verdant is a puzzly spatial card game for 1 to 5 players. You take on the role of a houseplant enthusiast trying to create the coziest interior space by collecting and arranging houseplants and other objects within your home. You must position your plants so that they are provided the most suitable light conditions and take care of them to create the most verdant collection.
+
+> Each turn, you select an adjacent pair of a card and token, then use those items to build an ever-expanding tableau of cards that represents your home. You need to keep various objectives in mind as you attempt to increase plant verdancy by making spatial matches and using item tokens to take various nurture actions. You can also build your "green thumb" skills, which allows you to take additional actions to care for your plants and create the coziest space!
+
+> Verdant has beautful artwork from Beth Sobel and was designed by Flatout games who also created Cascadia and Calico.
+
+![Verdant](https://cf.geekdo-images.com/c1XGn5ryzbqgMOHzObZpQw__itemrep/img/4V6iTxz_WDK0EZCA4QSe2qQoTuU=/fit-in/246x300/filters:strip_icc()/pic6094080.png)
+
+| Players | Min. Age | Time   |
+|-------: | -------: | ------:|
+|   1 - 5 |      10  | 45-60m |
+
 ### [Dice Forge](https://boardgamegeek.com/boardgame/194594/dice-forge)
 
 > Dice Forge is a unique and exciting board game that challenges players to become gods by defeating their rivals. In this game, players are given divine dice that they can customize by snapping new faces onto them. The game combines some of the best mechanics of resource collection, dice rolling, and ability usage, making it a fun and engaging experience for players of all ages. To set up the game, players choose a hero and take a reserve board and four tracking cubes in their color, and start everything off at zero.
