@@ -1648,6 +1648,17 @@
 | ------: | -------: | -----: |
 |  3 - 10 |       18 | 30-90m |
 
+### [The Lord of the Rings: Journeys in Middle-Earth](https://boardgamegeek.com/boardgame/269385/lord-rings-journeys-middle-earth)
+
+> Embark on your own adventures in J.R.R. Tolkien's iconic world with The Lord of the Rings: Journeys in Middle-Earth, a fully co-operative, app-supported board game for one to five players! You'll battle villainous foes, make courageous choices, and strike a blow against the evil that threatens the land — all as part of a thrilling campaign that leads you across the storied hills and dales of Middle-Earth.
+>
+> Each individual game of Journeys in Middle-Earth is a single adventure in a larger campaign. You'll explore the vast and dynamic landscapes of Middle-earth, using your skills to survive the challenges that you encounter on these perilous quests. As you and your fellow heroes explore the wilderness and battle the dark forces arrayed against you, the game's companion app guides you to reveal the looming forests, quiet clearings, and ancient halls of Middle-Earth, while also controlling the enemies you encounter. Whether you're venturing into the wild on your own or with close companions by your side, you can write your own legend in the history of Middle-Earth.
+
+![The Lord of the Rings: Journeys in Middle-Earth game image](https://cf.geekdo-images.com/1XA2-niwTBa0HEB7hOz3Dw__itemrep/img/_ITP3pPZx-TQoUYwXoBOLvUboSw=/fit-in/246x300/filters:strip_icc()/pic4530974.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|  1 - 5 |       14 | 60-120m |
 
 ### [On Mars](https://boardgamegeek.com/boardgame/184267/mars)
 
