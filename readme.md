@@ -522,6 +522,30 @@
 | ------: | -------: | -----: |
 |   1 - 100 |        10 | 30-45m |
 
+### [Tide of Fortune](https://boardgamegeek.com/boardgame/3354/tide-fortune)
+
+> This is an evolution of the Westwar series first introduced by Vanguard Games with Pas de Calais. Other games using a similar system are To the Far Shore and the Italian Campaign series (Sicily, Salerno, Anzio and Med War).
+>
+> Tide of Fortune features the September-October Allied campaign in northern Belgium and in the Low countries, culminating with the Arnhem operation.
+>
+> Scale is 1-2 days/turn (variable because of the Impulse system), 3 km/hex. Units are regiments/brigades.
+>
+> The game has 2 22"x34" maps, 300 counters.
+>
+> The heart of the system is the Operations phase where players alternate activating formations (divisions) which execute Orders (Assault, Advance, Maneuver etc.).
+>
+> Players bid for Initiative and there are possibilities for the Reaction player to foil the initiative player's moves by having units react and do spoiling attacks.
+>
+> Losses can be applied to the HQ of a formation, not only directly to units.
+>
+> Low counter density, high maneuver. Medium-high complexity.
+
+<img src="https://cf.geekdo-images.com/vkDLqn-CMvTelKH0BvBBRA__imagepage/img/k2e0JHeSt5AwvNJco2rzFAXXaKM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3446255.jpg" width="270" height="285">
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|    1 -2 |      12  |   360m  |
+
 ### [Talisman](https://boardgamegeek.com/boardgame/714/talisman)
 
 > Talisman takes you on a journey through magical lands, as you endeavor to reclaim the Crown of Command.
@@ -814,6 +838,16 @@
 | Players | Min. Age |  Time   |
 | ------: | -------: | -----:  |
 |       2 |        8 | 30-120m |
+
+### [Lotería](https://boardgamegeek.com/boardgame/5878/loteria)
+
+> Lotería (Spanish word meaning "lottery") is a traditional game of chance, similar to bingo, but using images on a deck of cards instead of numbered ping pong balls. Every image has a name and an assigned number, but the number is usually ignored. Each player has at least one tabla, a board with a randomly created 4 x 4 grid of pictures with their corresponding name and number. Players choose a tabla (Spanish word for "board") to play with, from a variety of previously created tablas, each with a different selection of images.
+
+![Lotería image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Loteria_boards.jpg/330px-Loteria_boards.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | -----:  |
+|       2 |        8 |     20m |
 
 ### [Carcassonne](https://en.wikipedia.org/wiki/Carcassonne_(board_game))
 
@@ -2211,6 +2245,76 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
 |   1 - 4 |       12 |60-150m |
+
+### [Sky Team](https://boardgamegeek.com/boardgame/373106/sky-team)
+
+> Sky Team is a co-operative game, exclusively for two players, in which you play a pilot and co-pilot at the controls of an airliner. Your goal is to work together as a team to land your airplane in different airports around the world.To land your plane, you need to silently assign your dice to the correct spaces in your cockpit to balance the axis of your plane, control its speed, deploy the flaps, extend the landing gear, contact the control tower to clear your path, and even have a little coffee to improve your concentration enough to change the value of your dice.If the aircraft tilts too much and stalls, overshoots the airport, or collides with another aircraft, you lose the game...and your pilot's license...and probably your life.From Montreal to Tokyo, each airport offers its own set of challenges. Watch out for the turbulence as this could end up being bumpy ride!
+
+![Sky team](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfrVxx7Bo4gxSJggmQ3DsByCeAnzOuFhTGcS77p7knap5rvI7SUJB8afRLRolM-9eb1JM&usqp=CAU)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|       2 |        12 |   15m |
+
+### [Living Forest](https://en.wikipedia.org/wiki/Living_Forest_(board_game))
+
+> Living Forest is a 2021 board game designed by Aske Christiansen.Players act as Spirits of Nature to defend trees from being burnt by Onibi. Each turn is split into three phases, the guardian animal phase, the action phase, and attacks by Onibi. In the guardian phase, players draw guardian animal cards to form help lines using a push-your-luck mechanism.The action phase is split into actions that players may perform depending on the symbols on their help line, including gaining fragment tiles, attracting guardian animals, extinguishing a fire, moving on the Circle of Spirits board, or placing a protective tree. However, the strengths of the actions vary depending on symbols on guardian animal cards. For example, players may only extinguish fires for which they have fire symbols. After the action phase, the players have to take penalty cards to their own discard pile, a tree is attacked, and guardian animals are altered. Once a player reaches one of the game thresholds, including planting 12 trees, extinguishing 12 fires or gaining 12 flower symbols, the player ending the game wins.
+
+![Living Forest](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPsHzWlhZvgpR5MB4NhKMACKevOsMif4fALE1Z2ldv7qF2sNHkAITMnq6WMkepW_7btvQ&usqp=CAU)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |       10 |    40m |
+
+### [Pallanguzhi](https://en.wikipedia.org/wiki/Pallanguzhi)
+
+> Pallanguzhi or Pallankuli (fourteen pits) is a traditional mancala game played in south India. The game later also spread to as far as Sri Lanka and Malaysia. The game is played by two players, with a wooden board that has fourteen pits in all. There have been several variations in the layout of the pits, one among them being seven pits on each player's side. The pits contain cowry shells, seeds or small pebbles used as counters. It is played on a rectangular board with two rows and seven columns. 12 counters are placed in each cup except the middle of each row into which only 2 counters are placed. The starting player lifts the counters from any of his holes and, going counter-clockwise, distributes one counter in each hole. If he reaches the end of his cups he goes on his opponent's side of the board. When the player drops his last counter, he takes the counter from the next cup and continues placing them in this way. If the last counter falls into a cup with an empty cup beyond, the counters in the cup beyond the empty hole are captured by the player and put into his store. That player then continues play from the next cup containing counters. If the last counter falls into a cup with two empty holes beyond, he captures no counters and his turn is over. The next player continues play in the same way, taking counters from any of his cups and going around placing counters in a counter-clockwise direction. If, after having acounter dropped into it, a counter contains 6 counters, those become the property of the player who dropped it. The round is over when no counters remain.
+
+![Pallanguzhi](https://rukminim2.flixcart.com/image/416/416/jvmpci80/board-game/m/h/k/pallankuzhi-with-shells-and-box-jayam-original-imafggugzjk5q7yb.jpeg?q=70)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|       2 |        5 |   60m+ |
+
+### [Forest Shuffle](https://boardgamegeek.com/boardgame/391163/forest-shuffle)
+
+> In Forest Shuffle, players compete to gather the most valuable trees, then attract species to these trees, thus creating an ecologically balanced habitat for flora and fauna.To start, each player has six cards in hand, with cards depicting either a particular type of tree or two forest dwellers (animal, plant, mushroom, etc.), with these latter cards being divided in half, whether vertically or horizontally, with one dweller in each card half.On a turn, either draw two cards — whether face down from the deck or face up from the clearing — and add them to your hand, or play a card from your hand by paying the cost, then putting it into play.Each tree and dweller shows a cost, and to pay this cost, you must discard cards from your hand into the clearing face up. If you play a tree, flip the top card of the deck into the clearing, then place the tree in front of you. If you play a dweller, pay only the cost on the dweller you choose, then slide this card under a tree that has an empty side that matches the dweller you want to play. (A tree can have cards played on all four sides of it: top, bottom, left, and right.)
+
+![Forest Shuffle](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk96Soxg16hec_i8-hs_hOnxn7dNJhRFfqBfomV7lc48kaTczCHxUyWCJw2GGZwfQzOl4&usqp=CAU)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 5 |       10 | 40-60m |
+
+### [Frosthaven](https://boardgamegeek.com/boardgame/295770/frosthaven)
+
+> Frosthaven is a standalone adventure from the designer and publisher of Gloomhaven that features sixteen new characters, three new races, more than twenty new enemies, more than one hundred new items, and a new, 100-scenario campaign. Characters and items from Gloomhaven will be usable in Frosthaven, and vice versa.In addition to having the well-known combat mechanisms of Gloomhaven, Frosthaven will feature much more to do outside of combat, such as numerous mysteries to solve, a seasonal event system to live through, and player control over how this ramshackle village expands, with each new building offering new ways to progress.Frosthaven has a whole new set of items but there is a mechanic for bringing items over from 'Gloomhaven'. However, as it is a remote location, these products get imported and are not there as standard. Resources are much more valuable and you have to build items through a crafting system rather than just buy them.
+
+![Frosthaven](https://cf.geekdo-images.com/iEBr5o8AbJi9V9cgQcYROQ__itemrep/img/Z2XUvMkSdxK4qiewCLTJvUl41gA=/fit-in/246x300/filters:strip_icc()/pic6177719.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |       14 |30-120m |
+
+### [Outfoxed](https://boardgamegeek.com/boardgame/172931/outfoxed)
+
+> This game is like Clue but for younger kids – and yet still fun for adults too. A fox stole a pot pie, and you have to figure out which fox it was before they escape into the foxhole. My kids regularly play this cooperative whodunnit game independently, and I love watching them work together as a team to solve the mystery. This is a fun little game to build your child’s logic and deductive reasoning skills!
+
+![Outfoxed](https://upload.wikimedia.org/wikipedia/commons/f/f6/Outfoxed.webp)
+
+| Players | Min. Age | Time   |
+|-------: | -------: | ------:|
+|   2 - 4 |       5  |  20m   |
+
+### [Dice Forge](https://boardgamegeek.com/boardgame/194594/dice-forge)
+
+> Dice Forge is a unique and exciting board game that challenges players to become gods by defeating their rivals. In this game, players are given divine dice that they can customize by snapping new faces onto them. The game combines some of the best mechanics of resource collection, dice rolling, and ability usage, making it a fun and engaging experience for players of all ages. To set up the game, players choose a hero and take a reserve board and four tracking cubes in their color, and start everything off at zero.
+
+![Dice Forge](https://cf.geekdo-images.com/4BTVGQWO0M9ayxyku3FW6Q__itemrep/img/0hqPt1oo9J1GxmHqluUP-QC7xII=/fit-in/246x300/filters:strip_icc()/pic3477004.jpg)
+
+| Players | Min. Age | Time   |
+|-------: | -------: | ------:|
+|   2 - 4 |       10 |  45m   |
 
 ## Contribute
 
