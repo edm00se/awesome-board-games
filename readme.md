@@ -2236,6 +2236,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 4 |        6 | 30-35m |
 
+### [Risk](https://en.wikipedia.org/wiki/Risk_(game))
+
+> ...A strategy game of diplomacy, conflict and conquest. The standard version is played on a board depicting a political map of the world, divided into 42 territories, which are grouped into six continents.
+
+![Risk Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amsterdam_-_Risk_players_-_1136_%28cropped%29.jpg/220px-Amsterdam_-_Risk_players_-_1136_%28cropped%29.jpg)
+
+| Players | Min. Age | Time    |
+| ------: | -------: | ------: |
+|   2 - 6 |       10 | 1hr-5hr |
+
 ### [London (Second Edition)](https://boardgamegeek.com/boardgame/236191/london-second-edition)
 
 > A brand new edition of a popular classic, London will appeal to the strategic thinker among board game fans. Tasked with rebuilding London in the decades following the great fire, players juggle building requirements, bank loans, and poverty as they strive to realize their vision for the city.The game features a unique mechanism of playing cards to develop the city, then "running" the city by taking all the card actions simultaneously. Players have to repay all their loans before the game ends, but need to worry only about how much poverty they're creating relative to the other players.
