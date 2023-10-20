@@ -2517,6 +2517,17 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |-------: | -------: | ------:|
 |   2 - 5 |       13 |  90m   |
 
+### [Imperial Settlers](https://boardgamegeek.com/boardgame/154203/imperial-settlers)
+
+> Imperial Settlers is a card game that lets players lead one of the four factions and build empires by placing buildings, then sending workers to those buildings to acquire new resources and abilities. The game is played over five rounds during which players take various actions in order to explore new lands, build buildings, trade resources, conquer enemies, and thus score victory points.
+
+![Imperial Settlers](https://cf.geekdo-images.com/pRwsvyfsRJ-lWWwVJCdXNg__itemrep/img/fTfXILZ-2FIy12vUC3Fxix3RmzY=/fit-in/246x300/filters:strip_icc()/pic2871265.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |       10 | 45-90m |
+
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
