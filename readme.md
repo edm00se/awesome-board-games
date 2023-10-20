@@ -2236,6 +2236,19 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 4 |        6 | 30-35m |
 
+### [Septima](https://boardgamegeek.com/boardgame/360692/septima)
+
+> Septima is a competitive, highly interactive strategy game of witchcraft. As the leader of your coven, you must prove your worth in the town of Noctenburg to become the successor of Septima, the High Witch. Practice your craft and gain Wisdom by collecting herbs, brewing potions, healing the townsfolk, mastering charms and rescuing your fellow brothers and sisters from the trials.
+> Simultaneous action selection with positive player interaction: Septima’s central mechanism revolves around the simultaneous, secret selection of one of nine Action cards each turn: Move, Collect, Brew, Heal, Recruit, Plea, Chant, Rite and Remember. Each Action gets a powerful bonus if it is chosen by multiple players, but performing them together also raises suspicion in the townsfolk and attracts the attention of the Witch Hunters. Decisions of when to do a shared action (and who to do it with) adds a fresh, semi-cooperative touch to a competitive game, and lots of player interaction.
+> Rescue witches to build your Coven: Heal, enthrall or convince the townsfolk and amass enough support to sway the periodic Witch Trials in your favor. If the hostile witnesses are outvoted, the convicted witch is absolved and joins the coven that rescued them. You start small but you can grow your coven to up to four witches this way, each with their own personality and special ability to help your cause. Reckless Witches caught by Witch Hunters are also put to trial, so with enough support from the townsfolk, even witches from other, less careful players’ coven can end up in yours.
+> Accessible, intuitive and familiar: Septima is Mindclash Games’ most accessible title to date, with beautiful, hand-drawn art style by Villő Farkas and with the character art of Barbara Bernát, wooden components and intuitive, theme-inspired mechanisms. It is very quick to teach and set up, and takes less than 2 hours to play, even with four players.
+
+![Septima](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRKbAxjXO8m6IA7ifrI5o_Q7mP24Lh2lxrYg&usqp=CAU)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |       12 |50-100m |
+
 ### [Evacuation](https://boardgamegeek.com/boardgame/382843/evacuation)
 
 > In Evacuation, life on our planet is being burned away thanks to increasingly intense sunlight, so everyone is trying to move all the people and factories in their territories from the "old" planet to a new one — and they have only four rounds in which to do so.You start the game with a full functioning economy, and over the course of play, you must dismantle that economy and move it. Income on the old planet shrinks over time, and production probably won't be much better until you establish yourself on the new planet and kick things into action. Resources can't be mixed across the planets, so you need to take special care with your planning.To do this, you choose actions from the player board, with the expert variant adding cards to your hand that allow you to choose additional actions and combine them. Each action has its own value, and the sum of these actions is important for an "end of the round" bonus. Additionally, players move their markers along the orbital track based on the value of their actions.If you can raise production of three resources to level 8 and have three virtual reality machines on the new planet, you win.
