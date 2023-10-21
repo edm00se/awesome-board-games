@@ -2507,15 +2507,23 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |-------: | -------: | ------:|
 |   2 - 4 |       10 |  30m   |
 
-### [Kemet](https://boardgamegeek.com/boardgame/127023/kemet)
+### [Civilization](https://boardgamegeek.com/boardgame/71/civilization)
 
-> Kemet is a thrilling and strategic board game set in the mystical world of ancient Egypt. Players take on the roles of different Egyptian tribes vying for dominance. The game is known for its asymmetric powers, offering each tribe unique abilities and strengths. The goal is to build a powerful army, engage in epic battles, and conquer temples to gain victory points. With its rich theme, engaging battles, and diverse strategies, Kemet offers a dynamic and competitive gaming experience, where only the most cunning and powerful tribe will emerge victorious.
+> Civilization is a game of skill for 2 to 7 players. It covers the development of ancient civilizations from the invention of agriculture c. 8000 B.C. to the emergence of Rome around the middle of the third century B.C. Each player leads a nation of peoples over a map board of the Eastern Mediterranean and Near East as they attempt to carve a niche for themselves and their culture.
 
-![Kemet](https://cf.geekdo-images.com/IU-az-0jlIpoUxDHCCclNw__itemrep/img/hk01l3YMGIwS85fFnHjmaonYmnM=/fit-in/246x300/filters:strip_icc()/pic6230640.jpg)
+Although battles and territorial strategy are important, this is not a war game because it is not won by battle or conquest. Instead, the object of play is to gain a level of overall advancement involving cultural, economic, and political factors so that such conflicts that do arise are a result of rivalry and land shortage rather than a desire to eliminate other players. Nomad and farmer, warrior and merchant, artisan and citizen all have an essential part to play in the development of civilization. It is the player who most effectively changes emphasis between these various outlooks who will achieve the best balance and win.
+
+(from the Introduction to the Avalon Hill edition rulebook)
+
+This game has a huge following and is widely regarded as one of the best games about ancient civilizations. Each player takes on the role of leader of an ancient civilization, such as the Illyrians or Babylonians. Your task is to guide your people through the ages by expanding your empire and using its proceeds to finance new technological advances, such as Literacy, Metalworking, or Law. The advancements help your civilization better cope with its problems as well as help bring new advancements.
+
+Civilization is widely thought to be the first game ever to incorporate a "technology tree," allowing players to gain certain items and abilities only after particular other items were obtained. This influential mechanism has been adopted by countless other board games, card games, and computer games.
+
+![Kemet](https://cf.geekdo-images.com/YnRVKSq3NrLKVGPNzcYvqg__itemrep/img/JZ1YkfTOWY-pXkqF4O4JO2zV1R0=/fit-in/246x300/filters:strip_icc()/pic374847.jpg)
 
 | Players | Min. Age | Time   |
 |-------: | -------: | ------:|
-|   2 - 5 |       13 |  90m   |
+|   2 - 7 |       12 |  360m   |
 
 ## Contribute
 
