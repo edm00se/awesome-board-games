@@ -2526,7 +2526,7 @@ Yet a dark shadow grows in the city of Arkham. Alien entities known as Ancient O
 
 | Players | Min. Age | Time   |
 |-------: | -------: | ------:|
-|   1 - 8 |       14 |120–240m   |
+|   1 - 8 |       14 |120–240m|
 
 ## Contribute
 
