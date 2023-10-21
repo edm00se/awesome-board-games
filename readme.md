@@ -2517,15 +2517,15 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |-------: | -------: | ------:|
 |   2 - 5 |       13 |  90m   |
 
-### [The White Castle](https://boardgamegeek.com/boardgame/371942/white-castle)
+### [Five Tribes](https://boardgamegeek.com/boardgame/157354/five-tribes)
 
->In The White Castle, players control clans in a bid to gain more victory points. They must gather court influence, manage resources, and place workers strategically over three rounds. The game is set in Himeji Castle, Japan, with various zones like the castle interior, gardens, castle walls, and bridges. It offers a mix of resource management, worker placement, and dice actions. Designed by Sheila Santos and Israel Cendrero, known as Llama Dice, the game boasts accessible rules and a rich, strategic depth hidden behind its sleek design.
+> In the fabled Sultanate of Naqala, the old sultan's passing has left control of the realm in contention, as strangers aim to fulfill the oracles' prophecy by shrewdly maneuvering the Five Tribes—Assassins, Elders, Builders, Merchants, and Viziers—across villages, markets, oases, and sacred places. Designed by Bruno Cathala, Five Tribes is a captivating twist on worker placement games, with meeples already in place at the start. As you invoke Djinns and make calculated moves, you must strategically consider when and where to displace the tribes to secure your influence over this legendary city-state, all while weighing different pathways to victory and outmaneuvering your rivals.
 
-![The White Castle](https://cf.geekdo-images.com/qXT1U-nFh9PE8ujfdmI7dA__imagepage/img/zfTFhCz8g6OeJi8V1HkDpaDbSzw=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7754663.jpg)
+![Five Tribes](https://cf.geekdo-images.com/dmo-WD6HZHVUPrbVHunaTw__imagepage/img/6Zrd6v5Z7gukQ-18akZ2hesGr_c=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2055255.jpg)
 
 | Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   1 - 4 |       12 |  80m   |
+|-------: | -------: | ------:|
+|   2 - 4 |       13 | 40–80m |
 
 ## Contribute
 
