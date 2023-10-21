@@ -3,6 +3,8 @@ Submitting this PR means you have:
 - [ ] searched the [readme][readme-url] file and searched the [open pull requests][pr-url] (no duplicates please)
 - [ ] and will follow [the desired format][format-url]
 - [ ] used image links that resolve correctly, are appropriately sized, and are served over HTTPS
+- [ ] read [this year's Hacktoberfest welcome issue](https://github.com/edm00se/awesome-board-games/issues/269)
+- [ ] proised not to `@` me asking for review (I will see the notifications already, no need to add noise)
 
 Once your PR is created, it will trigger a build a GitHub Action (Awesome-Lint). This includes a format linting process, so if there are any issues with the build, please address them.
 
