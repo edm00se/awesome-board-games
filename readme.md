@@ -2517,6 +2517,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |-------: | -------: | ------:|
 |   2 - 5 |       13 |  90m   |
 
+### [The White Castle](https://boardgamegeek.com/boardgame/371942/white-castle)
+
+>In The White Castle, players control clans in a bid to gain more victory points. They must gather court influence, manage resources, and place workers strategically over three rounds. The game is set in Himeji Castle, Japan, with various zones like the castle interior, gardens, castle walls, and bridges. It offers a mix of resource management, worker placement, and dice actions. Designed by Sheila Santos and Israel Cendrero, known as Llama Dice, the game boasts accessible rules and a rich, strategic depth hidden behind its sleek design.
+
+![The White Castle](https://cf.geekdo-images.com/qXT1U-nFh9PE8ujfdmI7dA__imagepage/img/zfTFhCz8g6OeJi8V1HkDpaDbSzw=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7754663.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |       12 |  80m   |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
