@@ -2520,6 +2520,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 ### [Dominion](https://boardgamegeek.com/boardgame/36218/dominion)
 
 > Dominion is a strategic deck-building board game that transports players to the medieval era, where they wield the power to shape their own dominion. With an ever-expanding array of kingdom cards representing economic, military, and political facets, players craft their decks to conquer provinces and accumulate victory points. The game's modular design ensures endless strategic permutations, challenging players to navigate the delicate balance between growth and defense. In the end, Dominion is not just a game of cards; it's a dynamic journey through the complexities of empire-building, where each decision influences the rise or fall of your dominion.
+
 ![Dominion](https://cf.geekdo-images.com/j6iQpZ4XkemZP07HNCODBA__itemrep/img/_QiaiFj-LGZoqdatE-wVqNaYWx8=/fit-in/246x300/filters:strip_icc()/pic394356.jpg)
 
 | Players | Min. Age | Time   |
