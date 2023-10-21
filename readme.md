@@ -2517,6 +2517,17 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |-------: | -------: | ------:|
 |   2 - 5 |       13 |  90m   |
 
+### [Arkham Horror](https://boardgamegeek.com/boardgame/15987/arkham-horror)
+
+> The year is 1926, and it is the height of the Roaring Twenties. Flappers dance till dawn in smoke-filled speakeasies drinking alcohol supplied by rum runners and the mob. It's a celebration to end all celebrations in the aftermath of the war to end all wars.
+Yet a dark shadow grows in the city of Arkham. Alien entities known as Ancient Ones lurk in the emptiness beyond space and time, writhing at the gates between worlds. These gates have begun to open and must be closed before the Ancient Ones make our world their ruined domination.
+
+![Arkham ](https://cf.geekdo-images.com/9cJf4kd_HZQo6NunfJlo9w__itemrep/img/d7sT40CRGgKcClC_UjTlanbRrUU=/fit-in/246x300/filters:strip_icc()/pic175966.jpg)
+
+| Players | Min. Age | Time   |
+|-------: | -------: | ------:|
+|   1 - 8 |       14 |120–240m   |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
