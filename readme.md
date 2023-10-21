@@ -2517,6 +2517,20 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |-------: | -------: | ------:|
 |   2 - 5 |       13 |  90m   |
 
+### [Amerigo](https://boardgamegeek.com/boardgame/137408/amerigo)
+
+> In Amerigo, the players help Amerigo Vespucci on his journey to discover new land. The players explore the islands of South America, secure trading routes, and build settlements.
+
+The actions available to players are determined through the use of a specialized cube tower, which has appeared in the Queen titles Im Zeichen des Kreuzes and Wallenstein. At the start of the game, this tower is seeded with action cubes, which come in seven colors, with each color matching a particular type of action. During the game players will drop additional action cubes into the tower – but some of these cubes might get stuck in the floors of the tower while other cubes already in the tower are knocked free. Thus, players need to play both tactically – taking advantage of the actions currently available in the best way possible – and strategically – using their knowledge of which actions do what to play well over the course of the game.
+
+The game board is composed of nine, twelve or sixteen tiles, depending on the number of players. Players sail their ships through the landscape created for this game, landing on islands to plan and build settlements, which then supply resources and allow the player to earn victory points. Players might want to invest in cannons to protect themselves from pirates roaming the waters or acquire progress tokens to gain special advantages.
+
+![Amerigo](https://cf.geekdo-images.com/CPTCRbcUGvW-gepKwTvjSg__itemrep/img/f-hyime0OFz0aZNowaIxDKxt2fM=/fit-in/246x300/filters:strip_icc()/pic1824151.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |       10 |    90m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
