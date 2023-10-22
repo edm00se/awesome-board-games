@@ -37,8 +37,8 @@ jobs:
           const message = `You already have ${prCount-1} other open pull requests. Please focus on completing those before opening new ones. Do not open additional PRs until those are resolved.`;
           await github.rest.issues.createComment({
             issue_number: context.issue.number,
-            owner: context.repo.owner,
-            repo: context.repo.repo,
+            owner: 'edm00se',
+            repo: 'awesome-board-games',
             body: message
           });
           core.setFailed(message);
