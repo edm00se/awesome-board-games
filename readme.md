@@ -2528,6 +2528,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |-------: | -------: | ------:|
 |   2 - 5 |       13 |  90m   |
 
+### [Arkham Horror](https://boardgamegeek.com/boardgame/15987/arkham-horror)
+
+> The year is 1926, and it is the height of the Roaring Twenties. Flappers dance till dawn in smoke-filled speakeasies drinking alcohol supplied by rum runners and the mob. It's a celebration to end all celebrations in the aftermath of the war to end all wars.Yet a dark shadow grows in the city of Arkham. Alien entities known as Ancient Ones lurk in the emptiness beyond space and time, writhing at the gates between worlds. These gates have begun to open and must be closed before the Ancient Ones make our world their ruined domination.
+
+![Arkham ](https://cf.geekdo-images.com/9cJf4kd_HZQo6NunfJlo9w__itemrep/img/d7sT40CRGgKcClC_UjTlanbRrUU=/fit-in/246x300/filters:strip_icc()/pic175966.jpg)
+
+| Players | Min. Age | Time   |
+|-------: | -------: | ------:|
+|   1 - 8 |       14 |120–240m|
+
 ### [Zombie Kidz Evolution](https://boardgamegeek.com/boardgame/256952/zombie-kidz-evolution)
 
 > Zombie Kidz Evolution is the first "legacy"-style game for kids, with basic gameplay similar to the 2013 title Zombie Kidz — but things will quickly evolve!.In the game, the young players are at school when zombies start to attack, infiltrating the entryways, then barring the way to classrooms. Players move through rooms and entryways to eliminate zombies and keep the zombie reserve full. If a zombie must enter the school but none are available, then the school has been overrun and the players lose. To win the game, players need to lock each of the four entryways as apparently the custodian has abandoned the post and given up the school for lost. As players get better, they can complete missions, track their development through a trophy-sticker system reminiscent of video games, and open envelopes that contain new material for the game, upping the challenge they face while also providing them with new powers and new heroes as well.
