@@ -2509,17 +2509,9 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### [Civilization](https://boardgamegeek.com/boardgame/71/civilization)
 
-> Civilization is a game of skill for 2 to 7 players. It covers the development of ancient civilizations from the invention of agriculture c. 8000 B.C. to the emergence of Rome around the middle of the third century B.C. Each player leads a nation of peoples over a map board of the Eastern Mediterranean and Near East as they attempt to carve a niche for themselves and their culture.
+> Civilization is a game of skill for 2 to 7 players. It covers the development of ancient civilizations from the invention of agriculture c. 8000 B.C. to the emergence of Rome around the middle of the third century B.C. Each player leads a nation of peoples over a map board of the Eastern Mediterranean and Near East as they attempt to carve a niche for themselves and their culture.Although battles and territorial strategy are important, this is not a war game because it is not won by battle or conquest. Instead, the object of play is to gain a level of overall advancement involving cultural, economic, and political factors so that such conflicts that do arise are a result of rivalry and land shortage rather than a desire to eliminate other players. Nomad and farmer, warrior and merchant, artisan and citizen all have an essential part to play in the development of civilization. It is the player who most effectively changes emphasis between these various outlooks who will achieve the best balance and win.
 
-Although battles and territorial strategy are important, this is not a war game because it is not won by battle or conquest. Instead, the object of play is to gain a level of overall advancement involving cultural, economic, and political factors so that such conflicts that do arise are a result of rivalry and land shortage rather than a desire to eliminate other players. Nomad and farmer, warrior and merchant, artisan and citizen all have an essential part to play in the development of civilization. It is the player who most effectively changes emphasis between these various outlooks who will achieve the best balance and win.
-
-(from the Introduction to the Avalon Hill edition rulebook)
-
-This game has a huge following and is widely regarded as one of the best games about ancient civilizations. Each player takes on the role of leader of an ancient civilization, such as the Illyrians or Babylonians. Your task is to guide your people through the ages by expanding your empire and using its proceeds to finance new technological advances, such as Literacy, Metalworking, or Law. The advancements help your civilization better cope with its problems as well as help bring new advancements.
-
-Civilization is widely thought to be the first game ever to incorporate a "technology tree," allowing players to gain certain items and abilities only after particular other items were obtained. This influential mechanism has been adopted by countless other board games, card games, and computer games.
-
-![Kemet](https://cf.geekdo-images.com/YnRVKSq3NrLKVGPNzcYvqg__itemrep/img/JZ1YkfTOWY-pXkqF4O4JO2zV1R0=/fit-in/246x300/filters:strip_icc()/pic374847.jpg)
+![Civilization](https://cf.geekdo-images.com/YnRVKSq3NrLKVGPNzcYvqg__itemrep/img/JZ1YkfTOWY-pXkqF4O4JO2zV1R0=/fit-in/246x300/filters:strip_icc()/pic374847.jpg)
 
 | Players | Min. Age | Time   |
 |-------: | -------: | ------:|
