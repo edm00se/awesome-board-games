@@ -2528,6 +2528,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |-------: | -------: | ------:|
 |   2 - 5 |       13 |  90m   |
 
+### [Dominion](https://boardgamegeek.com/boardgame/36218/dominion)
+
+> Dominion is a strategic deck-building board game that transports players to the medieval era, where they wield the power to shape their own dominion. With an ever-expanding array of kingdom cards representing economic, military, and political facets, players craft their decks to conquer provinces and accumulate victory points. The game's modular design ensures endless strategic permutations, challenging players to navigate the delicate balance between growth and defense. In the end, Dominion is not just a game of cards; it's a dynamic journey through the complexities of empire-building, where each decision influences the rise or fall of your dominion.
+
+![Dominion](https://cf.geekdo-images.com/j6iQpZ4XkemZP07HNCODBA__itemrep/img/_QiaiFj-LGZoqdatE-wVqNaYWx8=/fit-in/246x300/filters:strip_icc()/pic394356.jpg)
+
+| Players | Min. Age | Time   |
+|-------: | -------: | ------:|
+|   2 - 4 |       13 |  30m   |
+
 ### [Nemo's War](https://boardgamegeek.com/boardgame/187617/nemos-war-second-edition)
 
 > Jules Verne's classic novel Twenty Thousand Leagues Under the Sea tells the story of Captain Nemo and his astounding ship, the Nautilus. The second edition of Nemo's War, Victory Point Games' popular solitaire offering from designer Chris Taylor, is a greatly enhanced offering featuring mass-production printing and amazing Ian O'Toole art and graphics throughout. Set in year 1870, you set sail in this amazing electric-powered submarine, assuming the role and motive of Captain Nemo as you travel across the seas on missions of science, exploration, anti-Imperialism, and War! With this supercharged second edition of Nemo's War, prepare yourself for the adventure of a lifetime!
