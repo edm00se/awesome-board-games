@@ -797,6 +797,19 @@
 | ------: | -------: | ------: |
 |   1 - 4 |       15 | 30-120m |
 
+### [Caylus](https://boardgamegeek.com/boardgame/18602/caylus)
+
+> The players embody master builders. By building the King's castle and developing the city around it, they earn prestige points and gain the King's favor. When the castle is finished, the player who has earned the most prestige wins the game. The expansion Caylus Expansion: The Jeweller was included in the 2nd Edition.
+
+> Each turn, players pay to place their workers in various buildings in the village. These buildings allow players to gather resources or money, or to build or upgrade buildings with those resources. Players can also use their resources to help build the castle itself, earning points and favors from the king, which provide larger bonuses. Building a building provides some immediate points, and potentially income throughout the game, since players receive bonuses when others use their buildings. The buildings chosen by the players have a heavy impact on the course of the game, since they determine the actions that will be available to all the players.
+
+![Caylus game image](https://cf.geekdo-images.com/yC7nOSc1x5PT-oNnh6TEcQ__itemrep/img/jVFZ85jsjJHQUXlImoDptZcENP8=/fit-in/246x300/filters:strip_icc()/pic1638795.jpg)
+
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   2 - 5 |       12 | 60-150m |
+
 ### [Clockwork Wars](https://boardgamegeek.com/boardgame/139952/clockwork-wars)
 
 > In Clockwork Wars each player commands a unique race of creatures in a tense war game set in a fantasy-steampunk universe. Take control of the calculating Purebreeds, the industrious Troglodytes, the mighty Rhinochs, or the proud Mongrels. Your goal is to vanquish your foes and accumulate the most victory points through nine turns of play. You earn points by fighting for control of territories that contain valuable natural resources. To win these battles, you need manpower gained by seizing villages and developing them into cities. Invest in research and discover astonishing new technologies, position your troops, research powerful discoveries, employ espionage, and conquer your enemies to win the game!
