@@ -2517,6 +2517,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |-------: | -------: | ------:|
 |   2 - 5 |       13 |  90m   |
 
+### [Nemo's War](https://boardgamegeek.com/boardgame/187617/nemos-war-second-edition)
+
+> Jules Verne's classic novel Twenty Thousand Leagues Under the Sea tells the story of Captain Nemo and his astounding ship, the Nautilus. The second edition of Nemo's War, Victory Point Games' popular solitaire offering from designer Chris Taylor, is a greatly enhanced offering featuring mass-production printing and amazing Ian O'Toole art and graphics throughout. Set in year 1870, you set sail in this amazing electric-powered submarine, assuming the role and motive of Captain Nemo as you travel across the seas on missions of science, exploration, anti-Imperialism, and War! With this supercharged second edition of Nemo's War, prepare yourself for the adventure of a lifetime!
+
+![Nemo's War](https://cf.geekdo-images.com/E5DrIRQo7MJS3ww70esx5Q__itemrep/img/pWQb8ILX46F-znillIZ2Kp-K93c=/fit-in/246x300/filters:strip_icc()/pic4892981.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |       13 |60-120m |
+
 ### [Imperial Settlers](https://boardgamegeek.com/boardgame/154203/imperial-settlers)
 
 > Imperial Settlers is a card game that lets players lead one of the four factions and build empires by placing buildings, then sending workers to those buildings to acquire new resources and abilities. The game is played over five rounds during which players take various actions in order to explore new lands, build buildings, trade resources, conquer enemies, and thus score victory points.
