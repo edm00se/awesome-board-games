@@ -1648,6 +1648,17 @@
 | ------: | -------: | -----: |
 |  3 - 10 |       18 | 30-90m |
 
+### [The Lord of the Rings: Journeys in Middle-Earth](https://boardgamegeek.com/boardgame/269385/lord-rings-journeys-middle-earth)
+
+> Embark on your own adventures in J.R.R. Tolkien's iconic world with The Lord of the Rings: Journeys in Middle-Earth, a fully co-operative, app-supported board game for one to five players! You'll battle villainous foes, make courageous choices, and strike a blow against the evil that threatens the land — all as part of a thrilling campaign that leads you across the storied hills and dales of Middle-Earth.
+>
+> Each individual game of Journeys in Middle-Earth is a single adventure in a larger campaign. You'll explore the vast and dynamic landscapes of Middle-earth, using your skills to survive the challenges that you encounter on these perilous quests. As you and your fellow heroes explore the wilderness and battle the dark forces arrayed against you, the game's companion app guides you to reveal the looming forests, quiet clearings, and ancient halls of Middle-Earth, while also controlling the enemies you encounter. Whether you're venturing into the wild on your own or with close companions by your side, you can write your own legend in the history of Middle-Earth.
+
+![The Lord of the Rings: Journeys in Middle-Earth game image](https://cf.geekdo-images.com/1XA2-niwTBa0HEB7hOz3Dw__itemrep/img/_ITP3pPZx-TQoUYwXoBOLvUboSw=/fit-in/246x300/filters:strip_icc()/pic4530974.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|  1 - 5 |       14 | 60-120m |
 
 ### [On Mars](https://boardgamegeek.com/boardgame/184267/mars)
 
@@ -2526,6 +2537,36 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time   |
 |-------: | -------: | ------:|
 |   2 - 4 |       13 |  30m   |
+
+### [Nemo's War](https://boardgamegeek.com/boardgame/187617/nemos-war-second-edition)
+
+> Jules Verne's classic novel Twenty Thousand Leagues Under the Sea tells the story of Captain Nemo and his astounding ship, the Nautilus. The second edition of Nemo's War, Victory Point Games' popular solitaire offering from designer Chris Taylor, is a greatly enhanced offering featuring mass-production printing and amazing Ian O'Toole art and graphics throughout. Set in year 1870, you set sail in this amazing electric-powered submarine, assuming the role and motive of Captain Nemo as you travel across the seas on missions of science, exploration, anti-Imperialism, and War! With this supercharged second edition of Nemo's War, prepare yourself for the adventure of a lifetime!
+
+![Nemo's War](https://cf.geekdo-images.com/E5DrIRQo7MJS3ww70esx5Q__itemrep/img/pWQb8ILX46F-znillIZ2Kp-K93c=/fit-in/246x300/filters:strip_icc()/pic4892981.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |       13 |60-120m |
+
+### [Imperial Settlers](https://boardgamegeek.com/boardgame/154203/imperial-settlers)
+
+> Imperial Settlers is a card game that lets players lead one of the four factions and build empires by placing buildings, then sending workers to those buildings to acquire new resources and abilities. The game is played over five rounds during which players take various actions in order to explore new lands, build buildings, trade resources, conquer enemies, and thus score victory points.
+
+![Imperial Settlers](https://cf.geekdo-images.com/pRwsvyfsRJ-lWWwVJCdXNg__itemrep/img/fTfXILZ-2FIy12vUC3Fxix3RmzY=/fit-in/246x300/filters:strip_icc()/pic2871265.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |       10 | 45-90m |
+
+### [Space Alert](https://boardgamegeek.com/boardgame/38453/space-alert)
+
+> Space Alert is a cooperative team survival game. Players become crew members of a small spaceship scanning dangerous sectors of the galaxy. The missions last just 10 real-time minutes (hyperspace jump, sector scan, hyperspace jump back) and the only task the players have is to protect their ship. During play, the central computer will announce the presence of various threats on one of the supplied 10 minute soundtracks that also acts as a game timer. The threats vary from space battleships and interceptors to different interstellar monsters and abominations, asteroids or even intruders and malfunctions on the spaceship. Players have to agree who will take care of which task and coordinate their actions (moving around the ship, firing weapons, distributing energy, using battlebots to deal with intruders, launching guided missiles, etc.) in real time to defend the ship. Only a well-working team can survive 10 minutes and make the jump back to safety. The game offers several difficulty levels, huge variability and a unique experience for one to five player teams. One mission lasts only about 30 minutes, including setup and evaluation.
+
+![Space Alert](https://cf.geekdo-images.com/tinE1f2lauIsEL4aC9aU-w__itemrep/img/BOGa_tAkG2aSoCtTlarj2JY4O3A=/fit-in/246x300/filters:strip_icc()/pic384313.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 5 |       12 |    30m |
 
 ## Contribute
 
