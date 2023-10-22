@@ -11,7 +11,7 @@ Guidelines:
 
 ## Seasonal Note for Hacktoberfest / October Submissions
 
-This project has been a proud participant of [Hacktoberfest](https://hacktoberfest.com/) annually since 2018. While participation has generally trended upward in quantity over each year, this year (2023) has seen a significant increase in contributions. I'm all for eager contributors, but the remaining manual aspects of PR review adds up in time spent on reviewing. To help keep things managable, I ask that you:
+This project has been a proud participant of [Hacktoberfest](https://hacktoberfest.com/) annually since 2018. While participation has generally trended upward in quantity over each year, this year (2023) has seen a significant increase in contributions. I'm all for eager contributors, but the remaining manual aspects of PR review adds up in time spent on reviewing. To help keep things manageable, I ask that you:
 
 - take your time reading this doc and any announcement issue I've opened for the year; for this year 2023 that issue is [#269](https://github.com/edm00se/awesome-board-games/issues/269)
 - please leave a link in your PR back to that year's welcome issue, in a PR description or comment just add `#269` at the bottom and it will link automatically
