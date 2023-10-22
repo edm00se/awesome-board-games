@@ -2631,6 +2631,21 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   1 - 5 |       12 |    30m |
 
+### [Falling Koalas](https://boardgamegeek.com/boardgame/270365/falling-koalas)
+
+>Falling Koalas is a card game all about koalas. Drop Bears, as they are affectionately called, are known to eat eucalyptus leaves and sleep all day. Although seemingly cute and cuddly, they attack!
+
+The game involves intense strategy and a bit of luck where players battle to see who will be the last koala hanging. It's easy to learn and takes 10-20 minutes to play.
+
+The game is simple. Be the last koala alive and win the game
+Play cards from your hand and end your turn by drawing a card. If you draw a falling koala card, you fall and are out of the game unless you can save yourself. Strategically play your cards to put yourself in the best position to win or force other players to fall.
+
+![Falling Koalas](https://cf.geekdo-images.com/Z07A3BSaAf4LwRD3TJMkBA__imagepage/img/KnNV0uYMVot3TCQwGmjE5vioilc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6289957.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 5 |       8  | 10-20m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
