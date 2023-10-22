@@ -797,18 +797,18 @@
 | ------: | -------: | ------: |
 |   1 - 4 |       15 | 30-120m |
 
-### [caylus](https://boardgamegeek.com/boardgame/18602/caylus)
+### [Caylus](https://boardgamegeek.com/boardgame/18602/caylus)
 
->The players embody master builders. By building the King's castle and developing the city around it, they earn prestige points and gain the King's favor. When the castle is finished, the player who has earned the most prestige wins the game. The expansion Caylus Expansion: The Jeweller was included in the 2nd Edition.
+> The players embody master builders. By building the King's castle and developing the city around it, they earn prestige points and gain the King's favor. When the castle is finished, the player who has earned the most prestige wins the game. The expansion Caylus Expansion: The Jeweller was included in the 2nd Edition.
 
->Each turn, players pay to place their workers in various buildings in the village. These buildings allow players to gather resources or money, or to build or upgrade buildings with those resources. Players can also use their resources to help build the castle itself, earning points and favors from the king, which provide larger bonuses. Building a building provides some immediate points, and potentially income throughout the game, since players receive bonuses when others use their buildings. The buildings chosen by the players have a heavy impact on the course of the game, since they determine the actions that will be available to all the players.
+> Each turn, players pay to place their workers in various buildings in the village. These buildings allow players to gather resources or money, or to build or upgrade buildings with those resources. Players can also use their resources to help build the castle itself, earning points and favors from the king, which provide larger bonuses. Building a building provides some immediate points, and potentially income throughout the game, since players receive bonuses when others use their buildings. The buildings chosen by the players have a heavy impact on the course of the game, since they determine the actions that will be available to all the players.
 
-![caylus game image](https://cf.geekdo-images.com/yC7nOSc1x5PT-oNnh6TEcQ__itemrep/img/jVFZ85jsjJHQUXlImoDptZcENP8=/fit-in/246x300/filters:strip_icc()/pic1638795.jpg)
+![Caylus game image](https://cf.geekdo-images.com/yC7nOSc1x5PT-oNnh6TEcQ__itemrep/img/jVFZ85jsjJHQUXlImoDptZcENP8=/fit-in/246x300/filters:strip_icc()/pic1638795.jpg)
 
 
 | Players | Min. Age |    Time |
 | ------: | -------: | ------: |
-|   1 - 4 |       12 | 60-150m |
+|   2 - 5 |       12 | 60-150m |
 
 ### [Clockwork Wars](https://boardgamegeek.com/boardgame/139952/clockwork-wars)
 
