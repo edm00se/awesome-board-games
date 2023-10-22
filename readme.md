@@ -2528,6 +2528,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |-------: | -------: | ------:|
 |   2 - 5 |       13 |  90m   |
 
+### [Diplomacy](https://boardgamegeek.com/boardgame/483/diplomacy) 
+
+> This classic game of pure negotiation has taken many forms over the years. The first The Avalon Hill Game Co version has perhaps the widest release, but Avalon Hill re-released the game in 1999, complete with a colorful new map and metal pieces. In 2008, Avalon Hill released a 50th anniversary edition with a new map and cardboard pieces representing the armies and navies.In the game, players represent one of the seven "Great Powers of Europe" (Great Britain, France, Austria-Hungary, Germany, Italy, Russia or Turkey) in the years prior to World War I. Play begins in the Spring of 1901, and players make both Spring and Autumn moves each year. There are only two kinds of military units: armies and fleets. On any given turn, each of your military units has limited options: they can move into an adjoining territory, support an allied unit in an attack on an adjoining territory, support an allied unit in defending an adjoining territory, or hold their position. Players instruct each of their units by writing a set of "orders." The outcome of each turn is determined by the rules of the game. There are no dice rolls or other elements of chance. With its incredibly simplistic movement mechanics fused to a significant negotiation element, this system is highly respected by many gamers.
+
+![Diplomacy](https://cf.geekdo-images.com/CGJihifkrZSqW40zElgXkQ__itemrep/img/_dNaGO1i21OAbqm74ng6LkhOG8o=/fit-in/246x300/filters:strip_icc()/pic7376874.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 7 |       12 |   360m |
+
 ### [Amerigo](https://boardgamegeek.com/boardgame/137408/amerigo)
 
 > In Amerigo, the players help Amerigo Vespucci on his journey to discover new land. The players explore the islands of South America, secure trading routes, and build settlements.The actions available to players are determined through the use of a specialized cube tower, which has appeared in the Queen titles Im Zeichen des Kreuzes and Wallenstein. At the start of the game, this tower is seeded with action cubes, which come in seven colors, with each color matching a particular type of action. During the game players will drop additional action cubes into the tower – but some of these cubes might get stuck in the floors of the tower while other cubes already in the tower are knocked free. Thus, players need to play both tactically – taking advantage of the actions currently available in the best way possible – and strategically – using their knowledge of which actions do what to play well over the course of the game.The game board is composed of nine, twelve or sixteen tiles, depending on the number of players. Players sail their ships through the landscape created for this game, landing on islands to plan and build settlements, which then supply resources and allow the player to earn victory points. Players might want to invest in cannons to protect themselves from pirates roaming the waters or acquire progress tokens to gain special advantages.
