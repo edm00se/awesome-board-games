@@ -620,6 +620,19 @@
 | ------: | -------: | -----: |
 |   2 - 4 |        10 | 30m |
 
+### [Dragon Parade](https://boardgamegeek.com/boardgame/270365/falling-koalas)
+
+> Dragon Parade is a simple game by Reiner Knizia which is played on a small, beautifully decorated board depicting Chinese New Year fireworks in and around the Forbidden City.
+> Players alternate playing cards to move the dragon pawn back and forth along the street in front of the Forbidden Palace: red cards to move it one direction, yellow to move it the other. Each player gets a random hand of six movement cards and will play only four of them before the dragon's final position is settled.
+> Players individually deploy their three pawns ("street sellers") somewhere along the red/yellow number line, one at a time after each of the first three cards played, in the effort to be nearest to the dragon once it stops moving. Then coins (VP) are collected by each street seller depending on proximity to the dragon, the top payoff of 5 going only to the pawn on the exact same space.
+> You play as many hands as there are players, with each player going first once. It's a game of groupthink and should move pretty quickly once everyone gives in to the idea that it's not an exact science!
+
+![Dragon Parade](https://cf.geekdo-images.com/nUQwNv5sODJE2s6w7VYxAA__imagepage/img/XQA-Ijk9zXsiLvCX2fNXO6pA-Go=/fit-in/900x600/filters:no_upscale():strip_icc()/pic160319.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 5 |      10  |    30m |
+
 ## Strategy
 
 ### [Blood Rage](https://boardgamegeek.com/boardgame/170216/blood-rage)
