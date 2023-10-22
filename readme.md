@@ -2528,6 +2528,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |-------: | -------: | ------:|
 |   2 - 5 |       13 |  90m   |
 
+### [Zombie Kidz Evolution](https://boardgamegeek.com/boardgame/256952/zombie-kidz-evolution)
+
+> Zombie Kidz Evolution is the first "legacy"-style game for kids, with basic gameplay similar to the 2013 title Zombie Kidz — but things will quickly evolve!.In the game, the young players are at school when zombies start to attack, infiltrating the entryways, then barring the way to classrooms. Players move through rooms and entryways to eliminate zombies and keep the zombie reserve full. If a zombie must enter the school but none are available, then the school has been overrun and the players lose. To win the game, players need to lock each of the four entryways as apparently the custodian has abandoned the post and given up the school for lost. As players get better, they can complete missions, track their development through a trophy-sticker system reminiscent of video games, and open envelopes that contain new material for the game, upping the challenge they face while also providing them with new powers and new heroes as well.
+
+![zombie kidz evolution](https://cf.geekdo-images.com/Iwv0Vg8FXIKlEr8xKsapIQ__itemrep/img/arIztf26YRobgCtw60KgI_pmH8k=/fit-in/246x300/filters:strip_icc()/pic4334067.jpg)
+
+| Players | Min. Age | Time   |
+|-------: | -------: | ------:|
+|   2 - 4 |       7 |  5-15m   |
+
 ### [Lords of Vegas](https://boardgamegeek.com/boardgame/20437/lords-vegas)
 
 > You and your opponents represent powerful developers in a burgeoning Nevada city. You will earn money and prestige by building the biggest and most profitable casinos on "The Strip," the town's backbone of dust and sin. You start with nothing but parking lots and dreams, but from there you build, sprawl, reorganize and gamble your way to victory. Score the most points investing in the most profitable development companies and putting the best bosses in control of the richest casinos. Put your dollars on the line . . . it's time to roll!.The game board is broken into 6 different areas, each consisting of a number of empty 'lots'. Players build lots by paying money and placing a die of the value matching the one shown on the lot's space onto the lot, along with a casino tile of one of 7 colors. Adjoining lots of the same color are considered a single casino. The casino's boss is the player whose die value is higher than any other in the casino. On each players turn, players turn over a new card representing a new lot they get. The card also is one of the casino colors. Any built casinos of the matching color will score both money and points. Money is earned for each lot in the casino, where each lot may be owned by a different player. Points go only to the casino's owner. Players can expand their casinos; try to take over casinos owned by other players; make deals to trade lots, casinos and money; or gamble in opponents' casinos to make more money. Ultimately, though, only points matter, and that means making yourself boss of the biggest casinos.
