@@ -620,7 +620,7 @@
 | ------: | -------: | -----: |
 |   2 - 4 |        10 | 30m |
 
-### [Dragon Parade](https://boardgamegeek.com/boardgame/270365/falling-koalas)
+### [Dragon Parade](https://boardgamegeek.com/boardgame/26472/dragon-parade)
 
 > Dragon Parade is a simple game by Reiner Knizia which is played on a small, beautifully decorated board depicting Chinese New Year fireworks in and around the Forbidden City.
 > Players alternate playing cards to move the dragon pawn back and forth along the street in front of the Forbidden Palace: red cards to move it one direction, yellow to move it the other. Each player gets a random hand of six movement cards and will play only four of them before the dragon's final position is settled.
