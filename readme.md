@@ -2521,7 +2521,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 > In the fabled Sultanate of Naqala, the old sultan's passing has left control of the realm in contention, as strangers aim to fulfill the oracles' prophecy by shrewdly maneuvering the Five Tribes—Assassins, Elders, Builders, Merchants, and Viziers—across villages, markets, oases, and sacred places. Designed by Bruno Cathala, Five Tribes is a captivating twist on worker placement games, with meeples already in place at the start. As you invoke Djinns and make calculated moves, you must strategically consider when and where to displace the tribes to secure your influence over this legendary city-state, all while weighing different pathways to victory and outmaneuvering your rivals.
 
-![Five Tribes](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMAY7PZZw252stLVHsmsR_ig-M8h1j0k_tzQ)
+![Five Tribes](https://cf.geekdo-images.com/dmo-WD6HZHVUPrbVHunaTw__itemrep/img/4RfYsuXBO2FrnJynkXV5zTj7PU4=/fit-in/246x300/filters:strip_icc()/pic2055255.jpg)
 
 | Players | Min. Age | Time   |
 |-------: | -------: | ------:|
