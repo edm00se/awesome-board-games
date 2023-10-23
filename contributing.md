@@ -16,7 +16,7 @@ This project has been a proud participant of [Hacktoberfest](https://hacktoberfe
 - take your time reading this doc and any announcement issue I've opened for the year; for this year 2023 that issue is [#269](https://github.com/edm00se/awesome-board-games/issues/269)
 - please leave a link in your PR back to that year's welcome issue, in a PR description or comment just add `#269` at the bottom and it will link automatically
 - if you have questions, reach out, either in your Pull Request or in that year's welcome issue
-- please limit yourself to no more than a handful of active Pull Requests (roughly 5), this makes it easier not just on me, but also my current free Vercel plan, which does automated preview builds of the submissions to aid in my review
+- please limit yourself to no more than a handful of active Pull Requests (during October, limit to 5 overall, but no more than 2 open at once), this makes it easier not just on me, but also my current free Vercel plan, which does automated preview builds of the submissions to aid in my review
 
 These updates are not meant for anything beyond helping this project deal with its increased popularity this year. Thank you for being a part of it.
 
