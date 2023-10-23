@@ -2644,6 +2644,21 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 5 |       8  | 10-20m |
 
+
+### [Molly House](https://boardgamegeek.com/boardgame/349750/molly-house)
+
+>In Molly House, players take the roles of the gender-defying mollies of early eighteenth century London. Throw grand masquerades and cruise back alleys while evading moralistic constables who seek to destroy your community. Be careful, there may even be informers in your midst!
+
+>Over the course of an hour, players will draft hands of vice cards representing the different gestures, desires, and encounters that were frowned upon by the Society for the Reformation of Manners, a citizen group that sought to stamp out any behavior it deemed deviant in late 17th and early 18th century London. These cards allow players to host festivities with the help of their fellow mollies and create joy. But, those same cards can also lead players to be arrested and to the ultimate ruin of the molly house.
+
+>As players encounter the Society’s enforcers, they will often have to pay bribes or may be coerced into becoming informers for the Society. Informers must try desperately to undermine the community around Mother Clap’s Molly House without being discovered by their fellow mollies.
+
+![Molly House](https://cf.geekdo-images.com/Akqe1uPgxe7Wvu5iqI2qCA__itemrep/img/cBoAdw8pZjIMykhTaubEEk8ItcQ=/fit-in/246x300/filters:strip_icc()/pic7746052.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 5 |      14  | 45-90m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
