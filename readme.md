@@ -2644,6 +2644,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 5 |       8  | 10-20m |
 
+### [Paleo](https://boardgamegeek.com/boardgame/300531/paleo)
+
+> Paleo is a co-operative adventure game set in the stone age, a game in which players try to keep the human beings in their care alive while completing missions. Sometimes you need a fur, sometimes a tent, but these are all minor quests compared to your long-term goal: Painting a woolly mammoth on the wall so that humans thousands of years later will know that you once existed. (Okay, you just think the mammoth painting looks cool. Preserving a record of your past existence is gravy.) Each player starts the game with a couple of humans, who each have a skill and a number of life points. On a turn, each player chooses to go to one location — possibly of the same type as other players, although not the same location — and while you have some idea of what you might find there, you won't know for sure until you arrive, at which point you might acquire food or resources, or find what you need to craft a useful object, or discover that you can help someone else in their project, or suffer a snakebite that brings you close to death.
+
+![Paleo](https://cf.geekdo-images.com/85t1wkwgvh3d2mmjsRcDrw__itemrep/img/5Wx2IlXzKh8HmBD-_5Rm2b1YjO4=/fit-in/246x300/filters:strip_icc()/pic6039256.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |       10 | 45-60m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
