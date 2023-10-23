@@ -2644,6 +2644,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 5 |       8  | 10-20m |
 
+### [Tiny Towns](https://boardgamegeek.com/boardgame/265736/tiny-towns)
+
+> In Tiny Towns, your town is represented by a 4x4 grid on which you will place resource cubes in specific layouts to construct buildings. Each building scores victory points (VPs) in a unique way. When no player can place any more resources or construct any buildings, the game ends, and any squares without a building are worth -1 VP. The player with the most VP wins!
+
+![Tiny Towns](https://cf.geekdo-images.com/aE1EoOzr530gQin8bj8QDA__itemrep/img/GjMIudOJ68knCPVBze1ojLD72Sw=/fit-in/246x300/filters:strip_icc()/pic4460401.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 6 |       14 | 45-60m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
