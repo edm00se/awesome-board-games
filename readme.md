@@ -2648,7 +2648,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 > Thunderstone is a fantasy deck-building game much in the style of Dominion. Before the game starts a selection of Village and Hero cards will be randomnly chosen that players may add to their specific decks. Like Dominion, every player starts with a basic deck of weaker cards that they can use to purchase other more powerful cards. In Thunderstone these cards may be different Heroes such as mages, archers, thieves, or warriors or they may be supplies the heroes need like weapons, rations, or light to reach further into the dungeon.
 
-![Thunderstone](https://cf.geekdo-images.com/pVyy-LSVBIMQ0GUsvsIfww__imagepage/img/T51aJm5xlT5XS7GrPP-I_cF_JnI=/fit-in/900x600/filters:no_upscale():strip_icc()/pic544780.jpg)
+![Thunderstone](https://cf.geekdo-images.com/pVyy-LSVBIMQ0GUsvsIfww__itemrep/img/CAn9h1_likJ6Lq_JtyspJwREDH0=/fit-in/246x300/filters:strip_icc()/pic544780.jpg)
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
