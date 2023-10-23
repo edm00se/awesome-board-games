@@ -2706,8 +2706,8 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ###[Leaving Earth](https://boardgamegeek.com/boardgame/173064/leaving-earth)
 
->Leaving Earth is a game about planning and about managing risk. With even a single grand journey into outer space, you might claim victory in the game. Consequently, it is your job to plan each journey carefully, finding the cheapest, quickest, and safest ways to reach your objective—but do not spend too long preparing, or another nation might reach its goal before you.
->On your turn, you will be conducting research, building spacecraft, and directing journeys into outer space. To conduct research, you buy an advancement that begins with certain flaws, then you test the advancement to find and eliminate those flaws. To build a spacecraft, you purchase components and assemble them into a whole. To travel to outer space, you expend rockets to maneuver from one location to another.
+> Leaving Earth is a game about planning and about managing risk. With even a single grand journey into outer space, you might claim victory in the game. Consequently, it is your job to plan each journey carefully, finding the cheapest, quickest, and safest ways to reach your objective—but do not spend too long preparing, or another nation might reach its goal before you.
+> On your turn, you will be conducting research, building spacecraft, and directing journeys into outer space. To conduct research, you buy an advancement that begins with certain flaws, then you test the advancement to find and eliminate those flaws. To build a spacecraft, you purchase components and assemble them into a whole. To travel to outer space, you expend rockets to maneuver from one location to another.
 
 ![Leaving Earth](https://cf.geekdo-images.com/rpjQ2X1g2fau-VsgAYvo2A__imagepage/img/Lm99iArTysOSeCePVKNyYCABmLs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2624698.jpg)
 
