@@ -2654,6 +2654,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 5 |       8  | 10-20m |
 
+### [Thunderstone](https://boardgamegeek.com/boardgame/53953/thunderstone)
+
+> Thunderstone is a fantasy deck-building game much in the style of Dominion. Before the game starts a selection of Village and Hero cards will be randomnly chosen that players may add to their specific decks. Like Dominion, every player starts with a basic deck of weaker cards that they can use to purchase other more powerful cards. In Thunderstone these cards may be different Heroes such as mages, archers, thieves, or warriors or they may be supplies the heroes need like weapons, rations, or light to reach further into the dungeon.
+
+![Thunderstone](https://cf.geekdo-images.com/pVyy-LSVBIMQ0GUsvsIfww__itemrep/img/CAn9h1_likJ6Lq_JtyspJwREDH0=/fit-in/246x300/filters:strip_icc()/pic544780.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 5 |       12 |    60m |
+
 ### [Skull](https://boardgamegeek.com/boardgame/92415/skull)
 
 > Skull & Roses is the quintessence of bluffing, a game in which everything is played in the players' heads. Each player plays a face-down card, then each player in turn adds one more card – until someone feels safe enough to state that he can turn a number of cards face up and get only roses. Other players can then overbid him, saying they can turn even more cards face up. The highest bidder must then turn that number of cards face up, starting with his own. If he shows only roses, he wins; if he reveals a skull, he loses, placing one of his cards out of play. Two successful challenges wins the game. Skull & Roses is not a game of luck; it's a game of poker face and meeting eyes.
