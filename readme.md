@@ -2644,6 +2644,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 5 |       8  | 10-20m |
 
+### [Skull](https://boardgamegeek.com/boardgame/92415/skull)
+
+> Skull & Roses is the quintessence of bluffing, a game in which everything is played in the players' heads. Each player plays a face-down card, then each player in turn adds one more card – until someone feels safe enough to state that he can turn a number of cards face up and get only roses. Other players can then overbid him, saying they can turn even more cards face up. The highest bidder must then turn that number of cards face up, starting with his own. If he shows only roses, he wins; if he reveals a skull, he loses, placing one of his cards out of play. Two successful challenges wins the game. Skull & Roses is not a game of luck; it's a game of poker face and meeting eyes.
+
+![Skull](https://cf.geekdo-images.com/OPrd2iXm43dir7BwKAMOuQ__itemrep/img/-OqEtnWB7kEI_C_Zq9XkhDYAnNI=/fit-in/246x300/filters:strip_icc()/pic6097488.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   3 - 6 |       10 | 15-45m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
