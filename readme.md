@@ -2704,15 +2704,15 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   1 - 4 |       10 | 30-45m |
 
-###[Tokaido](https://boardgamegeek.com/boardgame/123540/tokaido)
+###[Perudo](https://boardgamegeek.com/boardgame/45/perudo)
 
-> In Tokaido, each player is a traveler crossing the "East sea road", one of the most magnificent roads of Japan. While traveling, you will meet people, taste fine meals, collect beautiful items, discover great panoramas, and visit temples and wild places but at the end of the day, when everyone has arrived at the end of the road you'll have to be the most initiated traveler – which means that you'll have to be the one who discovered the most interesting and varied things.
+> Liar's Dice, a.k.a. Bluff, Perudo or Dudo, is a South American dice game in which each player is given five dice and cup to roll and hide them with. Players make successively higher declarations regarding the results of all the dice remaining in the game, e.g. "there are ten sixes". However, someone can always contest the bid. When that happens, all the dice are revealed and either the bidder or the caller loses dice, depending on who was correct. The last player with dice is the winner.
 
-![Tokaido](https://cf.geekdo-images.com/81z-qIsx51gT1PDRGQ_dDA__imagepage/img/PidNzYGFFJKdBesw_PmXl6Y33_M=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7739376.jpg)
+![Perudo](https://cf.geekdo-images.com/UCiGSoCqbOsXS8JzZZC_SA__imagepage/img/cTPSAk0cWmZ5N-PDbOHPfShnrfY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3949242.png)
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
-|   2 - 5 |         8|    45m |
+|   2 - 6 |         8| 15-30m |
 
 
 ## Contribute
