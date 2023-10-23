@@ -2654,6 +2654,14 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   1 - 5 |       12 |    60m |
 
+### [Forbidden Island](https://boardgamegeek.com/boardgame/65244/forbidden-island)
+> Forbidden Island is a cooperative board game known for its stunning visuals and emphasis on teamwork. Players must work together to collect treasures while preventing the sinking of the island. The game's high-quality components, including durable cards and beautifully designed tiles, contribute to its appeal. With various difficulty levels and character options, it offers significant replay value. Priced affordably at under twenty dollars, it is a rare blend of quality and accessibility. A sequel, Forbidden Desert, was released in 2013, continuing the adventure theme.
+![Forbidden Island](https://cf.geekdo-images.com/JgAkEBUaiHOsOS94iRMs2w__imagepage/img/Wlfw4ELGy7zqNoz13tCvbbFaEBQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic646458.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |       10 |    30m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
