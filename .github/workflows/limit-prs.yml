@@ -1,0 +1,44 @@
+name: Limit Open PRs
+
+on: 
+  pull_request:
+    types: [opened, reopened, synchronize, labeled, unlabeled]
+
+jobs:
+  limit_prs:
+    if: ${{ !contains(github.event.pull_request.labels.*.name, 'hacktoberfest-accepted') }}
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+    steps:
+    - name: Check open pull requests
+      id: get_pr_count
+      uses: actions/github-script@v6
+      with:
+        result-encoding: string
+        script: |
+          const openPRraw = await github.rest.pulls.list({
+            owner: 'edm00se',
+            repo: 'awesome-board-games',
+            state: 'open',
+            author: context.payload.sender.login,
+          });
+          const openPRs = openPRraw.data.filter(el => el.user.login === context.payload.sender.login);
+          // console.log(openPRs);
+          return openPRs.length;
+    - name: Under Threshold
+      if: ${{ steps.get_pr_count.outputs.result <= 2 }}
+      run: "echo User has '${{ steps.get_pr_count.outputs.result }}' counted PRs, including this one. g2g"
+    - name: Fail if too many open PRs
+      if: ${{ steps.get_pr_count.outputs.result > 2 }}
+      uses: actions/github-script@v6
+      with:
+        script: |
+          const prCount = parseInt(${{ steps.get_pr_count.outputs.result }},10);
+          core.setFailed(message);
+    - name: Tell the submitter why it failed
+      uses: mshick/add-pr-comment@v2
+      if: ${{ steps.get_pr_count.outputs.result > 2 }}
+      with: 
+        message: |
+          You now have ${{ steps.get_pr_count.outputs.result }} open pull requests, this exceeds the amount allowed for submissions at one time. Please focus on completing those before opening new ones. Do not open additional PRs until those are resolved.
