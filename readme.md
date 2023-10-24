@@ -2704,6 +2704,15 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   1 - 4 |       10 | 30-45m |
 
+### [Kill Doctor Lucky](https://boardgamegeek.com/boardgame/257/kill-doctor-lucky)
+
+> "Kill Doctor Lucky" is a unique board game where players compete to murder Doctor Lucky, the mansion's owner. Players move through rooms, collect weapon cards, and attempt to eliminate Doctor Lucky while bluffing opponents. The game combines strategy, humor, and a reversed murder-mystery theme for a fun experience. "Kill Doctor Lucky" stands out as a lighthearted and entertaining board game that offers a unique twist on the traditional murder-mystery theme. Players enter a world of colorful rooms, dangerous weapons, and humorous strategies as they vie to commit the murder of Doctor Lucky. This game encourages creative thinking, clever moves, and comical bluffing, making it a delightful choice for board game enthusiasts seeking a humorous and engaging gaming experience.
+
+![Kill Doctor Lucky](https://boardgaming.com/wp-content/uploads/2011/12/killdoctorlucky-title1.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   3 - 8 |       12 |    45m |
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
