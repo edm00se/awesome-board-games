@@ -2714,6 +2714,17 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   1 - 4 |       10 | 30-45m |
 
+### [Perudo](https://boardgamegeek.com/boardgame/45/perudo)
+
+> Liar's Dice, a.k.a. Bluff, Perudo or Dudo, is a South American dice game in which each player is given five dice and cup to roll and hide them with. Players make successively higher declarations regarding the results of all the dice remaining in the game, e.g. "there are ten sixes". However, someone can always contest the bid. When that happens, all the dice are revealed and either the bidder or the caller loses dice, depending on who was correct. The last player with dice is the winner.
+
+![Perudo](https://cf.geekdo-images.com/UCiGSoCqbOsXS8JzZZC_SA__itemrep/img/4LfYxtsu5ylAYZNK7_Qbefe7kqk=/fit-in/246x300/filters:strip_icc()/pic3949242.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 6 |         8| 15-30m |
+
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
