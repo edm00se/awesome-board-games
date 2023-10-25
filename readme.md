@@ -1498,6 +1498,16 @@
 | ------: | -------: | ------: |
 |   2 - 4 |       12 |    45m |
 
+### [Raiders of the North Sea](https://boardgamegeek.com/boardgame/170042/raiders-north-sea)
+
+> Raiders of the North Sea is set in the central years of the Viking Age. As Viking warriors, players seek to impress the Chieftain by raiding unsuspecting settlements. To do so, players need to assemble a crew, collect provisions, and journey north to plunder gold, iron and livestock. Glory can be found in battle, even at the hands of the Valkyrie, so gather your warriors because it's raiding season.
+
+![Raiders of the North Sea](https://github.com/kishanrajput23/awesome-board-games/assets/70385488/a5243a9a-90ca-4955-87ba-807679b2b68b)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |        12 | 80m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
