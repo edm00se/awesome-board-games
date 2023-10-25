@@ -2714,6 +2714,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   1 - 4 |       10 | 30-45m |
 
+### [Kill Doctor Lucky](https://boardgamegeek.com/boardgame/257/kill-doctor-lucky)
+
+> "Kill Doctor Lucky" is a unique board game where players compete to murder Doctor Lucky, the mansion's owner. Players move through rooms, collect weapon cards, and attempt to eliminate Doctor Lucky while bluffing opponents. The game combines strategy, humor, and a reversed murder-mystery theme for a fun experience. "Kill Doctor Lucky" stands out as a lighthearted and entertaining board game that offers a unique twist on the traditional murder-mystery theme. Players enter a world of colorful rooms, dangerous weapons, and humorous strategies as they vie to commit the murder of Doctor Lucky. This game encourages creative thinking, clever moves, and comical bluffing, making it a delightful choice for board game enthusiasts seeking a humorous and engaging gaming experience.
+
+![Kill Doctor Lucky](https://boardgaming.com/wp-content/uploads/2011/12/killdoctorlucky-title1.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   3 - 8 |       12 |    45m |
+
 ### [Perudo](https://boardgamegeek.com/boardgame/45/perudo)
 
 > Liar's Dice, a.k.a. Bluff, Perudo or Dudo, is a South American dice game in which each player is given five dice and cup to roll and hide them with. Players make successively higher declarations regarding the results of all the dice remaining in the game, e.g. "there are ten sixes". However, someone can always contest the bid. When that happens, all the dice are revealed and either the bidder or the caller loses dice, depending on who was correct. The last player with dice is the winner.
@@ -2723,7 +2733,6 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
 |   2 - 6 |         8| 15-30m |
-
 
 ## Contribute
 
