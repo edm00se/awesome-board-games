@@ -1498,6 +1498,16 @@
 | ------: | -------: | ------: |
 |   2 - 4 |       12 |    45m |
 
+### [Raiders of the North Sea](https://boardgamegeek.com/boardgame/170042/raiders-north-sea)
+
+> Raiders of the North Sea is set in the central years of the Viking Age. As Viking warriors, players seek to impress the Chieftain by raiding unsuspecting settlements. To do so, players need to assemble a crew, collect provisions, and journey north to plunder gold, iron and livestock. Glory can be found in battle, even at the hands of the Valkyrie, so gather your warriors because it's raiding season.
+
+![Raiders of the North Sea](https://github.com/kishanrajput23/awesome-board-games/assets/70385488/a5243a9a-90ca-4955-87ba-807679b2b68b)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |        12 | 80m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
@@ -2713,6 +2723,17 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
 |   3 - 8 |       12 |    45m |
+
+### [Perudo](https://boardgamegeek.com/boardgame/45/perudo)
+
+> Liar's Dice, a.k.a. Bluff, Perudo or Dudo, is a South American dice game in which each player is given five dice and cup to roll and hide them with. Players make successively higher declarations regarding the results of all the dice remaining in the game, e.g. "there are ten sixes". However, someone can always contest the bid. When that happens, all the dice are revealed and either the bidder or the caller loses dice, depending on who was correct. The last player with dice is the winner.
+
+![Perudo](https://cf.geekdo-images.com/UCiGSoCqbOsXS8JzZZC_SA__itemrep/img/4LfYxtsu5ylAYZNK7_Qbefe7kqk=/fit-in/246x300/filters:strip_icc()/pic3949242.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 6 |         8| 15-30m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
