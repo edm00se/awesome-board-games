@@ -2728,7 +2728,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 > Keyflower is a strategic board game designed for 2 to 6 players, with four rounds representing the seasons: spring, summer, autumn, and winter. Players begin with a home tile and eight workers, each in red, yellow, or blue, which are used for bidding on tiles and for resource generation and skill acquisition. During spring, summer, and autumn, additional workers with skills related to key resources like iron, stone, and wood arrive, and random village tiles are auctioned. In the winter, no new workers arrive, and players select village tiles for auction, which offer victory points based on combinations of resources, skills, and workers. The player with the most victory points at the end of the winter season wins the game.
 
-![Keyflower](https://cf.geekdo-images.com/HbfgxDJZQnNEZQKvpmJxQg__imagepagezoom/img/01WiIDy6rbtLtwSNIGmzFR3LIXg=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic2278942.jpg)
+![Keyflower](https://cf.geekdo-images.com/HbfgxDJZQnNEZQKvpmJxQg__itemrep/img/1l2Uipp2Xmu0rSHR3nYaEHQarMY=/fit-in/246x300/filters:strip_icc()/pic2278942.jpg)
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
