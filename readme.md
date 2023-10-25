@@ -852,6 +852,16 @@
 | ------: | -------: | -----:  |
 |       2 |        8 | 30-120m |
 
+### [Checkers](https://en.wikipedia.org/wiki/Checkers)
+
+> Checkers, also known as American Draughts, an abstract strategy game where players move disc-shaped pieces across an 8 by 8 cross-hatched ("checker") board. Pieces only move diagonally, and only one space at a time. If a player can move one of his pieces so that it jumps over an adjacent piece of their opponent and into an empty space, that player captures the opponent's disc.
+
+![Checkers image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/CheckersStandard.jpg/250px-CheckersStandard.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | -----:  |
+|       2 |        6 |     30m |
+
 ### [Lotería](https://boardgamegeek.com/boardgame/5878/loteria)
 
 > Lotería (Spanish word meaning "lottery") is a traditional game of chance, similar to bingo, but using images on a deck of cards instead of numbered ping pong balls. Every image has a name and an assigned number, but the number is usually ignored. Each player has at least one tabla, a board with a randomly created 4 x 4 grid of pictures with their corresponding name and number. Players choose a tabla (Spanish word for "board") to play with, from a variety of previously created tablas, each with a different selection of images.
@@ -2713,6 +2723,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
 |   1 - 4 |       10 | 30-45m |
+
+### [Kill Doctor Lucky](https://boardgamegeek.com/boardgame/257/kill-doctor-lucky)
+
+> "Kill Doctor Lucky" is a unique board game where players compete to murder Doctor Lucky, the mansion's owner. Players move through rooms, collect weapon cards, and attempt to eliminate Doctor Lucky while bluffing opponents. The game combines strategy, humor, and a reversed murder-mystery theme for a fun experience. "Kill Doctor Lucky" stands out as a lighthearted and entertaining board game that offers a unique twist on the traditional murder-mystery theme. Players enter a world of colorful rooms, dangerous weapons, and humorous strategies as they vie to commit the murder of Doctor Lucky. This game encourages creative thinking, clever moves, and comical bluffing, making it a delightful choice for board game enthusiasts seeking a humorous and engaging gaming experience.
+
+![Kill Doctor Lucky](https://boardgaming.com/wp-content/uploads/2011/12/killdoctorlucky-title1.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   3 - 8 |       12 |    45m |
 
 ### [Perudo](https://boardgamegeek.com/boardgame/45/perudo)
 
