@@ -815,6 +815,16 @@
 | ------: | -------: | -----:  |
 |       2 |        8 | 30-120m |
 
+### [Mysterium](https://en.wikipedia.org/wiki/Mysterium_(board_game))
+
+> Mysterium is a cooperative board game designed by Oleksandr Nevskiy and Oleg Sidorenko. It blends aspects of murder mystery games and card-based guessing games. One person plays the ghost of a murdered individual who can communicate with the other players only through a series of visions in the form of illustrated cards. The other players, who take the role of psychic mediums, must interpret these cards to identify a suspect, location, and murder weapon. Following its release, Mysterium received positive reviews.
+
+![Mysterium image](https://upload.wikimedia.org/wikipedia/en/5/5e/Mysterium_board_game_cover.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | -----:  |
+|     2–7 |       10 |     42m |
+
 ### [Lotería](https://boardgamegeek.com/boardgame/5878/loteria)
 
 > Lotería (Spanish word meaning "lottery") is a traditional game of chance, similar to bingo, but using images on a deck of cards instead of numbered ping pong balls. Every image has a name and an assigned number, but the number is usually ignored. Each player has at least one tabla, a board with a randomly created 4 x 4 grid of pictures with their corresponding name and number. Players choose a tabla (Spanish word for "board") to play with, from a variety of previously created tablas, each with a different selection of images.
