@@ -351,6 +351,18 @@
 | ------: | -------: | -----: |
 |   2 - 4 |        8 | 30-60m |
 
+### [Mahjong Solitaire](https://www.free-play-mahjong.com/)
+
+>Mahjong Solitaire is a popular single-player tile-matching game, distinct from traditional Mahjong. The objective is to clear the board by matching identical, "open" tiles. Tiles must have no obstructions on their sides or on top. Special tiles, like flowers or seasons, can boost your score. Some versions have a timer, challenging you to clear the board before it runs out. Strategy and planning are crucial for success. It's a relaxing and mentally stimulating game enjoyed by millions.
+
+![Mahjong Solitaire Image](image-1.png)
+
+
+| Players | Min. Age |
+| ------: | -------: |
+|   2 - 4 |        8 | 
+
+
 ### [Tokaido](https://boardgamegeek.com/boardgame/123540/tokaido)
 
 > In Tokaido, each player is a traveler crossing the "East sea road", one of the most magnificent roads of Japan. While traveling, you will meet people, taste fine meals, collect beautiful items, discover great panoramas, and visit temples and wild places but at the end of the day, when everyone has arrived at the end of the road you'll have to be the most initiated traveler – which means that you'll have to be the one who discovered the most interesting and varied things. All of the actions in Tokaido are very simple, and combined with a unique graphic design, Tokaido offers players a peaceful zen mood in its play.
