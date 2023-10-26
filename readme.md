@@ -862,6 +862,16 @@
 | ------: | -------: | -----:  |
 |       2 |        6 |     30m |
 
+### [Chaupar](https://en.wikipedia.org/wiki/Chaupar)
+
+> Chaupar, chopad or chaupad is a cross and circle board game very similar to pachisi, played in Pakistan & Ancient India. The board is made of wool or cloth, with wooden pawns and seven cowry shells to be used to determine each player's move, although others distinguish chaupur from pachisi by the use of three four-sided long dice. Variations are played throughout India. It is similar in some ways to Pachisi, Parcheesi and Ludo. In most of the villages of India, this game is played by old people.
+
+![Chaupar image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Chopat.jpg/330px-Chopat.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | -----:  |
+|       4 |       15 |     30m |
+
 ### [Lotería](https://boardgamegeek.com/boardgame/5878/loteria)
 
 > Lotería (Spanish word meaning "lottery") is a traditional game of chance, similar to bingo, but using images on a deck of cards instead of numbered ping pong balls. Every image has a name and an assigned number, but the number is usually ignored. Each player has at least one tabla, a board with a randomly created 4 x 4 grid of pictures with their corresponding name and number. Players choose a tabla (Spanish word for "board") to play with, from a variety of previously created tablas, each with a different selection of images.
