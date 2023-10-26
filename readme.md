@@ -351,16 +351,16 @@
 | ------: | -------: | -----: |
 |   2 - 4 |        8 | 30-60m |
 
-### [Mahjong Solitaire](https://www.free-play-mahjong.com/)
+### [Mahjong Solitaire](https://boardgamegeek.com/boardgame/67948/mahjong-solitaire)
 
 >Mahjong Solitaire is a popular single-player tile-matching game, distinct from traditional Mahjong. The objective is to clear the board by matching identical, "open" tiles. Tiles must have no obstructions on their sides or on top. Special tiles, like flowers or seasons, can boost your score. Some versions have a timer, challenging you to clear the board before it runs out. Strategy and planning are crucial for success. It's a relaxing and mentally stimulating game enjoyed by millions.
 
 ![Mahjong Solitaire Image](image-1.png)
 
 
-| Players | Min. Age |
-| ------: | -------: |
-|   2 - 4 |        8 | 
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|       1 |        3 |    20m |
 
 
 ### [Tokaido](https://boardgamegeek.com/boardgame/123540/tokaido)
