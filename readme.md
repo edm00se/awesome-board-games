@@ -16,23 +16,19 @@
 
 ## Family
 
-### [Shadows of Brimstone: Swamps of Death (2014)](https://boardgamegeek.com/boardgame/15099shadows-brimstone-swamps-death)
+### [Shadows of Brimstone: Swamps of Death](https://boardgamegeek.com/boardgame/150997/shadows-brimstone-swamps-death)
 
-> Shadows of Brimstone: Swamps of Death is a fast-paced, fully cooperative, dungeon-crawl board game set in the Old West, with a heavy dose of unspeakable horror! Players create characters, taking on the role of a classic Western Hero Archetype, such as the Law Man, Gunslinger, or Saloon Girl. Forming an adventuring posse, the Heroes venture down into the dark mines, overrun with all manner of ancient demons and foul creatures from another world. With tactical gameplay, lots of dice, and a robust card-driven exploration system, no two games are ever the same as the heroes explore the mines finding new enemies to fight, new loot to collect, and new dangers to overcome. Players can even find portals to other worlds, stepping through to continue their adventures on the other side!
+> Shadows of Brimstone: Swamps of Death is a fast-paced, fully cooperative, dungeon-crawl board game set in the Old West, with a heavy dose of unspeakable horror! Players create characters, taking on the role of a classic Western Hero Archetype, such as the Law Man, Gunslinger, or Saloon Girl. Forming an adventuring posse, the Heroes venture down into the dark mines, overrun with all manner of ancient demons and foul creatures from another world. With tactical gameplay, lots of dice, and a robust card-driven exploration system, no two games are ever the same as the heroes explore the mines finding new enemies to fight, new loot to collect, and new dangers to overcome. 
 
-An exciting campaign system allows the players to visit local frontier towns between adventures, spending their hard-earned loot and building their characters from game to game! As players find fantastic gear and artifacts to equip their heroes, they also gain experience from their adventures. This experience is used to level up, guiding the hero's path through an expansive, class-specific upgrade tree of new skills and abilities, allowing each player to develop their hero to fit their own play style.
+> Players can even find portals to other worlds, stepping through to continue their adventures on the other side!
 
-In Swamps of Death, players will encounter portals to the otherworld Jargono, a humid swampland inhabited by sentient reptiles, vicious dinosaurs and a tribe of humanoids, cut off from return to their homeworld untold years after their own portal closed.
-
-So load up yer' six shooter, throw on yer' hat and poncho, and gather the posse as the darkness is coming, and all hell's about to break loose...in the Shadows of Brimstone!
-
-Can be used together with Shadows of Brimstone: City of the Ancients to raise the maximum players to 6.
+> In Swamps of Death, players will encounter portals to the otherworld Jargono, a humid swampland inhabited by sentient reptiles, vicious dinosaurs and a tribe of humanoids, cut off from return to their homeworld untold years after their own portal closed.
 
 ![Shadows of Brimstone: Swamps of Death game image](https://cf.geekdo-images.com/qRyYKK4IxR9QBwyr7OMvzw__itemrep/img/inbrCrbkzm-36PykegNeHmOD7yc=/fit-in/246x300/filters:strip_icc()/pic2037826.jpg)
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
-|   1 - 4 |        12 | 90 - 180m |
+|   1 - 4 |       12 | 90 - 180m |
 
 
 ### [The Crew: Mission Deep Sea](https://boardgamegeek.com/boardgame/324856/crew-mission-deep-sea)
