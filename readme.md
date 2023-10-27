@@ -16,6 +16,21 @@
 
 ## Family
 
+### [Shadows of Brimstone: Swamps of Death](https://boardgamegeek.com/boardgame/150997/shadows-brimstone-swamps-death)
+
+> Shadows of Brimstone: Swamps of Death is a fast-paced, fully cooperative, dungeon-crawl board game set in the Old West, with a heavy dose of unspeakable horror! Players create characters, taking on the role of a classic Western Hero Archetype, such as the Law Man, Gunslinger, or Saloon Girl. Forming an adventuring posse, the Heroes venture down into the dark mines, overrun with all manner of ancient demons and foul creatures from another world. With tactical gameplay, lots of dice, and a robust card-driven exploration system, no two games are ever the same as the heroes explore the mines finding new enemies to fight, new loot to collect, and new dangers to overcome. 
+>
+> Players can even find portals to other worlds, stepping through to continue their adventures on the other side!
+>
+> In Swamps of Death, players will encounter portals to the otherworld Jargono, a humid swampland inhabited by sentient reptiles, vicious dinosaurs and a tribe of humanoids, cut off from return to their homeworld untold years after their own portal closed.
+
+![Shadows of Brimstone: Swamps of Death game image](https://cf.geekdo-images.com/qRyYKK4IxR9QBwyr7OMvzw__itemrep/img/inbrCrbkzm-36PykegNeHmOD7yc=/fit-in/246x300/filters:strip_icc()/pic2037826.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |       12 | 90 - 180m |
+
+
 ### [The Crew: Mission Deep Sea](https://boardgamegeek.com/boardgame/324856/crew-mission-deep-sea)
 
 > In the trick-taking card game The Crew: Mission Deep Sea, you and the other players work together to search for the lost continent of Mu. This new adventure takes your crew deep down into the abyss on a search for the fabled sunken land. How far you get depends entirely on how well you work together as a team. Card by card, trick by trick, your search party will discover the challenges that lie ahead and forge a path to Mu.
@@ -863,6 +878,16 @@
 | ------: | -------: | -----:  |
 |       2 |        8 | 30-120m |
 
+### [Checkers](https://en.wikipedia.org/wiki/Checkers)
+
+> Checkers, also known as American Draughts, an abstract strategy game where players move disc-shaped pieces across an 8 by 8 cross-hatched ("checker") board. Pieces only move diagonally, and only one space at a time. If a player can move one of his pieces so that it jumps over an adjacent piece of their opponent and into an empty space, that player captures the opponent's disc.
+
+![Checkers image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/CheckersStandard.jpg/250px-CheckersStandard.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | -----:  |
+|       2 |        6 |     30m |
+
 ### [Lotería](https://boardgamegeek.com/boardgame/5878/loteria)
 
 > Lotería (Spanish word meaning "lottery") is a traditional game of chance, similar to bingo, but using images on a deck of cards instead of numbered ping pong balls. Every image has a name and an assigned number, but the number is usually ignored. Each player has at least one tabla, a board with a randomly created 4 x 4 grid of pictures with their corresponding name and number. Players choose a tabla (Spanish word for "board") to play with, from a variety of previously created tablas, each with a different selection of images.
@@ -1508,6 +1533,16 @@
 | Players | Min. Age |  Time   |
 | ------: | -------: | ------: |
 |   2 - 4 |       12 |    45m |
+
+### [Raiders of the North Sea](https://boardgamegeek.com/boardgame/170042/raiders-north-sea)
+
+> Raiders of the North Sea is set in the central years of the Viking Age. As Viking warriors, players seek to impress the Chieftain by raiding unsuspecting settlements. To do so, players need to assemble a crew, collect provisions, and journey north to plunder gold, iron and livestock. Glory can be found in battle, even at the hands of the Valkyrie, so gather your warriors because it's raiding season.
+
+![Raiders of the North Sea](https://github.com/kishanrajput23/awesome-board-games/assets/70385488/a5243a9a-90ca-4955-87ba-807679b2b68b)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |        12 | 80m |
 
 ## Party
 
@@ -2552,6 +2587,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 |-------: | -------: | ------:|
 |   2 - 5 |       13 |  90m   |
 
+### [Five Tribes](https://boardgamegeek.com/boardgame/157354/five-tribes)
+
+> In the fabled Sultanate of Naqala, the old sultan's passing has left control of the realm in contention, as strangers aim to fulfill the oracles' prophecy by shrewdly maneuvering the Five Tribes—Assassins, Elders, Builders, Merchants, and Viziers—across villages, markets, oases, and sacred places. Designed by Bruno Cathala, Five Tribes is a captivating twist on worker placement games, with meeples already in place at the start. As you invoke Djinns and make calculated moves, you must strategically consider when and where to displace the tribes to secure your influence over this legendary city-state, all while weighing different pathways to victory and outmaneuvering your rivals.
+
+![Five Tribes](https://cf.geekdo-images.com/dmo-WD6HZHVUPrbVHunaTw__itemrep/img/4RfYsuXBO2FrnJynkXV5zTj7PU4=/fit-in/246x300/filters:strip_icc()/pic2055255.jpg)
+
+| Players | Min. Age | Time   |
+|-------: | -------: | ------:|
+|   2 - 4 |       13 | 40–80m |
+
 ### [Arkham Horror](https://boardgamegeek.com/boardgame/15987/arkham-horror)
 
 > The year is 1926, and it is the height of the Roaring Twenties. Flappers dance till dawn in smoke-filled speakeasies drinking alcohol supplied by rum runners and the mob. It's a celebration to end all celebrations in the aftermath of the war to end all wars.Yet a dark shadow grows in the city of Arkham. Alien entities known as Ancient Ones lurk in the emptiness beyond space and time, writhing at the gates between worlds. These gates have begun to open and must be closed before the Ancient Ones make our world their ruined domination.
@@ -2654,6 +2699,96 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
 |   2 - 5 |       8  | 10-20m |
+
+### [Thunderstone](https://boardgamegeek.com/boardgame/53953/thunderstone)
+
+> Thunderstone is a fantasy deck-building game much in the style of Dominion. Before the game starts a selection of Village and Hero cards will be randomnly chosen that players may add to their specific decks. Like Dominion, every player starts with a basic deck of weaker cards that they can use to purchase other more powerful cards. In Thunderstone these cards may be different Heroes such as mages, archers, thieves, or warriors or they may be supplies the heroes need like weapons, rations, or light to reach further into the dungeon.
+
+![Thunderstone](https://cf.geekdo-images.com/pVyy-LSVBIMQ0GUsvsIfww__itemrep/img/CAn9h1_likJ6Lq_JtyspJwREDH0=/fit-in/246x300/filters:strip_icc()/pic544780.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 5 |       12 |    60m |
+
+### [Skull](https://boardgamegeek.com/boardgame/92415/skull)
+
+> Skull & Roses is the quintessence of bluffing, a game in which everything is played in the players' heads. Each player plays a face-down card, then each player in turn adds one more card – until someone feels safe enough to state that he can turn a number of cards face up and get only roses. Other players can then overbid him, saying they can turn even more cards face up. The highest bidder must then turn that number of cards face up, starting with his own. If he shows only roses, he wins; if he reveals a skull, he loses, placing one of his cards out of play. Two successful challenges wins the game. Skull & Roses is not a game of luck; it's a game of poker face and meeting eyes.
+
+![Skull](https://cf.geekdo-images.com/OPrd2iXm43dir7BwKAMOuQ__itemrep/img/-OqEtnWB7kEI_C_Zq9XkhDYAnNI=/fit-in/246x300/filters:strip_icc()/pic6097488.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   3 - 6 |       10 | 15-45m |
+
+### [Paleo](https://boardgamegeek.com/boardgame/300531/paleo)
+
+> Paleo is a co-operative adventure game set in the stone age, a game in which players try to keep the human beings in their care alive while completing missions. Sometimes you need a fur, sometimes a tent, but these are all minor quests compared to your long-term goal: Painting a woolly mammoth on the wall so that humans thousands of years later will know that you once existed. (Okay, you just think the mammoth painting looks cool. Preserving a record of your past existence is gravy.) Each player starts the game with a couple of humans, who each have a skill and a number of life points. On a turn, each player chooses to go to one location — possibly of the same type as other players, although not the same location — and while you have some idea of what you might find there, you won't know for sure until you arrive, at which point you might acquire food or resources, or find what you need to craft a useful object, or discover that you can help someone else in their project, or suffer a snakebite that brings you close to death.
+
+![Paleo](https://cf.geekdo-images.com/85t1wkwgvh3d2mmjsRcDrw__itemrep/img/5Wx2IlXzKh8HmBD-_5Rm2b1YjO4=/fit-in/246x300/filters:strip_icc()/pic6039256.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |       10 | 45-60m |
+
+### [Paths of Glory](https://boardgamegeek.com/boardgame/91/paths-glory)
+
+> Paths of Glory: The First World War, designed by six-time Charles S. Roberts awards winner, Ted Raicer, allows players to step into the shoes of the monarchs and marshals who triumphed and bungled from 1914 to 1918. As the Central Powers you must use the advantage of interior lines and the fighting skill of the Imperial German Army to win your rightful 'place in the sun.' As the Entente Powers (Allies) you must bring your greater numbers to bear to put an end to German militarism and ensure this is the war 'to end all wars.' Both players will find their generalship and strategic abilities put to the test as Paths of Glory's innovative game systems let you recreate all the dramatic events of World War I.
+
+![Paths of Glory](https://cf.geekdo-images.com/Ip4TygnwFxuR57Vky9ZeZA__itemrep/img/D1X3z1gSLJg1IltMfhTpfhZ_dPA=/fit-in/246x300/filters:strip_icc()/pic4490515.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|       2 |       14 |   480m |
+
+### [Calico](https://boardgamegeek.com/boardgame/283155/calico)
+
+> Calico is a puzzly tile-laying game of quilts and cats. In Calico, players compete to sew the coziest quilt as they collect and place patches of different colors and patterns. Each quilt has a particular pattern that must be followed, and players are also trying to create color and pattern combinations that are not only aesthetically pleasing, but also able to attract the cuddliest cats! Turns are simple. Select a single patch tile from your hand and sew it into your quilt, then draw another patch into your hand from the three available. If you are able to create a color group, you may sew a button onto your quilt. If you are able to create a pattern combination that is attractive to any of the cats, it will come over and curl up on your quilt! At the end of the game, you score points for buttons, cats, and how well you were able to complete your unique quilt pattern.
+
+![Calico](https://cf.geekdo-images.com/6O6HqeMY6z1MPPKKVKp93g__itemrep/img/XYmwXWKrSFRSB4e_RVQ7AkACF_U=/fit-in/246x300/filters:strip_icc()/pic7714854.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |       10 | 30-45m |
+
+### [Star Wars: The Deckbuilding Game](https://en.wikipedia.org/wiki/Star_Wars:_The_Deckbuilding_Game) 
+
+> Star Wars is a deckbuilding game released by Fantasy Flight Games and Asmodee.Each player controls a base that represent that player's life pool, and is able to obtain another base if theirs is destroyed. The object is to destroy three bases to win the game, which is achieved by attacking the opposing player.On their turn, a player uses the resources from the five cards in their hand to obtain new cards from a central "galaxy row", which contains cards of the Empire and Rebel factions. The player may only select from cards of their faction, and the galaxy row is reconstituted with cards from the "galaxy deck".One innovate game mechanic is the ability of a player to attack cards still in the galaxy row before they have been obtained by other players, known as sabotage for the Rebel faction and bounty hunting for the Empire faction. These provide a reward to the player taking that action, and also deny other players from obtaining targeted cards.Throughout the game, a Force meter records the balance in The Force, which may alter the effect of cards in favour of a particular faction.
+
+![Star Wars](https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Star_Wars_The_Deckbuilding_Game.webp/229px-Star_Wars_The_Deckbuilding_Game.webp.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|       2 |       12 | 30-45m |
+
+### [Kill Doctor Lucky](https://boardgamegeek.com/boardgame/257/kill-doctor-lucky)
+
+> "Kill Doctor Lucky" is a unique board game where players compete to murder Doctor Lucky, the mansion's owner. Players move through rooms, collect weapon cards, and attempt to eliminate Doctor Lucky while bluffing opponents. The game combines strategy, humor, and a reversed murder-mystery theme for a fun experience. "Kill Doctor Lucky" stands out as a lighthearted and entertaining board game that offers a unique twist on the traditional murder-mystery theme. Players enter a world of colorful rooms, dangerous weapons, and humorous strategies as they vie to commit the murder of Doctor Lucky. This game encourages creative thinking, clever moves, and comical bluffing, making it a delightful choice for board game enthusiasts seeking a humorous and engaging gaming experience.
+
+![Kill Doctor Lucky](https://boardgaming.com/wp-content/uploads/2011/12/killdoctorlucky-title1.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   3 - 8 |       12 |    45m |
+
+### [Perudo](https://boardgamegeek.com/boardgame/45/perudo)
+
+> Liar's Dice, a.k.a. Bluff, Perudo or Dudo, is a South American dice game in which each player is given five dice and cup to roll and hide them with. Players make successively higher declarations regarding the results of all the dice remaining in the game, e.g. "there are ten sixes". However, someone can always contest the bid. When that happens, all the dice are revealed and either the bidder or the caller loses dice, depending on who was correct. The last player with dice is the winner.
+
+![Perudo](https://cf.geekdo-images.com/UCiGSoCqbOsXS8JzZZC_SA__itemrep/img/4LfYxtsu5ylAYZNK7_Qbefe7kqk=/fit-in/246x300/filters:strip_icc()/pic3949242.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 6 |         8| 15-30m |
+
+### [Keyflower](https://boardgamegeek.com/boardgame/122515/keyflower)
+
+> Keyflower is a strategic board game designed for 2 to 6 players, with four rounds representing the seasons: spring, summer, autumn, and winter. Players begin with a home tile and eight workers, each in red, yellow, or blue, which are used for bidding on tiles and for resource generation and skill acquisition. During spring, summer, and autumn, additional workers with skills related to key resources like iron, stone, and wood arrive, and random village tiles are auctioned. In the winter, no new workers arrive, and players select village tiles for auction, which offer victory points based on combinations of resources, skills, and workers. The player with the most victory points at the end of the winter season wins the game.
+
+![Keyflower](https://cf.geekdo-images.com/HbfgxDJZQnNEZQKvpmJxQg__itemrep/img/1l2Uipp2Xmu0rSHR3nYaEHQarMY=/fit-in/246x300/filters:strip_icc()/pic2278942.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 6 |      12+ |90-120m |
 
 ## Contribute
 
