@@ -647,7 +647,6 @@
 | ------: | -------: | -----: |
 |   2–4 |          8 | 30–60 Min |
 
-
 ### [Blood Rage](https://boardgamegeek.com/boardgame/170216/blood-rage)
 
 > "Life is Battle; Battle is Glory; Glory is ALL"
