@@ -2799,7 +2799,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 > The Gilded Realms is a euro-style kingdom builder board game set in a medieval fantasy world, where players will be tasked with ruling over their young but ambitious kingdoms. In this hybrid simultaneous turn-based game of economic management and risk assessment, you and up to three other players will command a unique Faction and compete for the title of ultimate regent.Through careful planning of two builds a turn and management of your resources you must develop your five provinces and construct a thriving income, all the while, fending off competing kingdoms and the invading Sarrukar forces with your armies and fortifications. Players can also earn Gold and Gems from successful caravan trading and management of their kingdom’s stance during economic events. Or they can send armies into other player’s Hinterlands to raid their Caravans and take Endeavour cards for themselves! At the end of the 12th round of play, players earn prestigious titles based on their Victory Points, the highest earning the Serpens Champion and declared winner of The Gilded Realms!
 
-![The Gilded Realms](https://cf.geekdo-images.com/gWNSCaB9gE-cPNHhH33uQQ__thumb/img/zD1zzFlilv3QO_BNwyTDHJpKpJc=/fit-in/200x150/filters:strip_icc()/pic7666055.jpg)
+![The Gilded Realms](https://cf.geekdo-images.com/gWNSCaB9gE-cPNHhH33uQQ__itemrep/img/ulauk-nriJFsto6y8EJA76FH1z4=/fit-in/246x300/filters:strip_icc()/pic7666055.jpg)
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
