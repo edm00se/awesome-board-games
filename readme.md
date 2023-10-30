@@ -16,6 +16,20 @@
 
 ## Family
 
+### [Mice and Mystics](https://boardgamegeek.com/boardgame/124708/mice-and-mystics)
+
+> In Mice and Mystics, players take on the roles of those still loyal to the king – but to escape the clutches of Vanestra, they have been turned into mice! Play as cunning field mice who must race through a castle now twenty times larger than before. The castle would be a dangerous place with Vanestra's minions in control, but now countless other terrors also await heroes who are but the size of figs. Play as nimble Prince Collin and fence your way past your foes, or try Nez Bellows, the burly smith. Confound your foes as the wizened old mouse Maginos, or protect your companions as Tilda, the castle's former healer. Every player will have a vital role in the quest to warn the king, and it will take careful planning to find Vanestra's weakness and defeat her.
+>
+> Mice and Mystics is a cooperative adventure game in which the players work together to save an imperiled kingdom. They will face countless adversaries such as rats, cockroaches, and spiders, and of course the greatest of all horrors: the castle's housecat, Brodie.
+>
+> Mice and Mystics is a boldly innovative game that thrusts players into an ever-changing, interactive environment, and features a rich storyline that the players help create as they play the game. The Cheese System allows players to hoard the crumbs of precious cheese they find on their journey, and use it to bolster their mice with grandiose new abilities and overcome seemingly insurmountable odds.
+
+![Mice and Mystics game image](https://cf.geekdo-images.com/LC1OpTI7VlEFtwrs3_iPfg__imagepage/img/TzFY0QPRkDH6He-Lw_qaIi12pwE=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1312075.jpg)
+
+| Players | Min. Age | Time     |
+| ------: | -------: | -------: |
+|   1 - 4 |        7 | 60 - 90m |
+
 ### [Shadows of Brimstone: Swamps of Death](https://boardgamegeek.com/boardgame/150997/shadows-brimstone-swamps-death)
 
 > Shadows of Brimstone: Swamps of Death is a fast-paced, fully cooperative, dungeon-crawl board game set in the Old West, with a heavy dose of unspeakable horror! Players create characters, taking on the role of a classic Western Hero Archetype, such as the Law Man, Gunslinger, or Saloon Girl. Forming an adventuring posse, the Heroes venture down into the dark mines, overrun with all manner of ancient demons and foul creatures from another world. With tactical gameplay, lots of dice, and a robust card-driven exploration system, no two games are ever the same as the heroes explore the mines finding new enemies to fight, new loot to collect, and new dangers to overcome. 
