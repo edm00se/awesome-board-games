@@ -35,7 +35,7 @@
 
 > In the trick-taking card game The Crew: Mission Deep Sea, you and the other players work together to search for the lost continent of Mu. This new adventure takes your crew deep down into the abyss on a search for the fabled sunken land. How far you get depends entirely on how well you work together as a team. Card by card, trick by trick, your search party will discover the challenges that lie ahead and forge a path to Mu.
 > 
-> This new version of The Crew has the same innovative co-operative trick-taking mechanism as the highly lauded original game — but with some exciting new surprises! While communication between your crew members is severely limited by your submerged state, it is also critical to your success; finding the hidden land in the murky depths depends not only on winning tricks, but also on carefully negotiating the order in which they are won. If things don't go as planned, you might just be able to salvage the operation, but it will take near flawless execution and perhaps a little luck to finally reach Mu.
+> This new version of The Crew has the same innovative cooperative trick-taking mechanism as the highly lauded original game — but with some exciting new surprises! While communication between your crew members is severely limited by your submerged state, it is also critical to your success; finding the hidden land in the murky depths depends not only on winning tricks, but also on carefully negotiating the order in which they are won. If things don't go as planned, you might just be able to salvage the operation, but it will take near-flawless execution and perhaps a little luck to finally reach Mu.
 
 ![The Crew: Mission Deep Sea game image](https://cf.geekdo-images.com/VuBqZ1sMaDAVVHF_OEJP4g__itemrep/img/tgB3g7PECxG14yQ0FkMiMaXaOFE=/fit-in/246x300/filters:strip_icc()/pic5988903.jpg)
 
@@ -81,7 +81,7 @@
 
 ### [Clank!: Catacombs](https://boardgamegeek.com/boardgame/365717/clank-catacombs)
 
-> The catacombs of the skeletal dragon Umbrok Vessna are mysterious and dangerous. Portals transport you all around the dungeon depths. Wayshrines offer vast riches to intrepid explorers. Prisoners are counting on you to free them. Ghosts, once disturbed, may haunt you to death. Despite all that, it's time to leave the board behind with Clank! Catacombs, a standalone deck-building adventure.
+> The catacombs of the skeletal dragon Umbrok Vessna are mysterious and dangerous. Portals transport you all around the dungeon depths. Wayshrines offer vast riches to intrepid explorers. Prisoners are counting on you to free them. Ghosts, once disturbed, may haunt you to death. Despite all that, it's time to leave the board behind with Clank! Catacombs, is a standalone deck-building adventure.
 > 
 > Each trip into the catacombs is unique since you lay tiles to create the dungeon. You can play using only the all-new dungeon deck, or you can include cards from previous Clank! expansions.
 > 
@@ -95,7 +95,7 @@
 
 ### [Ghost Blitz](https://boardgamegeek.com/boardgame/83195/ghost-blitz)
 
-> Balduin, the house ghost, found an old camera in the castle cellar. Immediately he photographed everything that he loves to make disappear when he is haunting  – including himself, of course. Unfortunately, the enchanted camera takes many photos in the wrong colors. Sometimes the green bottle is white, at other times it's blue. Looking at the photos, Balduin doesn't really remember any more what he wanted to make disappear next. Can you help him with his haunting and quickly name the right item, or even make it disappear by yourself? If you grab the right items quickly, you have a good chance of winning...
+> Balduin, the house ghost, found an old camera in the castle cellar. Immediately he photographed everything that he loves to make disappear when he is haunted  – including himself, of course. Unfortunately, the enchanted camera takes many photos in the wrong colors. Sometimes the green bottle is white, at other times it's blue. Looking at the photos, Balduin doesn't really remember anymore what he wanted to make disappear next. Can you help him with his haunting and quickly name the right item, or even make it disappear by yourself? If you grab the right items quickly, you have a good chance of winning...
 
 ![Ghost Blitz game image](https://cf.geekdo-images.com/itemrep/img/D-2aizsXhm-kpy0ffA4R--Xd07Y=/fit-in/246x300/pic2034769.jpg)
 
@@ -117,9 +117,9 @@
 
 ### [Istanbul](https://boardgamegeek.com/boardgame/148949/istanbul)
 
-> There's hustle and bustle at Istanbul's grand bazaar as merchants and their assistants rush through the narrow alleys in their attempt to be more successful than their competitors. Everything must be well organized: wheelbarrows must be filled with goods at the warehouses, then swiftly transported by the assistants to various destinations. Your goal? Be the first merchant to collect a certain number of rubies.
+> There's hustle and bustle at Istanbul's grand bazaar as merchants and their assistants rush through the narrow alleys in their attempt to be more successful than their competitors. Everything must be well organized: wheelbarrows must be filled with goods at the warehouses, and then swiftly transported by the assistants to various destinations. Your goal? Be the first merchant to collect a certain number of rubies.
 > 
-> In Istanbul, you lead a group of one merchant and four assistants through 16 locations in the bazaar. At each such location, you can carry out a specific action. The challenge, though, is that to take an action, you must move your merchant and an assistant there, then leave the assistant behind (to handle all the details while you focus on larger matters). If you want to use that assistant again later, your merchant must return to that location to pick him up. Thus, you must plan ahead carefully to avoid being left with no assistants and thus unable to do anything...
+> In Istanbul, you lead a group of one merchant and four assistants through 16 locations in the bazaar. At each such location, you can carry out a specific action. The challenge, though, is that to take action, you must move your merchant and an assistant there, then leave the assistant behind (to handle all the details while you focus on larger matters). If you want to use that assistant again later, your merchant must return to that location to pick him up. Thus, you must plan ahead carefully to avoid being left with no assistants and thus unable to do anything...
 
 ![Istanbul game image](https://cf.geekdo-images.com/PHH9Mreen2sBcxV6ZsE3ew__itemrep/img/3-96MTKIPtgjJ8inH9DWDxCf0no=/fit-in/246x300/filters:strip_icc()/pic1885326.jpg)
 
@@ -159,7 +159,7 @@
 
 ### [Everdell](https://boardgamegeek.com/boardgame/199792/everdell)
 
-> Within the charming valley of Everdell, beneath the boughs of towering trees, among meandering streams and mossy hollows, a civilization of forest critters is thriving and expanding. From Everfrost to Bellsong, many a year have come and gone, but the time has come for new territories to be settled and new cities established. You will be the leader of a group of critters intent on just such a task. There are buildings to construct, lively characters to meet, events to host—you have a busy year ahead of yourself. Will the sun shine brightest on your city before the winter moon rises?
+> Within the charming valley of Everdell, beneath the boughs of towering trees, among meandering streams and mossy hollows, a civilization of forest critters is thriving and expanding. From Everfrost to Bellsong, many a year has come and gone, but the time has come for new territories to be settled and new cities established. You will be the leader of a group of critters intent on just such a task. There are buildings to construct, lively characters to meet, and events to host—you have a busy year ahead of yourself. Will the sun shine brightest on your city before the winter moon rises?
 > 
 > Everdell is a game of dynamic tableau building and worker placement.
 > 
@@ -173,7 +173,7 @@
 
 ### [Forbidden Sky](https://boardgamegeek.com/boardgame/245271/forbidden-sky)
 
-> Soar to dizzying heights in the electrifying cooperative adventure. Work as a team to explore a mysterious platform that floats at the center of a savage storm. Connect a circuit of cables to launch a secret rocket — all before you are struck by lightning or blown off to the depths below. It's a high-wire act that will test your team's capacity for courage and cooperation. One false step and you all could be grounded.This latest installment in the Forbidden that game series takes you to new heights with several novel challenges, including collectively planning a terrain using only limited information and constructing a real electrical circuit.
+> Soar to dizzying heights in the electrifying cooperative adventure. Work as a team to explore a mysterious platform that floats at the center of a savage storm. Connect a circuit of cables to launch a secret rocket — all before you are struck by lightning or blown off to the depths below. It's a high-wire act that will test your team's capacity for courage and cooperation. One false step and you all could be grounded. This latest installment in the Forbidden game series takes you to new heights with several novel challenges, including collectively planning a terrain using only limited information and constructing a real electrical circuit.
 
 ![Forbidden Sky image](https://cf.geekdo-images.com/itemrep/img/zu-kq_Fnq8twvfhPG5PevtT4z5E=/fit-in/246x300/filters:strip_icc()/pic4177924.jpg)
 
@@ -183,7 +183,7 @@
 
 ### [Elder Sign](https://wikipedia.org/wiki/Elder_Sign_(card_game))
 
-> Set in a world of Lovecraftian horror, cooperatively investigate a museum full of strange artefacts and stranger demons. Collect eldritch symbols, "elder signs", to close the portals and prevent the creatures from invading our world. Collect enough before the time is up or suffer the wrath of the Ancient Ones.
+> Set in a world of Lovecraftian horror, cooperatively investigate a museum full of strange artifacts and stranger demons. Collect eldritch symbols, "elder signs", to close the portals and prevent the creatures from invading our world. Collect enough before the time is up or suffer the wrath of the Ancient Ones.
 
 ![Elder Sign game image](https://cf.geekdo-images.com/V3ZBoSTdW7AjenPmOws7jfbkFsY=/fit-in/246x300/pic1236119.jpg)
 
@@ -208,7 +208,7 @@
 > Crokinole is a traditional dexterity game.
 > 
 > Crokinole is played on a circular wooden board, with wooden circular disks as playing pieces.
-> Players take turns shooting disks across the circular wooden board by flicking the disks with their fingers. Players try to land their disks in scoring regions on the board, with the highest scoring area the recessed hole in the very center of the board. Each round, each player/side alternately shoots a set number of disks (usually 12 or 8), shooting one disk each turn.
+> Players take turns shooting disks across the circular wooden board by flicking the disks with their fingers. Players try to land their disks in scoring regions on the board, with the highest scoring area the recessed hole in the very center of the board. In each round, each player/side alternately shoots a set number of disks (usually 12 or 8), shooting one disk each turn.
 > 
 > As a traditional game, there are often many variations played, but the following method is based on the National Crokinole Association's rules which also govern the World Crokinole Championship.
 
@@ -222,7 +222,7 @@
 
 > As an architect in Welcome To..., you want to build the best new town in the United States of the 1950s by adding resources to a pool, hiring employees, and more.
 > 
-> Welcome To... plays like a roll-and-write dice game in which you mark results on a score-sheet...but without dice. Instead you flip cards from three piles to make three different action sets with both a house number and a corresponding action from which everyone chooses one. You use the number to fill in a house on your street in numerical order. Then you take the action to increase the point value of estates you build or score points at the end for building parks and pools. Players also have the option of taking actions to alter or duplicate their house numbers. And everyone is racing to be the first to complete public goals. There's lots to do and many paths to becoming the best suburban architect in !
+> Welcome To... plays like a roll-and-write dice game in which you mark results on a score sheet...but without dice. Instead you flip cards from three piles to make three different action sets with both a house number and a corresponding action from which everyone chooses one. You use the number to fill in a house on your street in numerical order. Then you take the action to increase the point value of estates you build or score points at the end for building parks and pools. Players also have the option of taking actions to alter or duplicate their house numbers. And everyone is racing to be the first to complete public goals. There's lots to do and many paths to becoming the best suburban architect in !
 
 ![Welcome To... game image](https://cf.geekdo-images.com/g4XmxyKhNVdhC3QPd1purQ__itemrep/img/QKJwfdV3Qrv9w2TX_ML5T3z5G9E=/fit-in/246x300/filters:strip_icc()/pic3761012.jpg)
 
@@ -276,7 +276,7 @@
 
 > The master of Ravenloft is having guests for dinner – and you are invited!\
 > Evil lurks in the towers and dungeons of Castle Ravenloft, and only heroes of exceptional bravery can survive the horrors within.\
-> Designed for 1-5 players, this boardgame features multiple scenarios, challenging quests, and cooperative gameplay.
+> Designed for 1-5 players, this board game features multiple scenarios, challenging quests, and cooperative gameplay.
 
 ![Dungeons & Dragons: Castle Ravenloft](https://cf.geekdo-images.com/itemrep/img/XTw-eglE4VMj6fgZytjEAIqa98g=/fit-in/246x300/pic660244.jpg)
 
@@ -326,7 +326,7 @@
 
 ### [Klask](https://boardgamegeek.com/boardgame/165722/klask)
 
-> Klask is a board game that has a ball field shape with two deep holes functioning as goals in each end of the field. The purpose of the game is to push the small ball around on the field with your magnet/gaming piece, shoot the ball past the obstacles and your opponent and into the goal hole.
+> Klask is a board game that has a ball field shape with two deep holes functioning as goals at each end of the field. The purpose of the game is to push the small ball around on the field with your magnet/gaming piece, shoot the ball past the obstacles and your opponent and into the goal hole.
 
 ![Klask image](https://cf.geekdo-images.com/itemrep/img/tVtNzNug3e8QiLREwiEJOZMF0UY=/fit-in/246x300/pic2627442.jpg)
 
@@ -398,7 +398,7 @@
 
 ### [PARKS](https://boardgamegeek.com/boardgame/266524/parks)
 
-> PARKS is a celebration of the US National Parks featuring illustrious art from Fifty-Nine Parks. In PARKS, players will take on the role of two hikers who will trek trails to see sites, observe wildlife, take photos, and visit national parks over the course of the game. They will take actions and collect memories of the places your hikers visit. These memories are represented by various resource tokens like mountains and forests. Collecting these memories in sets will allow players to trade them in to visit a National Park at the end of each hike. Each trail, represented by tiles, represents a different season, and as each season passes, the trails change and grow steadily longer. Each turn, players send one of their hikers down the trail. While on the trail, hikers will see beautiful sites and perform an action when they arrive. When a hiker reaches the end of the trail, they can spend tokens they have received to visit Parks and earn points. Your goal is to have the most points from your Parks, photos, and personal bonus at the end of the year. 
+> PARKS is a celebration of the US National Parks featuring illustrious art from Fifty-Nine Parks. In PARKS, players will take on the role of two hikers who will trek trails to see sites, observe wildlife, take photos, and visit national parks throughout the game. They will take action and collect memories of the places your hikers visit. These memories are represented by various resource tokens like mountains and forests. Collecting these memories in sets will allow players to trade them in to visit a National Park at the end of each hike. Each trail, represented by tiles, represents a different season, and as each season passes, the trails change and grow steadily longer. At each turn, players send one of their hikers down the trail. While on the trail, hikers will see beautiful sites and perform an action when they arrive. When a hiker reaches the end of the trail, they can spend tokens they have received to visit Parks and earn points. Your goal is to have the most points from your Parks, photos, and personal bonus at the end of the year. 
 
 ![PARKS image](https://cf.geekdo-images.com/mF2cSNRk2O6HtE45Sl9TcA__itemrep/img/aO688RtGLH5MV7LUHkmghPUjSJQ=/fit-in/246x300/filters:strip_icc()/pic4852372.jpg)
 
@@ -433,7 +433,7 @@
 
 ### [Kingdomino](https://boardgamegeek.com/boardgame/204583/kingdomino)
 
-> In Kingdomino, you are playing as a lord who is seeking new lands to expand your kingdom. You must explore all the lands, including wheat fields, lakes, and mountains, to spot the best plots, while competing with other lords to acquire them first. This game is like Dominoes. It uses tiles with two sections. Each turn, player will select a new domino to connect to their existing kingdom, making sure at least one of its sides connects to a matching terrain type already in play. The order of who picks first depends on which tile was previously chosen, with better tiles forcing players to pick later in the next round. The game ends when each player has completed a 5x5 grid and then points are counted based on number of connecting tiles and crowns symbol.
+> In Kingdomino, you are playing as a lord who is seeking new lands to expand your kingdom. You must explore all the lands, including wheat fields, lakes, and mountains, to spot the best plots, while competing with other lords to acquire them first. This game is like Dominoes. It uses tiles with two sections. With each turn, the player will select a new domino to connect to their existing kingdom, making sure at least one of its sides connects to a matching terrain type already in play. The order of who picks first depends on which tile was previously chosen, with better tiles forcing players to pick later in the next round. The game ends when each player has completed a 5x5 grid and then points are counted based on the number of connecting tiles and crowns symbol.
 
 ![Kingdomino image](https://cf.geekdo-images.com/3h9W8BfB_rltQ48EBmHliw__itemrep/img/iL7bbm8d4meLUnnrFrmKx0Xk2k0=/fit-in/246x300/filters:strip_icc()/pic3132685.png)
 
@@ -465,7 +465,7 @@
 
 ### [Splendor Duel](https://boardgamegeek.com/boardgame/364073/splendor-duel)
 
-> Confront your rival guild in a race for victory. Take Gem and Pearl tokens from the common board, then purchase cards, gather bonuses, royal favours, and prestige.
+> Confront your rival guild in a race for victory. Take Gem and Pearl tokens from the common board, then purchase cards, and gather bonuses, royal favours, and prestige.
 > 
 > Discover new twists and strategic opportunities derived from Splendor, the original best-selling game. Acquire cards with impressive powers, take advantage of special Privileges, and fight over scarce access to Pearls.
 > 
@@ -517,7 +517,7 @@
 
 > In Patchwork, two players compete to build the most aesthetic (and high-scoring) patchwork quilt on a personal 9x9 game board. To start play, lay out all of the patches at random in a circle and place a marker directly clockwise of the 2-1 patch. Each player takes five buttons — the currency/points in the game — and someone is chosen as the start player.
 > 
-> On a turn, a player either purchases one of the three patches standing clockwise of the spool or passes. To purchase a patch, you pay the cost in buttons shown on the patch, move the spool to that patch's location in the circle, add the patch to your game board, then advance your time token on the time track a number of spaces equal to the time shown on the patch. You're free to place the patch anywhere on your board that doesn't overlap other patches, but you probably want to fit things together as tightly as possible. If your time token is behind or on top of the other player's time token, then you take another turn; otherwise the opponent now goes. Instead of purchasing a patch, you can choose to pass; to do this, you move your time token to the space immediately in front of the opponent's time token, then take one button from the bank for each space you moved.
+> On a turn, a player either purchases one of the three patches standing clockwise of the spool or passes. To purchase a patch, you pay the cost in buttons shown on the patch, move the spool to that patch's location in the circle, add the patch to your game board, then advance your time token on the time track the number of spaces equal to the time shown on the patch. You're free to place the patch anywhere on your board that doesn't overlap other patches, but you probably want to fit things together as tightly as possible. If your time token is behind or on top of the other player's time token, then you take another turn; otherwise the opponent now goes. Instead of purchasing a patch, you can choose to pass; to do this, you move your time token to the space immediately in front of the opponent's time token, then take one button from the bank for each space you moved.
 
 ![Patchwork game image](https://cf.geekdo-images.com/wLW7pFn0--20lEizEz5p3A__itemrep/img/rJ1GPoOG_t9d3H2mnfROcR5OhNQ=/fit-in/246x300/filters:strip_icc()/pic2270442.jpg)
 
@@ -527,8 +527,8 @@
 
 ### [Cartographers](https://boardgamegeek.com/boardgame/263918/cartographers)
 
-> Queen Gimnax has ordered the reclamation of the northern lands. As a cartographer in her service, you are sent to map this territory, claiming it for the Kingdom of Nalos. Through official edicts, the queen announces which lands she prizes most, and you will increase your reputation by meeting her demands. But you are not alone in this wilderness. The Dragul contest your claims with their outposts, so you must draw your lines carefully to reduce their influence. Reclaim the greatest share of the queen’s desired lands and you will be declared the greatest cartographer in the kingdom.
-> 
+> Queen Gimnax has ordered the reclamation of the northern lands. As a cartographer in her service, you are sent to map this territory, claiming it for the Kingdom of Nalos. Through official edicts, the queen announces which lands she prizes most, and you will increase your reputation by meeting her demands. But you are not alone in this wilderness. The Dragul contests your claims with their outposts, so you must draw your lines carefully to reduce their influence. Reclaim the greatest share of the queen’s desired lands and you will be declared the greatest cartographer in the kingdom.
+
 > In Cartographers: A Roll Player Tale, players compete to earn the most reputation stars by the time four seasons have passed. Each season, players draw on their map sheets and earn reputation by carrying out the queen's edicts before the season is over. The player with the most reputation stars at the end of winter wins!
 
 ![Cartographers game image](https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__itemrep/img/0wjmkvfHlWU5_l9dnaoDanV0s5U=/fit-in/246x300/filters:strip_icc()/pic4397932.png)
@@ -547,7 +547,7 @@
 >
 > The game has 2 22"x34" maps, 300 counters.
 >
-> The heart of the system is the Operations phase where players alternate activating formations (divisions) which execute Orders (Assault, Advance, Maneuver etc.).
+> The heart of the system is the Operations phase where players alternate activating formations (divisions) that execute Orders (Assault, Advance, Maneuver etc.).
 >
 > Players bid for Initiative and there are possibilities for the Reaction player to foil the initiative player's moves by having units react and do spoiling attacks.
 >
@@ -564,7 +564,7 @@
 ### [Talisman](https://boardgamegeek.com/boardgame/714/talisman)
 
 > Talisman takes you on a journey through magical lands, as you endeavor to reclaim the Crown of Command.
-> Each turn will see your hero advancing, battling, gaining knowledge and power necessary to defeat the guardians lurking between the Portal of Power and the Valley of Fire.
+> Each turn will see your hero advancing, battling, and gaining knowledge and power necessary to defeat the guardians lurking between the Portal of Power and the Valley of Fire.
 
 ![Talisman](https://cf.geekdo-images.com/GfXN7KP7ny2YU7A-zrZObA__itemrep/img/qTes0WV8umHK5pLuKl5tZFpGYrU=/fit-in/246x300/filters:strip_icc()/pic818904.jpg)
 
@@ -729,7 +729,7 @@
 
 ### [Barrage](https://boardgamegeek.com/boardgame/251247/barrage)
 
-> In the dystopic 1930s, the industrial revolution pushed the exploitation of fossil-based resources to the limit, and now the only thing powerful enough to quench the thirst for power of the massive machines and of the unstoppable engineering progress is the unlimited hydroelectric energy provided by the rivers.
+> In the dystopic 1930s, the Industrial Revolution pushed the exploitation of fossil-based resources to the limit, and now the only thing powerful enough to quench the thirst for power of the massive machines and of the unstoppable engineering progress is the unlimited hydroelectric energy provided by the rivers.
 > Barrage is a resource management strategic game in which players compete to build their majestic dams, raise them to increase their storing capacity, and deliver all the potential power through pressure tunnels connected to the energy turbines of their powerhouses.
 > Each player represents one of the four international companies who are gathering machinery, innovative patents and brilliant engineers to claim the best locations to collect and exploit the water of a contested Alpine region crossed by rivers.
 
