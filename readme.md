@@ -2815,6 +2815,22 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 6 |      12+ |90-120m |
 
+### [Saboteur](https://boardgamegeek.com/boardgame/9220/saboteur)
+
+> With the help of Dwarf Cards, the players are assigned their role: either miner or saboteur. The roles are kept secret until the end of the round. As miners, they are hunting for gold. The miners are trying to build an uninterrupted path from the Start Card to a Goal Card, while the saboteurs are trying to prevent this. They shouldn't try to be too obvious about it, however, lest they be immediately discovered.
+>
+> The Start Card and the three Goal Cards are placed face-down onto the table, each seven cards away from the start and one card between each Goal Card. The gold is on one of the Goal Cards, but nobody knows which. Players have cards in hand. On a player's turn, they must do one of three things: place a Path Card into the mine, play an Action Card in front of a player, or pass. Action Cards can be placed in front of any player, including oneself. 
+>
+> Action Cards let the players help or hinder one another, as well as obtain information about the Goal Cards. Once a player places a Path Card that reaches the gold, the round is over. The miners have won and would receive cards with gold pieces as their reward. The round is also over if the gold could not be reached. In that case, the saboteurs have won and would receive the gold pieces.
+>
+> After three rounds, the player with the most gold is the winner.
+
+![Saboteur](https://cf.geekdo-images.com/0vJwP6NGa7GHPZKC3gplUw__itemrep/img/aJcXGhYr8XxyKEK6EqbG0bePrOk=/fit-in/246x300/filters:strip_icc()/pic3989824.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|  3 - 10 |       8+ |    30m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
