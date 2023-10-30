@@ -637,6 +637,16 @@
 
 ## Strategy
 
+### [Ashtapada](https://en.wikipedia.org/wiki/Ashtapada)
+
+> Ashtapada, an ancient game originating in India, is played on an 8x8 grid featuring marked spaces. The game can be played by two to four players, with the objective being to enter and exit both pieces strategically. Players use cowrie shells to determine movement. If a player lands on an opponent's piece, it's sent off the board for re-entry, except on 'crosscut' spaces, where pieces remain safe.
+
+![Ashtapada game image](https://cf.geekdo-images.com/kg1eP5Vdj6LoFqQ2E2Kxew__opengraph/img/lykEixPPGFGql26yrwEYvhj3XMo=/fit-in/1200x630/filters:strip_icc()/pic55539.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2–4 |          8 | 30–60 Min |
+
 ### [Blood Rage](https://boardgamegeek.com/boardgame/170216/blood-rage)
 
 > "Life is Battle; Battle is Glory; Glory is ALL"
@@ -876,6 +886,16 @@
 | Players | Min. Age |  Time   |
 | ------: | -------: | -----:  |
 |       2 |        6 |     30m |
+
+### [Chaupar](https://en.wikipedia.org/wiki/Chaupar)
+
+> Chaupar, chopad or chaupad is a cross and circle board game very similar to pachisi, played in Pakistan & Ancient India. The board is made of wool or cloth, with wooden pawns and seven cowry shells to be used to determine each player's move, although others distinguish chaupur from pachisi by the use of three four-sided long dice. Variations are played throughout India. It is similar in some ways to Pachisi, Parcheesi and Ludo. In most of the villages of India, this game is played by old people.
+
+![Chaupar image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Chopat.jpg/330px-Chopat.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | -----:  |
+|       4 |       15 |     30m |
 
 ### [Lotería](https://boardgamegeek.com/boardgame/5878/loteria)
 
@@ -2804,6 +2824,22 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
 |   2 - 4 |      14+ |90-180m |
+
+### [Saboteur](https://boardgamegeek.com/boardgame/9220/saboteur)
+
+> With the help of Dwarf Cards, the players are assigned their role: either miner or saboteur. The roles are kept secret until the end of the round. As miners, they are hunting for gold. The miners are trying to build an uninterrupted path from the Start Card to a Goal Card, while the saboteurs are trying to prevent this. They shouldn't try to be too obvious about it, however, lest they be immediately discovered.
+>
+> The Start Card and the three Goal Cards are placed face-down onto the table, each seven cards away from the start and one card between each Goal Card. The gold is on one of the Goal Cards, but nobody knows which. Players have cards in hand. On a player's turn, they must do one of three things: place a Path Card into the mine, play an Action Card in front of a player, or pass. Action Cards can be placed in front of any player, including oneself. 
+>
+> Action Cards let the players help or hinder one another, as well as obtain information about the Goal Cards. Once a player places a Path Card that reaches the gold, the round is over. The miners have won and would receive cards with gold pieces as their reward. The round is also over if the gold could not be reached. In that case, the saboteurs have won and would receive the gold pieces.
+>
+> After three rounds, the player with the most gold is the winner.
+
+![Saboteur](https://cf.geekdo-images.com/0vJwP6NGa7GHPZKC3gplUw__itemrep/img/aJcXGhYr8XxyKEK6EqbG0bePrOk=/fit-in/246x300/filters:strip_icc()/pic3989824.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|  3 - 10 |       8+ |    30m |
 
 ## Contribute
 
