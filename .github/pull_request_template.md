@@ -1,5 +1,6 @@
 Submitting this PR means you have:
 
+- [ ] reviewed the [contributing][contributing-url] document and are comfortable understanding what it says
 - [ ] searched the [readme][readme-url] file and searched the [open pull requests][pr-url] (no duplicates please)
 - [ ] and will follow [the desired format][format-url]
 - [ ] used image links that resolve correctly, are appropriately sized, and are served over HTTPS
@@ -12,6 +13,7 @@ Do you have further questions? Check the [contribution guidelines][contributing-
 
 When you're ready, check off the above acknowledgements and continue with your Pull Request... and thanks!
 
+[contributing-url]: https://github.com/edm00se/awesome-board-games/blob/main/contributing.md
 [pr-url]: https://github.com/edm00se/awesome-board-games/pulls
 [readme-url]: https://github.com/edm00se/awesome-board-games/edit/main/readme.md
 [format-url]: https://github.com/edm00se/awesome-board-games/blob/main/formatting.md
