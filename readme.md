@@ -2845,8 +2845,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 > Villagers of The Oak Dell is a dynamic euro-style roll-and-write game in which players embark on the development of a new village. By constructing roads and structures, expanding the population, and mining precious resources, players compete to create the most magnificent settlement. Be cautious, though, as lurking marauders can strike your village at any unpredictable moment! The game lasts for twelve rounds. At the start of each round, one of the players rolls four dice and then assigns them to specific sections on a special Dice Sheet with symbols. If any sword symbols are rolled (representing marauder attacks), all players mark them on their sheet. If players don't recruit knights by the end of the game, these swords will result in negative points.
 >
-> Afterward, players simultaneously and independently choose one die each, and after placing their pawn next to it, they use the resources indicated by the die on their Village Sheet. Each die can be chosen by any number of players.
-Unless the sword symbol is rolled, the die provides two resources, the first from the outer circle and the second from the inner circle on the Dice Sheet.
+> Afterward, players simultaneously and independently choose one die each, and after placing their pawn next to it, they use the resources indicated by the die on their Village Sheet. Each die can be chosen by any number of players. Unless the sword symbol is rolled, the die provides two resources, the first from the outer circle and the second from the inner circle on the Dice Sheet.
 >
 > Throughout the game, players have opportunities to acquire additional resources by constructing buildings, finding resources in the mine, etc. Every few rounds, special actions are triggered for certain buildings (with red flags).
 >
