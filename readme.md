@@ -2867,6 +2867,22 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 5 |      10+ | 45-60m |
 
+### [Terra Mystica](http://www.terra-mystica-spiel.de/en/)
+
+> The game starts with each player picking one of fourteen fantasy factions, each with its own unique special abilities and costs associated with actions.[2] Players expand their territories by constructing buildings on the game board.[3] Each faction is limited to building on only one of seven different terrain types found on the game board; this makes terraforming spaces so they can be built upon a key aspect of the game.
+
+> The game is split into six rounds during which players take any number of actions to improve their society. Actions may involve settling new spaces, upgrading existing buildings, improving infrastructure like shipping, or increasing the faction's status in an elemental cult. When a player cannot perform any more actions (or they choose not to), they must pass. A round ends upon all players passing.
+
+> One unique aspect of the game is its power point mechanic. Power points are used to cast spells, and may also be converted for resources. Power points are split among three bowls. When points are gained, they first move from bowl one to bowl two. When bowl one is empty, they can move from bowl two to bowl three. Power points can only be used when they are in bowl three, at which point they return to bowl one.
+
+>Victory points are accrued throughout the game for a variety of actions. The game lasts for six rounds, at the end of which additional victory points are awarded for end-game goals. The player with the most victory points wins.
+
+![Terra Mystica](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Terra_Mystica_-_detail.jpg/240px-Terra_Mystica_-_detail.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 5 |      12+ | 30-45m |
+
 ### [Zoo Vadis](https://boardgamegeek.com/boardgame/368061/zoo-vadis)
 
 > What if the animals were the ones who ran the zoo? Presumably, this wild government would be built upon the support of fellow creatures and fueled by the fame, attention, and prestige of wide-eyed visitors. Naturally, the most aspirational beasts would lobby for a position in the star exhibit, and the lead star would be elected Zoo Mascot.In order to join the star exhibit, each species must campaign its way up the hierarchy of enclosures with the majority support of animal voters. And the lead star will be the species that has earned the most laurels from both raving fans and jealous rivals along the way. How does one gain support and earn laurels? Through crafty politicking, clever negotiations, and ruthless schemes. There can only be one Zoo Mascot, after all. Where are you going? That is the ultimate question of Zoo Vadis.
