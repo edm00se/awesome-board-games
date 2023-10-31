@@ -2881,6 +2881,18 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   3 - 7 |      10+ |20-40m |
 
+
+### [Twilight Inscription](https://boardgamegeek.com/boardgame/361545/twilight-inscription)
+> Roll your way through the Twilight Imperium universe.
+> The Lazax Empire has burned to ash, rejected by its subjects. The aftermath was tragedy and petty conflict in equal measure, a time of loss and exhaustion. In the ensuing Dark Years, the factions of the galaxy retreated and recovered their strength. Now, they look upon the stars and see an opportunity—a chance to reclaim what was lost. A chance to redefine galactic civilization. A chance to leave their mark upon the stars.
+> Twilight Inscription, an epic roll-and-write game for one to eight players, offers an experience unlike anything Fantasy Flight Games has done before. With a limited pool of resources at your disposal, you’ll need to carefully manage Navigation, Expansion, Industry, and Warfare as you amass victory points and earn your right to the throne on Mecatol Rex. Will your faction become the new rulers of the galaxy? Or will your fledgling empire fade into obscurity? Anything can happen in this strategic, infinitely-replayable game!
+
+![Twilight Inscription](https://cf.geekdo-images.com/g36va6ofPCzNZXF-9GEpCg__itemrep/img/V3Cny2dR0eXaJjFkqkOCOoKP9Tg=/fit-in/246x300/filters:strip_icc()/pic7132023.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 8 |      14+ |90-120m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
