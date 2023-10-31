@@ -2893,6 +2893,17 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   1 - 8 |      14+ |90-120m |
 
+### [Hadrian's Wall](https://boardgamegeek.com/boardgame/304783/hadrians-wall)
+> When visiting the North of Britannia in 122 AD, the Roman Emperor Hadrian Augustus witnessed the aftermath of war between his armies and the savage Picts. In a show of Roman might, he ordered a wall to be built that would separate the Pict tribes from the rest of England. Grand in its design, the wall stretched 80 Roman miles, from coast to coast. Hadrian's Wall stood in service to the Roman Empire for nearly 300 years before its eventual decline. Today, Hadrian's Wall is a UNESCO World Heritage Site and the remains of the forts, towers, and turrets can still be explored.
+>
+> In Hadrian's Wall, players take on the role of a Roman General placed in charge of the construction of a milecastle and bordering wall. Over six years (rounds), players will construct their fort and wall, man the defenses, and attract civilians by building services and providing entertainment — all while defending the honor of the Roman Empire from the warring Picts. The player who can accumulate the most renown, piety, valor and discipline, whilst avoiding disdain, will prove to the Emperor they are the model Roman citizen and be crowned Legatus Legionis!
+
+![Hadrian's Wall](https://cf.geekdo-images.com/4XzRDw3VrgNpNfZlzZl66w__itemrep/img/V1Db0T3MlAicjsL1C_PrOLfm_xY=/fit-in/246x300/filters:strip_icc()/pic5608818.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 6 |      12+ |30-60m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
