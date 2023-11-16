@@ -1,0 +1,150 @@
+# Inspired by:
+# - https://github.com/nhoizey/1y/blob/master/.github/workflows/update-dependencies.yml
+# - https://michaelcurrin.github.io/code-cookbook/recipes/ci-cd/github-actions/workflows/node/upgrade-packages.html
+name: Update Dependencies
+
+on:
+  workflow_dispatch:
+  # workflow_call:
+  # schedule:
+  #   # https://crontab.guru/#0_8_*_*_1
+  #   - cron: "0 8 * * 1"
+
+jobs:
+  update-packages:
+    name: Update NPM Packages
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "lts/Hydrogen"
+          cache: "npm"
+      - name: Install dependencies
+        run: npm ci
+      - name: Check for Outdated Packages
+        id: check
+        run: |
+          # Log execution steps
+          # set -x
+
+          # Stop everything if there is any error
+          # set -e
+
+          # Get the list of npm package in dependencies that have more recent versions
+          OUTDATED=$(npm outdated || true)
+
+          if [[ -z "$OUTDATED" ]]; then
+            # There is no package with more recent versions
+            echo 'Nothing to update' >> "${GITHUB_STEP_SUMMARY}"
+
+            # Set a variable to know that next steps should NOT be run
+            echo "updatable=false" >> "${GITHUB_OUTPUT}"
+          else
+            # There are packages with more recent versions
+
+            # Get the header of the packages table
+            HEADER=$(echo "$OUTDATED" | grep "Package")
+
+            # Get the list of packages that will really be updated, with compatible semver
+            COMPATIBLE=$(echo "$OUTDATED" | awk '$2!=$3' | grep -v "Package" || true)
+            if [[ -z "$COMPATIBLE" ]]; then
+              # There is no compatible update
+              COMPATIBLE_COUNT=0
+            else
+              # Count how many compatible updates are available
+              COMPATIBLE_COUNT=$(($(echo "$COMPATIBLE" | wc -l) + 0))
+            fi
+
+            # Get the list of packages that have recent versions not compatible with semver
+            NOT_COMPATIBLE=$(echo "$OUTDATED" | awk '$2==$3' || true)
+            if [[ -z "$NOT_COMPATIBLE" ]]; then
+              # There is no not compatible update
+              NOT_COMPATIBLE_COUNT=0
+            else
+              # Count how many not compatible updates are available
+              NOT_COMPATIBLE_COUNT=$(($(echo "$NOT_COMPATIBLE" | wc -l) + 0))
+            fi
+
+            if [[ $COMPATIBLE_COUNT -gt 0 ]]; then
+              # There are compatible updates, let's list them in the Action summary
+              {
+                echo "${COMPATIBLE_COUNT} package(s) will be updated:"
+                echo '```'
+                echo "${HEADER}"
+                echo "${COMPATIBLE}"
+                echo '```'
+              } >> "${GITHUB_STEP_SUMMARY}"
+
+              # Keep track of this list for the Pull Request body
+              delimiter="$(openssl rand -hex 8)"
+              {
+                echo "updates_list<<${delimiter}"
+                echo "${COMPATIBLE_COUNT} package(s) will be updated:"
+                echo '```'
+                echo "${HEADER}"
+                echo "${COMPATIBLE}"
+                echo '```'
+                echo "${delimiter}"
+              } >> "${GITHUB_OUTPUT}"
+
+              # Set a variable to know that next steps should be run
+              echo "updatable=true" >> "${GITHUB_OUTPUT}"
+            else
+              echo 'Nothing to update' >> "${GITHUB_STEP_SUMMARY}"
+
+              # Set a variable to know that next steps should NOT be run
+              echo "updatable=false" >> "${GITHUB_OUTPUT}"
+            fi
+
+            if [[ $NOT_COMPATIBLE_COUNT -gt 0 ]]; then
+              # Also show the list of not compatible updates in the Action summary
+              {
+                echo ''
+                echo "${NOT_COMPATIBLE_COUNT} not compatible update(s):"
+                echo '```'
+                echo "${HEADER}"
+                echo "${NOT_COMPATIBLE}"
+                echo '```'
+              } >> "${GITHUB_STEP_SUMMARY}"
+            fi
+          fi
+
+      - name: Update Packages
+        id: update
+        if: steps.check.outputs.updatable == 'true'
+        run: |
+          npm update --save
+
+      - name: Lint
+        if: steps.check.outputs.updatable == 'true'
+        run: npm run lint --if-present
+
+      - name: Test
+        if: steps.check.outputs.updatable == 'true'
+        run: npm run test --if-present
+
+      - name: Build
+        if: steps.check.outputs.updatable == 'true'
+        run: npm run build --if-present
+
+      - name: Commit and create PR
+        if: steps.check.outputs.updatable == 'true'
+        uses: peter-evans/create-pull-request@v5
+        with:
+          title: "build(deps): update NPM packages"
+          body: |
+            # Updating dependencies
+            ${{ steps.check.outputs.updates_list }}
+
+          branch: "update-dependencies"
+          delete-branch: true
+          commit-message: "build(deps): update NPM packages"
+          labels: |
+            type: dependencies
+            automerge
