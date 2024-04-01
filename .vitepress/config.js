@@ -37,7 +37,12 @@ module.exports = {
     },
 
     search: {
-      provider: 'local'
+      provider: 'algolia',
+      options: {
+        appId: 'HM2OEMY7QZ',
+        apiKey: '4fed2ba7f2cd080ad79969be2934a7a9',
+        indexName: 'awesomeboard'
+      }
     }
   }
 }
