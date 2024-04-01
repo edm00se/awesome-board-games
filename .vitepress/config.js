@@ -26,17 +26,23 @@ module.exports = {
     ],
 
     sidebar: {
-      '/': '',
-      '/contributing.html': '',
-      '/formatting.html': '',
-      '/help.html': '',
-      '/code-of-conduct.html': ''
+      text: 'Guide',
+      items: [
+        { text: 'Main', link: '/' },
+        { text: 'Contributing', link: '/contributing' },
+        { text: 'Formatting', link: '/formatting' },
+        { text: 'Help', link: '/help' },
+        { text: 'Code of Conduct', link: '/code-of-conduct' }
+      ]
     },
 
-    algolia: {
-      appId: 'HM2OEMY7QZ',
-      apiKey: '4fed2ba7f2cd080ad79969be2934a7a9',
-      indexName: 'awesomeboard'
+    search: {
+      provider: 'algolia',
+      options: {
+        appId: 'HM2OEMY7QZ',
+        apiKey: '4fed2ba7f2cd080ad79969be2934a7a9',
+        indexName: 'awesomeboard'
+      }
     }
   }
 }
