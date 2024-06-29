@@ -1581,6 +1581,16 @@
 | ------: | -------: | -----: |
 |   1 - 4 |       12 | 60-90m |
 
+### [Quoridor] (https://boardgamegeek.com/boardgame/624/quoridor)
+
+> The abstract strategy game Quoridor is surprisingly deep for its simple rules. The object of the game is to advance your pawn to the opposite edge of the board. On your turn you may either move your pawn or place a wall. You may hinder your opponent with wall placement, but not completely block them off. Meanwhile, they are trying to do the same to you. The first pawn to reach the opposite side wins.
+
+![Quoridor](https://cf.geekdo-images.com/I1YNAhee09mryaqfEo8MwA__imagepage/img/OS2-DvQVTVvyvZktJf9Cmi8EH4Q=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3488232.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |        8 |  15m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
