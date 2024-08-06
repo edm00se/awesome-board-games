@@ -1018,7 +1018,7 @@
 
 > Connect Four is a two-player connection game in which the players first choose a color and then take turns dropping one colored disc from the top into a seven-column, six-row vertically suspended grid. The pieces fall straight down, occupying the lowest available space within the column. The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs. Connect Four is a solved game. The first player can always win by playing the right moves.
 
-![Connect four image](https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Connect_4_Board_and_Box.jpg/220px-Connect_4_Board_and_Box.jpg)
+![Connect four image](https://upload.wikimedia.org/wikipedia/commons/a/ad/Connect_Four.gif)
 
 | Players | Min. Age |  Time |
 | ------: | -------: | ----: |
@@ -1280,7 +1280,7 @@
 
 > Pax Viking is a card driven game where you compete over cards in a common market in combination with strategic movement of longships on the map. You can play cards you buy on map locations you control through your longships; create trading posts, claim benefits from events and more. You can also play cards on your jarlboard, adding abilities to your player through friends, allies and gods. Through your actions you collect followers to give you power and influence for your final bid: to be the first king of Sweden.
 
-![Pax Viking image](https://spieltraum-shop.de/media/image/a3/40/05/show-id-1619527818652747_200x200.jpg)
+![Pax Viking image](https://cf.geekdo-images.com/Jvq10Wf6csC6P72tVOBwYA__itemrep/img/V8ERSuCUibRS82UDF_dxNXOmUro=/fit-in/246x300/filters:strip_icc()/pic5794320.jpg)
 
 | Players | Min. Age |   Time   |
 | ------: | -------: | -------: |
