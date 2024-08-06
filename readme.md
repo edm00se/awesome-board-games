@@ -1024,7 +1024,7 @@
 | ------: | -------: | ----: |
 |       2 |        6 | 1-10m |
 
-### [Gorgasali: Battle Royale](https://www.gorgasalibr.com)
+### [Gorgasali: Battle Royale](hhttps://boardgamegeek.com/boardgame/289351/gorgasali-battle-royale)
 
 > Gorgasali: Battle Royale is a role-playing board game based mainly on the concept of battle royale. The story of the game is fictional, and the game mechanics - completely unique. Start the game from the sector and enter the map through the gate. Scroll through the map and try to open the boxes to collect the cards needed for the fight. Engage in battle with an opponent to knock him out of the game and earn his own cards. Higher strength cards give you a better chance of winning. Be careful with the reducing of the zone, due to having less space to navigate without taking damage. To win the game you must be the only surviving player on the map.
 
