@@ -1535,7 +1535,7 @@
 | ------: | -------: | ------: |
 |   2 |       8 |    20m |
 
-### [The Forever War](https://boardgamegeek.com/boardgame/170042/raiders-of-the-north-sea)
+### [The Forever War](https://boardgamegeek.com/boardgame/5043/the-forever-war)
 
 > The Forever War is a science fiction board game, based on the novel "Forever War" by Joe Haldeman. It features squad-level combat in the third millennium. Combat occurs on airless portal planets, where small infantry ground units vie with each other for victory among the frozen wastes. A player can never be sure of whom or what he will find when his troops near the battlefield. Units are equipped with weapons of the latest technology, and embark on their starships. Only weeks or months pass for them, traveling at near-light speeds, but decades pass in the universe surrounding them. The enemy these units meet on the battlefield could be technologically decades ahead or behind them when the battle is joined.
 
