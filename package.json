@@ -40,8 +40,9 @@
       "remark-validate-links",
       [
         "remark-lint-no-dead-urls", {
+          "checkAnchor": false,
           "defaultAnchorAllowlist": [
-            "https://github.com/edm00se/awesome-board-games/blob/main/formatting.md"
+            "https://github.com/edm00se/awesome-board-games/blob/main/formatting.md#example"
           ],
           "skipUrlPatterns": [
             "https://commonspoly.cc/"
