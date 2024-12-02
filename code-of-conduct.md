@@ -70,6 +70,6 @@ members of the project's leadership.
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
 available at [http://contributor-covenant.org/version/1/4][version]
 
-[homepage]: https://contributor-covenant.org
+[homepage]: https://www.contributor-covenant.org/
 [version]: https://contributor-covenant.org/version/1/4/
 [contact]: https://docs.google.com/forms/d/e/1FAIpQLSeTRgns9TVGd_OsZkTOTdy0i4gtIC_PlPfgSHIeorQSfl7zUw/viewform?usp=pp_url&entry.1951245561=Code+of+Conduct+reporting+for+Awesome+Board+Games:%0A%0A
