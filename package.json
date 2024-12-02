@@ -38,7 +38,16 @@
   "remarkConfig": {
     "plugins": [
       "remark-validate-links",
-      "remark-lint-no-dead-urls"
+      [
+        "remark-lint-no-dead-urls", {
+          "defaultAnchorAllowlist": [
+            "https://github.com/edm00se/awesome-board-games/blob/main/formatting.md"
+          ],
+          "skipUrlPatterns": [
+            "https://commonspoly.cc/"
+          ]
+        }
+      ]
     ]
   }
 }
