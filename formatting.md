@@ -9,7 +9,7 @@ A block of text should follow these formatting guidelines:
 - a header (a line starting with `###`), containing the name of the game
   - this header with the title of the game should link to the game, preferably on [Wikipedia][wikipedia-org] or [BoardGameGeek.com][bgg-com]
   - if you can't link to it on Wikipedia or BoardGameGeek, try to use another well known source
-  - the title should be in [title case](https://titlecase.com/), special characters are dicouraged, as the linter will flag things such as exclamation points and question marks
+  - the title should be in [title case](https://www.titlecase.com/), special characters are dicouraged, as the linter will flag things such as exclamation points and question marks
 - a quote block (a line starting with `>`), for a (brief) description of the game; keep it short
 - an image of the board game, thumbnail, preferably from [Wikipedia][wikipedia-org]
   - if you can't find an image on Wikipedia or BoardGameGeek, try to find it elsewhere, in a size as close 250px x 250px or so
