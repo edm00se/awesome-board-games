@@ -15,6 +15,6 @@ jobs:
     name: The Good Place
     steps:
       - name: The Good Place Action
-        uses: edm00se/the-good-place@update-node # here goes nothing
+        uses: edm00se/the-good-place@update-node
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
