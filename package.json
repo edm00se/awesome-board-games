@@ -46,7 +46,8 @@
             "https://github.com/edm00se/awesome-board-games/blob/main/formatting.md#example"
           ],
           "skipUrlPatterns": [
-            "https://commonspoly.cc/"
+            "https://commonspoly.cc/",
+            "https://github.com/edm00se/awesome-board-games/blob/main/formatting.md#example"
           ]
         }
       ]
