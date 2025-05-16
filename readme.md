@@ -2533,7 +2533,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 > Living Forest is a 2021 board game designed by Aske Christiansen.Players act as Spirits of Nature to defend trees from being burnt by Onibi. Each turn is split into three phases, the guardian animal phase, the action phase, and attacks by Onibi. In the guardian phase, players draw guardian animal cards to form help lines using a push-your-luck mechanism.The action phase is split into actions that players may perform depending on the symbols on their help line, including gaining fragment tiles, attracting guardian animals, extinguishing a fire, moving on the Circle of Spirits board, or placing a protective tree. However, the strengths of the actions vary depending on symbols on guardian animal cards. For example, players may only extinguish fires for which they have fire symbols. After the action phase, the players have to take penalty cards to their own discard pile, a tree is attacked, and guardian animals are altered. Once a player reaches one of the game thresholds, including planting 12 trees, extinguishing 12 fires or gaining 12 flower symbols, the player ending the game wins.
 
-![Living Forest](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPsHzWlhZvgpR5MB4NhKMACKevOsMif4fALE1Z2ldv7qF2sNHkAITMnq6WMkepW_7btvQ&usqp=CAU)
+![Living Forest](https://cf.geekdo-images.com/fPhdfZX9UTLr4-SVgK0zoQ__itemrep/img/GkBRKg9Bx3YA5cciuNivpAul7V0=/fit-in/246x300/filters:strip_icc()/pic5899025.jpg)
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
@@ -2811,7 +2811,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 > "Kill Doctor Lucky" is a unique board game where players compete to murder Doctor Lucky, the mansion's owner. Players move through rooms, collect weapon cards, and attempt to eliminate Doctor Lucky while bluffing opponents. The game combines strategy, humor, and a reversed murder-mystery theme for a fun experience. "Kill Doctor Lucky" stands out as a lighthearted and entertaining board game that offers a unique twist on the traditional murder-mystery theme. Players enter a world of colorful rooms, dangerous weapons, and humorous strategies as they vie to commit the murder of Doctor Lucky. This game encourages creative thinking, clever moves, and comical bluffing, making it a delightful choice for board game enthusiasts seeking a humorous and engaging gaming experience.
 
-![Kill Doctor Lucky](https://boardgaming.com/wp-content/uploads/2011/12/killdoctorlucky-title1.jpg)
+![Kill Doctor Lucky](https://cf.geekdo-images.com/HzSvdAtAiktVmdTfDEIayA__itemrep/img/rkpchyBfTrCdFbG9SiPRHOGGXHA=/fit-in/246x300/filters:strip_icc()/pic2923257.jpg)
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
