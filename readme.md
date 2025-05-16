@@ -429,7 +429,7 @@
 | ------: | -------: | -----: |
 |   2 - 4 |        10 | 30-60m |
 
-### [The Quacks of Quedlinburg](https://boardgamegeek.com/boardgame/244521/)
+### [The Quacks of Quedlinburg](https://boardgamegeek.com/boardgame/244521/quacks)
 
 > In The Quacks of Quedlinburg, players are charlatans — or quack doctors — each making their own secret brew by adding ingredients one at a time. Take care with what you add, though, for a pinch too much of this or that will spoil the whole mixture!
 > 
