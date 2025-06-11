@@ -23,7 +23,7 @@
 > In Takenoko, the players will cultivate land plots, irrigate them, and grow one of the three species of bamboo (Green, Yellow, and Pink) with the help of the Imperial gardener to maintain this bamboo garden. They will have to bear with the immoderate hunger of this sacred animal for the juicy and tender bamboo. The player who manages his land plots best, growing the most bamboo while feeding the delicate appetite of the panda, will win the game. 
 
 
-![Takenoko image](https://cf.geekdo-images.com/uvz-5V6A2R6dp2oWIXmj_g__imagepage/img/DZl5Nd3-LjtQ9iLJRG-hiQtzBaI=/fit-in/246x300/filters:no_upscale():strip_icc()/pic1912529.jpg)
+![Takenoko image](https://cf.geekdo-images.com/uvz-5V6A2R6dp2oWIXmj_g__itemrep/img/fT5tXhYc0kc5ur8NDdnJHj_GOSw=/fit-in/246x300/filters:strip_icc()/pic1912529.jpg)
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
