@@ -827,7 +827,7 @@
 | ------: | -------: | -----: |
 |       2 |        9 | 30-60m |
 
-### [Cthulhu Wars](https://petersengames.com/cthulhu-wars/)
+### [Cthulhu Wars](https://shop.petersengames.com/products/cthulhu-wars-o4-edition)
 
 > Cthulhu Wars is a fast-moving strategy game about the end of the world. You take the part of various monstrous aliens seeking to dominate the world. You can play as Great Cthulhu himself, or you can take charge of other factions, such as the slithering hordes of the Crawling Chaos, or the insane minions of the Yellow Sign.
 
