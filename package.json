@@ -50,7 +50,8 @@
             "https://github.com/edm00se/awesome-board-games/blob/main/formatting.md#example"
           ]
         }
-      ]
+      ],
+      ["remark-lint-table-cell-padding", false],
     ]
   }
 }
