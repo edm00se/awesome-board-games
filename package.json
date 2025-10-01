@@ -51,7 +51,7 @@
           ]
         }
       ],
-      ["remark-lint-table-cell-padding", false],
+      ["remark-lint-table-cell-padding", false]
     ]
   }
 }
