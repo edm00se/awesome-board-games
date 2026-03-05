@@ -6,7 +6,7 @@ on:
 
 jobs:
   limit_prs:
-    if: ${{ !contains(github.event.pull_request.labels.*.name, 'hacktoberfest-accepted') }}
+    if: ${{ !contains(github.event.pull_request.labels.*.name, 'hacktoberfest-accepted') && github.event.pull_request.user.login != 'dependabot[bot]' }}
     runs-on: ubuntu-latest
     permissions:
       pull-requests: write
