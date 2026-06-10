@@ -18,13 +18,34 @@ jobs:
       pull-requests: write
       contents: write
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
+       
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: "lts/Iron"
           cache: "npm"
+       
+      - name: Cache npm dependencies
+        id: cache-npm
+        uses: actions/cache@v3
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-npm-${{ hashFiles('package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-npm-
+       
+      - name: Cache VitePress build output
+        id: cache-vitepress
+        uses: actions/cache@v3
+        if: steps.cache-npm.outputs.cache-hit != 'true'
+        with:
+          path: .vitepress/dist
+          key: ${{ runner.os }}-vitepress-${{ hashFiles('package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-vitepress-
+       
       - name: Install dependencies
         run: npm ci
       - name: Check for Outdated Packages

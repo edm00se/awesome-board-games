@@ -7,5 +7,13 @@
   ],
   "github": {
     "silent": true
+  },
+  "caching": {
+    "mode": "manual",
+    "globalConfiguration": {
+      "paths": [
+        ".vitepress/dist"
+      ]
+    }
   }
 }
