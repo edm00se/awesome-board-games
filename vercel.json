@@ -1,7 +1,6 @@
 {
   "version": 2,
   "name": "awesome-board-games",
-  "public": true,
   "builds": [
     {"src": "package.json", "use": "@vercel/static-build"}
   ],
